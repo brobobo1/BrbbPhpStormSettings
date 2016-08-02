@@ -1,0 +1,33 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Compile" />
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+  </action>
+  <action id="FindUsagesInFile" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="PackageFile" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+</keymap>

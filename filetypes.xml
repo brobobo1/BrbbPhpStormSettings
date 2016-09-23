@@ -15,6 +15,7 @@
     <extensionMap>
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping pattern="add" type="Twig" />
+      <mapping ext="cfg" type="YAML" />
     </extensionMap>
   </component>
 </application>

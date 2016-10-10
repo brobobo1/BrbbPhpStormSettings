@@ -13,8 +13,10 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <removed_mapping ext="htm" approved="true" type="HTML" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping pattern="add" type="Twig" />
+      <mapping ext="htm" type="Twig" />
       <mapping ext="cfg" type="YAML" />
     </extensionMap>
   </component>

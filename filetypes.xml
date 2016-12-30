@@ -29,11 +29,9 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="docker-phpunit" type="PLAIN_TEXT" />
-      <mapping ext="yaml" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
       <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" approved="true" type="YAML" />
       <mapping ext="yml" type="YAML_EX" />
     </extensionMap>
   </component>

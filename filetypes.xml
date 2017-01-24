@@ -17,13 +17,14 @@
       <mapping pattern="console" type="Bash" />
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern=".env" type="Ini" />
+      <mapping pattern="infra" type="Ini" />
       <mapping pattern="production" type="Ini" />
       <mapping pattern="dev" type="Ini" />
       <mapping pattern="preprod" type="Ini" />
       <mapping pattern="dronerc" type="Ini" />
-      <mapping pattern="infra" type="Ini" />
       <mapping pattern="staging" type="Ini" />
       <mapping pattern="hosts" type="Ini" />
+      <mapping ext="mp3" type="Native" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />

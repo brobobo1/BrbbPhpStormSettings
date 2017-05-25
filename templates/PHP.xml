@@ -1,4 +1,12 @@
 <templateSet group="PHP">
-  <template name="." value="-&gt;$END$" description="-&gt;" toReformat="false" toShortenFQNames="true" />
-  <template name="$." value="$this-&gt;$END$" description="$this-&gt;" toReformat="false" toShortenFQNames="true" />
+  <template name="." value="-&gt;$END$" description="-&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="$." value="$this-&gt;$END$" description="$this-&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

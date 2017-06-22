@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.orm.yml" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -27,9 +27,6 @@
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*.o</mask>
       <mask>*.or</mask>
       <mask>*.orm</mask>
@@ -37,6 +34,9 @@
       <mask>*.orm.y</mask>
       <mask>*.orm.ym</mask>
       <mask>*.orm.yml</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>

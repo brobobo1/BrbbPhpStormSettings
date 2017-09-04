@@ -35,12 +35,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" timestamp="1504553119811">
+      <file name="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" timestamp="1504555284044">
         <mark key="'" line="941" column="0" />
-        <mark key="[" line="644" column="44" />
-        <mark key="]" line="957" column="0" />
+        <mark key="[" line="945" column="35" />
+        <mark key="]" line="945" column="35" />
         <mark key="^" line="957" column="0" />
-        <mark key="." line="957" column="0" />
+        <mark key="." line="945" column="35" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/composer.json" timestamp="1504543077078">
         <mark key="]" line="4" column="9" />
@@ -130,10 +130,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>g</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChpc3NldCgkX1BPU1RbJ2NsZWFyJ10pICYmICRfUE9TVFsnY2xlYXInXSA9PT0gJzEnKSB7Cg==</text>
@@ -246,10 +246,13 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>Q</entry>
         <entry>q</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">

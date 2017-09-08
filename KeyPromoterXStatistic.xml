@@ -113,6 +113,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Save As..">
+        <Item>
+          <IdeaActionID>SavaAs</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+S'</ShortCut>
+          <Description>Save As..</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>

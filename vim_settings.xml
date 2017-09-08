@@ -11,9 +11,10 @@
       <file name="/Dummy.txt" timestamp="1504857238858">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1504875443346">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1504883138419">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/index.php" timestamp="1504543487468">
         <mark key="[" line="9" column="23" />
@@ -89,7 +90,7 @@
         <mark key="^" line="969" column="34" />
         <mark key="." line="969" column="34" />
       </file>
-      <file name="/dummy.sql" timestamp="1504877422582">
+      <file name="/dummy.sql" timestamp="1504883182679">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -207,35 +208,270 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>block_id = 2309</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>block_id = 2309</text>
+        <text>4</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChpc3NldCgkX1BPU1RbJ2NsZWFyJ10pICYmICRfUE9TVFsnY2xlYXInXSA9PT0gJzEnKSB7Cg==</text>
+        <text encoding="base64">NDI5NQoK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>SELECT count(image)
-FROM app_images AS i
-  JOIN app_page AS p ON i.page_id = p.id
-WHERE image LIKE '%.png' AND p.page_type = 1;</text>
+        <text>[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4
+[4</text>
       </register>
       <register name="3" type="4">
-        <text>SELECT image, page_id
-FROM app_images as image
-  JOIN app_page as page on image.page_id = page.id
-WHERE image.image IS NOT NULL AND page.page_type != 1;
-
-SELECT site_id from app_page where id = 14598;
-
-SELECT app_sitesettings.domain from app_sitesettings where id = 90</text>
+        <text encoding="base64">XT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -309,26 +545,171 @@ SELECT app_sitesettings.domain from app_sitesettings where id = 90</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">V0hFUkUgaW1hZ2UuaW1hZ2UgSVMgTk9UIE5VTEwgQU5EIHBhZ2UucGFnZV90eXBlID0gMTsK</text>
+      <register name="4" type="4">
+        <text>bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">JGltYWdlUGF0aHMgPSBnZXRNYWluUGFnZUltYWdlcygkZGlycywgJGFsbG93ZWRUeXBlcyk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHBhZ2VUeXBlKTsKICAgICAgICAgICAgaWYgKCRwYWdlVHlwZSA9PT0gXHNscFxDOjpQQUdFX1RZUEVfTUFJTikgewo=</text>
+      <register name="6" type="4">
+        <text>SELECT count(image)
+FROM app_images AS i
+  JOIN app_page AS p ON i.page_id = p.id
+WHERE image LIKE '%.png' AND p.page_type = 1;</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">JGZpbGVFeHQgPSBhcnJheV9tZXJnZShbJ2RvYycsJ2RvY3gnLCAneGxzeCcsICd4bHMnLCAncGRmJ10sICRpbWdFeHQpOwo=</text>
+      <register name="7" type="4">
+        <text>SELECT image, page_id
+FROM app_images as image
+  JOIN app_page as page on image.page_id = page.id
+WHERE image.image IS NOT NULL AND page.page_type != 1;
+
+SELECT site_id from app_page where id = 14598;
+
+SELECT app_sitesettings.domain from app_sitesettings where id = 90</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgKGlzc2V0KCRfUE9TVFsnaWQnXSwgJF9QT1NUWydhY3Rpb24nXSwgJF9QT1NUWyd0YWJsZSddKSkgewogICAgaWYgKGlzc2V0KCRfUE9TVFsnY2xlYXInXSkgJiYgJF9QT1NUWydjbGVhciddID09PSAnMScpIHsK</text>
+        <text encoding="base64">V0hFUkUgaW1hZ2UuaW1hZ2UgSVMgTk9UIE5VTEwgQU5EIHBhZ2UucGFnZV90eXBlID0gMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCmZ1bmN0aW9uIGpzb25Db2RlKCR0ZXh0ID0gJycsICRzdGF0dXMgPSAnRXJyb3InLCAkZmlsZSA9ICcnKQo=</text>
+        <text encoding="base64">JGltYWdlUGF0aHMgPSBnZXRNYWluUGFnZUltYWdlcygkZGlycywgJGFsbG93ZWRUeXBlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

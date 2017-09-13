@@ -32,11 +32,11 @@
         <mark key="." line="59" column="17" />
         <mark key="^" line="59" column="17" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/index.php" timestamp="1505301091196">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="18" column="22" />
-        <mark key="^" line="18" column="22" />
-        <mark key="." line="18" column="22" />
+      <file name="$USER_HOME$/code/img/seolandingphp/index.php" timestamp="1505305572148">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="8" column="2" />
       </file>
       <file name="/a.dummy" timestamp="1505295521965">
         <mark key="[" line="0" column="0" />
@@ -102,7 +102,7 @@
         <mark key="]" line="0" column="50" />
         <mark key="." line="0" column="50" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/classes/Application.php" timestamp="1505299401033">
+      <file name="$USER_HOME$/code/img/seolandingphp/classes/Application.php" timestamp="1505305550390">
         <mark key="[" line="38" column="10" />
         <mark key="]" line="38" column="10" />
         <mark key="^" line="38" column="10" />
@@ -243,7 +243,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>elseif ($_SERVER['REQUEST_URI'] === '/php_info/') {
+    echo phpinfo();
+    die;
+}</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -252,6 +255,15 @@
         <text encoding="base64">NDI5NQoK</text>
       </register>
       <register name="1" type="4">
+        <text>elseif ($_SERVER['REQUEST_URI'] === '/php_info/') {
+    echo phpinfo();
+    die;
+}</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>[
 [
 [
@@ -390,10 +402,7 @@
 [
 [</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>[4
 [4
 [4
@@ -505,9 +514,6 @@
 [4
 [4</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">XT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4=</text>
-      </register>
       <register name="s" type="4">
         <keys>
           <key char="100" code="0" mods="0" />
@@ -581,6 +587,9 @@
         </keys>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">XT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4=</text>
+      </register>
+      <register name="5" type="4">
         <text>bool(true)
 bool(true)
 bool(true)
@@ -718,19 +727,19 @@ bool(true)
 bool(true)
 bool(true)</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="4">
-        <text>SELECT count(image)
-FROM app_images AS i
-  JOIN app_page AS p ON i.page_id = p.id
-WHERE image LIKE '%.png' AND p.page_type = 1;</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
+        <text>SELECT count(image)
+FROM app_images AS i
+  JOIN app_page AS p ON i.page_id = p.id
+WHERE image LIKE '%.png' AND p.page_type = 1;</text>
+      </register>
+      <register name="8" type="4">
         <text>SELECT image, page_id
 FROM app_images as image
   JOIN app_page as page on image.page_id = page.id
@@ -740,11 +749,8 @@ SELECT site_id from app_page where id = 14598;
 
 SELECT app_sitesettings.domain from app_sitesettings where id = 90</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">V0hFUkUgaW1hZ2UuaW1hZ2UgSVMgTk9UIE5VTEwgQU5EIHBhZ2UucGFnZV90eXBlID0gMTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">JGltYWdlUGF0aHMgPSBnZXRNYWluUGFnZUltYWdlcygkZGlycywgJGFsbG93ZWRUeXBlcyk7Cg==</text>
+        <text encoding="base64">V0hFUkUgaW1hZ2UuaW1hZ2UgSVMgTk9UIE5VTEwgQU5EIHBhZ2UucGFnZV90eXBlID0gMTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

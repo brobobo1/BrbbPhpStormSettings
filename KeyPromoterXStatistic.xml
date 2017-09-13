@@ -86,7 +86,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Properties</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -103,6 +103,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert">

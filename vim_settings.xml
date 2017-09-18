@@ -78,14 +78,11 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexManager.php" timestamp="1505176231382">
-        <mark key="'" line="227" column="39" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console_3.sql" timestamp="1505699677798">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="38" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console_3.sql" timestamp="1505703001150">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/class/landing.class.php" timestamp="1504617800568">
         <mark key="[" line="953" column="69" />
@@ -130,6 +127,11 @@
         <mark key="]" line="57" column="8" />
         <mark key="." line="57" column="8" />
         <mark key="^" line="69" column="33" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console_2.sql" timestamp="1505703016160">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/db_connect.php" timestamp="1504655965281">
         <mark key="[" line="7" column="12" />
@@ -259,24 +261,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>CREATE INDEX ON  tbita_building(blockid);
+CREATE INDEX ON  tbita_building_over(blockid);
+CREATE INDEX ON  tbita_apartment(buildingid);
+CREATE INDEX ON  tbita_apartment_over(buildingid);
+CREATE INDEX ON  tbita_apartment(blockid);
+CREATE INDEX ON  tbita_apartment_over(blockid);</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>d</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">NDI5NQoK</text>
       </register>
       <register name="1" type="4">
-        <text>elseif ($_SERVER['REQUEST_URI'] === '/php_info/') {
-    echo phpinfo();
-    die;
-}</text>
+        <text>CREATE INDEX ON  tbita_building(blockid);
+CREATE INDEX ON  tbita_building_over(blockid);
+CREATE INDEX ON  tbita_apartment(buildingid);
+CREATE INDEX ON  tbita_apartment_over(buildingid);
+CREATE INDEX ON  tbita_apartment(blockid);
+CREATE INDEX ON  tbita_apartment_over(blockid);</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>elseif ($_SERVER['REQUEST_URI'] === '/php_info/') {
+    echo phpinfo();
+    die;
+}</text>
+      </register>
+      <register name="3" type="4">
         <text>[
 [
 [
@@ -415,7 +430,79 @@
 [
 [</text>
       </register>
-      <register name="3" type="4">
+      <register name="s" type="4">
+        <keys>
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="75" code="0" mods="0" />
+          <key char="75" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="75" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="75" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="75" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="75" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="4" type="4">
         <text>[4
 [4
 [4
@@ -527,82 +614,10 @@
 [4
 [4</text>
       </register>
-      <register name="s" type="4">
-        <keys>
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="75" code="0" mods="0" />
-          <key char="75" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="75" code="0" mods="0" />
-          <key char="74" code="0" mods="0" />
-          <key char="75" code="0" mods="0" />
-          <key char="74" code="0" mods="0" />
-          <key char="74" code="0" mods="0" />
-          <key char="74" code="0" mods="0" />
-          <key char="73" code="0" mods="0" />
-          <key char="73" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="76" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="76" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="76" code="0" mods="0" />
-          <key char="76" code="0" mods="0" />
-          <key char="76" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="76" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="76" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="76" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="76" code="0" mods="0" />
-          <key char="75" code="0" mods="0" />
-          <key char="74" code="0" mods="0" />
-          <key char="75" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">XT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>bool(true)
 bool(true)
 bool(true)
@@ -740,19 +755,19 @@ bool(true)
 bool(true)
 bool(true)</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>SELECT count(image)
 FROM app_images AS i
   JOIN app_page AS p ON i.page_id = p.id
 WHERE image LIKE '%.png' AND p.page_type = 1;</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>SELECT image, page_id
 FROM app_images as image
   JOIN app_page as page on image.page_id = page.id
@@ -761,9 +776,6 @@ WHERE image.image IS NOT NULL AND page.page_type != 1;
 SELECT site_id from app_page where id = 14598;
 
 SELECT app_sitesettings.domain from app_sitesettings where id = 90</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">V0hFUkUgaW1hZ2UuaW1hZ2UgSVMgTk9UIE5VTEwgQU5EIHBhZ2UucGFnZV90eXBlID0gMTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

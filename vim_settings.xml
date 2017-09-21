@@ -146,7 +146,7 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505984377218">
+      <file name="/Dummy.txt" timestamp="1505991003878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -171,14 +171,20 @@
         <mark key="^" line="32" column="70" />
         <mark key="." line="32" column="70" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/Utils/YandexImporting.php" timestamp="1505825458335">
-        <mark key="[" line="373" column="42" />
-        <mark key="]" line="373" column="63" />
-        <mark key="^" line="373" column="63" />
-        <mark key="." line="373" column="63" />
+      <file name="$USER_HOME$/code/img/seolandingphp/Utils/YandexImporting.php" timestamp="1505990997686">
+        <mark key="[" line="534" column="43" />
+        <mark key="]" line="534" column="51" />
+        <mark key="^" line="534" column="51" />
+        <mark key="." line="534" column="51" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/default/partials/roomItemInTable.tpl" timestamp="1505920655969">
         <mark key="[" line="219" column="71" />
+      </file>
+      <file name="$USER_HOME$/code/img/seolandingphp/CRON/yandexImport.php" timestamp="1505990930797">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/snippets/yandexMetricaGoal.tpl" timestamp="1505900789976" />
       <file name="$USER_HOME$/code/img/seolandingphp/.hgignore" timestamp="1505688450791">
@@ -186,9 +192,6 @@
         <mark key="]" line="15" column="2" />
         <mark key="^" line="15" column="4" />
         <mark key="." line="15" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/default/index.tpl" timestamp="1505900834661">
-        <mark key="'" line="221" column="55" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/class/admin.class.php" timestamp="1505916507091">
         <mark key="[" line="9" column="22" />
@@ -304,10 +307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>$fileDir . '/' . $fileName</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>$fileDir . '/' . $fileName</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">NDI5NQoK</text>

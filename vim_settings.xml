@@ -55,10 +55,10 @@
         <mark key="^" line="146" column="12" />
         <mark key="." line="146" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console.sql" timestamp="1506600513159">
-        <mark key="[" line="42" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console.sql" timestamp="1506601130375">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/novodom/assets/dev/src/blocks/sort/sort.styl" timestamp="1506427546338">
         <mark key="[" line="13" column="37" />
@@ -394,7 +394,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text encoding="base64">CgpBTFRFUiBUQUJMRSB3aWRnZXRfYWRmb3ggIHsKCn07Jw==</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -403,6 +403,12 @@
         <text encoding="base64">NDI5NQoK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CgpBTFRFUiBUQUJMRSB3aWRnZXRfYWRmb3ggIHsKCn07Jw==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>-- SELECT image
 -- FROM app_images as image
 --   JOIN app_page as page on image.page_id = page.id
@@ -410,14 +416,8 @@
 
 select image from app_images where id = 1</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIENSRUFURSBUQUJMRSB0Yml0YV9hcGFydG1lbnRfeWFuZGV4X2FwYXJ0bWVudCAoCiAgICAgIAlhcGFydG1lbnRfaWQgaW50ZWdlciBub3QgbnVsbAoJCWNvbnN0cmFpbnQgbG5rX3RiaXRhX2FwYXJ0bWVudF95YW5kZXhfYXBhcnRtZW50CgkJCXJlZmVyZW5jZXMgdGJpdGFfYXBhcnRtZW50CgkJCQlvbiB1cGRhdGUgY2FzY2FkZSBvbiBkZWxldGUgY2FzY2FkZSwKICAgICAgICBibG9ja19pZCBpbnRlZ2VyIG5vdCBudWxsLAogICAgICAgIGNvbnN0cmFpbnQgdGJpdGFfYXBhcnRtZW50X3lhbmRleF9hcGFydG1lbnRfcGtleQogICAgICAgICAgICBwcmltYXJ5IGtleSAoYXBhcnRtZW50X2lkLCBibG9ja19pZCksCiAgICAgICAgb2ZmZXJfaWQgaW50ZWdlciBub3QgbnVsbAogICAgICAgICk7Cic=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">JHNxbCAgPSAnCiAgICBDUkVBVEUgVEFCTEUgdGJpdGFfYXBhcnRtZW50X3lhbmRleF9hcGFydG1lbnQgKAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -491,10 +491,13 @@ select image from app_images where id = 1</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CkFMVEVSIFRBQkxFIGFwcF9zaXRlc2V0dGluZ3MKICBBREQgCXNwZWNpYWxfcHJvamVjdCBib29sZWFuIGRlZmF1bHQgZmFsc2Ugbm90IG51bGw7</text>
+      <register name="4" type="2">
+        <text encoding="base64">JHNxbCAgPSAnCiAgICBDUkVBVEUgVEFCTEUgdGJpdGFfYXBhcnRtZW50X3lhbmRleF9hcGFydG1lbnQgKAo=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CkFMVEVSIFRBQkxFIGFwcF9zaXRlc2V0dGluZ3MKICBBREQgCXNwZWNpYWxfcHJvamVjdCBib29sZWFuIGRlZmF1bHQgZmFsc2Ugbm90IG51bGw7</text>
+      </register>
+      <register name="6" type="4">
         <text>CREATE INDEX ON  tbita_building(blockid);
 CREATE INDEX ON  tbita_building_over(blockid);
 CREATE INDEX ON  tbita_apartment(buildingid);
@@ -502,16 +505,16 @@ CREATE INDEX ON  tbita_apartment_over(buildingid);
 CREATE INDEX ON  tbita_apartment(blockid);
 CREATE INDEX ON  tbita_apartment_over(blockid);</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="7" type="4">
         <text>elseif ($_SERVER['REQUEST_URI'] === '/php_info/') {
     echo phpinfo();
     die;
 }</text>
       </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>[
 [
 [
@@ -650,7 +653,7 @@ CREATE INDEX ON  tbita_apartment_over(blockid);</text>
 [
 [</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>[4
 [4
 [4
@@ -761,9 +764,6 @@ CREATE INDEX ON  tbita_apartment_over(blockid);</text>
 [4
 [4
 [4</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">XT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4KXT0+Cl09PgpdPT4=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

@@ -33,11 +33,11 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/default/rooms_page.tpl" timestamp="1505913717267">
         <mark key="[" line="151" column="56" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/modules/landing.php" timestamp="1506667558257">
-        <mark key="[" line="206" column="37" />
-        <mark key="]" line="206" column="37" />
-        <mark key="^" line="206" column="52" />
-        <mark key="." line="206" column="37" />
+      <file name="$USER_HOME$/code/img/seolandingphp/modules/landing.php" timestamp="1506691385505">
+        <mark key="[" line="93" column="92" />
+        <mark key="]" line="96" column="23" />
+        <mark key="^" line="96" column="23" />
+        <mark key="." line="96" column="23" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/css/style-landing2.css" timestamp="1506433058728" />
       <file name="$USER_HOME$/code/img/novodom/views/novodom/_search_item_f.tpl" timestamp="1506427740265">
@@ -104,7 +104,7 @@
         <mark key="^" line="28" column="57" />
         <mark key="." line="28" column="57" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1506687805198">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1506689852385">
         <mark key="[" line="0" column="62" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console_3.sql" timestamp="1505703001150">
@@ -219,7 +219,7 @@
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="44" />
       </file>
-      <file name="/dummy.sql" timestamp="1506688461705">
+      <file name="/dummy.sql" timestamp="1506690537316">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
@@ -401,31 +401,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CREATE TABLE widget_adfox_type (
-  id   SERIAL,
-  name VARCHAR(255),
-  UNIQUE (id)
-);
-
-CREATE TABLE widget_adfox (
-  id      SERIAL,
-  name VARCHAR(255),
-  type_id    INTEGER NOT NULL REFERENCES widget_adfox_type(id),
-  owner_id INTEGER,
-  p1      VARCHAR(8),
-  p2 VARCHAR(8),
-  pfc VARCHAR(8),
-  pfd VARCHAR(8),
-  UNIQUE (id)
-);
-
-INSERT INTO widget_adfox_type(name) VALUES ('builder_logo');
-
-ALTER TABLE app_sitesettings
-  ADD widget_adfox_id INTEGER REFERENCES widget_adfox(id);</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">INC/0YDQuNGB0LLQvtC10L3QuNGPIGFkRm94QnVpbGRlcg==</text>
+        <text>t</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">NDI5NQoK</text>

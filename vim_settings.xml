@@ -33,12 +33,6 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/default/rooms_page.tpl" timestamp="1505913717267">
         <mark key="[" line="151" column="56" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/modules/landing.php" timestamp="1506881392887">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="146" column="67" />
-        <mark key="^" line="146" column="67" />
-        <mark key="." line="146" column="67" />
-      </file>
       <file name="$USER_HOME$/code/img/seolandingphp/css/style-landing2.css" timestamp="1506433058728" />
       <file name="$USER_HOME$/code/img/novodom/views/novodom/_search_item_f.tpl" timestamp="1506427740265">
         <mark key="[" line="16" column="61" />
@@ -119,12 +113,12 @@
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/modules/widget.php" timestamp="1506663320886">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/class/landing.class.php" timestamp="1506880993563">
+      <file name="$USER_HOME$/code/img/seolandingphp/class/landing.class.php" timestamp="1506882943797">
         <mark key="'" line="467" column="37" />
         <mark key="[" line="1150" column="15" />
-        <mark key="]" line="1150" column="15" />
-        <mark key="^" line="1150" column="15" />
-        <mark key="." line="1150" column="15" />
+        <mark key="]" line="1158" column="24" />
+        <mark key="^" line="1158" column="24" />
+        <mark key="." line="1158" column="24" />
       </file>
       <file name="$USER_HOME$/code/img/novodom/assets/prod/style.min.css" timestamp="1506427602258">
         <mark key="[" line="0" column="36879" />
@@ -216,14 +210,14 @@
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="44" />
       </file>
-      <file name="/dummy.sql" timestamp="1506716613178">
+      <file name="/dummy.sql" timestamp="1506883305916">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506831118297">
-        <mark key="[" line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1506883150683">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
@@ -398,10 +392,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEFORCAoKHIuZW5hYmxlIElTIE5VTEwgT1Igci5lbmFibGUgPSBUUlVFKSk=</text>
+        <text>landing::getBestPlannings($blockIds)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEFORCAoKHIuZW5hYmxlIElTIE5VTEwgT1Igci5lbmFibGUgPSBUUlVFKSk=</text>
+        <text>landing::getBestPlannings($blockIds)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">NDI5NQoK</text>

@@ -51,12 +51,12 @@
         <mark key="^" line="146" column="12" />
         <mark key="." line="146" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console.sql" timestamp="1507065964022">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console.sql" timestamp="1507066809421">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="80" column="13" />
-        <mark key="]" line="80" column="12" />
-        <mark key="^" line="80" column="12" />
-        <mark key="." line="80" column="12" />
+        <mark key="[" line="79" column="4" />
+        <mark key="]" line="81" column="12" />
+        <mark key="^" line="81" column="12" />
+        <mark key="." line="81" column="12" />
       </file>
       <file name="$USER_HOME$/code/img/novodom/assets/dev/src/blocks/sort/sort.styl" timestamp="1506427546338">
         <mark key="[" line="13" column="37" />
@@ -70,11 +70,11 @@
         <mark key="^" line="85" column="41" />
         <mark key="." line="85" column="41" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/templates/pages/stock.tpl" timestamp="1507066071991">
-        <mark key="[" line="45" column="54" />
-        <mark key="]" line="45" column="54" />
-        <mark key="^" line="40" column="65" />
-        <mark key="." line="45" column="54" />
+      <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/templates/pages/stock.tpl" timestamp="1507067752469">
+        <mark key="[" line="106" column="24" />
+        <mark key="]" line="106" column="24" />
+        <mark key="^" line="93" column="29" />
+        <mark key="." line="106" column="24" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/config.php" timestamp="1505767865662">
         <mark key="[" line="46" column="47" />
@@ -98,10 +98,6 @@
         <mark key="]" line="18" column="34" />
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/modules/site.php" timestamp="1506971344833">
-        <mark key="'" line="32" column="4" />
-        <mark key="[" line="32" column="94" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/templates/pages/adFox.tpl" timestamp="1506665185635">
         <mark key="[" line="26" column="40" />
@@ -130,6 +126,9 @@
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/modules/blocks.php" timestamp="1506971401866">
         <mark key="[" line="25" column="75" />
+      </file>
+      <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/templates/pages/_datagrid_headers.tpl" timestamp="1507067864554">
+        <mark key="[" line="14" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console_2.sql" timestamp="1505695402217">
         <mark key="[" line="90" column="0" />
@@ -225,6 +224,7 @@
       <file name="/fragment.php" timestamp="1506979840724">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/templates/pages/site.tpl" timestamp="1507067517332" />
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/templates/pages/blocks.tpl" timestamp="1507049210529">
         <mark key="'" line="84" column="66" />
         <mark key="[" line="136" column="35" />
@@ -403,10 +403,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bWFyZ2luOiAwIDAgMTBweCAwOyI+0JLQstC10LTQuNGC0LUg0LTQsNGC0YMg0LTQviDQutC+0YLQvtGA0L7QuSDQtNC10LnRgdGC0LLRg9C10YIg0LDQutGG0LjRjw==</text>
+        <text>{$data.doc_id}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFyZ2luOiAwIDAgMTBweCAwOyI+0JLQstC10LTQuNGC0LUg0LTQsNGC0YMg0LTQviDQutC+0YLQvtGA0L7QuSDQtNC10LnRgdGC0LLRg9C10YIg0LDQutGG0LjRjw==</text>
+        <text>{$data.doc_id}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

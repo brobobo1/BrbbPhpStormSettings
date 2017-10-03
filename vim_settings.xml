@@ -142,6 +142,7 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/modules/stock.php" timestamp="1507072267110" />
       <file name="$USER_HOME$/code/img/seolandingphp/CRON/reduceImageSize.php" timestamp="1504795783480">
         <mark key="[" line="57" column="8" />
         <mark key="]" line="57" column="8" />
@@ -157,10 +158,10 @@
       <file name="$USER_HOME$/code/img/novodom/views/layouts/main.tpl" timestamp="1506424325930">
         <mark key="[" line="97" column="39" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/poster.php" timestamp="1507070263068">
-        <mark key="[" line="513" column="18" />
-        <mark key="]" line="195" column="17" />
-        <mark key="." line="195" column="17" />
+      <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/poster.php" timestamp="1507071485506">
+        <mark key="[" line="527" column="117" />
+        <mark key="]" line="527" column="117" />
+        <mark key="." line="527" column="117" />
         <mark key="^" line="195" column="17" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/templates/layout.tpl" timestamp="1507063836409">
@@ -204,7 +205,7 @@
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="44" />
       </file>
-      <file name="/dummy.sql" timestamp="1507068788965">
+      <file name="/dummy.sql" timestamp="1507071692590">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -295,8 +296,12 @@
         <mark key="^" line="188" column="57" />
         <mark key="." line="168" column="61" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/class/admin.class.php" timestamp="1507028587997">
-        <mark key="'" line="706" column="38" />
+      <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/class/admin.class.php" timestamp="1507072035744">
+        <mark key="'" line="742" column="38" />
+        <mark key="[" line="691" column="41" />
+        <mark key="]" line="691" column="41" />
+        <mark key="^" line="720" column="3" />
+        <mark key="." line="691" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -403,10 +408,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{$data.doc_id}</text>
+        <text>, ad.name AS doc_name'</text>
       </register>
       <register name="-" type="4">
-        <text>{$data.doc_id}</text>
+        <text>, ad.name AS doc_name'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

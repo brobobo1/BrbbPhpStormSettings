@@ -30,14 +30,17 @@
       <file name="$USER_HOME$/code/img/novodom/assets/dev/src/blocks/map_open_mobile/map_open_mobile.styl" timestamp="1506427649786">
         <mark key="[" line="3" column="31" />
       </file>
+      <file name="/a.dummy" timestamp="1507078584206">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/default/rooms_page.tpl" timestamp="1505913717267">
         <mark key="[" line="151" column="56" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/modules/landing.php" timestamp="1507060002468">
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="96" column="83" />
-        <mark key="^" line="96" column="83" />
-        <mark key="." line="96" column="83" />
+      <file name="$USER_HOME$/code/img/seolandingphp/modules/landing.php" timestamp="1507078588386">
+        <mark key="[" line="212" column="7" />
+        <mark key="]" line="213" column="29" />
+        <mark key="^" line="213" column="29" />
+        <mark key="." line="213" column="29" />
       </file>
       <file name="$USER_HOME$/code/img/novodom/views/novodom/_search_item_f.tpl" timestamp="1506427740265">
         <mark key="[" line="16" column="61" />
@@ -111,13 +114,13 @@
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/modules/docs.php" timestamp="1507062648517" />
-      <file name="$USER_HOME$/code/img/seolandingphp/class/landing.class.php" timestamp="1507078526339">
+      <file name="$USER_HOME$/code/img/seolandingphp/class/landing.class.php" timestamp="1507079722246">
         <mark key="a" line="1497" column="16" />
         <mark key="'" line="936" column="4" />
-        <mark key="[" line="1515" column="5" />
-        <mark key="]" line="1523" column="19" />
-        <mark key="^" line="1523" column="19" />
-        <mark key="." line="1523" column="19" />
+        <mark key="[" line="1519" column="37" />
+        <mark key="]" line="1525" column="86" />
+        <mark key="^" line="1525" column="86" />
+        <mark key="." line="1525" column="86" />
       </file>
       <file name="$USER_HOME$/code/img/novodom/assets/prod/style.min.css" timestamp="1506427602258">
         <mark key="[" line="0" column="36879" />
@@ -205,7 +208,7 @@
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="44" />
       </file>
-      <file name="/dummy.sql" timestamp="1507077259691">
+      <file name="/dummy.sql" timestamp="1507079678299">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -215,12 +218,6 @@
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/scenarios/createSubway.php" timestamp="1507053061188">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="19" column="33" />
-        <mark key="^" line="19" column="33" />
-        <mark key="." line="19" column="33" />
       </file>
       <file name="/fragment.php" timestamp="1506979840724">
         <mark key="[" line="0" column="0" />
@@ -279,7 +276,7 @@
         <mark key="^" line="15" column="4" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/default/index.tpl" timestamp="1507060055872">
+      <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/default/index.tpl" timestamp="1507078904665">
         <mark key="'" line="168" column="129" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="168" column="61" />
@@ -398,10 +395,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>метро в админке</text>
+        <text>::createFromFormat('today')</text>
       </register>
       <register name="-" type="4">
-        <text>метро в админке</text>
+        <text>::createFromFormat('today')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

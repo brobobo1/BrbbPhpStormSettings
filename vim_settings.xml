@@ -83,9 +83,9 @@
         <mark key="." line="43" column="53" />
       </file>
       <file name="$USER_HOME$/code/img/novodom/config/web.php" timestamp="1507289359219">
-        <mark key="[" line="87" column="35" />
-        <mark key="]" line="87" column="35" />
-        <mark key="." line="87" column="35" />
+        <mark key="[" line="88" column="35" />
+        <mark key="]" line="88" column="35" />
+        <mark key="." line="88" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console_4.sql" timestamp="1506344500028">
         <mark key="[" line="18" column="30" />
@@ -121,9 +121,9 @@
         <mark key="[" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/code/img/novodom/config/web-local.php" timestamp="1507289339723">
-        <mark key="[" line="87" column="34" />
-        <mark key="]" line="87" column="7" />
-        <mark key="." line="87" column="7" />
+        <mark key="[" line="88" column="34" />
+        <mark key="]" line="88" column="7" />
+        <mark key="." line="88" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console_2.sql" timestamp="1505695402217">
         <mark key="[" line="90" column="0" />
@@ -214,7 +214,7 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/code/img/novodom/web/index.php" timestamp="1507287341014">
+      <file name="$USER_HOME$/code/img/novodom/web/index.php" timestamp="1507295075254">
         <mark key="[" line="4" column="44" />
         <mark key="]" line="4" column="44" />
         <mark key="." line="4" column="44" />
@@ -391,7 +391,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgJ2NsYXNzJyA9PiAneWlpXGRlYnVnXE1vZHVsZScsCgkJJ2FsbG93ZWRJUHMnID0+IFsnMTI3LjAuMC4xJywgJzo6MScsIE9GRklDRV9JUF0s</text>
+        <text>in_array(@$_SERVER['REMOTE_ADDR'], [
+    '127.0.0.1',
+    OFFICE_IP,
+]))</text>
       </register>
       <register name="-" type="4">
         <text>127.0.0.1', '::1', OFFICE_IP</text>
@@ -403,19 +406,19 @@
         <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCJjbGljayIsICIuYWRkbGlzdGxpbmsiLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcG9zID0gJCh0aGlzKS5vZmZzZXQoKTsKICAgICAgICBpZCA9ICQodGhpcykuYXR0cigiZGF0YS1pZCIpOwogICAgICAgICQucG9zdCgicG9zdGVyLnBocCIsIHtnZXRTdWJ3YXlMaXN0OiBpZCwgYWRkOiAxfSwgZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgc2hvd01lc3NhZ2VNYWluKGRhdGEsIHBvcyk7CiAgICAgICAgfSk7CiAgICB9KTs=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgJ2NsYXNzJyA9PiAneWlpXGRlYnVnXE1vZHVsZScsCgkJJ2FsbG93ZWRJUHMnID0+IFsnMTI3LjAuMC4xJywgJzo6MScsIE9GRklDRV9JUF0s</text>
+        <text>in_array(@$_SERVER['REMOTE_ADDR'], [
+    '127.0.0.1',
+    OFFICE_IP,
+]))</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICdjbGFzcycgPT4gJ3lpaVxkZWJ1Z1xNb2R1bGUnLAoJCSdhbGxvd2VkSVBzJyA9PiBbJyonXSw=</text>
+        <text encoding="base64">CiAgICAgICAgJ2NsYXNzJyA9PiAneWlpXGRlYnVnXE1vZHVsZScsCgkJJ2FsbG93ZWRJUHMnID0+IFsnMTI3LjAuMC4xJywgJzo6MScsIE9GRklDRV9JUF0s</text>
       </register>
       <register name="3" type="4">
-        <text>in_array(@$_SERVER['REMOTE_ADDR'], [
-    '127.0.0.1',
-    OFFICE_IP,
-]</text>
+        <text encoding="base64">ICdjbGFzcycgPT4gJ3lpaVxkZWJ1Z1xNb2R1bGUnLAoJCSdhbGxvd2VkSVBzJyA9PiBbJyonXSw=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -490,9 +493,15 @@
         </keys>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICBVUERBVEUgdGJpdGFfYmxvY2tzdWJ3YXkgCiAgICAgICAgU0VUICBzdWJ3YXlpZCA9PywgZGlzdGFuY2UgPSA/LCBtZXRlcl9kaXN0YW5jZSA9ID8KICAgICAgICBXSEVSRSBibG9ja2lkID0gPyBBTkQgc3Vid2F5aWQgPSA/JywKICAgICAgICBbJF0KICAgICAgICAp</text>
+        <text>in_array(@$_SERVER['REMOTE_ADDR'], [
+    '127.0.0.1',
+    OFFICE_IP,
+]</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">ICAgICBVUERBVEUgdGJpdGFfYmxvY2tzdWJ3YXkgCiAgICAgICAgU0VUICBzdWJ3YXlpZCA9PywgZGlzdGFuY2UgPSA/LCBtZXRlcl9kaXN0YW5jZSA9ID8KICAgICAgICBXSEVSRSBibG9ja2lkID0gPyBBTkQgc3Vid2F5aWQgPSA/JywKICAgICAgICBbJF0KICAgICAgICAp</text>
+      </register>
+      <register name="6" type="4">
         <text>/**
  * Created by PhpStorm.
  * User: brbb
@@ -500,20 +509,17 @@
  * Time: 17:55
  */</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CiAgICB2YXJfZHVtcChh</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">JHNtYXJ0eS0+YXNzaWduKCdtYXhQcmljZScsICRtYXhQcmljZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CkFMVEVSIFRBQkxFIGFwcF9zaXRlc2V0dGluZ3MgQUREIENPTFVNTiAgc2hvd18K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

@@ -82,10 +82,10 @@
         <mark key="^" line="43" column="53" />
         <mark key="." line="43" column="53" />
       </file>
-      <file name="$USER_HOME$/code/img/novodom/config/web.php" timestamp="1507289359219">
-        <mark key="[" line="88" column="35" />
-        <mark key="]" line="88" column="35" />
-        <mark key="." line="88" column="35" />
+      <file name="$USER_HOME$/code/img/novodom/config/web.php" timestamp="1507296195798">
+        <mark key="[" line="90" column="26" />
+        <mark key="]" line="90" column="26" />
+        <mark key="." line="90" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console_4.sql" timestamp="1506344500028">
         <mark key="[" line="18" column="30" />
@@ -391,13 +391,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>in_array(@$_SERVER['REMOTE_ADDR'], [
-    '127.0.0.1',
-    OFFICE_IP,
-]))</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1', '::1', OFFICE_IP</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

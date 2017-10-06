@@ -99,6 +99,9 @@
         <mark key="^" line="28" column="57" />
         <mark key="." line="28" column="57" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1507299316297">
+        <mark key="[" line="30" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console_3.sql" timestamp="1505703001150">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="32" />
@@ -208,11 +211,11 @@
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="44" />
       </file>
-      <file name="/dummy.sql" timestamp="1507209792547">
+      <file name="/dummy.sql" timestamp="1507299432293">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/code/img/novodom/web/index.php" timestamp="1507295075254">
         <mark key="[" line="4" column="44" />
@@ -391,10 +394,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>127.0.0.1</text>
+        <text>titile like '%изнь%'</text>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text>titile like '%изнь%'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

@@ -79,25 +79,19 @@
       <file name="$USER_HOME$/code/img/seolandingphp/config.php" timestamp="1507892979152">
         <mark key="[" line="23" column="82" />
       </file>
-      <file name="/dummy.sql" timestamp="1508461006983">
+      <file name="/dummy.sql" timestamp="1508462584766">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" timestamp="1508457077956">
-        <mark key="[" line="213" column="34" />
-        <mark key="]" line="213" column="19" />
-        <mark key="^" line="213" column="19" />
-        <mark key="." line="213" column="19" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1508440319733">
-        <mark key="[" line="147" column="244" />
-        <mark key="]" line="147" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1508462401698">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
         <mark key="^" line="147" column="0" />
-        <mark key="." line="147" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508457412740">
+      <file name="/Dummy.txt" timestamp="1508462343656">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -269,8 +263,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/default/footer.tpl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>blockid = 3945</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgpTRUxFQ1QK</text>
       </register>
       <register name="-" type="4">
         <text>blockid = 3945</text>
@@ -281,20 +275,20 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCJjbGljayIsICIuYWRkbGlzdGxpbmsiLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcG9zID0gJCh0aGlzKS5vZmZzZXQoKTsKICAgICAgICBpZCA9ICQodGhpcykuYXR0cigiZGF0YS1pZCIpOwogICAgICAgICQucG9zdCgicG9zdGVyLnBocCIsIHtnZXRTdWJ3YXlMaXN0OiBpZCwgYWRkOiAxfSwgZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgc2hvd01lc3NhZ2VNYWluKGRhdGEsIHBvcyk7CiAgICAgICAgfSk7CiAgICB9KTs=</text>
       </register>
-      <register name="1" type="4">
-        <text>in_array(@$_SERVER['REMOTE_ADDR'], [
-    '127.0.0.1',
-    OFFICE_IP,
-]))</text>
+      <register name="1" type="2">
+        <text encoding="base64">CgpTRUxFQ1QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgJ2NsYXNzJyA9PiAneWlpXGRlYnVnXE1vZHVsZScsCgkJJ2FsbG93ZWRJUHMnID0+IFsnMTI3LjAuMC4xJywgJzo6MScsIE9GRklDRV9JUF0s</text>
+        <text>in_array(@$_SERVER['REMOTE_ADDR'], [
+    '127.0.0.1',
+    OFFICE_IP,
+]))</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICdjbGFzcycgPT4gJ3lpaVxkZWJ1Z1xNb2R1bGUnLAoJCSdhbGxvd2VkSVBzJyA9PiBbJyonXSw=</text>
+        <text encoding="base64">CiAgICAgICAgJ2NsYXNzJyA9PiAneWlpXGRlYnVnXE1vZHVsZScsCgkJJ2FsbG93ZWRJUHMnID0+IFsnMTI3LjAuMC4xJywgJzo6MScsIE9GRklDRV9JUF0s</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -369,15 +363,21 @@
         </keys>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICdjbGFzcycgPT4gJ3lpaVxkZWJ1Z1xNb2R1bGUnLAoJCSdhbGxvd2VkSVBzJyA9PiBbJyonXSw=</text>
+      </register>
+      <register name="5" type="4">
         <text>in_array(@$_SERVER['REMOTE_ADDR'], [
     '127.0.0.1',
     OFFICE_IP,
 ]</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICBVUERBVEUgdGJpdGFfYmxvY2tzdWJ3YXkgCiAgICAgICAgU0VUICBzdWJ3YXlpZCA9PywgZGlzdGFuY2UgPSA/LCBtZXRlcl9kaXN0YW5jZSA9ID8KICAgICAgICBXSEVSRSBibG9ja2lkID0gPyBBTkQgc3Vid2F5aWQgPSA/JywKICAgICAgICBbJF0KICAgICAgICAp</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="7" type="4">
         <text>/**
  * Created by PhpStorm.
  * User: brbb
@@ -385,17 +385,11 @@
  * Time: 17:55
  */</text>
       </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICB2YXJfZHVtcChh</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">JHNtYXJ0eS0+YXNzaWduKCdtYXhQcmljZScsICRtYXhQcmljZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

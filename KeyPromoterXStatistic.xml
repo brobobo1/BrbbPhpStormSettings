@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Database</Description>
-          <Count>195</Count>
+          <Count>200</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>193</Count>
+          <Count>194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -62,6 +62,14 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete Rows">
+        <Item>
+          <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
+          <ShortCut>'Ctrl+Y'</ShortCut>
+          <Description>Delete Rows</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -126,7 +134,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>51</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace...">
@@ -206,7 +214,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>10</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">

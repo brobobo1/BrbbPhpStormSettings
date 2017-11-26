@@ -8,10 +8,11 @@
         <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/partials/description.tpl" timestamp="1511708455897" />
-      <file name="$USER_HOME$/code/img/seolandingphp/controllers/LandingController.php" timestamp="1511733298708">
-        <mark key="]" line="86" column="51" />
-        <mark key="^" line="86" column="51" />
-        <mark key="." line="86" column="51" />
+      <file name="$USER_HOME$/code/img/seolandingphp/controllers/LandingController.php" timestamp="1511734185921">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="78" column="59" />
+        <mark key="^" line="78" column="59" />
+        <mark key="." line="78" column="59" />
       </file>
       <file name="$USER_HOME$/code/img/novodom/assets/dev/src/blocks/map_open_mobile/map_open_mobile.styl" timestamp="1506427649786">
         <mark key="[" line="3" column="31" />
@@ -39,11 +40,11 @@
       <file name="$USER_HOME$/code/img/novodom/assets/dev/src/blocks/sort/sort.styl" timestamp="1506427546338">
         <mark key="[" line="13" column="37" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console.sql" timestamp="1511731112210">
-        <mark key="[" line="99" column="9" />
-        <mark key="]" line="99" column="10" />
-        <mark key="^" line="99" column="10" />
-        <mark key="." line="99" column="10" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console.sql" timestamp="1511734938124">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="95" column="10" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/class/query.class.php" timestamp="1507897337513">
         <mark key="[" line="99" column="38" />
@@ -92,11 +93,11 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/decoration.tpl" timestamp="1511711451307">
         <mark key="[" line="15" column="36" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/class/landing.class.php" timestamp="1511731230628">
-        <mark key="[" line="1582" column="54" />
-        <mark key="]" line="1581" column="61" />
-        <mark key="." line="1581" column="61" />
-        <mark key="^" line="1581" column="61" />
+      <file name="$USER_HOME$/code/img/seolandingphp/class/landing.class.php" timestamp="1511735180598">
+        <mark key="[" line="1614" column="18" />
+        <mark key="]" line="1613" column="18" />
+        <mark key="." line="1613" column="18" />
+        <mark key="^" line="1613" column="18" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/modules/blocks.php" timestamp="1506971401866">
         <mark key="[" line="25" column="75" />
@@ -139,11 +140,11 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/partials/main_info.tpl" timestamp="1511709901891">
         <mark key="[" line="72" column="43" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/rooms_page.tpl" timestamp="1511733150348">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="17" column="43" />
-        <mark key="^" line="17" column="43" />
-        <mark key="." line="17" column="43" />
+      <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/rooms_page.tpl" timestamp="1511736049660">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
       </file>
       <file name="vim_settings.xml" timestamp="1506959153503">
         <mark key="[" line="0" column="0" />
@@ -221,7 +222,7 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/partials/payment.tpl" timestamp="1511708301169">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1511713714730">
+      <file name="/dummy.sql" timestamp="1511735069852">
         <mark key="'" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -233,7 +234,7 @@
         <mark key="]" line="4" column="44" />
         <mark key="." line="4" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511711475735">
+      <file name="/Dummy.txt" timestamp="1511735593055">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -394,10 +395,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>select rt.id as id, rt.name
+FROM tbita_roomtype rt
+JOIN tbita_apartment a ON a.roomtypetd = rt.id
+WHERE a.blockid in (97, 3407, 3558)
+group by rt.id;</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
@@ -406,19 +411,23 @@
         <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCJjbGljayIsICIuYWRkbGlzdGxpbmsiLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcG9zID0gJCh0aGlzKS5vZmZzZXQoKTsKICAgICAgICBpZCA9ICQodGhpcykuYXR0cigiZGF0YS1pZCIpOwogICAgICAgICQucG9zdCgicG9zdGVyLnBocCIsIHtnZXRTdWJ3YXlMaXN0OiBpZCwgYWRkOiAxfSwgZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgc2hvd01lc3NhZ2VNYWluKGRhdGEsIHBvcyk7CiAgICAgICAgfSk7CiAgICB9KTs=</text>
       </register>
       <register name="1" type="4">
+        <text>select rt.id as id, rt.name
+FROM tbita_roomtype rt
+JOIN tbita_apartment a ON a.roomtypetd = rt.id
+WHERE a.blockid in (97, 3407, 3558)
+group by rt.id;</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>in_array(@$_SERVER['REMOTE_ADDR'], [
     '127.0.0.1',
     OFFICE_IP,
 ]))</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICRzcWwgPSAiCg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpTRUxFQ1QK</text>
+        <text encoding="base64">ICAgICAgICRzcWwgPSAiCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -492,37 +501,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">CgpTRUxFQ1QK</text>
+      </register>
+      <register name="5" type="4">
         <text>in_array(@$_SERVER['REMOTE_ADDR'], [
     '127.0.0.1',
     OFFICE_IP,
 ]))</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgJ2NsYXNzJyA9PiAneWlpXGRlYnVnXE1vZHVsZScsCgkJJ2FsbG93ZWRJUHMnID0+IFsnMTI3LjAuMC4xJywgJzo6MScsIE9GRklDRV9JUF0s</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">ICdjbGFzcycgPT4gJ3lpaVxkZWJ1Z1xNb2R1bGUnLAoJCSdhbGxvd2VkSVBzJyA9PiBbJyonXSw=</text>
+        <text encoding="base64">CiAgICAgICAgJ2NsYXNzJyA9PiAneWlpXGRlYnVnXE1vZHVsZScsCgkJJ2FsbG93ZWRJUHMnID0+IFsnMTI3LjAuMC4xJywgJzo6MScsIE9GRklDRV9JUF0s</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="4">
+        <text encoding="base64">ICdjbGFzcycgPT4gJ3lpaVxkZWJ1Z1xNb2R1bGUnLAoJCSdhbGxvd2VkSVBzJyA9PiBbJyonXSw=</text>
+      </register>
+      <register name="8" type="4">
         <text>in_array(@$_SERVER['REMOTE_ADDR'], [
     '127.0.0.1',
     OFFICE_IP,
 ]</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICBVUERBVEUgdGJpdGFfYmxvY2tzdWJ3YXkgCiAgICAgICAgU0VUICBzdWJ3YXlpZCA9PywgZGlzdGFuY2UgPSA/LCBtZXRlcl9kaXN0YW5jZSA9ID8KICAgICAgICBXSEVSRSBibG9ja2lkID0gPyBBTkQgc3Vid2F5aWQgPSA/JywKICAgICAgICBbJF0KICAgICAgICAp</text>
-      </register>
       <register name="9" type="4">
-        <text>/**
- * Created by PhpStorm.
- * User: brbb
- * Date: 03.10.17
- * Time: 17:55
- */</text>
+        <text encoding="base64">ICAgICBVUERBVEUgdGJpdGFfYmxvY2tzdWJ3YXkgCiAgICAgICAgU0VUICBzdWJ3YXlpZCA9PywgZGlzdGFuY2UgPSA/LCBtZXRlcl9kaXN0YW5jZSA9ID8KICAgICAgICBXSEVSRSBibG9ja2lkID0gPyBBTkQgc3Vid2F5aWQgPSA/JywKICAgICAgICBbJF0KICAgICAgICAp</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

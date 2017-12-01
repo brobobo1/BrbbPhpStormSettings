@@ -31,8 +31,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/modules/landing.php" timestamp="1512117267326">
-        <mark key="[" line="88" column="61" />
+      <file name="$USER_HOME$/code/img/seolandingphp/modules/landing.php" timestamp="1512119126197">
+        <mark key="[" line="86" column="50" />
+        <mark key="]" line="91" column="3" />
+        <mark key="^" line="91" column="3" />
+        <mark key="." line="91" column="3" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/partials/progress.tpl" timestamp="1511711635458">
         <mark key="[" line="0" column="0" />
@@ -94,11 +97,12 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/decoration.tpl" timestamp="1511711451307">
         <mark key="[" line="15" column="36" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/class/landing.class.php" timestamp="1512116429323">
-        <mark key="[" line="620" column="63" />
-        <mark key="]" line="1776" column="16" />
-        <mark key="." line="1776" column="16" />
-        <mark key="^" line="1776" column="16" />
+      <file name="$USER_HOME$/code/img/seolandingphp/class/landing.class.php" timestamp="1512117943907">
+        <mark key="'" line="637" column="24" />
+        <mark key="[" line="1886" column="28" />
+        <mark key="]" line="1885" column="102" />
+        <mark key="." line="1885" column="102" />
+        <mark key="^" line="1885" column="102" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/modules/blocks.php" timestamp="1506971401866">
         <mark key="[" line="25" column="75" />
@@ -142,8 +146,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console_6.sql" timestamp="1507727118370">
         <mark key="[" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/partials/main_info.tpl" timestamp="1512113116473">
-        <mark key="[" line="162" column="0" />
+      <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/partials/main_info.tpl" timestamp="1512119517163">
+        <mark key="[" line="162" column="43" />
+        <mark key="]" line="162" column="43" />
+        <mark key="." line="162" column="43" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/rooms_page.tpl" timestamp="1512108781243">
         <mark key="[" line="19" column="36" />
@@ -179,6 +185,7 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/partials/form_catch.tpl" timestamp="1511699950288">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/default/partials/main_info.tpl" timestamp="1512118940509" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.php" timestamp="1507536892775">
         <mark key="[" line="0" column="1" />
       </file>
@@ -219,7 +226,7 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/partials/payment.tpl" timestamp="1511708301169">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1512117201729">
+      <file name="/dummy.sql" timestamp="1512118764649">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/novodom/web/index.php" timestamp="1509068965006">
@@ -227,7 +234,7 @@
         <mark key="]" line="4" column="44" />
         <mark key="." line="4" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512115674149">
+      <file name="/Dummy.txt" timestamp="1512119032893">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -280,7 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="892" column="0" filename="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" />
       <jump line="890" column="5" filename="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" />
       <jump line="135" column="0" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" />
       <jump line="964" column="0" filename="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" />
@@ -380,13 +386,14 @@
       <jump line="0" column="14" filename="/dummy.sql" />
       <jump line="2" column="0" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/default/footer.tpl" />
       <jump line="14" column="0" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/default/index.tpl" />
+      <jump line="637" column="24" filename="$USER_HOME$/code/img/seolandingphp/class/landing.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>preview_data.applicable_states}</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>preview_data.applicable_states}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

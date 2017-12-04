@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Database</Description>
-          <Count>313</Count>
+          <Count>320</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>383</Count>
+          <Count>386</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -129,12 +129,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Next Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Down'</ShortCut>
+          <Description>Next Page</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Console">
         <Item>
           <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Open Console</Description>
-          <Count>73</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -271,6 +279,14 @@
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Table Editor">
+        <Item>
+          <IdeaActionID>Jdbc.OpenTableEditor</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Table Editor</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">

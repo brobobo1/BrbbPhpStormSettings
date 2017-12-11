@@ -1,19 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.tpl</mask>
-      <mask>*C.php</mask>
-      <mask>*Co.php</mask>
-      <mask>*Con.php</mask>
-      <mask>*Cont.php</mask>
-      <mask>*Contr.php</mask>
       <mask>*Contro.php</mask>
       <mask>*Control.php</mask>
       <mask>*Controll.php</mask>
@@ -32,10 +25,18 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tp</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>

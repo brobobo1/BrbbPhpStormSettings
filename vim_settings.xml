@@ -243,10 +243,10 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/partials/payment.tpl" timestamp="1511708301169">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1513598765997">
+      <file name="/dummy.sql" timestamp="1513640884285">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/code/img/novodom/web/index.php" timestamp="1509068965006">
@@ -453,10 +453,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>concat_ws('|', (select wp.phone from widget_list as ws where client.clientid = wp.id))</text>
+        <text>.novopoisk.spb.ru%</text>
       </register>
       <register name="-" type="4">
-        <text>concat_ws('|', (select wp.phone from widget_list as ws where client.clientid = wp.id))</text>
+        <text>.novopoisk.spb.ru%</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

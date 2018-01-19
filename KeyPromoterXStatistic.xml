@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>100</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -87,6 +87,14 @@
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expand All">
+        <Item>
+          <IdeaActionID>ExpandAllRegions</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+NumPad +' or 'Ctrl+Shift+Equals'</ShortCut>
+          <Description>Expand All</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate and Copy DDL">
@@ -127,6 +135,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Open Console</Description>
           <Count>50</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Module Settings">
+        <Item>
+          <IdeaActionID>OpenModuleSettings</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Open Module Settings</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from X clipboard">
@@ -206,7 +222,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">

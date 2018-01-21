@@ -9,6 +9,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Add to VCS">
+        <Item>
+          <IdeaActionID>ChangesView.AddUnversioned.From.Dialog</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add to VCS</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close">
         <Item>
           <IdeaActionID>CloseContent</IdeaActionID>
@@ -41,14 +49,6 @@
           <Count>8</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Custom Folding...">
-        <Item>
-          <IdeaActionID>GotoCustomRegion</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Period'</ShortCut>
-          <Description>Custom Folding...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Cut">
         <Item>
           <IdeaActionID>$Cut</IdeaActionID>
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>104</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -161,14 +161,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Paste">
-        <Item>
-          <IdeaActionID>$Paste</IdeaActionID>
-          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
-          <Description>Paste</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Paste from X clipboard">
         <Item>
           <IdeaActionID>EditorPasteFromX11</IdeaActionID>
@@ -185,11 +177,11 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Project Structure...">
+      <Statistic Action="Reformat Code">
         <Item>
-          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
-          <Description>Project Structure...</Description>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+L'</ShortCut>
+          <Description>Reformat Code</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -255,14 +247,6 @@
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
           <Count>45</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Application'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'Application'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">

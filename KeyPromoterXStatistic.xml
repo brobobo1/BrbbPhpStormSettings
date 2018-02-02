@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Database</Description>
-          <Count>110</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>120</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -150,7 +150,7 @@
           <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Open Console</Description>
-          <Count>54</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -230,7 +230,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'index.php'">
@@ -326,7 +326,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
     </option>

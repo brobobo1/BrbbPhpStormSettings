@@ -6,7 +6,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>8</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -15,14 +15,6 @@
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add to VCS</Description>
           <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Back">
-        <Item>
-          <IdeaActionID>Back</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
-          <Description>Back</Description>
-          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -78,7 +70,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Database</Description>
-          <Count>117</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -86,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>135</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -102,14 +94,6 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Disconnect">
-        <Item>
-          <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Disconnect</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -166,7 +150,7 @@
           <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Open Console</Description>
-          <Count>57</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -175,14 +159,6 @@
           <ShortCut>'F4'</ShortCut>
           <Description>Open Module Settings</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Paste">
-        <Item>
-          <IdeaActionID>$Paste</IdeaActionID>
-          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
-          <Description>Paste</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from X clipboard">
@@ -198,7 +174,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -222,7 +198,7 @@
           <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Refresh</Description>
-          <Count>16</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -294,7 +270,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>33</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -302,7 +278,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>10</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -342,7 +318,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>27</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -350,7 +326,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>66</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
     </option>

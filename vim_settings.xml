@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/img/novodom/assets/dev/src/blocks/map_open_mobile/map_open_mobile.styl" timestamp="1506427649786">
@@ -36,11 +36,11 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/landing3/partials/section_about.tpl" timestamp="1517578811705">
         <mark key="[" line="19" column="104" />
       </file>
-      <file name="$USER_HOME$/code/sl/photoautomate/app/config/parameters.yml" timestamp="1521403004334">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="3" column="27" />
+      <file name="$USER_HOME$/code/sl/photoautomate/app/config/parameters.yml" timestamp="1521405782247">
+        <mark key="[" line="58" column="2" />
+        <mark key="]" line="65" column="1" />
+        <mark key="^" line="65" column="1" />
+        <mark key="." line="65" column="1" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/default/partials/header.tpl" timestamp="1511862790737">
         <mark key="[" line="113" column="56" />
@@ -444,6 +444,12 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sl/photoautomate/docker-compose.yml" timestamp="1521404851341">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="21" column="13" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="21" column="13" />
+      </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/snippets/apartmentSummary.tpl" timestamp="1517533460071">
         <mark key="[" line="68" column="23" />
         <mark key="]" line="68" column="0" />
@@ -575,11 +581,11 @@
       <jump line="104" column="23" filename="&lt;9f9b1fcc-fabd-4d4d-badb-aec6057d7d58&gt;/Utils/YandexOffer.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sl_studio_parent_wechat_na</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sl_studio_parent_wechat_na</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

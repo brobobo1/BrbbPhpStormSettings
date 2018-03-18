@@ -4,7 +4,7 @@
     <property name="created">2017-09-04T17:29:16</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-03-18T22:33:13</property>
+    <property name="modified">2018-03-19T01:33:53</property>
     <property name="originalScheme">ComplicatedObsidian copy2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.8" />
@@ -576,6 +576,51 @@
         <option name="FOREGROUND" value="a8c023" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      </value>
+    </option>
+    <option name="TWIG_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
+    <option name="TWIG_BAD_CHARACTER">
+      <value>
+        <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
+    <option name="TWIG_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="c081ee" />
+      </value>
+    </option>
+    <option name="TWIG_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7d8c93" />
+      </value>
+    </option>
+    <option name="TWIG_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ba45e4" />
+      </value>
+    </option>
+    <option name="TWIG_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="7138d6" />
+      </value>
+    </option>
+    <option name="TWIG_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ffcd22" />
+      </value>
+    </option>
+    <option name="TWIG_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="e8e2b7" />
+      </value>
+    </option>
+    <option name="TWIG_STRING">
+      <value>
+        <option name="FOREGROUND" value="93c763" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">

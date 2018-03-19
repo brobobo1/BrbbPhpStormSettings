@@ -1,4 +1,5 @@
 <scheme name="Symfony2" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.25" />
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
@@ -454,6 +455,11 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="JS.DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="586e75" />
@@ -532,6 +538,12 @@
     <option name="Keyword">
       <value>
         <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="LESS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="Line comment">

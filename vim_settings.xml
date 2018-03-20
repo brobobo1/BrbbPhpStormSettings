@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1521558538659">
@@ -76,12 +76,12 @@
         <mark key="^" line="177" column="32" />
         <mark key="." line="177" column="32" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/BinNumberService.php" timestamp="1521558696554">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/BinNumberService.php" timestamp="1521559019052">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="39" column="7" />
-        <mark key="]" line="37" column="60" />
-        <mark key="^" line="37" column="60" />
-        <mark key="." line="37" column="60" />
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="58" />
+        <mark key="^" line="37" column="58" />
+        <mark key="." line="37" column="58" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/rpc.php" timestamp="1521556126951">
         <mark key="[" line="122" column="40" />
@@ -379,11 +379,11 @@
       <jump line="34" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/BinNumberService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJAo=</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>issuingBank</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

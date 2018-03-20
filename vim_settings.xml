@@ -3,11 +3,11 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/devim/dzp/src/services.php" timestamp="1521560616582">
-        <mark key="[" line="427" column="32" />
-        <mark key="]" line="433" column="21" />
-        <mark key="." line="433" column="21" />
-        <mark key="^" line="433" column="21" />
+      <file name="$USER_HOME$/code/devim/dzp/src/services.php" timestamp="1521562665970">
+        <mark key="[" line="437" column="0" />
+        <mark key="]" line="437" column="0" />
+        <mark key="." line="437" column="0" />
+        <mark key="^" line="437" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1521558538659">
         <mark key="'" line="1981" column="72" />
@@ -72,9 +72,13 @@
         <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/code/devim/card-info-master/banks/ru-sberbank.json" timestamp="1521539429736" />
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/BankRepository.php" timestamp="1521544096936">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/ClientEmailConfirmDocument.php" timestamp="1521562758791" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/BankRepository.php" timestamp="1521562509734">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="4" column="34" />
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+        <mark key="^" line="32" column="17" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/ipstat.php" timestamp="1515581324328">
         <mark key="[" line="177" column="34" />
@@ -107,6 +111,12 @@
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/NewBankDocument.php" timestamp="1521563015410">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="31" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="31" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/docker-compose.yml" timestamp="1514887939268">
         <mark key="[" line="3" column="29" />
@@ -386,10 +396,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgogICAgICAgIA==</text>
+        <text>confirmation_email</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>confirmation_email</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
@@ -397,17 +407,17 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCJjbGljayIsICIuYWRkbGlzdGxpbmsiLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcG9zID0gJCh0aGlzKS5vZmZzZXQoKTsKICAgICAgICBpZCA9ICQodGhpcykuYXR0cigiZGF0YS1pZCIpOwogICAgICAgICQucG9zdCgicG9zdGVyLnBocCIsIHtnZXRTdWJ3YXlMaXN0OiBpZCwgYWRkOiAxfSwgZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgc2hvd01lc3NhZ2VNYWluKGRhdGEsIHBvcyk7CiAgICAgICAgfSk7CiAgICB9KTs=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbmZpcm1hdGlvbkxpbmsnID0+ICR0aGlzLT5jb21wYW55LT5nZXRTaXRlVXJsKCkgLiAnbS8nIC4gJHRoaXMtPmNsaWVudC0+Z2V0TGlua0hhc2goKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IGpzb25fZGVjb2RlKCRyZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29tcGFueSA9ICRjb21wYW55Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBwWydnb29nbGVfYW5hbHl0aWNzLmRlYnVnJ10K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50ID0gJGNsaWVudDsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -482,25 +492,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBDb21wYW55ICRjb21wYW55Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcHBbXXIK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBDbGllbnQKICAgICAqLwogICAgcHJvdGVjdGVkICRjbGllbnQ7CgogICAgLyoqCiAgICAgKiBAdmFyIENvbXBhbnkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcQ2xpZW50Owp1c2UgQXBwXEVudGl0eVxDb21wYW55Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5iYW5rLQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gQmFua3xudWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

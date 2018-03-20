@@ -3,6 +3,12 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/devim/dzp/src/services.php" timestamp="1521560616582">
+        <mark key="[" line="427" column="32" />
+        <mark key="]" line="433" column="21" />
+        <mark key="." line="433" column="21" />
+        <mark key="^" line="433" column="21" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1521558538659">
         <mark key="'" line="1981" column="72" />
         <mark key="[" line="1972" column="59" />
@@ -76,12 +82,12 @@
         <mark key="^" line="177" column="32" />
         <mark key="." line="177" column="32" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/BinNumberService.php" timestamp="1521559019052">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/BinNumberService.php" timestamp="1521560728919">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="37" column="54" />
-        <mark key="]" line="37" column="58" />
-        <mark key="^" line="37" column="58" />
-        <mark key="." line="37" column="58" />
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+        <mark key="." line="33" column="12" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/rpc.php" timestamp="1521556126951">
         <mark key="[" line="122" column="40" />
@@ -380,10 +386,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text encoding="base64">CgogICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
@@ -391,17 +397,17 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCJjbGljayIsICIuYWRkbGlzdGxpbmsiLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcG9zID0gJCh0aGlzKS5vZmZzZXQoKTsKICAgICAgICBpZCA9ICQodGhpcykuYXR0cigiZGF0YS1pZCIpOwogICAgICAgICQucG9zdCgicG9zdGVyLnBocCIsIHtnZXRTdWJ3YXlMaXN0OiBpZCwgYWRkOiAxfSwgZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgc2hvd01lc3NhZ2VNYWluKGRhdGEsIHBvcyk7CiAgICAgICAgfSk7CiAgICB9KTs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgogICAgICAgIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcHBbXXIK</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9IGpzb25fZGVjb2RlKCRyZXF1ZXN0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXBwWydnb29nbGVfYW5hbHl0aWNzLmRlYnVnJ10K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -476,25 +482,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5iYW5rLQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcHBbXXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5iYW5rLQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

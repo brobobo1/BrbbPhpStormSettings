@@ -419,10 +419,10 @@
       <file name="$USER_HOME$/code/img/seolandingphp/misc/smarty.php" timestamp="1513863577863">
         <mark key="[" line="88" column="32" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Bank.php" timestamp="1521539257843">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Bank.php" timestamp="1521540740156">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/templates/pages/blocks.tpl" timestamp="1512133038141">
         <mark key="[" line="86" column="38" />
@@ -607,7 +607,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgJGZpcnN0QmFja2dyb3VuZENvbG9yOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Loa</text>
@@ -619,16 +619,16 @@
         <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCJjbGljayIsICIuYWRkbGlzdGxpbmsiLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcG9zID0gJCh0aGlzKS5vZmZzZXQoKTsKICAgICAgICBpZCA9ICQodGhpcykuYXR0cigiZGF0YS1pZCIpOwogICAgICAgICQucG9zdCgicG9zdGVyLnBocCIsIHtnZXRTdWJ3YXlMaXN0OiBpZCwgYWRkOiAxfSwgZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgc2hvd01lc3NhZ2VNYWluKGRhdGEsIHBvcyk7CiAgICAgICAgfSk7CiAgICB9KTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgJGZpcnN0QmFja2dyb3VuZENvbG9yOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkb25saW5lUGVyY2VudDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEtPUk9OQV9QQVlfVFJBTlNGRVJfUkVMSVNFX0lEID0gMTUxOwogICAgY29uc3QgQ09OVEFDVF9UUkFOU0ZFUl9SRUxJU0VfSUQgPSAxNzE7CgogICAgY29uc3QgRFpQX1NJVEVfUkVMSVNFX1BMQUNFX0lEID0gNTsKCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -703,27 +703,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZSBFbnRpdHlDcmVhdGVkQXRUcmFpdDsKICAgIHVzZSBFbnRpdHlVcGRhdGVkQXRUcmFpdDsKCiAgICBjb25zdCBEWlBfQ09NUEFOWV9JRCA9IDI7CiAgICBjb25zdCBLT1JPTkFfUEFZX0NBUkRfUkVMSVNFX1BMQUNFX0lEID0gMTY4Owo=</text>
+        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKHR5cGU9ImRlY2ltYWwiLCBwcmVjaXNpb249MTIsIHNjYWxlPTIsIG51bGxhYmxlPXRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgZmxvYXR8bnVsbAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICIyNTI1OjgwIgo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICdTRUxFQ1QgY2xpZW50bGluay4qLCB3aWRnZXRfbGlzdC4qLCBhcHBfc2l0ZXNldHRpbmdzLiosIHdpZGdldF9ib29rbWFyay4qJyAuCiAgICAnRlJPTSBjbGllbnRsaW5rICcgLgogICAgJ0xFRlQgSk9JTiB3aWRnZXRfbGlzdCBPTiB3aWRnZXRfbGlzdC5pZCA9IGNsaWVudGxpbmsuY2xpZW50aWQgJyAuCiAgICAnUklHSFQgSk9JTiBhcHBfc2l0ZXNldHRpbmdzIE9OIGFwcF9zaXRlc2V0dGluZ3MuaWQgPSBjbGllbnRsaW5rLnNpdGVpZCAnIC4KICAgICdMRUZUIEpPSU4gd2lkZ2V0X2Jvb2ttYXJrIE9OIHdpZGdldF9saXN0LmlkID0gd2lkZ2V0X2Jvb2ttYXJrLndpZGdldF9saXN0X2lkICcgLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdBTkQgYXBwX3NpdGVzZXR0aW5ncy5pZCA9IHdpZGdldF9ib29rbWFyay5zaXRlX2lkICc7</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{if $isTrend}
-    
-{/if}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBhcnJheQoKICAgIC8qKgogICAgICogQHZhciBmbG9hdHxudWxsCiAgICAgKgogICAgICogQE9STVxDb2x1bW4odHlwZT0iZGVjaW1hbCIsIHByZWNpc2lvbj0xMiwgc2NhbGU9MiwgbnVsbGFibGU9dHJ1ZSwgb3B0aW9ucz17ImRlZmF1bHQiOiAwLjAwfSkKICAgICAqLwogICAgcHJvdGVjdGVkICRwcm9sb25nYXRpb25QZXJjZW50OwoK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

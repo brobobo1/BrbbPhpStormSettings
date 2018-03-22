@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/devim/dzp/src/services.php" timestamp="1521562665970">
@@ -9,12 +9,12 @@
         <mark key="." line="437" column="0" />
         <mark key="^" line="437" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1521628959993">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1521715456119">
         <mark key="'" line="1981" column="72" />
-        <mark key="[" line="1975" column="141" />
-        <mark key="]" line="1975" column="144" />
-        <mark key="." line="1975" column="141" />
-        <mark key="^" line="1975" column="137" />
+        <mark key="[" line="2076" column="9" />
+        <mark key="]" line="2075" column="46" />
+        <mark key="." line="2075" column="46" />
+        <mark key="^" line="2075" column="46" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" timestamp="1514241920266">
         <mark key="[" line="89" column="58" />
@@ -410,11 +410,11 @@
       <jump line="49" column="78" filename="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankBinsCommand.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
+      <register name="&quot;" type="4">
+        <text>PrcUnauthorizedExcepion</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>PrcUnauthorizedExcepion</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

@@ -36,6 +36,12 @@
         <mark key="." line="437" column="0" />
         <mark key="^" line="437" column="0" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/InterviewAnswer.php" timestamp="1522069972258">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1521817943083">
         <mark key="'" line="280" column="51" />
         <mark key="[" line="2131" column="5" />
@@ -67,9 +73,9 @@
         <mark key="^" line="58" column="21" />
         <mark key="." line="58" column="21" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Answer.php" timestamp="1521724854292">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Answer.php" timestamp="1522070099646">
         <mark key="'" line="55" column="46" />
-        <mark key="[" line="137" column="0" />
+        <mark key="[" line="44" column="24" />
         <mark key="]" line="141" column="20" />
         <mark key="." line="141" column="20" />
         <mark key="^" line="141" column="20" />
@@ -127,7 +133,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1522068878039">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1522070103894">
         <mark key="[" line="623" column="12" />
         <mark key="]" line="623" column="21" />
         <mark key="." line="623" column="21" />
@@ -252,7 +258,7 @@
         <mark key="^" line="33" column="61" />
         <mark key="." line="33" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521810739394">
+      <file name="/Dummy.txt" timestamp="1522069837119">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -289,12 +295,12 @@
         <mark key="^" line="296" column="20" />
         <mark key="." line="296" column="20" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Question.php" timestamp="1521724637443">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Question.php" timestamp="1522069801346">
         <mark key="'" line="35" column="17" />
-        <mark key="[" line="118" column="40" />
-        <mark key="]" line="118" column="37" />
-        <mark key="." line="118" column="37" />
-        <mark key="^" line="118" column="37" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="140" column="22" />
+        <mark key="." line="140" column="22" />
+        <mark key="^" line="140" column="22" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Intervew.php" timestamp="1522068637573">
         <mark key="'" line="8" column="18" />
@@ -490,8 +496,8 @@
       <jump line="7" column="18" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Intervew.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQHBhY2thZ2UgQXBwXEVudGl0eQo=</text>
       </register>
       <register name="-" type="4">
         <text>A</text>
@@ -503,16 +509,16 @@
         <text>repository</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICogQHBhY2thZ2UgQXBwXEVudGl0eQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBPUk1cSm9pblRhYmxlKG5hbWU9ImNsaWVudF9hbnN3ZXIiKQo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgSW50ZXJ2aWV3QW5zd2VyCg==</text>
+        <text encoding="base64">ICogVGltZTogMTY6MTAK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -587,25 +593,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICogRGF0ZTogMjYuMDMuMTgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+        <text encoding="base64">ICogVXNlcjogYnJiYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PD9waHAKbmFtZXNwYWNlIEFwcFxFbnRpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBPUk1cSm9pblRhYmxlKG5hbWU9ImNsaWVudF9hbnN3ZXIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/NewBankDocument.php" timestamp="1521563015410">
@@ -33,9 +33,9 @@
         <mark key="." line="437" column="0" />
         <mark key="^" line="437" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1521796946823">
-        <mark key="'" line="422" column="5" />
-        <mark key="[" line="2118" column="36" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1521817943083">
+        <mark key="'" line="280" column="51" />
+        <mark key="[" line="2131" column="5" />
         <mark key="]" line="2090" column="59" />
         <mark key="." line="2090" column="59" />
         <mark key="^" line="2090" column="59" />
@@ -124,11 +124,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1521815685120">
-        <mark key="[" line="2258" column="5" />
-        <mark key="]" line="2246" column="17" />
-        <mark key="^" line="2246" column="17" />
-        <mark key="." line="2246" column="17" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1521816070728">
+        <mark key="[" line="2266" column="9" />
+        <mark key="]" line="2267" column="20" />
+        <mark key="^" line="2267" column="20" />
+        <mark key="." line="2267" column="20" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Promo.php" timestamp="1521736173325">
         <mark key="[" line="24" column="0" />
@@ -379,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="919" column="0" filename="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" />
       <jump line="931" column="7" filename="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" />
       <jump line="18" column="1" filename="$USER_HOME$/code/img/seolandingphp/CRON/reduceImageSize.php" />
       <jump line="9" column="0" filename="$USER_HOME$/code/img/seolandingphp/CRON/reduceImageSize.php" />
@@ -479,13 +478,14 @@
       <jump line="1525" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
       <jump line="422" column="5" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
       <jump line="78" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Achievement.php" />
+      <jump line="280" column="51" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>item</text>
       </register>
       <register name="-" type="4">
-        <text>clientRepositor</text>
+        <text>item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

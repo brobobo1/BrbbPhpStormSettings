@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/NewBankDocument.php" timestamp="1521563015410">
@@ -237,10 +237,10 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/PromoCodeStaticRepository.php" timestamp="1522156667904">
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="44" column="47" />
-        <mark key="." line="44" column="5" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/PromoCodeStaticRepository.php" timestamp="1522162577356">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
         <mark key="^" line="42" column="17" />
       </file>
       <file name="/dummy.sql" timestamp="1522149606133">
@@ -338,11 +338,11 @@
         <mark key="^" line="81" column="15" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/bin/migration-diff.sh" timestamp="1522161659355" />
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1522160948618">
-        <mark key="[" line="92" column="5" />
-        <mark key="]" line="52" column="67" />
-        <mark key="^" line="52" column="67" />
-        <mark key="." line="52" column="67" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1522162999180">
+        <mark key="[" line="59" column="11" />
+        <mark key="]" line="82" column="41" />
+        <mark key="^" line="82" column="41" />
+        <mark key="." line="82" column="41" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/BinNumberService.php" timestamp="1521560728919">
         <mark key="'" line="34" column="0" />
@@ -512,8 +512,8 @@
       <jump line="212" column="22" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>public function getAvailableCodes(): array</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>A</text>
@@ -525,16 +525,16 @@
         <text>public function getAvailableCodes(): array</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHByb21vQ29kZUluZm8gPSBDbGllbnQ6OlNQRUNJQUxfUFJPTU9fQ09ERVNfVE9fRElTQ09VTlRbJHByb21vQ29kZV07Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdJTlNFUlQgSU5UTyBwcm9tb2NvZGVfc3RhdGljIChjb2RlLCBzdGFydERhdGVOKScpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGNvZGUKICAgICAqIEByZXR1cm4gYXJyYXk=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -609,25 +609,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKCkK</text>
+        <text encoding="base64">ICAgICAqIEAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdJTlNFUlQgSU5UTyBwcm9tb2NvZGVfc3RhdGljIChjb2RlLCBzdGFydERhdGVOKScpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogVGltZTogMTM6NTkK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogRGF0ZTogMjcuMDMuMTgK</text>
+        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogVXNlcjogYnJiYgo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

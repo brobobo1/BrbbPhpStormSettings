@@ -413,6 +413,12 @@
         <mark key="^" line="86" column="14" />
         <mark key="." line="86" column="14" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Service/PromoCodeService/PromoCodeServiceTest.php" timestamp="1522255074977">
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="43" column="41" />
+        <mark key="." line="43" column="41" />
+        <mark key="^" line="43" column="41" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="19" column="0" filename="$USER_HOME$/code/img/seolandingphp/CRON/reduceImageSize.php" />
@@ -517,8 +523,8 @@
       <jump line="1359" column="12" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>promoCodeStaticRepository</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3J5XFByb21vQ29kZVN0YXRpY1JlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>promoCodeStaticRepository</text>
@@ -529,17 +535,17 @@
       <register name="0" type="4">
         <text>public function getAvailableCodes(): array</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LAogICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3J5XFByb21vQ29kZVN0YXRpY1JlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFsbFN0YXRpY1Byb21vSW5mbyA9ICR0aGlzLT5wcm9tbwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">LAogICAgICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkICQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFsbFN0YXRpY1Byb21vSW5mbyA9ICR0aGlzLT5wcm9tbwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -614,25 +620,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkICQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByb21vQ29kZUluZm8gPSBDbGllbnQ6OlNQRUNJQUxfUFJPTU9fQ09ERVNfVE9fRElTQ09VTlRbJHByb21vQ29kZV07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGNvZGUKICAgICAqIEByZXR1cm4gYXJyYXk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHByb21vQ29kZUluZm8gPSBDbGllbnQ6OlNQRUNJQUxfUFJPTU9fQ09ERVNfVE9fRElTQ09VTlRbJHByb21vQ29kZV07Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGNvZGUKICAgICAqIEByZXR1cm4gYXJyYXk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEAK</text>
+        <text encoding="base64">ICAgICAgICByCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdJTlNFUlQgSU5UTyBwcm9tb2NvZGVfc3RhdGljIChjb2RlLCBzdGFydERhdGVOKScpCg==</text>
+        <text encoding="base64">ICAgICAqIEAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

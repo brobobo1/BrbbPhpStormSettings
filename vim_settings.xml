@@ -136,6 +136,9 @@
         <mark key="^" line="22" column="21" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/LoanAgreementDocument.php" timestamp="1522239215486">
+        <mark key="[" line="56" column="44" />
+      </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/rooms_page.tpl" timestamp="1512479957632">
         <mark key="[" line="19" column="36" />
         <mark key="]" line="17" column="58" />
@@ -216,6 +219,12 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Formatter/LoanFormatter.php" timestamp="1522239047326">
+        <mark key="[" line="723" column="64" />
+        <mark key="]" line="723" column="43" />
+        <mark key="^" line="723" column="43" />
+        <mark key="." line="723" column="43" />
+      </file>
       <file name="/a.sql" timestamp="1521538865042">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="2" column="5" />
@@ -280,6 +289,12 @@
         <mark key="]" line="32" column="19" />
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/AbstractLoanDocument.php" timestamp="1522239157215">
+        <mark key="[" line="40" column="66" />
+        <mark key="]" line="40" column="78" />
+        <mark key="^" line="40" column="78" />
+        <mark key="." line="40" column="78" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/pom.xml" timestamp="1516570577932">
         <mark key="[" line="42" column="10" />
@@ -511,7 +526,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkICQK</text>
       </register>
       <register name="-" type="4">
         <text>A</text>
@@ -523,16 +538,16 @@
         <text>public function getAvailableCodes(): array</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkICQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByb21vQ29kZUluZm8gPSBDbGllbnQ6OlNQRUNJQUxfUFJPTU9fQ09ERVNfVE9fRElTQ09VTlRbJHByb21vQ29kZV07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGNvZGUKICAgICAqIEByZXR1cm4gYXJyYXk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHByb21vQ29kZUluZm8gPSBDbGllbnQ6OlNQRUNJQUxfUFJPTU9fQ09ERVNfVE9fRElTQ09VTlRbJHByb21vQ29kZV07Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -606,26 +621,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGNvZGUKICAgICAqIEByZXR1cm4gYXJyYXk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEAK</text>
+        <text encoding="base64">ICAgICAgICByCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdJTlNFUlQgSU5UTyBwcm9tb2NvZGVfc3RhdGljIChjb2RlLCBzdGFydERhdGVOKScpCg==</text>
+        <text encoding="base64">ICAgICAqIEAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdJTlNFUlQgSU5UTyBwcm9tb2NvZGVfc3RhdGljIChjb2RlLCBzdGFydERhdGVOKScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKCkK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

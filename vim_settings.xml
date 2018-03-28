@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/NewBankDocument.php" timestamp="1521563015410">
@@ -8,6 +8,12 @@
         <mark key="]" line="28" column="31" />
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/External/LoanRpcService.php" timestamp="1522240469296">
+        <mark key="[" line="209" column="51" />
+        <mark key="]" line="209" column="71" />
+        <mark key="^" line="209" column="71" />
+        <mark key="." line="209" column="71" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/docker-compose.yml" timestamp="1514887939268">
         <mark key="[" line="3" column="29" />
@@ -36,6 +42,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" timestamp="1522240712826">
+        <mark key="[" line="1200" column="56" />
+        <mark key="]" line="1200" column="76" />
+        <mark key="^" line="1200" column="76" />
+        <mark key="." line="1200" column="76" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/services.php" timestamp="1521562665970">
         <mark key="[" line="437" column="0" />
         <mark key="]" line="437" column="0" />
@@ -48,18 +60,30 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1521817943083">
-        <mark key="'" line="280" column="51" />
-        <mark key="[" line="2131" column="5" />
-        <mark key="]" line="2090" column="59" />
-        <mark key="." line="2090" column="59" />
-        <mark key="^" line="2090" column="59" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1522244575749">
+        <mark key="'" line="1359" column="12" />
+        <mark key="[" line="2073" column="5" />
+        <mark key="]" line="2061" column="0" />
+        <mark key="." line="2061" column="0" />
+        <mark key="^" line="2061" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" timestamp="1514241920266">
         <mark key="[" line="89" column="58" />
         <mark key="]" line="89" column="27" />
         <mark key="^" line="89" column="27" />
         <mark key="." line="89" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/PayoutController.php" timestamp="1522241120375">
+        <mark key="[" line="127" column="60" />
+        <mark key="]" line="127" column="80" />
+        <mark key="." line="127" column="80" />
+        <mark key="^" line="127" column="80" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ProxyRpcService.php" timestamp="1522241831322">
+        <mark key="[" line="1387" column="65" />
+        <mark key="]" line="1387" column="85" />
+        <mark key="^" line="1387" column="85" />
+        <mark key="." line="1387" column="85" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/java.Dockerfile" timestamp="1514883927134">
         <mark key="[" line="1" column="0" />
@@ -79,31 +103,29 @@
         <mark key="^" line="58" column="21" />
         <mark key="." line="58" column="21" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Answer.php" timestamp="1522070099646">
-        <mark key="'" line="55" column="46" />
-        <mark key="[" line="44" column="24" />
-        <mark key="]" line="141" column="20" />
-        <mark key="." line="141" column="20" />
-        <mark key="^" line="141" column="20" />
-      </file>
       <file name="$USER_HOME$/code/learning/project1/LessonClass.java" timestamp="1515211508246">
         <mark key="[" line="24" column="15" />
         <mark key="]" line="24" column="7" />
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankBinsCommand.php" timestamp="1521639196195">
-        <mark key="'" line="49" column="78" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="^" line="95" column="26" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/TestOrderWithChartCommand.php" timestamp="1522242097066">
+        <mark key="[" line="41" column="62" />
+        <mark key="]" line="41" column="42" />
+        <mark key="^" line="41" column="42" />
+        <mark key="." line="41" column="42" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/templates/pages/payment.tpl" timestamp="1512131529666">
         <mark key="[" line="15" column="49" />
         <mark key="]" line="15" column="49" />
         <mark key="^" line="43" column="29" />
         <mark key="." line="15" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/ProlongationAgreement.php" timestamp="1522242437943">
+        <mark key="[" line="69" column="135" />
+        <mark key="]" line="70" column="11" />
+        <mark key="^" line="70" column="11" />
+        <mark key="." line="70" column="11" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/IssuingBank.php" timestamp="1521790894242">
         <mark key="[" line="156" column="34" />
@@ -136,8 +158,11 @@
         <mark key="^" line="22" column="21" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/LoanAgreementDocument.php" timestamp="1522239215486">
-        <mark key="[" line="56" column="44" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/LoanAgreementDocument.php" timestamp="1522239553872">
+        <mark key="[" line="56" column="50" />
+        <mark key="]" line="126" column="22" />
+        <mark key="^" line="126" column="22" />
+        <mark key="." line="126" column="22" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/rooms_page.tpl" timestamp="1512479957632">
         <mark key="[" line="19" column="36" />
@@ -163,6 +188,12 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/GenerateScheduleOrderCommand.php" timestamp="1522240058015">
+        <mark key="[" line="134" column="61" />
+        <mark key="]" line="134" column="82" />
+        <mark key="^" line="134" column="82" />
+        <mark key="." line="134" column="82" />
+      </file>
       <file name="$USER_HOME$/code/img/docker/base.Dockerfile" timestamp="1515575886227">
         <mark key="[" line="59" column="18" />
         <mark key="]" line="59" column="17" />
@@ -175,13 +206,6 @@
         <mark key="^" line="56" column="57" />
         <mark key="." line="56" column="57" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/PromoRepository.php" timestamp="1521737176129">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="20" column="53" />
-        <mark key="." line="20" column="53" />
-        <mark key="^" line="20" column="53" />
-      </file>
       <file name="$USER_HOME$/code/img/seolandingphp/CRON/newScript.php" timestamp="1514231797420">
         <mark key="[" line="19" column="77" />
         <mark key="]" line="17" column="4" />
@@ -193,13 +217,6 @@
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Bin.php" timestamp="1521628525272">
-        <mark key="'" line="59" column="32" />
-        <mark key="[" line="79" column="25" />
-        <mark key="]" line="79" column="26" />
-        <mark key="." line="79" column="26" />
-        <mark key="^" line="79" column="26" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/Makefile" timestamp="1514883557418">
         <mark key="[" line="11" column="42" />
@@ -231,7 +248,7 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="/PHP Console" timestamp="1522149568990">
+      <file name="/PHP Console" timestamp="1522244482219">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/Inner.java" timestamp="1515212151170">
@@ -264,18 +281,11 @@
         <mark key="^" line="33" column="61" />
         <mark key="." line="33" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522234386852">
+      <file name="/Dummy.txt" timestamp="1522243924842">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/BankRepository.php" timestamp="1521628793623">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="44" column="43" />
-        <mark key="." line="44" column="43" />
-        <mark key="^" line="44" column="43" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/LocalClassTest.java" timestamp="1515212295318">
         <mark key="[" line="4" column="0" />
@@ -283,14 +293,13 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PromoCodeStaticRepositoryInterface.php" timestamp="1522156689093">
-        <mark key="'" line="27" column="19" />
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="32" column="19" />
-        <mark key="^" line="32" column="19" />
-        <mark key="." line="32" column="19" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/AgreementGeneratorServiceProvider/AgreementGeneratorController.php" timestamp="1522242062319">
+        <mark key="[" line="63" column="51" />
+        <mark key="]" line="63" column="71" />
+        <mark key="^" line="63" column="71" />
+        <mark key="." line="63" column="71" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/AbstractLoanDocument.php" timestamp="1522239157215">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/AbstractLoanDocument.php" timestamp="1522242171760">
         <mark key="[" line="40" column="66" />
         <mark key="]" line="40" column="78" />
         <mark key="^" line="40" column="78" />
@@ -308,26 +317,16 @@
         <mark key="^" line="177" column="32" />
         <mark key="." line="177" column="32" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/PruntoRpcService.php" timestamp="1522241791381">
+        <mark key="[" line="64" column="44" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Bank.php" timestamp="1521627117372">
         <mark key="[" line="288" column="0" />
         <mark key="]" line="296" column="20" />
         <mark key="^" line="296" column="20" />
         <mark key="." line="296" column="20" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Question.php" timestamp="1522069801346">
-        <mark key="'" line="35" column="17" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="140" column="22" />
-        <mark key="." line="140" column="22" />
-        <mark key="^" line="140" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Intervew.php" timestamp="1522068637573">
-        <mark key="'" line="8" column="18" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="124" column="23" />
-        <mark key="." line="124" column="23" />
-        <mark key="^" line="124" column="23" />
-      </file>
+      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Helper/ConsoleNativeHelperTest.php" timestamp="1522244627314" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/50a90c8e-1908-4bf9-a70b-50eaa8ab35d2/console.sql" timestamp="1507691526327">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="131" column="4" />
@@ -347,18 +346,11 @@
         <mark key="^" line="81" column="15" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/bin/migration-diff.sh" timestamp="1522161659355" />
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1522162999180">
-        <mark key="[" line="59" column="11" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1522240574111">
+        <mark key="[" line="109" column="5" />
         <mark key="]" line="82" column="41" />
         <mark key="^" line="82" column="41" />
         <mark key="." line="82" column="41" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/BinNumberService.php" timestamp="1521560728919">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="33" column="12" />
-        <mark key="." line="33" column="12" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/CRON/yandexImport.php" timestamp="1514234384655">
         <mark key="[" line="19" column="1" />
@@ -372,11 +364,11 @@
         <mark key="^" line="21" column="13" />
         <mark key="." line="21" column="13" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/rpc.php" timestamp="1521635237476">
-        <mark key="[" line="124" column="22" />
-        <mark key="]" line="124" column="31" />
-        <mark key="." line="124" column="38" />
-        <mark key="^" line="124" column="38" />
+      <file name="$USER_HOME$/code/devim/dzp/src/rpc.php" timestamp="1522241319343">
+        <mark key="[" line="204" column="38" />
+        <mark key="]" line="205" column="31" />
+        <mark key="." line="205" column="31" />
+        <mark key="^" line="205" column="31" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/snippets/apartmentSummary.tpl" timestamp="1517533460071">
         <mark key="[" line="68" column="23" />
@@ -423,7 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/code/img/seolandingphp/CRON/reduceImageSize.php" />
       <jump line="19" column="0" filename="$USER_HOME$/code/img/seolandingphp/CRON/reduceImageSize.php" />
       <jump line="11" column="0" filename="$USER_HOME$/code/img/seolandingphp/CRON/reduceImageSize.php" />
       <jump line="165" column="14" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" />
@@ -523,13 +514,14 @@
       <jump line="8" column="25" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PromoCodeStaticRepositoryInterface.php" />
       <jump line="27" column="19" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PromoCodeStaticRepositoryInterface.php" />
       <jump line="212" column="22" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" />
+      <jump line="1359" column="12" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkICQK</text>
+      <register name="&quot;" type="4">
+        <text>promoCodeStaticRepository</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>promoCodeStaticRepository</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
@@ -537,17 +529,17 @@
       <register name="0" type="4">
         <text>public function getAvailableCodes(): array</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkICQK</text>
+      <register name="1" type="4">
+        <text encoding="base64">LAogICAgICAgIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFsbFN0YXRpY1Byb21vSW5mbyA9ICR0aGlzLT5wcm9tbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByb21vQ29kZUluZm8gPSBDbGllbnQ6OlNQRUNJQUxfUFJPTU9fQ09ERVNfVE9fRElTQ09VTlRbJHByb21vQ29kZV07Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkICQK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -621,26 +613,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGNvZGUKICAgICAqIEByZXR1cm4gYXJyYXk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHByb21vQ29kZUluZm8gPSBDbGllbnQ6OlNQRUNJQUxfUFJPTU9fQ09ERVNfVE9fRElTQ09VTlRbJHByb21vQ29kZV07Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGNvZGUKICAgICAqIEByZXR1cm4gYXJyYXk=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdJTlNFUlQgSU5UTyBwcm9tb2NvZGVfc3RhdGljIChjb2RlLCBzdGFydERhdGVOKScpCg==</text>
+        <text encoding="base64">ICAgICAgICByCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAqIEAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKCkK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdJTlNFUlQgSU5UTyBwcm9tb2NvZGVfc3RhdGljIChjb2RlLCBzdGFydERhdGVOKScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

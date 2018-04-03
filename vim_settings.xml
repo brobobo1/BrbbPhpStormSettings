@@ -60,12 +60,12 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1522748069566">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1522751191930">
         <mark key="'" line="1359" column="12" />
-        <mark key="[" line="3154" column="62" />
-        <mark key="]" line="3154" column="62" />
-        <mark key="." line="3154" column="62" />
-        <mark key="^" line="3154" column="62" />
+        <mark key="[" line="3156" column="9" />
+        <mark key="]" line="3157" column="7" />
+        <mark key="." line="3157" column="7" />
+        <mark key="^" line="3157" column="7" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" timestamp="1514241920266">
         <mark key="[" line="89" column="58" />
@@ -96,6 +96,11 @@
         <mark key="]" line="9" column="32" />
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1522750009863">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/code/sl/photoautomate/app/config/parameters.yml" timestamp="1521405782247">
         <mark key="[" line="58" column="2" />
@@ -167,12 +172,12 @@
         <mark key="." line="75" column="35" />
         <mark key="^" line="75" column="35" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1522689302682">
-        <mark key="'" line="212" column="22" />
-        <mark key="[" line="2346" column="67" />
-        <mark key="]" line="2349" column="36" />
-        <mark key="." line="2349" column="36" />
-        <mark key="^" line="2349" column="36" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1522751174665">
+        <mark key="'" line="2311" column="4" />
+        <mark key="[" line="2342" column="32" />
+        <mark key="]" line="2342" column="32" />
+        <mark key="." line="2342" column="32" />
+        <mark key="^" line="2342" column="32" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Promo.php" timestamp="1521736173325">
         <mark key="[" line="24" column="0" />
@@ -270,7 +275,7 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="/PHP Console" timestamp="1522748076447">
+      <file name="/PHP Console" timestamp="1522751177787">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/Inner.java" timestamp="1515212151170">
@@ -285,7 +290,7 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="42" column="17" />
       </file>
-      <file name="/dummy.sql" timestamp="1522427276548">
+      <file name="/dummy.sql" timestamp="1522750016681">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -454,9 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/code/img/seolandingphp/CRON/reduceImageSize.php" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/img/seolandingphp/CRON/reduceImageSize.php" />
-      <jump line="165" column="14" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" />
       <jump line="164" column="12" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" />
       <jump line="163" column="8" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" />
       <jump line="162" column="0" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" />
@@ -554,13 +556,16 @@
       <jump line="27" column="19" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PromoCodeStaticRepositoryInterface.php" />
       <jump line="212" column="22" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" />
       <jump line="1359" column="12" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
+      <jump line="2337" column="43" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" />
+      <jump line="2352" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" />
+      <jump line="2311" column="4" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>(int)$achievement['points']</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>(int)$achievement['points']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
@@ -569,16 +574,16 @@
         <text>achievement</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlaiB7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -653,25 +658,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgJ3BvaW50cycgPT4gKGludCkkYWNoaWV2ZW1lbnRbJ3BvaW50cyddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1YXNvcnQgKCRhLCAkYikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjcmVhdGVkQXQgPSAobmV3IFxEYXRlVGltZSgkbG9hblsnY3JlYXRlZEF0J10pKS0+Zm9ybWF0KCdZLW0tZCcpOwogICAgICAgICAgICB9CiAgICAgICAgICAgICRyZXBheW1lbnRBdCA9ICRsb2FuWydyZXBheW1lbnRBdCddIGluc3RhbmNlb2YgXERhdGVUaW1lID8gJGxvYW5bJ3JlcGF5bWVudEF0J10tPmZvcm1hdCgnWS1tLWQnKSA6ICRsb2FuWydyZXBheW1lbnRBdCddOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJHF1ZXN0aW9ucykpIHsKICAgICAgICAgICAgCiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHF1ZXN0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjcmVhdGVkQXQgPSAkbG9hblsnY3JlYXRlZEF0J10tPmZvcm1hdCgnWS1tLWQnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNsaWVudC0+YWRkRmluaXNoZWRJbnRlcnZpZXcoJHF1ZXN0aW9uc1snaW50ZXJ2aWV3SWQnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRsb2FuWydjcmVhdGVkQXQnXSBpbnN0YW5jZW9mIFxEYXRlVGltZSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

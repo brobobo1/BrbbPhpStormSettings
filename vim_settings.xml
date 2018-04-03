@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/NewBankDocument.php" timestamp="1521563015410">
@@ -163,12 +163,12 @@
         <mark key="^" line="156" column="40" />
         <mark key="." line="156" column="40" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Helper/HistoryEventHelper.php" timestamp="1522774579607">
-        <mark key="'" line="97" column="64" />
-        <mark key="[" line="91" column="7" />
-        <mark key="]" line="88" column="64" />
-        <mark key="." line="88" column="64" />
-        <mark key="^" line="88" column="64" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Helper/HistoryEventHelper.php" timestamp="1522775323573">
+        <mark key="'" line="117" column="64" />
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="47" />
+        <mark key="." line="25" column="47" />
+        <mark key="^" line="25" column="47" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180321125807.php" timestamp="1521637287573">
         <mark key="[" line="48" column="0" />
@@ -653,10 +653,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>EVENT_HISTORY_ELEMENT_SCHEDULE_OVE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>EVENT_HISTORY_ELEMENT_SCHEDULE_OVE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

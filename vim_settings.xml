@@ -313,11 +313,11 @@
         <mark key="^" line="41" column="42" />
         <mark key="." line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Helper/HistoryEventHelperTest.php" timestamp="1522852687219">
-        <mark key="[" line="79" column="15" />
-        <mark key="]" line="75" column="43" />
-        <mark key="." line="75" column="43" />
-        <mark key="^" line="75" column="43" />
+      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Helper/HistoryEventHelperTest.php" timestamp="1522854388572">
+        <mark key="[" line="80" column="73" />
+        <mark key="]" line="81" column="65" />
+        <mark key="." line="80" column="28" />
+        <mark key="^" line="80" column="27" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/IssuingBank.php" timestamp="1521790894242">
         <mark key="[" line="156" column="34" />
@@ -325,12 +325,12 @@
         <mark key="^" line="156" column="40" />
         <mark key="." line="156" column="40" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Helper/HistoryEventHelper.php" timestamp="1522852595240">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Helper/HistoryEventHelper.php" timestamp="1522854135393">
         <mark key="'" line="46" column="8" />
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="4" />
-        <mark key="^" line="277" column="22" />
-        <mark key="." line="35" column="4" />
+        <mark key="[" line="119" column="55" />
+        <mark key="]" line="119" column="36" />
+        <mark key="." line="119" column="36" />
+        <mark key="^" line="119" column="36" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180321125807.php" timestamp="1521637287573">
         <mark key="[" line="48" column="0" />
@@ -674,29 +674,29 @@
       <jump line="24" column="53" filename="$USER_HOME$/code/devim/dzp/src/App/Helper/HistoryEventHelper.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgXQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhbW91bnQnID0+IDYwNy42LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGUnID0+ICcyMDAxLTAxLTAzVDE2OjI4OjM0KzAzOjAwJw==</text>
       </register>
       <register name="-" type="4">
-        <text>priv</text>
+        <text>::</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0ZUlzc3VlID0gXERhdGVUaW1lOjpjcmVhdGVGcm9tRm9ybWF0KCdkLm0uWScsICcwMS4wMS4yMDAxJyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhbW91bnQnID0+IDYwNy42LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGUnID0+ICcyMDAxLTAxLTAzVDE2OjI4OjM0KzAzOjAwJw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGUgPSAkaW5jb21lLT5nZXRDcmVhdGVkQXQoKS0+Zm9ybWF0KHNlbGY6OkRBVEVfRk9STUFUKTttCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgWwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ci8vICAgIC8qKgovLyAgICAgKiBAdGVzdAovLyAgICAgKiBAY292ZXJzICAgICAgIFxBcHBcU2VydmljZVxQcm9tb0NvZGVTZXJ2aWNlXFByb21vQ29kZVNlcnZpY2U6OmdldFByb21vQ29kZUluZm8oKQovLyAgICAgKiBAZGF0YVByb3ZpZGVyIHByb3ZpZGVyR2V0UHJvbW9Db2RlSW5mbwovLyAgICAgKiBAdGhyb3dzIFxFeGNlcHRpb24KLy8gICAgICovCi8vICAgIHB1YmxpYyBmdW5jdGlvbiBjaGVja0dldFByb21vQ29kZUluZm9NZXRob2QoYXJyYXkgJHBhcmFtcywgYXJyYXkgJHJlc3VsdCwgc3RyaW5nICRtZXNzYWdlKTogdm9pZAovLyAgICB7Ci8vICAgICAgICAvKiogQHZhciBQcm9tb0NvZGVTdGF0aWNSZXBvc2l0b3J5ICRwcm9tb1JlcG9zaXRvcnkgKi8KLy8gICAgICAgICRwcm9tb1JlcG9zaXRvcnkgPSBTdHViOjptYWtlRW1wdHkoUHJvbW9Db2RlU3RhdGljUmVwb3NpdG9yeTo6Y2xhc3MsIFsKLy8gICAgICAgICAgICAnZ2V0SW5mb0J5Q29kZScgPT4gZnVuY3Rpb24gKCRjb2RlKSB7Ci8vICAgICAgICAgICAgICAgIGlmICgkY29kZSA9PT0gJ25ldycpIHsKLy8gICAgICAgICAgICAgICAgICAgIHJldHVybiBbCi8vICAgICAgICAgICAgICAgICAgICAgICAgJ3N0YXJ0RGF0ZScgPT4gJzAxLjAzLjIwMTgnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICdlbmREYXRlJyAgID0+ICcwOC4wMy4yMDIwJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAnZGlzY291bnQnICA9PiAxMCwKLy8gICAgICAgICAgICAgICAgICAgICAgICAnZnJlZURheXMnICA9PiAyMCwKLy8gICAgICAgICAgICAgICAgICAgICAgICAnbWluUGVyaW9kJyA9PiAxMCwKLy8gICAgICAgICAgICAgICAgICAgICAgICAnbWF4UGVyaW9kJyA9PiAzMCwKLy8gICAgICAgICAgICAgICAgICAgICAgICAnbWluQW1vdW50JyA9PiAyMDAwICogMTAwLAovLyAgICAgICAgICAgICAgICAgICAgICAgICdtYXhBbW91bnQnID0+IDMwMDAwICogMTAwLAovLyAgICAgICAgICAgICAgICAgICAgICAgICdwcm9tb1RleHQnID0+ICfQktCw0Lwg0L/QvtC00LDRgNC+0LohIDMg0LHQtdGB0L/Qu9Cw0YLQvdGL0YUg0LTQvdGPINC/0L7Qu9GM0LfQvtCy0LDQvdC40Y8g0LfQsNC50LzQvtC8J107Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7Ci8vICAgICAgICAgICAgfV0pOwovLwovLyAgICAgICAgLyoqIEB2YXIgU2NvcmluZ0NsaWVudCAkc2NvcmluZ0NsaWVudCAqLwovLyAgICAgICAgJHNjb3JpbmdDbGllbnQgPSBTdHViOjptYWtlRW1wdHkoU2NvcmluZ0NsaWVudDo6Y2xhc3MsIFsKLy8gICAgICAgICAgICAnZ2V0Q2xpZW50UHJvbW9JbmZvJyA9PiBmdW5jdGlvbiAoJGNsaWVudEFyY2hpSWQpIHsKLy8gICAgICAgICAgICAgICAgaWYgKCRjbGllbnRBcmNoaUlkICE9PSBudWxsKSB7Ci8vICAgICAgICAgICAgICAgICAgICByZXR1cm4gWyduZXh0UHJvbW9jb2RlRGF5cycgPT4gMjJdOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIHJldHVybiBbJ25leHRQcm9tb2NvZGVEYXlzJyA9PiAwXTsKLy8gICAgICAgICAgICB9XSk7Ci8vCi8vICAgICAgICAkcHJvbW9Db2RlU2VydmljZSA9IG5ldyBQcm9tb0NvZGVTZXJ2aWNlKCRzY29yaW5nQ2xpZW50LCAkcHJvbW9SZXBvc2l0b3J5KTsKLy8KLy8gICAgICAgICRvdXRwdXQgPSBuZXcgT3V0cHV0KFtdKTsKLy8gICAgICAgICRvdXRwdXQtPm5vdGlmaWNhdGlvbigkbWVzc2FnZSk7Ci8vCi8vICAgICAgICAkaW5mbyA9ICRwcm9tb0NvZGVTZXJ2aWNlLT5nZXRQcm9tb0NvZGVJbmZvKCRwYXJhbXNbMF0sICRwYXJhbXNbMV0sICRwYXJhbXNbMl0sICRwYXJhbXNbM10sICRwYXJhbXNbNF0pOwovLyAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkcmVzdWx0LCAkaW5mbywgJG1lc3NhZ2UpOwovLyAgICB9Cn0=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -771,22 +771,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgWwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkaW5mbyA9ICRwcm9tb0NvZGVTZXJ2aWNlLT5nZXRQcm9tb0NvZGVJbmZvKCRwYXJhbXNbMF0sICRwYXJhbXNbMV0sICRwYXJhbXNbMl0sICRwYXJhbXNbM10sICRwYXJhbXNbNF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

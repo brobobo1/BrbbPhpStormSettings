@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/NewBankDocument.php" timestamp="1521563015410">
@@ -71,6 +71,11 @@
         <mark key="]" line="10" column="35" />
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankLogosCommand.php" timestamp="1523019535214">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1522950040014">
         <mark key="'" line="1361" column="12" />
@@ -383,18 +388,18 @@
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PartnerRepositoryInterface.php" timestamp="1522847301897">
         <mark key="[" line="32" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523005873397">
+      <file name="/Dummy.txt" timestamp="1523016985693">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/BankRepository.php" timestamp="1521628793623">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="44" column="43" />
-        <mark key="." line="44" column="43" />
-        <mark key="^" line="44" column="43" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/BankRepository.php" timestamp="1523016870373">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/LocalClassTest.java" timestamp="1515212295318">
         <mark key="[" line="4" column="0" />
@@ -436,11 +441,17 @@
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/PruntoRpcService.php" timestamp="1522241791381">
         <mark key="[" line="64" column="44" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Bank.php" timestamp="1521627117372">
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="296" column="20" />
-        <mark key="^" line="296" column="20" />
-        <mark key="." line="296" column="20" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Bank.php" timestamp="1523018618847">
+        <mark key="[" line="296" column="32" />
+        <mark key="]" line="296" column="31" />
+        <mark key="^" line="296" column="31" />
+        <mark key="." line="296" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/BankRepositoryInterface.php" timestamp="1523016884785">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="45" />
+        <mark key="^" line="31" column="45" />
+        <mark key="." line="31" column="45" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Intervew.php" timestamp="1522068637573">
         <mark key="'" line="8" column="18" />
@@ -562,11 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="15" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexImporting.php" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/index.tpl" />
-      <jump line="31" column="11" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/index.tpl" />
-      <jump line="62" column="8" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/index.tpl" />
-      <jump line="66" column="8" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/index.tpl" />
       <jump line="70" column="8" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/index.tpl" />
       <jump line="74" column="8" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/index.tpl" />
       <jump line="15" column="0" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/about.tpl" />
@@ -662,31 +668,36 @@
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.php" />
       <jump line="203" column="0" filename="$USER_HOME$/code/devim/dzp/tests/unit/App/Helper/HistoryEventHelperTest.php" />
       <jump line="215" column="4" filename="$USER_HOME$/code/devim/dzp/tests/unit/App/Helper/HistoryEventHelperTest.php" />
+      <jump line="38" column="37" filename="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankLogosCommand.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankLogosCommand.php" />
+      <jump line="88" column="20" filename="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankLogosCommand.php" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankLogosCommand.php" />
+      <jump line="77" column="7" filename="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankLogosCommand.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHRlc3QKICAgICAqIEBjb3ZlcnMgICAgICAgIFxBcHBcSGVscGVyXEhpc3RvcnlFdmVudEhlbHBlcjo6Z2V0UGRsRXZlbnRIaXN0b3J5KCkKICAgICAqIEBkYXRhUHJvdmlkZXIgIHByb3ZpZGVyQ2hlY2tHZXRQZGxFdmVudEhpc3RvcnkKICAgICAqCiAgICAgKiBAcGFyYW0gYXJyYXkgJHBhcmFtcwogICAgICogQHBhcmFtIGFycmF5ICRyZXN1bHQKICAgICAqIEBwYXJhbSBzdHJpbmcgJG1lc3NhZ2UKICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gY2hlY2tHZXRQZGxFdmVudEhpc3RvcnkoYXJyYXkgJHBhcmFtcywgYXJyYXkgJHJlc3VsdCwgc3RyaW5nICRtZXNzYWdlKTogdm9pZAogICAgewogICAgICAgICRvdXRwdXQgPSBuZXcgT3V0cHV0KFtdKTsKICAgICAgICAkb3V0cHV0LT5ub3RpZmljYXRpb24oJG1lc3NhZ2UpOwoKICAgICAgICAkZXZlbnRzID0gSGlzdG9yeUV2ZW50SGVscGVyOjpnZXRQZGxFdmVudEhpc3RvcnkoJHBhcmFtc1swXSwgJHBhcmFtc1sxXSwgJHBhcmFtc1syXSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkcmVzdWx0LCAkZXZlbnRzLCAkbWVzc2FnZSk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>__DIR__ . '/../../../banks/banks-logos</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICdkYXRlJyAgID0+ICRpbmNvbWVEYXRlNC0+Zm9ybWF0KEhpc3RvcnlFdmVudEhlbHBlcjo6REFURV9GT1JNQVQpLAogICAgICAgICAgICAgICAgICAgICAgICAndHlwZScgICA9PiBIaXN0b3J5RXZlbnRIZWxwZXI6OkVWRU5UX0hJU1RPUllfRUxFTUVOVF9QQUlELAogICAgICAgICAgICAgICAgICAgICAgICAnYW1vdW50JyA9PiAzMDAwLjAKICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGUnICAgPT4gJHNjaGVkdWxlRGF0ZTMtPmZvcm1hdChIaXN0b3J5RXZlbnRIZWxwZXI6OkRBVEVfRk9STUFUKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnICAgPT4gSGlzdG9yeUV2ZW50SGVscGVyOjpFVkVOVF9ISVNUT1JZX0VMRU1FTlRfU0NIRURVTEVfQ0xPU0VELAogICAgICAgICAgICAgICAgICAgICAgICAnYW1vdW50JyA9PiAzMDAwLjAKICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGUnICAgPT4gJHNjaGVkdWxlRGF0ZTQtPmZvcm1hdChIaXN0b3J5RXZlbnRIZWxwZXI6OkRBVEVfRk9STUFUKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnICAgPT4gSGlzdG9yeUV2ZW50SGVscGVyOjpFVkVOVF9ISVNUT1JZX0VMRU1FTlRfU0NIRURVTEVfQUNUSVZFLAogICAgICAgICAgICAgICAgICAgICAgICAnYW1vdW50JyA9PiAyNTAwLjAKICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGUnICAgPT4gJHNjaGVkdWxlRGF0ZTUtPmZvcm1hdChIaXN0b3J5RXZlbnRIZWxwZXI6OkRBVEVfRk9STUFUKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnICAgPT4gSGlzdG9yeUV2ZW50SGVscGVyOjpFVkVOVF9ISVNUT1JZX0VMRU1FTlRfU0NIRURVTEVfT1BFTiwKICAgICAgICAgICAgICAgICAgICAgICAgJ2Ftb3VudCcgPT4gMzAwMC4wCiAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICdkYXRlJyAgID0+ICRzY2hlZHVsZURhdGU2LT5mb3JtYXQoSGlzdG9yeUV2ZW50SGVscGVyOjpEQVRFX0ZPUk1BVCksCiAgICAgICAgICAgICAgICAgICAgICAgICd0eXBlJyAgID0+IEhpc3RvcnlFdmVudEhlbHBlcjo6RVZFTlRfSElTVE9SWV9FTEVNRU5UX1NDSEVEVUxFX09QRU4sCiAgICAgICAgICAgICAgICAgICAgICAgICdhbW91bnQnID0+IDMwMDAuMAogICAgICAgICAgICAgICAgICAgIF0s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRsb2dvID09PSBudWxsKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29kZWNlcHRfZGVidWcoJGV2ZW50c1skYWN0aXZlS2V5XSk7ZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBUWVBFX05BTUUgJGRhdGEgKi8K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -761,25 +772,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlY2VwdF9kZWJ1ZygkcmVzdWx0KTsKICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcmV0dXJuIC0xOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyID0gJHRoaXMtPmdldENvbnRhaW5lcigpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0ZUlzc3VlICAgID0gXERhdGVUaW1lOjpjcmVhdGVGcm9tRm9ybWF0KCdkLm0uWScsICcwMi4wMS4yMDAxJyk7CiAgICAgICAgJGxvYW4gPSBuZXcgTG9hbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0ZUNsb3NlZCAgID0gXERhdGVUaW1lOjpjcmVhdGVGcm9tRm9ybWF0KCdkLm0uWScsICcxMC4wMS4yMDAxJyk7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBCYW5rUmVwb3NpdG9yeUludGVyZmFjZSAkYmFua1JlcG9zaXRvcnkgKi8KICAgICAgICAkYmFua1JlcG9zaXRvcnkgPSAkY29udGFpbmVyWydyZXBvc2l0b3J5LmJhbmsnXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

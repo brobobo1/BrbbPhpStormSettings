@@ -223,11 +223,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1523282991927">
-        <mark key="[" line="90" column="79" />
-        <mark key="]" line="90" column="84" />
-        <mark key="^" line="90" column="84" />
-        <mark key="." line="90" column="84" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1523290361139">
+        <mark key="[" line="95" column="153" />
+        <mark key="]" line="95" column="136" />
+        <mark key="^" line="95" column="136" />
+        <mark key="." line="95" column="136" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/BinNumberService.php" timestamp="1521560728919">
         <mark key="'" line="34" column="0" />
@@ -255,11 +255,11 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Service/PromoCodeService/PromoCodeServiceTest.php" timestamp="1523283602369">
-        <mark key="[" line="37" column="44" />
-        <mark key="]" line="42" column="74" />
-        <mark key="^" line="42" column="74" />
-        <mark key="." line="42" column="74" />
+      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Service/PromoCodeService/PromoCodeServiceTest.php" timestamp="1523290813593">
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="46" column="12" />
+        <mark key="." line="46" column="12" />
+        <mark key="^" line="46" column="12" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/NewBankDocument.php" timestamp="1521563015410">
         <mark key="[" line="28" column="31" />
@@ -675,26 +675,26 @@
       <jump line="98" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/PromoCodeStatic.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzRmlyc01vbnRoJwo=</text>
+      <register name="&quot;" type="4">
+        <text>tes</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>tes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>__DIR__ . '/../../../banks/banks-logos</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgW251bGwsICdub3RfZXhpc3QnLCAxMDAwMDAgKiAxMDAsIDEwLCBbJ3VzZWQnXV0sCiAgICAgICAgICAgICAgICBbMCwgMCwgJycsIG51bGwsIGZhbHNlLCBmYWxzZV0sCiAgICAgICAgICAgICAgICAnIFByb21vIGNvZGUgbm90IGV4aXN0JwogICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzRmlyc01vbnRoJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3BlcmNlbnQnID0+IG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2RlCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -772,25 +772,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWyRkaXNjb3VudCwgJGZyZWVEYXlzLCAkcHJvbW9UZXh0XTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzRmlyc01vbnRoJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZyZWVEYXlzICA9ICRpbmZvWydmcmVlRGF5cyddOwogICAgICAgICAgICAkcHJvbW9UZXh0ID0gJGluZm9bJ3Byb21vVGV4dCddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3BlcmNlbnQnID0+IG51bGwsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGluZm8gIT09IG51bGwpIHsKICAgICAgICAgICAgJGRpc2NvdW50ICA9ICRpbmZvWydkaXNjb3VudCddOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkaW5mbyA9ICR0aGlzLT5wcm9tb0NvZGVTdGF0aWNSZXBvc2l0b3J5LT5nZXRJbmZvQnlDb2RlKCRwcm9tb0NvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWyRkaXNjb3VudCwgJGZyZWVEYXlzLCAkcHJvbW9UZXh0XTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwc2MuZnJlZURheXMgYXMgZnJlZURheXMsICBkCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

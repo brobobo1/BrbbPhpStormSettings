@@ -1,11 +1,8 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1522068658667">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180327111614.php" timestamp="1523280566937">
         <mark key="[" line="21" column="163" />
         <mark key="]" line="21" column="163" />
@@ -141,7 +138,7 @@
         <mark key="." line="20" column="71" />
         <mark key="^" line="20" column="71" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/LoanController.php" timestamp="1523371667400">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/LoanController.php" timestamp="1523373580686">
         <mark key="[" line="504" column="13" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/Makefile" timestamp="1514883557418">
@@ -313,6 +310,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/AcceptanceRpcService.php" timestamp="1523373532890">
+        <mark key="[" line="323" column="18" />
+        <mark key="]" line="323" column="27" />
+        <mark key="^" line="323" column="27" />
+        <mark key="." line="323" column="27" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" timestamp="1523371652958">
         <mark key="[" line="1187" column="80" />
         <mark key="]" line="1187" column="127" />
@@ -335,9 +338,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/tests/_data/db/fixtures/fixturesLoader.yml" timestamp="1523009710647">
-        <mark key="[" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/TestOrderWithChartCommand.php" timestamp="1522242097066">
         <mark key="[" line="41" column="62" />
@@ -394,11 +394,11 @@
         <mark key="." line="493" column="37" />
         <mark key="^" line="493" column="37" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/LoanScheduleService/LoanScheduleService.php" timestamp="1523371790266">
-        <mark key="[" line="524" column="79" />
-        <mark key="]" line="226" column="103" />
-        <mark key="." line="226" column="103" />
-        <mark key="^" line="226" column="103" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/LoanScheduleService/LoanScheduleService.php" timestamp="1523373434461">
+        <mark key="[" line="296" column="60" />
+        <mark key="]" line="296" column="106" />
+        <mark key="." line="296" column="106" />
+        <mark key="^" line="296" column="106" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1517582554275">
         <mark key="[" line="358" column="21" />
@@ -443,9 +443,6 @@
         <mark key="." line="79" column="26" />
         <mark key="^" line="79" column="26" />
       </file>
-      <file name="/PHP Console" timestamp="1522930068990">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/learning/project1/Inner.java" timestamp="1515212151170">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="4" column="7" />
@@ -482,9 +479,6 @@
         <mark key="^" line="33" column="61" />
         <mark key="." line="33" column="61" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PartnerRepositoryInterface.php" timestamp="1522847301897">
-        <mark key="[" line="32" column="35" />
-      </file>
       <file name="/Dummy.txt" timestamp="1523270951898">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -508,9 +502,6 @@
         <mark key="]" line="42" column="9" />
         <mark key="^" line="42" column="9" />
         <mark key="." line="42" column="9" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/PruntoRpcService.php" timestamp="1522241791381">
-        <mark key="[" line="64" column="44" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Bank.php" timestamp="1523018618847">
         <mark key="[" line="296" column="32" />

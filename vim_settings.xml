@@ -769,7 +769,7 @@
  */</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -785,7 +785,9 @@
       </history-search>
       <history-cmd>
         <entry>Q</entry>
+        <entry>sq</entry>
         <entry>q</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -323,6 +323,12 @@
         <mark key="." line="75" column="35" />
         <mark key="^" line="75" column="35" />
       </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/packages/mailchimp.yaml" timestamp="1523622988563">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Promo.php" timestamp="1521736173325">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -521,6 +527,12 @@
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/decoration.tpl" timestamp="1511711451307">
         <mark key="[" line="15" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/.env.dist" timestamp="1523623161450">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="9" />
+        <mark key="." line="32" column="9" />
+        <mark key="^" line="32" column="8" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/LessonClass.java" timestamp="1515211508246">
         <mark key="[" line="24" column="15" />
@@ -1069,10 +1081,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'d48b21194736c00c16a40d246fba12e87c52db1bfe1100e477'k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
@@ -1081,16 +1093,16 @@
         <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCJjbGljayIsICIuYWRkbGlzdGxpbmsiLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcG9zID0gJCh0aGlzKS5vZmZzZXQoKTsKICAgICAgICBpZCA9ICQodGhpcykuYXR0cigiZGF0YS1pZCIpOwogICAgICAgICQucG9zdCgicG9zdGVyLnBocCIsIHtnZXRTdWJ3YXlMaXN0OiBpZCwgYWRkOiAxfSwgZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgc2hvd01lc3NhZ2VNYWluKGRhdGEsIHBvcyk7CiAgICAgICAgfSk7CiAgICB9KTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGllbnRfaWQ6ICc5NTI2NzY1NDEyMTgnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRlc3QgPT09IDEpIHsKICAgICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICBjbGllbnRfc2VjcmV0OiAnZDQ4YjIxMTk0NzM2YzAwYzE2YTQwZDI0NmZiYTEyZTg3YzUyZGIxYmZlMTEwMGU0Nzcnawo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1165,33 +1177,28 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ewp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgZGtmamFkICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRlc3QgPT09IDEpIHsKICAgICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ewp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgZGtmamFkICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
- * Created by PhpStorm.
- * User: brbb
- * Date: 20.03.18
- * Time: 1:59
- */</text>
+      <register name="9" type="2">
+        <text encoding="base64">cAo=</text>
       </register>
       <register name=":" type="4">
-        <text>e</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -1209,9 +1216,10 @@
         <entry>Q</entry>
         <entry>q</entry>
         <entry>11</entry>
-        <entry>ps</entry>
-        <entry>vs</entry>
         <entry>F stepF</entry>
+        <entry>ps</entry>
+        <entry>sp</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />

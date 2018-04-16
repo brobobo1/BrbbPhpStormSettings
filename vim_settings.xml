@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -167,11 +167,12 @@
       <file name="$USER_HOME$/code/img/seolandingphp/Utils/YandexImporting.php" timestamp="1515840552690">
         <mark key="[" line="243" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1523890205690">
-        <mark key="[" line="57" column="27" />
-        <mark key="]" line="193" column="91" />
-        <mark key="^" line="193" column="91" />
-        <mark key="." line="193" column="91" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1523891190137">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="106" column="75" />
+        <mark key="]" line="106" column="74" />
+        <mark key="^" line="106" column="74" />
+        <mark key="." line="106" column="74" />
       </file>
       <file name="$USER_HOME$/Code/img/docker/dev.Dockerfile" timestamp="1514879185233">
         <mark key="[" line="35" column="15" />
@@ -913,8 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" />
-      <jump line="68" column="0" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" />
       <jump line="66" column="0" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" />
       <jump line="55" column="0" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" />
       <jump line="45" column="0" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" />
@@ -1013,19 +1012,21 @@
       <jump line="93" column="6" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
       <jump line="2202" column="6" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
       <jump line="156" column="23" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
+      <jump line="44" column="36" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" />
+      <jump line="133" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgUnBjV3JvbmdQcm9tb0NvZGVFeGNlcHRpb25kZAo=</text>
+      <register name="&quot;" type="4">
+        <text>(?int $clientArchiId, string $promoCode, int $loanAmount, int $loanPeriod, array $usedPromoCodes)</text>
       </register>
       <register name="-" type="4">
-        <text>Stats</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtPmFkZFNlcnZpY2UoT2ZmaWNlTWFwUnBjU2VydmljZTo6Y2xhc3MsIGZ1bmN0aW9uICgpIHVzZSAoJGFwcCkgewogICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgJGFwcFsnb2ZmaWNlX21hcCddCiAgICAgICAgICAgIF07CiAgICAgICAgfSkK</text>
+      <register name="0" type="4">
+        <text>(?int $clientArchiId, string $promoCode, int $loanAmount, int $loanPeriod, array $usedPromoCodes)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgUnBjV3JvbmdQcm9tb0NvZGVFeGNlcHRpb25kZAo=</text>

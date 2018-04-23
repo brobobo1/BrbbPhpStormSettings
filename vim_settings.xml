@@ -454,7 +454,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522272862917">
+      <file name="/Dummy.txt" timestamp="1524514230753">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -549,7 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" />
       <jump line="85" column="0" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" />
       <jump line="78" column="0" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" />
       <jump line="68" column="0" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" />
@@ -649,6 +648,7 @@
       <jump line="27" column="4" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" />
       <jump line="5" column="0" filename="$USER_HOME$/code/opossum/princess/Concept/ExpertSystem/Readme.me" />
       <jump line="3" column="0" filename="$USER_HOME$/code/opossum/princess/Concept/ExpertSystem/Readme.me" />
+      <jump line="19" column="29" filename="$USER_HOME$/code/opossum/princess/src/Kernel.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -769,7 +769,7 @@
         <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">ZWRpdCA=</text>
+        <text>!ls</text>
       </register>
     </registers>
     <search>
@@ -797,6 +797,9 @@
         <entry>h</entry>
         <entry encoding="base64">ZWRpdCA=</entry>
         <entry>edit $MYVIMRC</entry>
+        <entry>composer -h</entry>
+        <entry>!composer</entry>
+        <entry>!ls</entry>
       </history-cmd>
       <history-expr />
       <history-input />

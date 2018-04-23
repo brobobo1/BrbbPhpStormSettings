@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -980,11 +980,11 @@
         <mark key="^" line="42" column="9" />
         <mark key="." line="42" column="9" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/ImportRocketBankBinsCommand.php" timestamp="1524486850003">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="72" column="12" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/ImportRocketBankBinsCommand.php" timestamp="1524489146004">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="91" column="43" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Bank.php" timestamp="1523018618847">
         <mark key="[" line="296" column="32" />
@@ -1152,28 +1152,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSAgICAgICAgIA==</text>
+        <text>issuingBank</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IGJhc2U2NF9lbmNvZGUoZmlsZV9nZXRfY29udGVudHMoJGxvZ29GaWxlKSk7CiAgICAgICAgcmV0dXJuICR0aGlzLT5waG90b1VwbG9hZGVyLT51cGxvYWQoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpc3N1aW5nQmFua1JlcG9zaXRvcnktPnBlcnNpc3RBbmRGbHVzaCgkaXNzdWluZ0JhbmspOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAkYmFuay0+YWRkSXNzdWluZ0JhbmsoJGlzc3VpbmdCYW5rKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAkdGhpcy0+aXNzdWVCYW5rc0J5TmFtZVskaXNzdWluZ0JhbmtOYW1lXSA9ICRpc3N1aW5nQmFuazsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1248,25 +1248,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAkaXNzdWluZ0JhbmtSZXBvc2l0b3J5LT5wZXJzaXN0QW5kRmx1c2goJGlzc3VpbmdCYW5rKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmJhbmtSZXBvc2l0b3J5LT5wZXJzaXN0KCRiYW5rRW50aXR5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpc3N1aW5nQmFuay0+c2V0TmFtZSgkaXNzdWluZ0JhbmtOYW1lKTsKICAgICAgICAgICAgICAgICRpc3N1aW5nQmFuay0+c2V0QmFuaygkYmFuayk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJhbmtFbnRpdHktPnNldExvZ29QYXRoKCRsb2dvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRpc3N1aW5nQmFuayA9PT0gbnVsbCkgewogICAgICAgICAgICAgICAgJGlzc3VpbmdCYW5rID0gbmV3IElzc3VpbmdCYW5rKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxvZ28gPSAkdGhpcy0+Z2V0TG9nb0RhdGFGcm9tRmlsZSgkbG9nb0RpciAuICcvJyAuICRsb2dvTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICRpc3N1aW5nQmFuayA9ICRpc3N1aW5nQmFua1JlcG9zaXRvcnktPmZpbmRCeU5hbWUoJGlzc3VpbmdCYW5rTmFtZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzc2V0KCR0aGlzLT5pc3N1ZUJhbmtzQnlOYW1lWyRpc3N1aW5nQmFua05hbWVdKSkgewogICAgICAgICAgICAgICAgJGlzc3VpbmdCYW5rID0gJHRoaXMtPmlzc3VlQmFua3NCeU5hbWVbJGlzc3VpbmdCYW5rTmFtZV07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

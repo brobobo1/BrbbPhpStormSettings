@@ -29,6 +29,7 @@
       <mapping pattern=".composer.json.swp" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
       <mapping pattern="console" type="Bash" />
       <mapping pattern="docker-php-pecl-install" type="Bash" />

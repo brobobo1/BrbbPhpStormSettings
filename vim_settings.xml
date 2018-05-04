@@ -264,6 +264,12 @@
         <mark key="." line="220" column="104" />
         <mark key="^" line="220" column="104" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/config/packages/jms_serializer.yaml" timestamp="1525447307954">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180417154232.php" timestamp="1523981274244">
         <mark key="[" line="21" column="162" />
         <mark key="]" line="21" column="170" />
@@ -342,12 +348,6 @@
         <mark key="]" line="22" column="50" />
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="50" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1524670151568">
-        <mark key="'" line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/rpc.php" timestamp="1525334731598">
-        <mark key="'" line="279" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/ProlongationRepository.php" timestamp="1522847474006">
         <mark key="[" line="114" column="19" />
@@ -985,11 +985,11 @@
       <jump line="518" column="60" filename="$USER_HOME$/code/devim/dzp/config/config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>logs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgcGF0aDogJyVrZXJuZWwucm9vdF9kaXIlL3NyYy9BcHAvU2VyaWFsaXplci9FbnRpdHknCg==</text>
       </register>
       <register name="-" type="4">
-        <text>logs</text>
+        <text>FooBundle</text>
       </register>
       <register name="/" type="4">
         <text>fillStepOne</text>
@@ -998,16 +998,16 @@
         <text encoding="base64">ICBwYXRocy5sb2dzOiAnJXBhdGhzLnJ1bnRpbWUlL2xvZ3MnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiMtLS0tLWNvbnRhY3RfdXJsLS0tLS0K</text>
+        <text encoding="base64">ICAgICAgICAgcGF0aDogJyVrZXJuZWwucm9vdF9kaXIlL3NyYy9BcHAvU2VyaWFsaXplci9FbnRpdHknCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMtLS0tLWFib25lbnRfaWQtLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICAgbmFtZXNwYWNlX3ByZWZpeDogJ0FwcFxcJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMtLS0tLWludF9zb2Z0X2lkLS0tLS0K</text>
+        <text encoding="base64">ICAgICAgIEFwcDoK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1082,25 +1082,27 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMtLS0tLXVzZXJfaWQtLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgaWRpcmVjdG9yaWVzOm4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JCA9ICcnOwo=</text>
+        <text encoding="base64">ZAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICRhZnRlciA9ICcnOwo=</text>
+      <register name="6" type="4">
+        <text>#       another-name:
+#         namespace_prefix: &quot;My\\BarBundle&quot;
+#         path: &quot;@MyBarBundle/Resources/config/serializer&quot;</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYmVmb3JlIAo=</text>
+        <text encoding="base64">CiMtLS0tLWNvbnRhY3RfdXJsLS0tLS0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMtLS0tLWFib25lbnRfaWQtLS0tLQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMtLS0tLWludF9zb2Z0X2lkLS0tLS0K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

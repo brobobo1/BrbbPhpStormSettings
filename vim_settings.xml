@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -65,6 +65,9 @@
         <mark key="]" line="89" column="27" />
         <mark key="^" line="89" column="27" />
         <mark key="." line="89" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/DependencyInjection/Security/Factory/JwtTwoFactorFactory.php" timestamp="1525698237818">
+        <mark key="[" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/PayoutController.php" timestamp="1523379105476">
         <mark key="[" line="101" column="26" />
@@ -641,18 +644,18 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/config/config.php" timestamp="1525683971968">
+      <file name="$USER_HOME$/code/devim/dzp/config/config.php" timestamp="1525698163282">
         <mark key="'" line="518" column="60" />
         <mark key="[" line="150" column="54" />
         <mark key="]" line="150" column="89" />
         <mark key="^" line="150" column="53" />
         <mark key="." line="150" column="53" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/config/packages/security.yaml" timestamp="1525695369578">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
+      <file name="$USER_HOME$/code/devim/dzp/config/packages/security.yaml" timestamp="1525698190995">
+        <mark key="[" line="76" column="17" />
+        <mark key="]" line="76" column="16" />
+        <mark key="." line="76" column="16" />
+        <mark key="^" line="76" column="16" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/GenerateScheduleOrderCommand.php" timestamp="1522240058015">
         <mark key="[" line="134" column="61" />
@@ -1001,11 +1004,11 @@
       <jump line="518" column="60" filename="$USER_HOME$/code/devim/dzp/config/config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxQcm92aWRlclxTZWN1cml0eUp3dFNlcnZpY2VQcm92aWRlclxIdHRwXEVudHJ5UG9pbnRcSldUQXV0aGVudGljYXRpb25FbnRyeVBvaW50Owo=</text>
+      <register name="&quot;" type="4">
+        <text>App</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>App</text>
       </register>
       <register name="/" type="4">
         <text>fillStepOne</text>

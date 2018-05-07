@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -655,11 +655,11 @@
         <mark key="^" line="150" column="53" />
         <mark key="." line="150" column="53" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/config/packages/security.yaml" timestamp="1525701486077">
-        <mark key="[" line="154" column="34" />
-        <mark key="]" line="110" column="1" />
+      <file name="$USER_HOME$/code/devim/dzp/config/packages/security.yaml" timestamp="1525704161554">
+        <mark key="[" line="239" column="48" />
+        <mark key="]" line="253" column="0" />
         <mark key="^" line="110" column="1" />
-        <mark key="." line="110" column="1" />
+        <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/GenerateScheduleOrderCommand.php" timestamp="1522240058015">
         <mark key="[" line="134" column="61" />
@@ -1009,7 +1009,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBodHRwczovL3N5bWZvbnkuY29tL2RvYy9jdXJyZW50L3NlY3VyaXR5L2Zvcm1fbG9naW5fc2V0dXAuaHRtbAo=</text>
+        <text encoding="base64">ICAgICAgICAjIC0geyBwYXRoOiBeL3Byb2ZpbGUsIHJvbGVzOiBST0xFX1VTRVIgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>header_name</text>
@@ -1021,16 +1021,16 @@
         <text encoding="base64">Iy0tLS0tand0LS0tLS0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBodHRwczovL3N5bWZvbnkuY29tL2RvYy9jdXJyZW50L3NlY3VyaXR5L2Zvcm1fbG9naW5fc2V0dXAuaHRtbAo=</text>
+        <text encoding="base64">ICAgICAgICAjIC0geyBwYXRoOiBeL3Byb2ZpbGUsIHJvbGVzOiBST0xFX1VTRVIgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICMgZm9ybV9sb2dpbjogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBodHRwczovL3N5bWZvbnkuY29tL2RvYy9jdXJyZW50L3NlY3VyaXR5L2Zvcm1fbG9naW5fc2V0dXAuaHRtbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBodHRwX2Jhc2ljOiB0cnVlCiAgICAgICAgICAgICMgaHR0cHM6Ly9zeW1mb255LmNvbS9kb2MvY3VycmVudC9zZWN1cml0eS5odG1sI2EtY29uZmlndXJpbmctaG93LXlvdXItdXNlcnMtd2lsbC1hdXRoZW50aWNhdGUK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICMgZm9ybV9sb2dpbjogdHJ1ZQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1105,10 +1105,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhY3RpdmF0ZSBkaWZmZXJlbnQgd2F5cyB0byBhdXRoZW50aWNhdGUKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBodHRwX2Jhc2ljOiB0cnVlCiAgICAgICAgICAgICMgaHR0cHM6Ly9zeW1mb255LmNvbS9kb2MvY3VycmVudC9zZWN1cml0eS5odG1sI2EtY29uZmlndXJpbmctaG93LXlvdXItdXNlcnMtd2lsbC1hdXRoZW50aWNhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhY3RpdmF0ZSBkaWZmZXJlbnQgd2F5cyB0byBhdXRoZW50aWNhdGUKCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1117,10 +1117,10 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cgo=</text>

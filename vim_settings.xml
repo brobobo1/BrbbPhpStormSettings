@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -334,11 +334,10 @@
         <mark key="." line="67" column="19" />
         <mark key="^" line="67" column="19" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/DependencyInjection/Security/Factory/JwtFactory.php" timestamp="1525689768093">
-        <mark key="[" line="42" column="20" />
-        <mark key="]" line="42" column="7" />
-        <mark key="^" line="42" column="7" />
-        <mark key="." line="42" column="7" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/DependencyInjection/Security/Factory/JwtFactory.php" timestamp="1525695223666">
+        <mark key="[" line="42" column="88" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/AuthRpcService.php" timestamp="1524220703560">
         <mark key="[" line="42" column="0" />
@@ -649,11 +648,11 @@
         <mark key="^" line="150" column="53" />
         <mark key="." line="150" column="53" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/config/packages/security.yaml" timestamp="1525684097347">
-        <mark key="[" line="1" column="91" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
+      <file name="$USER_HOME$/code/devim/dzp/config/packages/security.yaml" timestamp="1525695369578">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/GenerateScheduleOrderCommand.php" timestamp="1522240058015">
         <mark key="[" line="134" column="61" />
@@ -1002,8 +1001,8 @@
       <jump line="518" column="60" filename="$USER_HOME$/code/devim/dzp/config/config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEFwcFxQcm92aWRlclxTZWN1cml0eUp3dFNlcnZpY2VQcm92aWRlclxIdHRwXEVudHJ5UG9pbnRcSldUQXV0aGVudGljYXRpb25FbnRyeVBvaW50Owo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -1015,16 +1014,16 @@
         <text>/login_check_FJNskfns88jfjsNNls_lll_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsKICAgIH0K</text>
+        <text encoding="base64">dXNlIEFwcFxQcm92aWRlclxTZWN1cml0eUp3dFNlcnZpY2VQcm92aWRlclxIdHRwXEVudHJ5UG9pbnRcSldUQXV0aGVudGljYXRpb25FbnRyeVBvaW50Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY3JlYXRlKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYWRkQ29uZmlndXJhdGlvbigpIG1ldGhvZC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1098,26 +1097,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCBnZXRQb3NpdGlvbigpIG1ldGhvZC4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAkZW50cnlQb2ludElkID0gJ3NlY3VyaXR5LmVudHJ5X3BvaW50Lmp3dCcgLiAkaWQ7CiAgICAgICAgJGNvbnRhaW5lci0+c2V0RGVmaW5pdGlvbigkZW50cnlQb2ludElkLCBuZXcgbmV3IEpXVEF1dGhlbnRpY2F0aW9uRW50cnlQb2ludCgpKTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0UG9zaXRpb24oKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgIHsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0OiAvZwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY3JlYXRlKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgcGF0aDogJyVrZXJuZWwucm9vdF9kaXIlL3NyYy9BcHAvU2VyaWFsaXplci9FbnRpdHknCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYWRkQ29uZmlndXJhdGlvbigpIG1ldGhvZC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgbmFtZXNwYWNlX3ByZWZpeDogJ0FwcFxcJwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCBnZXRQb3NpdGlvbigpIG1ldGhvZC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIEFwcDoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0UG9zaXRpb24oKSBtZXRob2QuCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

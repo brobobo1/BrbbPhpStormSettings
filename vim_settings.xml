@@ -5,6 +5,12 @@
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/code/devim/dzp/config/packages/devim_rpc_server.yaml" timestamp="1525772296538">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180327111614.php" timestamp="1523280566937">
         <mark key="[" line="21" column="163" />
         <mark key="]" line="21" column="163" />
@@ -432,9 +438,9 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="104" column="74" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/External/LoanRpcService.php" timestamp="1522240469296">
-        <mark key="[" line="209" column="51" />
-        <mark key="]" line="209" column="71" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/External/LoanRpcService.php" timestamp="1525772247398">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="26" />
         <mark key="^" line="209" column="71" />
         <mark key="." line="209" column="71" />
       </file>
@@ -724,6 +730,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.php" timestamp="1524911069492">
         <mark key="[" line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/config/routes.yaml" timestamp="1525772035489">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180423143110.php" timestamp="1524494358894">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -1007,8 +1019,8 @@
       <jump line="182" column="12" filename="$USER_HOME$/code/devim/dzp/config/config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>App\Rpc\External;</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -1016,8 +1028,8 @@
       <register name="/" type="4">
         <text>fillStepOne</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFub255bW91czogdHJ5ZQogICAgICAgICAgc3RhdGVsZXNzOiBmYWxzZQogICAgICAgICAgaHR0cDogdHJ1ZQo=</text>
+      <register name="0" type="4">
+        <text>App\Rpc\External;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

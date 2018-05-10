@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -65,6 +65,9 @@
         <mark key="]" line="49" column="17" />
         <mark key="^" line="49" column="17" />
         <mark key="." line="49" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1525944991146">
+        <mark key="'" line="364" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" timestamp="1514241920266">
         <mark key="[" line="89" column="58" />
@@ -290,11 +293,11 @@
         <mark key="]" line="21" column="170" />
         <mark key="." line="21" column="170" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/CreditCardRpcService.php" timestamp="1524153955278">
-        <mark key="[" line="39" column="61" />
-        <mark key="]" line="39" column="59" />
-        <mark key="^" line="39" column="59" />
-        <mark key="." line="39" column="59" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/CreditCardRpcService.php" timestamp="1525946719063">
+        <mark key="[" line="354" column="49" />
+        <mark key="]" line="354" column="47" />
+        <mark key="^" line="354" column="47" />
+        <mark key="." line="354" column="47" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/config/packages/doctrine.yaml" timestamp="1525436557661">
         <mark key="[" line="50" column="60" />
@@ -438,11 +441,11 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="104" column="74" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/External/LoanRpcService.php" timestamp="1525772247398">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="26" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/External/LoanRpcService.php" timestamp="1525946810999">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="142" column="5" />
         <mark key="^" line="209" column="71" />
-        <mark key="." line="209" column="71" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Service/CurlRequest/CurlRequest.php" timestamp="1523873165095">
         <mark key="[" line="21" column="54" />
@@ -642,6 +645,12 @@
         <mark key="^" line="16" column="49" />
         <mark key="." line="16" column="49" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/IFCFranchiseRpcService.php" timestamp="1525946817806">
+        <mark key="[" line="46" column="36" />
+        <mark key="]" line="47" column="6" />
+        <mark key="^" line="12" column="37" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1517582554275">
         <mark key="[" line="358" column="21" />
         <mark key="]" line="359" column="7" />
@@ -796,7 +805,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525439957788">
+      <file name="/Dummy.txt" timestamp="1525944778582">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -917,7 +926,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="15" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexImporting.php" />
       <jump line="21" column="0" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/index.tpl" />
       <jump line="31" column="11" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/index.tpl" />
       <jump line="62" column="8" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/index.tpl" />
@@ -1017,31 +1025,32 @@
       <jump line="382" column="0" filename="$USER_HOME$/code/devim/dzp/config/parameters/parameters.yaml" />
       <jump line="518" column="60" filename="$USER_HOME$/code/devim/dzp/config/config.php" />
       <jump line="182" column="12" filename="$USER_HOME$/code/devim/dzp/config/config.php" />
+      <jump line="364" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Provider</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEBKc29uUnBjTWV0aG9kKG5hbWU9ImdldFRva2VuIikKICAgICAqCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Provider</text>
+        <text>=&quot;</text>
       </register>
       <register name="/" type="4">
         <text>fillStepOne</text>
       </register>
-      <register name="0" type="4">
-        <text>App\Rpc\External;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAqIEBKc29uUnBjTWV0aG9kKG5hbWU9ImdldFRva2VuIikKICAgICAqCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBKc29uUnBjTWV0aG9kKG5hbWU9ImdldFRva2VuIikKICAgICAqCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXE1wZGZFeGNlcHRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1116,25 +1125,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIC0geyBwYXRoOiBeL3Byb2ZpbGUsIHJvbGVzOiBST0xFX1VTRVIgfQo=</text>
+        <text encoding="base64">ICAgICAqIEBKc29uUnBjTWV0aG9kKG5hbWU9InNldERlZmF1bHRTdGVwT25lRGF0YSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBodHRwczovL3N5bWZvbnkuY29tL2RvYy9jdXJyZW50L3NlY3VyaXR5L2Zvcm1fbG9naW5fc2V0dXAuaHRtbAo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICMgZm9ybV9sb2dpbjogdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBodHRwX2Jhc2ljOiB0cnVlCiAgICAgICAgICAgICMgaHR0cHM6Ly9zeW1mb255LmNvbS9kb2MvY3VycmVudC9zZWN1cml0eS5odG1sI2EtY29uZmlndXJpbmctaG93LXlvdXItdXNlcnMtd2lsbC1hdXRoZW50aWNhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhY3RpdmF0ZSBkaWZmZXJlbnQgd2F5cyB0byBhdXRoZW50aWNhdGUKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIC0geyBwYXRoOiBeL3Byb2ZpbGUsIHJvbGVzOiBST0xFX1VTRVIgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

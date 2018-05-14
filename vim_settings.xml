@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" />
     </globalmarks>
@@ -56,7 +56,7 @@
         <mark key="^" line="58" column="21" />
         <mark key="." line="58" column="21" />
       </file>
-      <file name="$USER_HOME$/code/sl/photoautomate/app/config/security.yml" timestamp="1525952207644" />
+      <file name="$USER_HOME$/code/sl/photoautomate/app/config/security.yml" timestamp="1526316881176" />
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/decoration.tpl" timestamp="1511711451307">
         <mark key="[" line="15" column="36" />
       </file>
@@ -111,6 +111,12 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/selling-landing/partials/bestOffers.tpl" timestamp="1517580442021">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sl/photoautomate/web/app_dev.php" timestamp="1526319286072">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+      </file>
       <file name="$USER_HOME$/code/img/seolandingphp/modules/fullrooms.php" timestamp="1511360322103">
         <mark key="[" line="14" column="44" />
       </file>
@@ -135,6 +141,7 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/landing3/footer.tpl" timestamp="1517573647066">
         <mark key="[" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/code/sl/photoautomate/init.sh" timestamp="1526319595353" />
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/Makefile" timestamp="1514883557418">
         <mark key="[" line="11" column="42" />
         <mark key="]" line="15" column="52" />
@@ -197,6 +204,12 @@
         <mark key="^" line="177" column="32" />
         <mark key="." line="177" column="32" />
       </file>
+      <file name="$USER_HOME$/code/sl/photoautomate/Dockerfile" timestamp="1526318759332">
+        <mark key="[" line="36" column="61" />
+        <mark key="]" line="36" column="103" />
+        <mark key="^" line="36" column="59" />
+        <mark key="." line="36" column="59" />
+      </file>
       <file name="&lt;9f9b1fcc-fabd-4d4d-badb-aec6057d7d58&gt;/modules/landing.php" timestamp="1515833893341">
         <mark key="[" line="147" column="47" />
       </file>
@@ -217,14 +230,6 @@
       </file>
       <file name="$USER_HOME$/code/sl/photoautomate/src/SLStudio/ParentsBundle/Controller/Api/DefaultController.php" timestamp="1519159994484">
         <mark key="[" line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" timestamp="1521058150812">
-        <mark key="'" line="27" column="69" />
-        <mark key="[" line="40" column="9" />
-        <mark key="]" line="28" column="5" />
-        <mark key="m" line="35" column="9" />
-        <mark key="." line="28" column="5" />
-        <mark key="^" line="28" column="5" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/default2/partials/header.tpl" timestamp="1511862872512">
         <mark key="[" line="87" column="54" />
@@ -363,6 +368,9 @@
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/selling-landing/discount.tpl" timestamp="1517534809431">
         <mark key="[" line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sl/photoautomate/web/app.php" timestamp="1526319117074">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/partials/form_catch.tpl" timestamp="1511699950288">
         <mark key="[" line="0" column="0" />
       </file>
@@ -492,7 +500,7 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sl/photoautomate/docker-compose.yml" timestamp="1526316171804">
+      <file name="$USER_HOME$/code/sl/photoautomate/docker-compose.yml" timestamp="1526316977816">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="21" column="13" />
         <mark key="^" line="21" column="13" />
@@ -641,8 +649,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/opossum/princess/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRyaXZlcjogbG9jYWwK</text>
+      <register name="&quot;" type="4">
+        <text>/etc/apache2/sites-enabled/000-default.conf</text>
       </register>
       <register name="-" type="4">
         <text>redis</text>
@@ -651,19 +659,19 @@
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCJjbGljayIsICIuYWRkbGlzdGxpbmsiLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcG9zID0gJCh0aGlzKS5vZmZzZXQoKTsKICAgICAgICBpZCA9ICQodGhpcykuYXR0cigiZGF0YS1pZCIpOwogICAgICAgICQucG9zdCgicG9zdGVyLnBocCIsIHtnZXRTdWJ3YXlMaXN0OiBpZCwgYWRkOiAxfSwgZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgc2hvd01lc3NhZ2VNYWluKGRhdGEsIHBvcyk7CiAgICAgICAgfSk7CiAgICB9KTs=</text>
+        <text>/etc/apache2/sites-enabled/000-default.conf</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRyaXZlcjogbG9jYWwK</text>
+        <text encoding="base64">aW5pX3NldCgnZGlzcGxheV9lcnJvcnMnLCAxKTsKaW5pX3NldCgnZGlzcGxheV9zdGFydHVwX2Vycm9ycycsIDEpOwplcnJvcl9yZXBvcnRpbmcoRV9BTEwpOwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZWRpc19kYXRhOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRyaXZlcjogbG9jYWwK</text>
+        <text encoding="base64">dmFyX2R1bXAoMSk7ZGRgYAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -738,25 +746,26 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkYl9kYXRhOgo=</text>
+        <text encoding="base64">ZHJpdnI6IGxvY2FsCiAgICBuaV9zZXQoJ2Rpc3BsYXlfZXJyb3JzJywgMSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRyaXZlcjogbG9jYWwK</text>
+      <register name="5" type="8">
+        <text>e
+i</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb21wb3Nlcl9kYXRhOgo=</text>
+        <text encoding="base64">ICAgIGRyaXZlcjogbG9jYWwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dm9sdW1lczoK</text>
+        <text encoding="base64">ICByZWRpc19kYXRhOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRyaXZlcjogbG9jYWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYl9kYXRhOgo=</text>
       </register>
       <register name=":" type="4">
         <text>e</text>

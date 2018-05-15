@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -75,6 +75,10 @@
         <mark key="]" line="49" column="17" />
         <mark key="^" line="49" column="17" />
         <mark key="." line="49" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1526388746167">
+        <mark key="'" line="2172" column="0" />
+        <mark key="[" line="3361" column="5" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" timestamp="1514241920266">
         <mark key="[" line="89" column="58" />
@@ -177,11 +181,11 @@
         <mark key="^" line="70" column="11" />
         <mark key="." line="70" column="11" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/AchievementRepository.php" timestamp="1526387994064">
-        <mark key="[" line="8" column="75" />
-        <mark key="]" line="8" column="104" />
-        <mark key="." line="8" column="104" />
-        <mark key="^" line="8" column="104" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/AchievementRepository.php" timestamp="1526388673323">
+        <mark key="[" line="13" column="95" />
+        <mark key="]" line="13" column="95" />
+        <mark key="." line="13" column="95" />
+        <mark key="^" line="13" column="95" />
       </file>
       <file name="$USER_HOME$/code/opossum/angel/Readme.me" timestamp="1522272416853">
         <mark key="[" line="16" column="56" />
@@ -845,7 +849,7 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="95" />
       </file>
-      <file name="/dummy.sql" timestamp="1526387261325">
+      <file name="/dummy.sql" timestamp="1526388980863">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -898,6 +902,7 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/AchievementRepositoryInterface.php" timestamp="1526388689412" />
       <file name="$USER_HOME$/code/learning/project1/pom.xml" timestamp="1516570577932">
         <mark key="[" line="42" column="10" />
         <mark key="]" line="42" column="9" />
@@ -1008,7 +1013,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="47" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/PayoutServiceProvider.php" />
       <jump line="56" column="16" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/PayoutServiceProvider.php" />
       <jump line="55" column="38" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/PayoutServiceProvider.php" />
       <jump line="1924" column="5" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
@@ -1108,10 +1112,11 @@
       <jump line="476" column="8" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
       <jump line="269" column="63" filename="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" />
       <jump line="60" column="27" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/ClientRepository.php" />
+      <jump line="2172" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ClientRepositoryInterface</text>
+        <text>NsAchievementRepositoryInterface</text>
       </register>
       <register name="-" type="4">
         <text>ClientRepositoryInterface</text>
@@ -1120,7 +1125,7 @@
         <text>fillStepOne</text>
       </register>
       <register name="0" type="4">
-        <text>use Devim\Component\NotificationSystem\ClientRepositoryInterface as NsClientRepositoryInterface;</text>
+        <text>NsAchievementRepositoryInterface</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

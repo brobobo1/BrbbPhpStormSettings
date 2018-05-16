@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -604,7 +604,8 @@
         <mark key="^" line="676" column="37" />
         <mark key="." line="676" column="37" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/composer.json" timestamp="1525342614472">
+      <file name="$USER_HOME$/code/devim/dzp/composer.json" timestamp="1526467751830">
+        <mark key="'" line="59" column="8" />
         <mark key="[" line="58" column="31" />
         <mark key="]" line="59" column="0" />
         <mark key="^" line="57" column="38" />
@@ -736,12 +737,12 @@
         <mark key="^" line="76" column="38" />
         <mark key="." line="76" column="38" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/EventListener/DataUpdatesSubscriberTest.php" timestamp="1526463987643">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="326" column="25" />
-        <mark key="]" line="325" column="50" />
-        <mark key="^" line="325" column="50" />
-        <mark key="." line="325" column="50" />
+      <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/EventListener/DataUpdatesSubscriberTest.php" timestamp="1526467792083">
+        <mark key="'" line="270" column="23" />
+        <mark key="[" line="339" column="79" />
+        <mark key="]" line="354" column="7" />
+        <mark key="^" line="354" column="7" />
+        <mark key="." line="354" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1517582554275">
         <mark key="[" line="358" column="21" />
@@ -1043,9 +1044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="0" filename="$USER_HOME$/code/devim/dzp/src/rpc.php" />
-      <jump line="843" column="32" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
-      <jump line="825" column="5" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
       <jump line="2177" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
       <jump line="1831" column="45" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
       <jump line="1766" column="45" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
@@ -1143,10 +1141,13 @@
       <jump line="237" column="39" filename="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" />
       <jump line="265" column="20" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/ClientRepository.php" />
       <jump line="21" column="27" filename="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" />
+      <jump line="57" column="33" filename="$USER_HOME$/code/devim/dzp/composer.json" />
+      <jump line="59" column="8" filename="$USER_HOME$/code/devim/dzp/composer.json" />
+      <jump line="270" column="23" filename="$USER_HOME$/code/devim/dzp/tests/functional/App/EventListener/DataUpdatesSubscriberTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVwby0+cGVyc2lzdEFuZEZsdXNoKCRwKTsK</text>
       </register>
       <register name="-" type="4">
         <text>());</text>
@@ -1158,16 +1159,16 @@
         <text>МнеОдобрилиЗаймПойдуНакидаюсь</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVwby0+cGVyc2lzdEFuZEZsdXNoKCRwKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICAgICAgY29kZWNlcHRfZGVidWcoJGUtPmdldFRyYWNlQXNTdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcC0+c2V0SXNzdWVkKHRydWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5oYW5kbGVUcmFuc2FjdGlvbnMoJHVvdywgJGVudGl0eSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50SWQgPSAkbG9hbi0+Z2V0Q2xpZW50KCktPmdldElkKCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1242,25 +1243,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVwby0+cGVyc2lzdEFuZEZsdXNoKCRwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRJc3N1ZWQoZmFsc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmRpc3BhdGNoZXItPmRpc3BhdGNoKAogICAgICAgICAgICAgICAgRXZlbnRzOjpBQ0hJRVZFTUVOVF9FQVJORUQsCiAgICAgICAgICAgICAgICBuZXcgQWNoaWV2ZW1lbnRFdmVudCgkZW50aXR5LT5nZXRMb2FuKCktPmdldENsaWVudCgpLCBBY2hpZXZlbWVudDo6TE9BTl9QUk9MT05HQVRJT04pCiAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQZXJpb2QoMTApCiAgICAgICAgICAgIC0+c2V0TG9hbigkbG9hbikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBjb3ZlcnMgICAgICAgXEFwcFxFdmVudExpc3RlbmVyXERhdGFVcGRhdGVzU3Vic2NyaWJlcjo6b25GbHVzaAogICAgICogQGNvdmVycyAgICAgICBcQXBwXEV2ZW50TGlzdGVuZXJcRGF0YVVwZGF0ZXNTdWJzY3JpYmVyOjpoYW5kbGVUcmFuc2FjdGlvbnMKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGFjaGlldmVtZW50UHJvbG9uZ2F0aW9uKCk6IHZvaWQKICAgIHsKICAgICAgICAvKiogQHZhciBQcm9sb25nYXRpb25SZXBvc2l0b3J5SW50ZXJmYWNlICRyZXBvICovCiAgICAgICAgJHJlcG8gPSAkdGhpcy0+Z2V0QXBwbGljYXRpb24oKVsncmVwb3NpdG9yeS5wcm9sb25nYXRpb24nXTsKCiAgICAgICAgJHAgPSBuZXcgUHJvbG9uZ2F0aW9uKCk7CiAgICAgICAgJGxvYW4gPSAkdGhpcy0+Z2V0RmFrZUxvYW4oJHRoaXMtPmdldEFwcGxpY2F0aW9uKClbJ3JlcG9zaXRvcnkubG9hbiddKTsKICAgICAgICAkbm93ID0gbmV3IFxEYXRlVGltZSgpOwogICAgICAgICRwCiAgICAgICAgICAgIC0+c2V0Q3JlYXRlZEF0KCRub3cpCiAgICAgICAgICAgIC0+c2V0VXBkYXRlZEF0KCRub3cpCiAgICAgICAgICAgIC0+c2V0QmVnaW5EYXRlKCRub3cpCiAgICAgICAgICAgIC0+c2V0UGVyaW9kKDEwKQogICAgICAgICAgICAtPnNldExvYW4oJGxvYW4pCiAgICAgICAgICAgIC0+c2V0SXNzdWVkKGZhbHNlKTsKICAgICAgICAkcmVwby0+cGVyc2lzdEFuZEZsdXNoKCRwKTsKCiAgICAgICAgLyoqIEB2YXIgQ2xpZW50UmVwb3NpdG9yeUludGVyZmFjZSAkY2xpZW50UmVwb3NpdG9yeSAqLwogICAgICAgICRjbGllbnRSZXBvc2l0b3J5ID0gJHRoaXMtPmdldEFwcGxpY2F0aW9uKClbJ3JlcG9zaXRvcnkuY2xpZW50J107CiAgICAgICAgCiAgICAgICAgJGNsaWVudElkID0gJGxvYW4tPmdldENsaWVudCgpLT5nZXRJZCgpOwogICAgICAgICRjbGllbnQgPSAkY2xpZW50UmVwb3NpdG9yeS0+ZmluZFNpbXBsZSgkY2xpZW50SWQpOwogICAgICAgICRhY2hpZXZlbWVudHMgPSAkY2xpZW50LT5nZXRFYXJuZWRBY2hpZXZlbWVudHMoKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RW1wdHkoJGFjaGlldmVtZW50cyk7CiAgICAgICAgCiAgICAgICAgJHAtPnNldElzc3VlZCh0cnVlKTsKICAgICAgICAkcmVwby0+cGVyc2lzdEFuZEZsdXNoKCRwKTsKICAgICAgICAKICAgICAgICAkY2xpZW50ID0gJGNsaWVudFJlcG9zaXRvcnktPmZpbmRTaW1wbGUoJGNsaWVudElkKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkY2xpZW50LT5pc0FjaGlldmVtZW50c0Vhcm5lZChBY2hpZXZlbWVudDo6TE9BTl9QUk9MT05HQVRJT04pKTsKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRVcGRhdGVkQXQoJG5vdykKICAgICAgICAgICAgLT5zZXRCZWdpbkRhdGUoJG5vdykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEAgdGVzdCBzaGVtZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcAogICAgICAgICAgICAtPnNldENyZWF0ZWRBdCgkbm93KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEAgdGVzdCBzaG1lc3QK</text>
+        <text encoding="base64">ICAgICAgICAkbm93ID0gbmV3IFxEYXRlVGltZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

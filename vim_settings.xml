@@ -737,12 +737,12 @@
         <mark key="^" line="76" column="38" />
         <mark key="." line="76" column="38" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/EventListener/DataUpdatesSubscriberTest.php" timestamp="1526467792083">
+      <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/EventListener/DataUpdatesSubscriberTest.php" timestamp="1526468228032">
         <mark key="'" line="270" column="23" />
-        <mark key="[" line="339" column="79" />
-        <mark key="]" line="354" column="7" />
-        <mark key="^" line="354" column="7" />
-        <mark key="." line="354" column="7" />
+        <mark key="[" line="346" column="58" />
+        <mark key="]" line="346" column="56" />
+        <mark key="." line="346" column="56" />
+        <mark key="^" line="346" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1517582554275">
         <mark key="[" line="358" column="21" />
@@ -1147,7 +1147,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVwby0+cGVyc2lzdEFuZEZsdXNoKCRwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsnQm9keScgPT4gMzAwMDAwMCwgJ1BlcmNlbnQnID0+IDIwMDAwMDBdLAo=</text>
       </register>
       <register name="-" type="4">
         <text>());</text>
@@ -1159,16 +1159,16 @@
         <text>МнеОдобрилиЗаймПойдуНакидаюсь</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVwby0+cGVyc2lzdEFuZEZsdXNoKCRwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsnQm9keScgPT4gMzAwMDAwMCwgJ1BlcmNlbnQnID0+IDIwMDAwMDBdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcC0+c2V0SXNzdWVkKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVwby0+cGVyc2lzdEFuZEZsdXNoKCRwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50SWQgPSAkbG9hbi0+Z2V0Q2xpZW50KCktPmdldElkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcC0+c2V0SXNzdWVkKHRydWUpOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1243,25 +1243,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVwby0+cGVyc2lzdEFuZEZsdXNoKCRwKTsK</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50SWQgPSAkbG9hbi0+Z2V0Q2xpZW50KCktPmdldElkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRJc3N1ZWQoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVwby0+cGVyc2lzdEFuZEZsdXNoKCRwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQZXJpb2QoMTApCiAgICAgICAgICAgIC0+c2V0TG9hbigkbG9hbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRJc3N1ZWQoZmFsc2UpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRVcGRhdGVkQXQoJG5vdykKICAgICAgICAgICAgLT5zZXRCZWdpbkRhdGUoJG5vdykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQZXJpb2QoMTApCiAgICAgICAgICAgIC0+c2V0TG9hbigkbG9hbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcAogICAgICAgICAgICAtPnNldENyZWF0ZWRBdCgkbm93KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRVcGRhdGVkQXQoJG5vdykKICAgICAgICAgICAgLT5zZXRCZWdpbkRhdGUoJG5vdykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbm93ID0gbmV3IFxEYXRlVGltZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcAogICAgICAgICAgICAtPnNldENyZWF0ZWRBdCgkbm93KQo=</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

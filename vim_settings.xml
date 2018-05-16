@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -16,6 +16,9 @@
         <mark key="]" line="21" column="163" />
         <mark key="^" line="21" column="163" />
         <mark key="." line="21" column="163" />
+      </file>
+      <file name="/a.dummy" timestamp="1525689825152">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/StatsRpcService.php" timestamp="1525948912044">
         <mark key="[" line="48" column="38" />
@@ -235,6 +238,9 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="20" column="23" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/runtime/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" timestamp="1526464051096">
+        <mark key="[" line="331" column="5" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/.env.dist" timestamp="1525363559931">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -361,12 +367,12 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" timestamp="1526461430103">
-        <mark key="'" line="237" column="39" />
-        <mark key="[" line="142" column="28" />
-        <mark key="]" line="125" column="44" />
-        <mark key="^" line="125" column="44" />
-        <mark key="." line="125" column="44" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" timestamp="1526464638565">
+        <mark key="'" line="21" column="27" />
+        <mark key="[" line="135" column="10" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="21" column="28" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PromoCodeStaticRepositoryInterface.php" timestamp="1523894088149">
         <mark key="[" line="38" column="33" />
@@ -508,6 +514,7 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="104" column="74" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/runtime/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1526464128945" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/External/LoanRpcService.php" timestamp="1525948109459">
         <mark key="'" line="81" column="0" />
         <mark key="[" line="40" column="0" />
@@ -628,6 +635,9 @@
         <mark key="." line="151" column="38" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/ClientRepositoryInterface.php" timestamp="1526400611522" />
+      <file name="$USER_HOME$/code/devim/dzp/.gitignore" timestamp="1525338769354">
+        <mark key="[" line="10" column="14" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.php" timestamp="1524835479581">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="5" column="32" />
@@ -726,7 +736,7 @@
         <mark key="^" line="76" column="38" />
         <mark key="." line="76" column="38" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/EventListener/DataUpdatesSubscriberTest.php" timestamp="1526462379563">
+      <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/EventListener/DataUpdatesSubscriberTest.php" timestamp="1526463987643">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="326" column="25" />
         <mark key="]" line="325" column="50" />
@@ -819,6 +829,9 @@
         <mark key="." line="265" column="30" />
         <mark key="^" line="265" column="30" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.php" timestamp="1524911069492">
+        <mark key="[" line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/config/routes.yaml" timestamp="1525790866879">
         <mark key="[" line="14" column="40" />
         <mark key="]" line="14" column="40" />
@@ -866,7 +879,7 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="95" />
       </file>
-      <file name="/dummy.sql" timestamp="1526460320202">
+      <file name="/dummy.sql" timestamp="1526464146350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="39" />
@@ -1030,7 +1043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="19" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/PayoutServiceInterface.php" />
       <jump line="290" column="0" filename="$USER_HOME$/code/devim/dzp/src/rpc.php" />
       <jump line="843" column="32" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
       <jump line="825" column="5" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
@@ -1130,6 +1142,7 @@
       <jump line="231" column="32" filename="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" />
       <jump line="237" column="39" filename="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" />
       <jump line="265" column="20" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/ClientRepository.php" />
+      <jump line="21" column="27" filename="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

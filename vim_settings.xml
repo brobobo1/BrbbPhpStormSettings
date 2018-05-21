@@ -62,10 +62,11 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Controller/CollectDataController.php" timestamp="1523871589674">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Controller/CollectDataController.php" timestamp="1526910352595">
+        <mark key="[" line="138" column="38" />
+        <mark key="]" line="138" column="36" />
+        <mark key="." line="138" column="36" />
+        <mark key="^" line="138" column="36" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankLogosCommand.php" timestamp="1524486693590">
         <mark key="[" line="85" column="0" />
@@ -78,10 +79,6 @@
         <mark key="]" line="49" column="17" />
         <mark key="^" line="49" column="17" />
         <mark key="." line="49" column="17" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1526388746167">
-        <mark key="'" line="2172" column="0" />
-        <mark key="[" line="3362" column="5" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" timestamp="1514241920266">
         <mark key="[" line="89" column="58" />
@@ -605,6 +602,12 @@
         <mark key="^" line="676" column="37" />
         <mark key="." line="676" column="37" />
       </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Entity/Client.php" timestamp="1526910195906">
+        <mark key="'" line="66" column="44" />
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="347" column="0" />
+        <mark key="." line="347" column="0" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/composer.json" timestamp="1526467751830">
         <mark key="'" line="59" column="8" />
         <mark key="[" line="58" column="31" />
@@ -879,7 +882,7 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="95" />
       </file>
-      <file name="/dummy.sql" timestamp="1526893221607">
+      <file name="/dummy.sql" timestamp="1526910807540">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="31" />
@@ -1042,8 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1928" column="28" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
-      <jump line="293" column="2" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
       <jump line="2273" column="4" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
       <jump line="228" column="38" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
       <jump line="554" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.php" />
@@ -1142,10 +1143,12 @@
       <jump line="75" column="51" filename="$USER_HOME$/code/devim/dzp/runtime/vendor/devimteam/get-response-client/src/Service/ContactsService.php" />
       <jump line="588" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
       <jump line="22" column="55" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
+      <jump line="45" column="5" filename="$USER_HOME$/code/devim/e-mkopo-backend/src/Entity/Client.php" />
+      <jump line="66" column="44" filename="$USER_HOME$/code/devim/e-mkopo-backend/src/Entity/Client.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sprintf('Founded %d overdue loans!', count($loans)), ['triggerRepaymentOverdue']</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>oldIncomes</text>
@@ -1153,20 +1156,20 @@
       <register name="/" type="4">
         <text>fillStepOne</text>
       </register>
-      <register name="0" type="4">
-        <text>sprintf('Founded %d overdue loans!', count($loans)), ['triggerRepaymentOverdue']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKHR5cGU9InN0cmluZyIsIGxlbmd0aD0yNTUsIG51bGxhYmxlPXRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlY2VwdF9kZWJ1ZygkY2xpZW50SWQpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZGVjZXB0X2RlYnVnKDEpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZGVjZXB0X2RlYnVnKCRyZXN0SW5jb21lQW1vdW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1243,23 +1246,23 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmICgkbmV4dFBheW1lbnQgPD0gKCRvbGRJbmNvbWVBbW91bnQgKyAkbmV3QW1vdW50KSkgewogICAgICAgICAgICAgICAgJHRoaXMtPmRpc3BhdGNoZXItPmRpc3BhdGNoKAogICAgICAgICAgICAgICAgICAgIEV2ZW50czo6QUNISUVWRU1FTlRfRUFSTkVELAogICAgICAgICAgICAgICAgICAgIG5ldyBBY2hpZXZlbWVudEV2ZW50KCRsb2FuLT5nZXRDbGllbnQoKSwgQWNoaWV2ZW1lbnQ6OkxPQU5fU0NIRURVTEVfQ0xPU0UpCiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZGVjZXB0X2RlYnVnKCRuZXh0UGF5bWVudCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZGVjZXB0X2RlYnVnKCRyZXN0SW5jb21lQW1vdW50KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkcmVzdEluY29tZUFtb3VudCA+PSAwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKCkK</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

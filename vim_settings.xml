@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -245,12 +245,13 @@
         <mark key="^" line="62" column="7" />
         <mark key="." line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Repository/ClientRepository.php" timestamp="1526991025926">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="26" column="31" />
-        <mark key="^" line="26" column="31" />
-        <mark key="." line="26" column="31" />
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Repository/ClientRepository.php" timestamp="1527007633650">
+        <mark key="[" line="16" column="70" />
+        <mark key="]" line="16" column="75" />
+        <mark key="^" line="16" column="75" />
+        <mark key="." line="16" column="75" />
       </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/packages/security.yaml" timestamp="1527008041678" />
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/Makefile" timestamp="1514883557418">
         <mark key="[" line="11" column="42" />
         <mark key="]" line="15" column="52" />
@@ -279,12 +280,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" timestamp="1526486637550">
-        <mark key="'" line="22" column="55" />
-        <mark key="]" line="474" column="35" />
-        <mark key="^" line="474" column="35" />
-        <mark key="." line="474" column="35" />
       </file>
       <file name="/a.sql" timestamp="1516093776903">
         <mark key="[" line="0" column="0" />
@@ -440,7 +435,6 @@
         <mark key="^" line="74" column="109" />
         <mark key="." line="74" column="109" />
       </file>
-      <file name="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" timestamp="1526559137628" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/CrmApiServiceProvider/CrmApiClient.php" timestamp="1523377987432">
         <mark key="[" line="86" column="37" />
         <mark key="]" line="86" column="82" />
@@ -563,12 +557,12 @@
         <mark key="^" line="676" column="37" />
         <mark key="." line="676" column="37" />
       </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Entity/Client.php" timestamp="1527006950886">
-        <mark key="'" line="105" column="28" />
-        <mark key="[" line="348" column="0" />
-        <mark key="]" line="384" column="2" />
-        <mark key="." line="384" column="2" />
-        <mark key="^" line="384" column="2" />
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Entity/Client.php" timestamp="1527007344368">
+        <mark key="'" line="350" column="20" />
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="47" />
+        <mark key="." line="21" column="47" />
+        <mark key="^" line="21" column="47" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526481127469">
         <mark key="[" line="0" column="0" />
@@ -765,7 +759,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1527002077658">
+      <file name="/dummy.sql" timestamp="1527007664101">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="31" />
@@ -798,6 +792,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Migrations/Version20180522163938.php" timestamp="1527007381829">
+        <mark key="[" line="20" column="71" />
+        <mark key="]" line="17" column="84" />
+        <mark key="^" line="17" column="84" />
+        <mark key="." line="17" column="84" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/AgreementGeneratorServiceProvider/AgreementGeneratorController.php" timestamp="1522242062319">
         <mark key="[" line="63" column="51" />
@@ -919,7 +919,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="554" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.php" />
       <jump line="549" column="19" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.php" />
       <jump line="198" column="45" filename="$USER_HOME$/code/devim/dzp/config/services.yaml" />
       <jump line="382" column="0" filename="$USER_HOME$/code/devim/dzp/config/parameters/parameters.yaml" />
@@ -1019,13 +1018,14 @@
       <jump line="66" column="44" filename="$USER_HOME$/code/devim/e-mkopo-backend/src/Entity/Client.php" />
       <jump line="97" column="29" filename="$USER_HOME$/code/devim/e-mkopo-backend/src/Entity/Client.php" />
       <jump line="105" column="28" filename="$USER_HOME$/code/devim/e-mkopo-backend/src/Entity/Client.php" />
+      <jump line="350" column="20" filename="$USER_HOME$/code/devim/e-mkopo-backend/src/Entity/Client.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>source</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
         <text>fillStepOne</text>

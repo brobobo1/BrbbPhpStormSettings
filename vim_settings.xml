@@ -62,11 +62,11 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Controller/CollectDataController.php" timestamp="1526910352595">
-        <mark key="[" line="138" column="38" />
-        <mark key="]" line="138" column="36" />
-        <mark key="." line="138" column="36" />
-        <mark key="^" line="138" column="36" />
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Controller/CollectDataController.php" timestamp="1526986880217">
+        <mark key="[" line="230" column="7" />
+        <mark key="]" line="230" column="34" />
+        <mark key="." line="230" column="34" />
+        <mark key="^" line="230" column="34" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankLogosCommand.php" timestamp="1524486693590">
         <mark key="[" line="85" column="0" />
@@ -266,11 +266,11 @@
         <mark key="^" line="62" column="7" />
         <mark key="." line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Repository/ClientRepository.php" timestamp="1526984778720">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Repository/ClientRepository.php" timestamp="1526985029807">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/Makefile" timestamp="1514883557418">
         <mark key="[" line="11" column="42" />
@@ -585,9 +585,6 @@
         <mark key="." line="5" column="36" />
         <mark key="^" line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/runtime/vendor/sebastian/global-state/src/Snapshot.php" timestamp="1526397382679">
-        <mark key="'" line="422" column="0" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/InterviewAnswer.php" timestamp="1522069972258">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="10" column="35" />
@@ -598,6 +595,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Repository/Interfaces/ClientRepositoryInterface.php" timestamp="1526985018292">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="34" />
       </file>
       <file name="$USER_HOME$/code/opossum/princess/Lambda.php" timestamp="1521500597110">
         <mark key="[" line="1" column="0" />
@@ -654,6 +657,7 @@
         <mark key="^" line="151" column="38" />
         <mark key="." line="151" column="38" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/ClientRepositoryInterface.php" timestamp="1526985245931" />
       <file name="$USER_HOME$/code/devim/dzp/.gitignore" timestamp="1525338769354">
         <mark key="[" line="10" column="14" />
       </file>
@@ -891,11 +895,6 @@
         <mark key="]" line="547" column="43" />
         <mark key="." line="547" column="43" />
         <mark key="^" line="547" column="43" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/ClientRepository.php" timestamp="1526400577342">
-        <mark key="'" line="265" column="20" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="95" />
       </file>
       <file name="/dummy.sql" timestamp="1526910807540">
         <mark key="[" line="0" column="0" />
@@ -1162,8 +1161,8 @@
       <jump line="66" column="44" filename="$USER_HOME$/code/devim/e-mkopo-backend/src/Entity/Client.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1MAY2018</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>1MAY2018</text>
@@ -1175,7 +1174,7 @@
         <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKHR5cGU9InN0cmluZyIsIGxlbmd0aD0yNTUsIG51bGxhYmxlPXRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1184,7 +1183,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1262,7 +1261,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1277,7 +1276,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBPUk1cQ29sdW1uKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

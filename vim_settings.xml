@@ -134,6 +134,12 @@
         <mark key="^" line="29" column="356" />
         <mark key="." line="29" column="356" />
       </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Admin/ClientFedhaloanAdmin.php" timestamp="1527066559329">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankBinsCommand.php" timestamp="1524484431789">
         <mark key="[" line="43" column="20" />
         <mark key="]" line="43" column="20" />
@@ -227,6 +233,11 @@
         <mark key="]" line="78" column="33" />
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/packages/sonata_admin.yaml" timestamp="1527066086038">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/PromoRepository.php" timestamp="1524568466421">
         <mark key="[" line="40" column="0" />
@@ -688,9 +699,9 @@
         <mark key="^" line="134" column="82" />
         <mark key="." line="134" column="82" />
       </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/services.yaml" timestamp="1526987271228">
-        <mark key="[" line="37" column="47" />
-        <mark key="]" line="22" column="49" />
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/services.yaml" timestamp="1527066013269">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="25" />
         <mark key="." line="22" column="49" />
         <mark key="^" line="22" column="49" />
       </file>
@@ -787,7 +798,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527000189418">
+      <file name="/Dummy.txt" timestamp="1527066155969">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1021,7 +1032,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDb2xsZWN0aW9uc1xDcml0ZXJpYTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGVRdWVyeSgkY29udGV4dCA9ICdsaXN0JykKICAgIHsKICAgICAgICAkcXVlcnkgPSBwYXJlbnQ6OmNyZWF0ZVF1ZXJ5KCRjb250ZXh0KTsKICAgICAgICAkcXVlcnktPmFuZFdoZXJlKAogICAgICAgICAgICAkcXVlcnktPmV4CiAgICAgICAgKQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>source</text>
@@ -1030,19 +1041,19 @@
         <text>fillStepOne</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY3JpdGVyaWEgPSBDcml0ZXJpYTo6Y3JlYXRlKCkKICAgICAgICAgICAgLT53aGVyZShDcml0ZXJpYTo6ZXhwcigpLT5lcSgndHlwZScsIEF0dGFjaG1lbnQ6OlRZUEVfUEhPVE9fSUQpKQogICAgICAgICAgICAtPm9yZGVyQnkoWyd1cGRhdGVkQXQnLCAnREVTQyddKTsKICAgICAgICAkZG9jdW1lbnQgPSAkdGhpcy0+YXR0YWNobWVudHMtPm1hdGNoaW5nKCRjcml0ZXJpYSktPmZpcnN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1zOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDb2xsZWN0aW9uc1xDcml0ZXJpYTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGVRdWVyeSgkY29udGV4dCA9ICdsaXN0JykKICAgIHsKICAgICAgICAkcXVlcnkgPSBwYXJlbnQ6OmNyZWF0ZVF1ZXJ5KCRjb250ZXh0KTsKICAgICAgICAkcXVlcnktPmFuZFdoZXJlKAogICAgICAgICAgICAkcXVlcnktPmV4CiAgICAgICAgKQogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpjcmVhdGVRdWVyeSgkY29udGV4dCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1117,25 +1128,26 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXR0YWNobWVudHMgPSBuZXcgQXJyYXlDb2xsZWN0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1zOgogICAgICAgICAgICAgICAgICAgIC0gQXBwXEFkbWluXENsaWVudEFkbWluCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXR0YWNobWVudHMtPmFkZCgkaWRQaG90byk7Cg==</text>
+      <register name="5" type="4">
+        <text>:
+            emkopo</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ByaW50ZigK</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDb2xsZWN0aW9uc1xDcml0ZXJpYTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gbnVsbHxzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldFBob3RvKCk6IHN0cmluZwogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cGhvdG87CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gbnVsbHxzdHJpbmcgJHBob3RvCiAgICAgKiBAcmV0dXJuIENsaWVudAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0UGhvdG8oc3RyaW5nICRwaG90byk6IENsaWVudAogICAgewogICAgICAgICR0aGlzLT5waG90byA9ICRwaG90bzsKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXR0YWNobWVudHMgPSBuZXcgQXJyYXlDb2xsZWN0aW9uKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

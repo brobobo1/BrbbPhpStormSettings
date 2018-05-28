@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -49,12 +49,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" timestamp="1527516341182">
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" timestamp="1527522299115">
         <mark key="'" line="80" column="25" />
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="21" column="37" />
-        <mark key="." line="21" column="37" />
-        <mark key="^" line="21" column="37" />
+        <mark key="[" line="332" column="45" />
+        <mark key="]" line="332" column="42" />
+        <mark key="." line="332" column="42" />
+        <mark key="^" line="332" column="42" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/config/parameters/parameters_ci.yaml" timestamp="1525426946602">
         <mark key="[" line="3" column="68" />
@@ -803,10 +803,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1527519603667">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1527522666645">
+        <mark key="[" line="72" column="63" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="79" column="32" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/.env" timestamp="1525362796699">
         <mark key="[" line="0" column="0" />
@@ -1071,10 +1072,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwYXJhbXMgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getFr</text>
+        <text encoding="base64">LT4=</text>
       </register>
       <register name="/" type="4">
         <text>fillStepOne</text>
@@ -1083,16 +1084,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1zOgogICAgICAgICAgICAgICAgICAgIC0gQXBwXEFkbWluXEZlZGhhbG9hblxDbGllbnRGZWRoYWxvYW5BZG1pbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwYXJhbXMgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkYW1vLT5maWVsZHMtPmRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1167,25 +1168,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFxpbl9hcnJheSgkb3JkZXItPmdldE9yZGVyU3RhdHVzKCksIFtPcmRlcjo6U1RBVFVTX1BBSUQsIE9yZGVyOjpTVEFUVVNfUkVKRUNURURdLCB0cnVlKSkgewogICAgICAgICAgICAgICAkb3JkZXJMZWFkLT5hcGlMaXN0KCcnKTsKCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgT3JkZXIgJG9yZGVyICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyQ29udGFjdC0+YWRkQ3VzdG9tRmllbGQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkb3JkZXJzLT5mb3JBbGwoZnVuY3Rpb24gKCRvcmRlcikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwYXJhbXMgPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGFjdC0+YWRkQ3UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT4K</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

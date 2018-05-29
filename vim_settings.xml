@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -808,11 +808,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1527586434346">
-        <mark key="[" line="58" column="70" />
-        <mark key="]" line="58" column="91" />
-        <mark key="^" line="58" column="91" />
-        <mark key="." line="58" column="91" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1527587567693">
+        <mark key="[" line="61" column="52" />
+        <mark key="]" line="61" column="78" />
+        <mark key="." line="61" column="78" />
+        <mark key="^" line="61" column="78" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/.env" timestamp="1525362796699">
         <mark key="[" line="0" column="0" />
@@ -1076,11 +1076,11 @@
       <jump line="80" column="25" filename="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgIERBVEFCQVNFX1VSTDogInBnc3FsOi8vMTAuMTU2LjIwMC4xOTk6NTQzMi9lbWtvcG8/dXNlcj1hZG1pbiZwYXNzd29yZD1wYXNzd29yZCIK</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT4=</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>fillStepOne</text>
@@ -1089,16 +1089,16 @@
         <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBBTUlfRklFTERfSURfTE9BTl9DTEFJTUVEX0FNT1VOVCA9IDM3MjIzOTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgIERBVEFCQVNFX1VSTDogInBnc3FsOi8vMTAuMTU2LjIwMC4xOTk6NTQzMi9lbWtvcG8/dXNlcj1hZG1pbiZwYXNzd29yZD1wYXNzd29yZCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICBlbnZpcm9ubWVudDoK</text>
+        <text encoding="base64">IyAgICAgIERBVEFCQVNFX1VSTDogInBnc3FsOi8vMTAuMTU2LjIwMC4xOTk6NTQzMi9lbWtvcG8/dXNlcj1hZG1pbiZwYXNzd29yZD1wYXNzd29yZCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICBlbnZpcm9ubWVudDoK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1173,10 +1173,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>

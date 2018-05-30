@@ -811,11 +811,10 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1527676887387">
-        <mark key="[" line="116" column="67" />
-        <mark key="]" line="117" column="24" />
-        <mark key="^" line="117" column="24" />
-        <mark key="." line="117" column="24" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1527681992120">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/.env" timestamp="1525362796699">
         <mark key="[" line="0" column="0" />
@@ -1084,8 +1083,8 @@
       <jump line="67" column="0" filename="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>STATUS_APP</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGVhZHMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>STATUS_APP</text>
@@ -1097,16 +1096,16 @@
         <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBBTU9fUElQRUxJTkVfUERMID0gOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbGVhZFsnbWFpbl9jb250YWN0X2lkJ10gPSAkY29udGFjdElkOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGVhZHMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbGVhZC0+YWRkQ3VzdG9tRmllbGQoT3JkZXI6OkFNT19GSUVMRF9JRF9DTElFTlRfQVJDSElfSUQsICRvcmRlci0+Z2V0KTsK</text>
+        <text encoding="base64">ICAgICAgICAkbGVhZFsnbWFpbl9jb250YWN0X2lkJ10gPSAkY29udGFjdElkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbGVhZC0+YWRkQ3VzdG9tRmllbGQoT3JkZXI6OkFNT19GSUVMRF9JRF9DTElFTlRfQVJDSElfSUQsICRvcmRlci0+Z2V0KTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1181,13 +1180,13 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkb3V0cHV0LT53cml0ZWxuKCdGaW5kICcgLiBcY291bnQoJG9yZGVycykgLiAnIG5ldyBvcmRlcnMnKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkb3V0cHV0LT53cml0ZWxuKCdGaW5kICcgLiBcY291bnQoJG9yZGVycykgLiAnIG5ldyBvcmRlcnMnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDb2xsZWN0aW9uc1xBcnJheUNvbGxlY3Rpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -1196,10 +1195,10 @@
         <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDb2xsZWN0aW9uc1xBcnJheUNvbGxlY3Rpb247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlcik7Cg==</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDb2xsZWN0aW9uc1xBcnJheUNvbGxlY3Rpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

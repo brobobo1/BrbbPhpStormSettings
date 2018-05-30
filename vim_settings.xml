@@ -49,12 +49,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" timestamp="1527692032668">
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" timestamp="1527699788809">
         <mark key="'" line="92" column="25" />
-        <mark key="[" line="58" column="47" />
-        <mark key="]" line="58" column="58" />
-        <mark key="^" line="58" column="58" />
-        <mark key="." line="58" column="58" />
+        <mark key="[" line="422" column="0" />
+        <mark key="]" line="422" column="0" />
+        <mark key="^" line="422" column="3" />
+        <mark key="." line="422" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/config/parameters/parameters_ci.yaml" timestamp="1525426946602">
         <mark key="[" line="3" column="68" />
@@ -426,11 +426,11 @@
         <mark key="^" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Repository/Doctrine/LoanRepository.php" timestamp="1527258286395" />
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Repository/OrderRepositoryInterface.php" timestamp="1527608766324">
-        <mark key="[" line="12" column="62" />
-        <mark key="]" line="12" column="51" />
-        <mark key="^" line="12" column="51" />
-        <mark key="." line="12" column="51" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Repository/OrderRepositoryInterface.php" timestamp="1527699833562">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="43" />
+        <mark key="^" line="12" column="43" />
+        <mark key="." line="12" column="43" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/BankRepositoryInterface.php" timestamp="1523016884785">
         <mark key="[" line="31" column="45" />
@@ -549,11 +549,11 @@
         <mark key="." line="22" column="7" />
         <mark key="^" line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Repository/Doctrine/OrderRepository.php" timestamp="1527691238609">
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="36" column="39" />
-        <mark key="." line="36" column="39" />
-        <mark key="^" line="36" column="49" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Repository/Doctrine/OrderRepository.php" timestamp="1527699906433">
+        <mark key="[" line="27" column="68" />
+        <mark key="]" line="27" column="64" />
+        <mark key="." line="27" column="64" />
+        <mark key="^" line="27" column="64" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/docker-compose.yml" timestamp="1514887939268">
         <mark key="[" line="3" column="29" />
@@ -815,18 +815,18 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1527699342859">
-        <mark key="[" line="66" column="41" />
-        <mark key="]" line="67" column="28" />
-        <mark key="." line="67" column="28" />
-        <mark key="^" line="67" column="28" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1527699812671">
+        <mark key="[" line="75" column="76" />
+        <mark key="]" line="75" column="75" />
+        <mark key="." line="75" column="75" />
+        <mark key="^" line="75" column="75" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/.env" timestamp="1525362796699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1527699177458">
+      <file name="/dummy.sql" timestamp="1527699409837">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="31" />
@@ -950,7 +950,7 @@
         <mark key="^" line="188" column="18" />
         <mark key="." line="195" column="0" />
       </file>
-      <file name="/d8f46b5/1d97259e-99a6-4709-a044-b108ad5917dc/database/site_db/schema/dbo/view/v_orders_for_amoCRM.sql" timestamp="1527699035858">
+      <file name="/d8f46b5/1d97259e-99a6-4709-a044-b108ad5917dc/database/site_db/schema/dbo/view/v_orders_for_amoCRM.sql" timestamp="1527699414196">
         <mark key="[" line="31" column="39" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/default/index.tpl" timestamp="1517583480570">
@@ -1095,28 +1095,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxSdW50aW1lRXhjZXB0aW9uKCdPcmRlciBub3QgZm91bmQgaW4gYW1vIGNybScpO2QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>STATUS_REJECTE</text>
+        <text>order</text>
       </register>
       <register name="/" type="4">
         <text>fillStepOne</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbGVhZFsnc3RhdHVzX2lkJ10gPSBPcmRlcjo6TUFQX1NUQVRVU19UT19BTU9fU1RBVFVTWyRvcmRlci0+Z2V0T3JkZXJTdGF0dXMoKV07Cg==</text>
+      <register name="0" type="4">
+        <text>lastUpdatedLoan</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxSdW50aW1lRXhjZXB0aW9uKCdPcmRlciBub3QgZm91bmQgaW4gYW1vIGNybScpO2QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gXERhdGVUaW1lfG51bGwKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldE9yZGVyUHV0RGF0ZSgpOiA/XERhdGVUaW1lCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5vcmRlclB1dERhdGU7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gXERhdGVUaW1lfG51bGwgJG9yZGVyUHV0RGF0ZQogICAgICogQHJldHVybiBPcmRlcgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0T3JkZXJQdXREYXRlKD9cRGF0ZVRpbWUgJG9yZGVyUHV0RGF0ZSk6IE9yZGVyCiAgICB7CiAgICAgICAgJHRoaXMtPm9yZGVyUHV0RGF0ZSA9ICRvcmRlclB1dERhdGU7CiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQ==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1190,26 +1190,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBkYjoKICAgIGNvbnRhaW5lcl9uYW1lOiBkYl90ZXN0CiAgICBpbWFnZTogcG9zdGdyZXM6OS42CiAgICBwb3J0czoKICAgICAgLSAiNDU0MzI6NTQzMiIKICAgIGVudmlyb25tZW50OgogICAgICBQT1NUR1JFU19VU0VSOiAicm9vdCIKICAgICAgUE9TVEdSRVNfUEFTU1dPUkQ6ICJrZWVwaXRzaW1wbGUi</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkcWItPnNldE1heFJlc3VsdHMoMSlkZDsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxSdW50aW1lRXhjZXB0aW9uKCdPcmRlciBub3QgZm91bmQgaW4gYW1vIGNybScpO2QK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ywo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAkb3JkZXIxID0gbmV3IE9yZGVyKCk7CiAgICAgICAgJG9yZGVyMS0+c2V0T3JkZXJJZCgxKTsKICAgICAgICAkb3JkZXIxLT5zZXRPcmRlclR5cGUoT3JkZXI6OlRZUEVfQVBJKTsKICAgICAgICAkb3JkZXIxLT5zZXRDbGllbnRGdWxsTmFtZSgnVGVzdCB0ZXN0IDEnKTsKICAgICAgICAkb3JkZXIxLT5zZXRDbGllbnRNb2JpbGVQaG9uZSgnNzk1MDAwMDAwMDcnKTsKICAgICAgICAkb3JkZXIxLT5zZXRDbGllbnRFbWFpbCgnbWFpbCcpOwogICAgICAgICRvcmRlcjEtPnNldENsaWVudEJpcnRoRGF0ZShuZXcgXERhdGVUaW1lKCdub3cgLTE4IHllYXJzJykpOwogICAgICAgICRvcmRlcjEtPnNldE9yZGVyTG9hbkNvc3RBbGwoMTAwMDAwKTsKICAgICAgICAkb3JkZXIxLT5zZXRPcmRlckZpcnN0TG9hbkNvc3RBbGwoNTAwMDAwKTsKICAgICAgICAkb3JkZXIxLT5zZXRTY29yZSgyMjMpOwogICAgICAgICRvcmRlcjEtPnNldENsaWVudElkKDEpOwogICAgICAgICRvcmRlcjEtPnNldE9yZGVyRGF5c3F1YW50KDEyKTsKICAgICAgICAkb3JkZXIxLT5zZXRPcmRlclN0YXR1cyhPcmRlcjo6U1RBVFVTX1JFSkVDVEVEKTsKICAgICAgICAkb3JkZXIxLT5zZXRPcmRlclN0YXR1c05hbWUoJ2Fwcm92ZWQnKTsKICAgICAgICAkb3JkZXIxLT5zZXRPcmRlclB1dERhdGV0aW1lKG5ldyBcRGF0ZVRpbWUoJ25vdycpKTsKCi8vICAgICAgICAkb3JkZXIyID0gY2xvbmUgJG9yZGVyMTsKLy8gICAgICAgICRvcmRlcjItPnNldE9yZGVySWQoMik7Ci8vICAgICAgICAkb3JkZXIyLT5zZXRDbGllbnRJZCgyKTsKLy8gICAgICAgICRvcmRlcjItPnNldE9yZGVyVHlwZShPcmRlcjo6VFlQRV9PRkZMSU5FX0lOU1RBTExNRU5UKTsKLy8KLy8KLy8gICAgICAgICRvcmRlcjMgPSBjbG9uZSAkb3JkZXIxOwovLyAgICAgICAgJG9yZGVyMy0+c2V0T3JkZXJJZCgzKTsKLy8gICAgICAgICRvcmRlcjMtPnNldENsaWVudElkKDMpOwovLyAgICAgICAgJG9yZGVyMy0+c2V0T3JkZXJUeXBlKE9yZGVyOjpUWVBFX09GRkxJTkVfUERMKTsKCiAgICAgICAgcmV0dXJuIFskb3JkZXIxXTs=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICBkYjoKICAgIGNvbnRhaW5lcl9uYW1lOiBkYl90ZXN0CiAgICBpbWFnZTogcG9zdGdyZXM6OS42CiAgICBwb3J0czoKICAgICAgLSAiNDU0MzI6NTQzMiIKICAgIGVudmlyb25tZW50OgogICAgICBQT1NUR1JFU19VU0VSOiAicm9vdCIKICAgICAgUE9TVEdSRVNfUEFTU1dPUkQ6ICJrZWVwaXRzaW1wbGUi</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

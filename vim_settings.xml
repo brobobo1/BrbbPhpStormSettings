@@ -46,13 +46,6 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" timestamp="1527699788809">
-        <mark key="'" line="92" column="25" />
-        <mark key="[" line="422" column="0" />
-        <mark key="]" line="422" column="0" />
-        <mark key="^" line="422" column="3" />
-        <mark key="." line="422" column="0" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/config/parameters/parameters_ci.yaml" timestamp="1525426946602">
         <mark key="[" line="3" column="68" />
         <mark key="]" line="3" column="35" />
@@ -437,6 +430,12 @@
         <mark key="]" line="31" column="45" />
         <mark key="^" line="31" column="45" />
         <mark key="." line="31" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180531152720.php" timestamp="1527780637868">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/DependencyInjection/Security/Factory/JwtFactory.php" timestamp="1526051336346">
         <mark key="[" line="66" column="17" />
@@ -882,7 +881,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527779683817">
+      <file name="/Dummy.txt" timestamp="1527780723062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1142,7 +1141,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBwcm9tb2NvZGVfc3RhdGljIEFMVEVSIHBhcmFtZXRlcnMgVFlQRSBKU09OJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgcHJvbW9jb2RlX3N0YXRpYyBBTFRFUiBwYXJhbWV0ZXJzIFNFVCBERUZBVUxUIFwnW11cJycpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -1154,16 +1153,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBScGNTbXNTZW5kRXhjZXB0aW9uKCdBbHJlYWR5IHNlbmQnLCBScGNTZXJ2ZXJFcnJvckV4Y2VwdGlvbjo6U01TX0FMUkVBRFlfU0VORCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBwcm9tb2NvZGVfc3RhdGljIEFMVEVSIHBhcmFtZXRlcnMgVFlQRSBKU09OJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgcHJvbW9jb2RlX3N0YXRpYyBBTFRFUiBwYXJhbWV0ZXJzIFNFVCBERUZBVUxUIFwnW11cJycpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIC8qKiBAdmFyIFNtc0xvZ1BUQXxudWxsICRyZXN1bHQgKi8K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBzZWxlY3RlZF9sb2FuIEFMVEVSIHNvY2lhbCBUWVBFIEpTT04nKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBzZWxlY3RlZF9sb2FuIEFMVEVSIHNvY2lhbCBTRVQgREVGQVVMVCBcJ1tdXCcnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiAkcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBpbnRlcnZpZXdfYW5zd2VyIEFMVEVSIGFuc3dlcklkIFNFVCBOT1QgTlVMTCcpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIElOREVYIGlkeF9iYTI0NDY1MjU0NDdlMTQ2IFJFTkFNRSBUTyBJRFhfQkEyNDQ2NTJDMUMzQzVFNCcpOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1238,25 +1237,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcU21zXFNtc0xvZ1BUQTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBNaW50b3NFbnRyeSBBTFRFUiBhY3R1YWxQYXltZW50U2NoZWR1bGUgVFlQRSBKU09OJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgTWludG9zRW50cnkgQUxURVIgYWN0dWFsUGF5bWVudFNjaGVkdWxlIFNFVCBERUZBVUxUIFwnW11cJycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBNaW50b3NFbnRyeSBBTFRFUiBvcmlnaW5hbFBheW1lbnRTY2hlZHVsZSBUWVBFIEpTT04nKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBNaW50b3NFbnRyeSBBTFRFUiBvcmlnaW5hbFBheW1lbnRTY2hlZHVsZSBTRVQgREVGQVVMVCBcJ1tdXCcnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBNaW50b3NMb2cgQUxURVIgcmVzcG9uc2UgVFlQRSBKU09OJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgTWludG9zTG9nIEFMVEVSIHJlc3BvbnNlIFNFVCBERUZBVUxUIFwnW11cJycpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZFNlbmQoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBNaW50b3NMb2cgQUxURVIgcmVxdWVzdCBUWVBFIEpTT04nKTsKICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBNaW50b3NMb2cgQUxURVIgcmVxdWVzdCBTRVQgREVGQVVMVCBcJ1tdXCcnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZExhc3QoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBPZmZpY2UgQUxURVIgcGhvbmVOdW1iZXIgRFJPUCBOT1QgTlVMTCcpOwogICAgICAgICR0aGlzLT5hZGRTcWwoJ0FMVEVSIElOREVYIGlkeF80YzFmOTdiM2E0YjNhNGYzIFJFTkFNRSBUTyBpZHhfYThiNmNiZTBhNGIzYTRmMycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBUYXJpZmYgQUxURVIgZGVzY3JpcHRpb24gVFlQRSBKU09OJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgVGFyaWZmIEFMVEVSIGRlc2NyaXB0aW9uIFNFVCBERUZBVUxUIFwnW11cJycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

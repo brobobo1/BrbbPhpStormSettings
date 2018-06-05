@@ -46,13 +46,6 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" timestamp="1527699788809">
-        <mark key="'" line="92" column="25" />
-        <mark key="[" line="422" column="0" />
-        <mark key="]" line="422" column="0" />
-        <mark key="^" line="422" column="3" />
-        <mark key="." line="422" column="0" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/config/parameters/parameters_ci.yaml" timestamp="1525426946602">
         <mark key="[" line="3" column="68" />
         <mark key="]" line="3" column="35" />
@@ -217,7 +210,6 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/docker/Dockerfile" timestamp="1527698931833" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1527776341291">
         <mark key="'" line="1619" column="52" />
       </file>
@@ -425,7 +417,6 @@
         <mark key="." line="24" column="100" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Repository/Doctrine/LoanRepository.php" timestamp="1527258286395" />
       <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Repository/OrderRepositoryInterface.php" timestamp="1527699833562">
         <mark key="[" line="12" column="42" />
         <mark key="]" line="12" column="43" />
@@ -504,6 +495,7 @@
         <mark key="^" line="74" column="109" />
         <mark key="." line="74" column="109" />
       </file>
+      <file name="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" timestamp="1528099549956" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/CrmApiServiceProvider/CrmApiClient.php" timestamp="1523377987432">
         <mark key="[" line="86" column="37" />
         <mark key="]" line="86" column="82" />
@@ -621,7 +613,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/views/documents/loan/agreement_with_schedule_0000.twig" timestamp="1527856741197" />
       <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Repository/Interfaces/ClientRepositoryInterface.php" timestamp="1526985018292">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="34" />
@@ -645,7 +636,6 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/SmsService/Interfaces/SmsAwareInterface.php" timestamp="1527776352511" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1527783105704">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="45" />
@@ -667,7 +657,7 @@
         <mark key="[" line="21" column="6" />
         <mark key="]" line="21" column="68" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/SmsService/SmsService.php" timestamp="1527783994736">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/SmsService/SmsService.php" timestamp="1528186032773">
         <mark key="'" line="201" column="23" />
         <mark key="[" line="154" column="66" />
         <mark key="]" line="154" column="65" />
@@ -780,7 +770,6 @@
         <mark key="]" line="248" column="0" />
         <mark key="." line="248" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/vendor/dotzero/amocrm/src/Models/Lead.php" timestamp="1527517548830" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/GenerateScheduleOrderCommand.php" timestamp="1522240058015">
         <mark key="[" line="134" column="61" />
         <mark key="]" line="134" column="82" />
@@ -862,6 +851,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/SmsPTAService/SmsPTAService.php" timestamp="1528186017522">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1527783764850">
         <mark key="[" line="0" column="0" />
@@ -1141,8 +1136,8 @@
       <jump line="201" column="23" filename="$USER_HOME$/code/devim/dzp/src/App/Service/SmsService/SmsService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>position</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>position</text>
@@ -1160,10 +1155,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcWItPmdldFF1ZXJ5KCktPmdldFNRTCgpKTtkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHZhcl9kdW1wKCRxYi0+Z2V0UXVlcnkoKS0+Z2V0U1FMKCkpO1MK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcWItPmdldFF1ZXJ5KCktPmdldFNRTCgpKTtkZAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1238,25 +1233,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHZhcl9kdW1wKCRxYi0+Z2V0UXVlcnkoKS0+Z2V0U1FMKCkpO1MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkdGhpcy0+c21zU2VydmljZS0+aXNQVEFTbXNBdmFpbGFibGUoJHBob25lKSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFJwY1Ntc1NlbmRFeGNlcHRpb24oJ0FscmVhZHkgc2VuZCcsIFJwY1NlcnZlckVycm9yRXhjZXB0aW9uOjpTTVNfQUxSRUFEWV9TRU5EKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkdGhpcy0+c21zU2VydmljZS0+aXNQVEFTbXNBdmFpbGFibGUoJHBob25lKSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFJwY1Ntc1NlbmRFeGNlcHRpb24oJ0FscmVhZHkgc2VuZCcsIFJwY1NlcnZlckVycm9yRXhjZXB0aW9uOjpTTVNfQUxSRUFEWV9TRU5EKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmV3IGNsYXNzKDIpIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBwcm9tb2NvZGVfc3RhdGljIEFMVEVSIHBhcmFtZXRlcnMgVFlQRSBKU09OJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgcHJvbW9jb2RlX3N0YXRpYyBBTFRFUiBwYXJhbWV0ZXJzIFNFVCBERUZBVUxUIFwnW11cJycpOwo=</text>
+        <text encoding="base64">bmV3IGNsYXNzKDIpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

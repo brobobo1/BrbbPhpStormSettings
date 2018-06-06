@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -323,6 +323,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Admin/ClientAdmin.php" timestamp="1528278800725">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="47" column="42" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Helper/SocialNetworkHelper.php" timestamp="1523542557273">
         <mark key="[" line="14" column="1" />
@@ -789,6 +794,12 @@
         <mark key="^" line="59" column="17" />
         <mark key="." line="59" column="17" />
       </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Admin/ApplicationAdmin.php" timestamp="1528278880266">
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="64" column="7" />
+        <mark key="." line="64" column="7" />
+        <mark key="^" line="64" column="7" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" timestamp="1526566039011">
         <mark key="[" line="129" column="44" />
         <mark key="]" line="161" column="34" />
@@ -882,7 +893,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528200122755">
+      <file name="/Dummy.txt" timestamp="1528278937139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1123,7 +1134,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRkYXRldywgJHBkbERhdGUpO293Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcG9vbCA9ICR0aGlzLT5nZXRDb25maWd1cmF0aW9uUG9vbCgpOwogICAgICAgICRjbGFzc2VzID0gJHBvb2wtPmdldEFkbWluQ2xhc3NlcygpOwogICAgICAgICRjbGFzc2VzW0NsaWVudDo6Y2xhc3NdID0gW3NlbGY6OmNsYXNzXTsKICAgICAgICAkcG9vbC0+c2V0QWRtaW5DbGFzc2VzKCRjbGFzc2VzKTsKICAgICAgICAkdGhpcy0+c2V0Q29uZmlndXJhdGlvblBvb2woJHBvb2wpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>position</text>
@@ -1131,20 +1142,20 @@
       <register name="/" type="4">
         <text encoding="base64">XDx2b2lkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICByZXR1cm4gJHRoaXMtPmZpbmRCeShbJ2NsaWVudCcgPT4gJGNsaWVudF0sIFsnaWQnID0+ICdBU0MnXSk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkcG9vbCA9ICR0aGlzLT5nZXRDb25maWd1cmF0aW9uUG9vbCgpOwogICAgICAgICRjbGFzc2VzID0gJHBvb2wtPmdldEFkbWluQ2xhc3NlcygpOwogICAgICAgICRjbGFzc2VzW0NsaWVudDo6Y2xhc3NdID0gW3NlbGY6OmNsYXNzXTsKICAgICAgICAkcG9vbC0+c2V0QWRtaW5DbGFzc2VzKCRjbGFzc2VzKTsKICAgICAgICAkdGhpcy0+c2V0Q29uZmlndXJhdGlvblBvb2woJHBvb2wpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRkYXRldywgJHBkbERhdGUpO293Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2xhc3Nlcyk7ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRkYXRldywgJHBkbERhdGUpO293Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRkYXRlID09PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1219,25 +1230,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKCRkYXRlID09PSBudWxsKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChjb3VudCgkcmVzdWx0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gICR0aGlzLT5maW5kQWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChjb3VudCgkcmVzdWx0KSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gICR0aGlzLT5maW5kQWxsKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBcRGF0ZVRpbWUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldENsaWVudElzc3VlRGF0ZSgpOiBcRGF0ZVRpbWUKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmNsaWVudElzc3VlRGF0ZTsKICAgIH0KCiAgICAvKioKICAgICAqIEBwYXJhbSBcRGF0ZVRpbWUgJGNsaWVudElzc3VlRGF0ZQogICAgICogQHJldHVybiBPcmRlcgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0Q2xpZW50SXNzdWVEYXRlKFxEYXRlVGltZSAkY2xpZW50SXNzdWVEYXRlKTogT3JkZXIKICAgIHsKICAgICAgICAkdGhpcy0+Y2xpZW50SXNzdWVEYXRlID0gJGNsaWVudElzc3VlRGF0ZTsKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

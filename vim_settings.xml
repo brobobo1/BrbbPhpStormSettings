@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -46,10 +46,11 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" timestamp="1528188919380">
-        <mark key="[" line="446" column="0" />
-        <mark key="]" line="446" column="0" />
-        <mark key="." line="446" column="0" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" timestamp="1528380643564">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="21" column="37" />
+        <mark key="." line="21" column="37" />
+        <mark key="^" line="21" column="37" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/config/parameters/parameters_ci.yaml" timestamp="1525426946602">
         <mark key="[" line="3" column="68" />
@@ -570,11 +571,11 @@
         <mark key="." line="22" column="7" />
         <mark key="^" line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Repository/Doctrine/OrderRepository.php" timestamp="1528376307357">
-        <mark key="[" line="29" column="149" />
-        <mark key="]" line="37" column="11" />
-        <mark key="." line="37" column="11" />
-        <mark key="^" line="37" column="11" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Repository/Doctrine/OrderRepository.php" timestamp="1528380686980">
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="55" />
+        <mark key="." line="44" column="55" />
+        <mark key="^" line="44" column="55" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/docker-compose.yml" timestamp="1514887939268">
         <mark key="[" line="3" column="29" />
@@ -901,7 +902,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528376564908">
+      <file name="/Dummy.txt" timestamp="1528380689723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1149,10 +1150,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>('</text>
+        <text>[Order::STATUS_APPROVED, Order::STATUS_REJECTED, Order::STATUS_PAID]</text>
       </register>
       <register name="-" type="4">
-        <text>('</text>
+        <text>[Order::STATUS_APPROVED, Order::STATUS_REJECTED, Order::STATUS_PAID]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2b2lkXD4=</text>
@@ -1161,16 +1162,16 @@
         <text encoding="base64">ICAgICAgICAkcG9vbCA9ICR0aGlzLT5nZXRDb25maWd1cmF0aW9uUG9vbCgpOwogICAgICAgICRjbGFzc2VzID0gJHBvb2wtPmdldEFkbWluQ2xhc3NlcygpOwogICAgICAgICRjbGFzc2VzW0NsaWVudDo6Y2xhc3NdID0gW3NlbGY6OmNsYXNzXTsKICAgICAgICAkcG9vbC0+c2V0QWRtaW5DbGFzc2VzKCRjbGFzc2VzKTsKICAgICAgICAkdGhpcy0+c2V0Q29uZmlndXJhdGlvblBvb2woJHBvb2wpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7ZGQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpTVEFUVVNfUkVKRUNURUQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIGNvbnN0IEFWQUlMQUJMRV9TVEFUVVNFUyA9IFsKICAgICAgICBzZWxmOjpTVEFUVVNfQVBQUk9WRUQsCiAgICAgICAgc2VsZjo6U1RBVFVTX1BBSUQsCiAgICAgICAgc2VsZjo6U1RBVFVTX1JFSkVDVEVECiAgICBdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG9yZGVyLT5nZXRPcmRlck51bWJlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWU7ZGQK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1245,25 +1246,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkb3JkZXJzIGFzICRvcmRlcikgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2wK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG9yZGVyLT5nZXRPcmRlck51bWJlcigpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNzdWVkTG9hbnMgPSAkbG9hblJlcG9zaXRvcnktPmdldExvYW5zVG9VcGRhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkb3JkZXJzIGFzICRvcmRlcikgewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2wK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZE5ld1ZhbGlkKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAkaXNzdWVkTG9hbnMgPSAkbG9hblJlcG9zaXRvcnktPmdldExvYW5zVG9VcGRhdGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2xhc3Nlcyk7ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

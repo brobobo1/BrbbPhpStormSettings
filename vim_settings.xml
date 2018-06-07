@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -644,7 +644,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1527783105704">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1528379865693">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
@@ -854,10 +854,10 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528376434190">
-        <mark key="[" line="79" column="29" />
-        <mark key="]" line="83" column="73" />
-        <mark key="." line="83" column="73" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528379921957">
+        <mark key="[" line="54" column="43" />
+        <mark key="]" line="54" column="43" />
+        <mark key="." line="54" column="43" />
         <mark key="^" line="83" column="73" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/.env" timestamp="1525362796699">
@@ -872,7 +872,7 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/LoanRepositoryInterface.php" timestamp="1528287230226" />
-      <file name="/dummy.sql" timestamp="1528376524108">
+      <file name="/dummy.sql" timestamp="1528379305323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1149,10 +1149,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dXBkYXRlZF9hdCA+ICcyMDE4LTA3LTA2JyBhbmQgb3JkZXJfc3RhdHVzID0gMg==</text>
+        <text>('</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXBkYXRlZF9hdCA+ICcyMDE4LTA3LTA2JyBhbmQgb3JkZXJfc3RhdHVzID0gMg==</text>
+        <text>('</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2b2lkXD4=</text>

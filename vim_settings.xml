@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -57,6 +57,10 @@
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/MobileApiServiceProvider.php" timestamp="1528384852335">
+        <mark key="[" line="117" column="25" />
+        <mark key="]" line="117" column="43" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/services.php" timestamp="1527772606835">
         <mark key="[" line="106" column="22" />
@@ -1150,7 +1154,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[Order::STATUS_APPROVED, Order::STATUS_REJECTED, Order::STATUS_PAID]</text>
+        <text>mobile_api.base_url</text>
       </register>
       <register name="-" type="4">
         <text>[Order::STATUS_APPROVED, Order::STATUS_REJECTED, Order::STATUS_PAID]</text>
@@ -1158,8 +1162,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx2b2lkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcG9vbCA9ICR0aGlzLT5nZXRDb25maWd1cmF0aW9uUG9vbCgpOwogICAgICAgICRjbGFzc2VzID0gJHBvb2wtPmdldEFkbWluQ2xhc3NlcygpOwogICAgICAgICRjbGFzc2VzW0NsaWVudDo6Y2xhc3NdID0gW3NlbGY6OmNsYXNzXTsKICAgICAgICAkcG9vbC0+c2V0QWRtaW5DbGFzc2VzKCRjbGFzc2VzKTsKICAgICAgICAkdGhpcy0+c2V0Q29uZmlndXJhdGlvblBvb2woJHBvb2wpOwo=</text>
+      <register name="0" type="4">
+        <text>mobile_api.base_url</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmOjpTVEFUVVNfUkVKRUNURUQK</text>

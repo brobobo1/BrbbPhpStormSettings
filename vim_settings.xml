@@ -570,8 +570,8 @@
         <mark key="." line="22" column="7" />
         <mark key="^" line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Repository/Doctrine/OrderRepository.php" timestamp="1528200098828">
-        <mark key="[" line="28" column="0" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Repository/Doctrine/OrderRepository.php" timestamp="1528368880010">
+        <mark key="[" line="27" column="46" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
@@ -857,11 +857,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528297184220">
-        <mark key="[" line="67" column="17" />
-        <mark key="]" line="67" column="15" />
-        <mark key="." line="67" column="15" />
-        <mark key="^" line="67" column="15" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528369423178">
+        <mark key="[" line="56" column="9" />
+        <mark key="]" line="117" column="54" />
+        <mark key="." line="117" column="54" />
+        <mark key="^" line="117" column="54" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/.env" timestamp="1525362796699">
         <mark key="[" line="0" column="0" />
@@ -875,11 +875,11 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/LoanRepositoryInterface.php" timestamp="1528287230226" />
-      <file name="/dummy.sql" timestamp="1528288826697">
+      <file name="/dummy.sql" timestamp="1528368927858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="31" />
-        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/.gitignore" timestamp="1514880031257">
         <mark key="[" line="0" column="0" />
@@ -1152,7 +1152,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2wK</text>
+        <text encoding="base64">ICAgICAgICBkaWU7ZGQK</text>
       </register>
       <register name="-" type="4">
         <text>position</text>
@@ -1164,16 +1164,16 @@
         <text encoding="base64">ICAgICAgICAkcG9vbCA9ICR0aGlzLT5nZXRDb25maWd1cmF0aW9uUG9vbCgpOwogICAgICAgICRjbGFzc2VzID0gJHBvb2wtPmdldEFkbWluQ2xhc3NlcygpOwogICAgICAgICRjbGFzc2VzW0NsaWVudDo6Y2xhc3NdID0gW3NlbGY6OmNsYXNzXTsKICAgICAgICAkcG9vbC0+c2V0QWRtaW5DbGFzc2VzKCRjbGFzc2VzKTsKICAgICAgICAkdGhpcy0+c2V0Q29uZmlndXJhdGlvblBvb2woJHBvb2wpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2wK</text>
+        <text encoding="base64">ICAgICAgICBkaWU7ZGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNzdWVkTG9hbnMgPSAkbG9hblJlcG9zaXRvcnktPmdldExvYW5zVG9VcGRhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG9yZGVyLT5nZXRPcmRlck51bWJlcigpKTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1248,13 +1248,13 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZE5ld1ZhbGlkKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkb3JkZXJzIGFzICRvcmRlcikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2xhc3Nlcyk7ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga2wK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhcl9kdW1wKCRkYXRldywgJHBkbERhdGUpO293Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaXNzdWVkTG9hbnMgPSAkbG9hblJlcG9zaXRvcnktPmdldExvYW5zVG9VcGRhdGUoKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -1263,10 +1263,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRkYXRlID09PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZE5ld1ZhbGlkKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2xhc3Nlcyk7ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

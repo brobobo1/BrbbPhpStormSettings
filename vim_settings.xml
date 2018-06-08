@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -410,6 +410,12 @@
         <mark key="]" line="7" column="36" />
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" timestamp="1528460197164">
+        <mark key="[" line="267" column="56" />
+        <mark key="]" line="270" column="40" />
+        <mark key="." line="270" column="40" />
+        <mark key="^" line="270" column="40" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PromoCodeStaticRepositoryInterface.php" timestamp="1523894088149">
         <mark key="[" line="38" column="33" />
@@ -914,7 +920,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528449502896">
+      <file name="/Dummy.txt" timestamp="1528460209080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1162,7 +1168,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9sZEluY29tZXMgICAgICA9ICRsb2FuLT5nZXRJbmNvbWVzKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>[Order::STATUS_APPROVED, Order::STATUS_REJECTED, Order::STATUS_PAID]</text>
@@ -1174,16 +1180,16 @@
         <text>mobile_api.base_url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9sZEluY29tZXMgICAgICA9ICRsb2FuLT5nZXRJbmNvbWVzKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpTVEFUVVNfUkVKRUNURUQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1258,25 +1264,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGNvbnN0IEFWQUlMQUJMRV9TVEFUVVNFUyA9IFsKICAgICAgICBzZWxmOjpTVEFUVVNfQVBQUk9WRUQsCiAgICAgICAgc2VsZjo6U1RBVFVTX1BBSUQsCiAgICAgICAgc2VsZjo6U1RBVFVTX1JFSkVDVEVECiAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpTVEFUVVNfUkVKRUNURUQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7ZGQK</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIGNvbnN0IEFWQUlMQUJMRV9TVEFUVVNFUyA9IFsKICAgICAgICBzZWxmOjpTVEFUVVNfQVBQUk9WRUQsCiAgICAgICAgc2VsZjo6U1RBVFVTX1BBSUQsCiAgICAgICAgc2VsZjo6U1RBVFVTX1JFSkVDVEVECiAgICBdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWU7ZGQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG9yZGVyLT5nZXRPcmRlck51bWJlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkb3JkZXJzIGFzICRvcmRlcikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG9yZGVyLT5nZXRPcmRlck51bWJlcigpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2wK</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkb3JkZXJzIGFzICRvcmRlcikgewo=</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

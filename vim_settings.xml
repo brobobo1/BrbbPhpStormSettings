@@ -214,10 +214,12 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1528389234962">
-        <mark key="[" line="1945" column="0" />
-        <mark key="]" line="1945" column="0" />
-        <mark key="." line="1945" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1528465864430">
+        <mark key="'" line="723" column="8" />
+        <mark key="[" line="679" column="4" />
+        <mark key="]" line="684" column="25" />
+        <mark key="." line="684" column="25" />
+        <mark key="^" line="684" column="25" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Mandarin/Controller/MandarinNotifyController.php" timestamp="1524501615853">
         <mark key="[" line="528" column="28" />
@@ -867,11 +869,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528379921957">
-        <mark key="[" line="54" column="43" />
-        <mark key="]" line="54" column="43" />
-        <mark key="." line="54" column="43" />
-        <mark key="^" line="83" column="73" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528466032077">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="68" column="34" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/.env" timestamp="1525362796699">
         <mark key="[" line="0" column="0" />
@@ -1059,8 +1061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/InvestRpcService.php" />
-      <jump line="69" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/External/LoanRpcService.php" />
       <jump line="81" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/External/LoanRpcService.php" />
       <jump line="104" column="1" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
       <jump line="111" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
@@ -1159,31 +1159,33 @@
       <jump line="156" column="28" filename="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" />
       <jump line="431" column="6" filename="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" />
       <jump line="607" column="80" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/LoanRepository.php" />
+      <jump line="675" column="22" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" />
+      <jump line="714" column="8" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZW5kRGF0ZS0+bW9kaWZ5KCcyMzo1OTo1OScpaQo=</text>
+        <text encoding="base64">ICAgICAgICAkb3JkZXJDb3VudCA9IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>[Order::STATUS_APPROVED, Order::STATUS_REJECTED, Order::STATUS_PAID]</text>
+        <text>\count($orders);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2b2lkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>mobile_api.base_url</text>
+        <text>isVerified</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZW5kRGF0ZS0+bW9kaWZ5KCcyMzo1OTo1OScpaQo=</text>
+        <text encoding="base64">ICAgICAgICAkb3JkZXJDb3VudCA9IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9sZEluY29tZXMgICAgICA9ICRsb2FuLT5nZXRJbmNvbWVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1258,25 +1260,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG91dHB1dC0+d3JpdGVsbignRW5kIGltcG9ydCBsb2FuLicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpTVEFUVVNfUkVKRUNURUQK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJG9yZGVyQ291ZG50ID09PSAwKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGNvbnN0IEFWQUlMQUJMRV9TVEFUVVNFUyA9IFsKICAgICAgICBzZWxmOjpTVEFUVVNfQVBQUk9WRUQsCiAgICAgICAgc2VsZjo6U1RBVFVTX1BBSUQsCiAgICAgICAgc2VsZjo6U1RBVFVTX1JFSkVDVEVECiAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZW5kRGF0ZS0+bW9kaWZ5KCcyMzo1OTo1OScpaQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9sZEluY29tZXMgICAgICA9ICRsb2FuLT5nZXRJbmNvbWVzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG9yZGVyLT5nZXRPcmRlck51bWJlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

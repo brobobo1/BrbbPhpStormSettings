@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -220,6 +220,11 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1528389234962">
+        <mark key="[" line="1945" column="0" />
+        <mark key="]" line="1945" column="0" />
+        <mark key="." line="1945" column="0" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Mandarin/Controller/MandarinNotifyController.php" timestamp="1524501615853">
         <mark key="[" line="528" column="28" />
         <mark key="]" line="529" column="92" />
@@ -418,6 +423,9 @@
         <mark key="^" line="40" column="78" />
         <mark key="." line="40" column="78" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Entity.Client.yml" timestamp="1528389240427">
+        <mark key="[" line="12" column="30" />
+      </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/ipstat.php" timestamp="1515581324328">
         <mark key="[" line="177" column="34" />
         <mark key="]" line="177" column="32" />
@@ -508,7 +516,6 @@
         <mark key="^" line="74" column="109" />
         <mark key="." line="74" column="109" />
       </file>
-      <file name="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" timestamp="1528099549956" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/CrmApiServiceProvider/CrmApiClient.php" timestamp="1523377987432">
         <mark key="[" line="86" column="37" />
         <mark key="]" line="86" column="82" />
@@ -1153,8 +1160,8 @@
       <jump line="607" column="80" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/LoanRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mobile_api.base_url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>[Order::STATUS_APPROVED, Order::STATUS_REJECTED, Order::STATUS_PAID]</text>
@@ -1166,16 +1173,16 @@
         <text>mobile_api.base_url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpTVEFUVVNfUkVKRUNURUQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGNvbnN0IEFWQUlMQUJMRV9TVEFUVVNFUyA9IFsKICAgICAgICBzZWxmOjpTVEFUVVNfQVBQUk9WRUQsCiAgICAgICAgc2VsZjo6U1RBVFVTX1BBSUQsCiAgICAgICAgc2VsZjo6U1RBVFVTX1JFSkVDVEVECiAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7ZGQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpTVEFUVVNfUkVKRUNURUQK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1250,25 +1257,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIGNvbnN0IEFWQUlMQUJMRV9TVEFUVVNFUyA9IFsKICAgICAgICBzZWxmOjpTVEFUVVNfQVBQUk9WRUQsCiAgICAgICAgc2VsZjo6U1RBVFVTX1BBSUQsCiAgICAgICAgc2VsZjo6U1RBVFVTX1JFSkVDVEVECiAgICBdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG9yZGVyLT5nZXRPcmRlck51bWJlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWU7ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkb3JkZXJzIGFzICRvcmRlcikgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2wK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG9yZGVyLT5nZXRPcmRlck51bWJlcigpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNzdWVkTG9hbnMgPSAkbG9hblJlcG9zaXRvcnktPmdldExvYW5zVG9VcGRhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkb3JkZXJzIGFzICRvcmRlcikgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2wK</text>
       </register>
       <register name=":" type="4">
         <text>!sudo docker-compose exec fpm runtime/vendor/bin/codecept run functional</text>

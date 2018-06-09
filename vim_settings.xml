@@ -882,10 +882,10 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528547138779">
-        <mark key="[" line="88" column="19" />
-        <mark key="]" line="88" column="19" />
-        <mark key="." line="88" column="19" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528548641443">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="19" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/.env" timestamp="1525362796699">
@@ -1181,8 +1181,8 @@
       <jump line="109" column="13" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/CalculatorController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'2 - заявки (не с API трафика) с суммой подачи более 30001';</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'2 - заявки (не с API трафика) с суммой подачи более 30001';</text>
@@ -1190,20 +1190,20 @@
       <register name="/" type="4">
         <text encoding="base64">XDx2b2lkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>isVerified</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+dXBkYXRlUmVkaXMoJGxhc3REYXRlTm9ybWFsLCAkbGFzdERhdGVQZGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtPnNldFBhOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEB0eXBlID0gOnR5cGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRsYXN0RGF0ZU5vcm1hbCA9ICRvcmRlci0+Z2V0VXBkYXRlZEF0KCktPmdldFRpbWVzdGFtcCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBzdGF0dXMgPSA6c3RhdHVzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1278,25 +1278,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBwZGxEYXRlVG9wID0gOnBkbERhdGVUb3AsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBwZGxEYXRlID0gOnBkbERhdGUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBkYXRlID0gIDpkYXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIE9yZGVyICRvcmRlciAqLwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBleGVjdXRlIHNwX2dldF9vcmRlcnNfZm9yX2Ftb0NSTSAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkb3JkZXItPmdldE9yZGVyU3RhdHVzKCkgPT09IE9yZGVyOjpTVEFUVVNfQVBQUk9WRUQgJiYgJG9yZGVyLT5nZXRPcmRlclR5cGUoKSA9PT0gT3JkZXI6OlRZUEVfT0ZGTElORV9QREwpIHsKICAgICAgICAgICAgICAgICAgICAkbGFzdERhdGVQZGwgPSAkb3JkZXItPmdldFVwZGF0ZWRBdCgpLT5nZXRUaW1lc3RhbXAoKTsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICRsYXN0RGF0ZU5vcm1hbCA9ICRvcmRlci0+Z2V0VXBkYXRlZEF0KCktPmdldFRpbWVzdGFtcCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdXBkYXRlUmVkaXMgPSBmYWxzZTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdldEVudGl0eU1hbmFnZXIoKS0+Y3JlYXRlUXVlcnkoJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgaWYgKCR1cGRhdGVSZWRpcykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

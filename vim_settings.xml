@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -665,7 +665,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1528897375493">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1528898578793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
@@ -884,11 +884,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528897616207">
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528899303782">
         <mark key="'" line="97" column="16" />
-        <mark key="[" line="81" column="101" />
-        <mark key="]" line="81" column="102" />
-        <mark key="." line="81" column="102" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
         <mark key="^" line="81" column="102" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/.env" timestamp="1525362796699">
@@ -931,7 +931,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528882654446">
+      <file name="/Dummy.txt" timestamp="1528898478371">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1189,7 +1189,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlci0+Z2V0T3JkZXJOdW1iZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgQlVDS0VUX1NJWkUgID0gMzA7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Normal</text>
@@ -1201,16 +1201,16 @@
         <text>exec sp_get_Orders_AMO_rev @rev_from = :from,  @rev_cnt = :cnt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlci0+Z2V0T3JkZXJOdW1iZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgQlVDS0VUX1NJWkUgID0gMzA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkb3JkZXItPmdldE9yZGVyTnVtYmVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlci0+Z2V0T3JkZXJUeXBlKCksICRvcmRlci0+Z2V0VXBkYXRlZEF0KCksICRkZWwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgxKTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1285,25 +1285,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY3JlYXRlQ250ID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkb3JkZXItPmdldE9yZGVyTnVtYmVyKCksICRvcmRlci0+Z2V0T3JkZXJTdGF0dXMoKSwgJG9yZGVyLT5nZXRPcmRlclR5cGUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlci0+Z2V0T3JkZXJOdW1iZXIoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkb3JkZXItPmdldE9yZGVyTnVtYmVyKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIF0pLT5nZXRSZXN1bHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkY3JlYXRlQ250ID0gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnY250JyA9PiAkY250Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

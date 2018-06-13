@@ -884,11 +884,12 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528886473667">
-        <mark key="[" line="78" column="31" />
-        <mark key="]" line="78" column="15" />
-        <mark key="." line="78" column="15" />
-        <mark key="^" line="78" column="15" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528892025885">
+        <mark key="'" line="77" column="29" />
+        <mark key="[" line="83" column="116" />
+        <mark key="]" line="212" column="25" />
+        <mark key="." line="212" column="25" />
+        <mark key="^" line="212" column="25" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/.env" timestamp="1525362796699">
         <mark key="[" line="0" column="0" />
@@ -1085,7 +1086,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
       <jump line="298" column="41" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
       <jump line="340" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
       <jump line="344" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
@@ -1185,10 +1185,11 @@
       <jump line="189" column="4" filename="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" />
       <jump line="471" column="0" filename="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" />
       <jump line="442" column="37" filename="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" />
+      <jump line="77" column="29" filename="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKDExMTExMTExKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCdhYWFhYWFhYWFhYScpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>lastDateNormalCreate</text>
@@ -1200,16 +1201,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5yZWRpcy0+c2V0KCdmcm9tTm9ybWFsJywgJGZyb21Ob3JtYWwpOwogICAgICAgICAgICAgICAgJHRoaXMtPnJlZGlzLT5zZXQoJ2Zyb21QZGxPZmZsaW5lJywgJGZyb21QZGxPZmZsaW5lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKDExMTExMTExKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCdhYWFhYWFhYWFhYScpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZnJvbSwgJGZyb21Ob3JtYWwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlci0+Z2V0T3JkZXJUeXBlKCksICRvcmRlci0+Z2V0UmV2aXNpb24oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlci0+Z2V0UmV2aXNpb24oKSA+ICRmcm9tTm9ybWFsKTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1284,25 +1285,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlci0+Z2V0UmV2aXNpb24oKSwgJGZyb21Ob3JtYWwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZWlmICgpIHtkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JGZyb21Ob3JtYWwgPSAwOwokZnJvbVBkbE9mZmxpbmUgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGZyb21Ob3JtKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JGZyb21Ob3JtYWwgPSAwOwokZnJvbVBkbE9mZmxpbmUgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKDExMTExMTExKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRmcm9tTm9ybWFsID0gJHRoaXMtPnJlZGlzLT5nZXQoJ2Zyb21Ob3JtYWwnKSA/PyAwOwovLyAgICAgICAgJGZyb21QZGxPZmZsaW5lID0gJHRoaXMtPnJlZGlzLT5nZXQoJ2Zyb21QZGxPZmZsaW5lJykgPz8gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgxKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

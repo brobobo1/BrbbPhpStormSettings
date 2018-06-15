@@ -1,22 +1,10 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/code/devim/dzp/config/packages/devim_rpc_server.yaml" timestamp="1525772296538">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180327111614.php" timestamp="1523280566937">
-        <mark key="[" line="21" column="163" />
-        <mark key="]" line="21" column="163" />
-        <mark key="^" line="21" column="163" />
-        <mark key="." line="21" column="163" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/StatsRpcService.php" timestamp="1525948912044">
         <mark key="[" line="48" column="38" />
         <mark key="]" line="48" column="31" />
@@ -34,18 +22,6 @@
         <mark key="]" line="91" column="12" />
         <mark key="." line="91" column="12" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Exception/RpcException/RpcSelectedLoanException.php" timestamp="1523953746143">
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="11" />
-        <mark key="^" line="10" column="21" />
-        <mark key="." line="10" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PromoRepositoryInterface.php" timestamp="1521736839971">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="14" />
-        <mark key="^" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-      </file>
       <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" timestamp="1528882982669">
         <mark key="'" line="444" column="37" />
         <mark key="[" line="173" column="44" />
@@ -59,12 +35,6 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Controller/CollectDataController.php" timestamp="1527065069362">
-        <mark key="[" line="276" column="55" />
-        <mark key="]" line="247" column="54" />
-        <mark key="." line="247" column="54" />
-        <mark key="^" line="247" column="54" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankLogosCommand.php" timestamp="1524486693590">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="86" column="50" />
@@ -75,12 +45,6 @@
         <mark key="]" line="89" column="27" />
         <mark key="^" line="89" column="27" />
         <mark key="." line="89" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/DependencyInjection/Security/Factory/JwtTwoFactorFactory.php" timestamp="1525699656018">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="69" column="36" />
-        <mark key="." line="69" column="36" />
-        <mark key="^" line="69" column="36" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Sms/SmsLogPTA.php" timestamp="1527773124359">
         <mark key="[" line="33" column="6" />
@@ -93,23 +57,11 @@
         <mark key="." line="101" column="21" />
         <mark key="^" line="101" column="21" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/ContactServiceProvider/ContactService.php" timestamp="1526048825581">
-        <mark key="[" line="59" column="31" />
-        <mark key="]" line="58" column="50" />
-        <mark key="^" line="58" column="50" />
-        <mark key="." line="58" column="50" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180330110325.php" timestamp="1522413698507">
         <mark key="[" line="50" column="77" />
         <mark key="]" line="50" column="76" />
         <mark key="^" line="50" column="76" />
         <mark key="." line="50" column="76" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ProxyRpcService.php" timestamp="1525948755465">
-        <mark key="[" line="2106" column="42" />
-        <mark key="]" line="2106" column="41" />
-        <mark key="." line="2106" column="41" />
-        <mark key="^" line="2106" column="41" />
       </file>
       <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Services/CurlRequest/CurlRequest.php" timestamp="1523631823861">
         <mark key="[" line="7" column="0" />
@@ -117,8 +69,490 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/DashboardService/DashboardService.php" timestamp="1528469986662">
-        <mark key="[" line="106" column="92" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankBinsCommand.php" timestamp="1524484431789">
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="20" />
+        <mark key="^" line="43" column="20" />
+        <mark key="." line="43" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/ProlongationAgreement.php" timestamp="1522242437943">
+        <mark key="[" line="69" column="135" />
+        <mark key="]" line="70" column="11" />
+        <mark key="^" line="70" column="11" />
+        <mark key="." line="70" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/AchievementRepository.php" timestamp="1526388673323">
+        <mark key="[" line="13" column="95" />
+        <mark key="]" line="13" column="95" />
+        <mark key="." line="13" column="95" />
+        <mark key="^" line="13" column="95" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180409132714.php" timestamp="1523283119752">
+        <mark key="[" line="24" column="174" />
+        <mark key="]" line="24" column="176" />
+        <mark key="^" line="24" column="176" />
+        <mark key="." line="24" column="176" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1528467447601">
+        <mark key="'" line="704" column="45" />
+        <mark key="[" line="2538" column="5" />
+        <mark key="]" line="677" column="56" />
+        <mark key="." line="677" column="56" />
+        <mark key="^" line="677" column="56" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Mandarin/Controller/MandarinNotifyController.php" timestamp="1524501615853">
+        <mark key="[" line="528" column="28" />
+        <mark key="]" line="529" column="92" />
+        <mark key="^" line="529" column="92" />
+        <mark key="." line="529" column="92" />
+      </file>
+      <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/rooms_page.tpl" timestamp="1512479957632">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="17" column="58" />
+        <mark key="^" line="17" column="58" />
+        <mark key="." line="17" column="58" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/packages/sonata_admin.yaml" timestamp="1527070005133">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="20" column="62" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/PromoRepository.php" timestamp="1524568466421">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Repository/ClientRepository.php" timestamp="1527007633650">
+        <mark key="[" line="16" column="70" />
+        <mark key="]" line="16" column="75" />
+        <mark key="^" line="16" column="75" />
+        <mark key="." line="16" column="75" />
+      </file>
+      <file name="$USER_HOME$/code/opossum/princess/AOP/Readme.me" timestamp="1522106498339">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1516093776903">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Admin/ClientAdmin.php" timestamp="1528278800725">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="47" column="42" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Helper/SocialNetworkHelper.php" timestamp="1523542557273">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="19" column="50" />
+        <mark key="^" line="19" column="50" />
+        <mark key="." line="19" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/config/services.php" timestamp="1525364471569">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/CalculatorService/CalculatorService.php" timestamp="1523368541075">
+        <mark key="[" line="220" column="101" />
+        <mark key="]" line="220" column="104" />
+        <mark key="." line="220" column="104" />
+        <mark key="^" line="220" column="104" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Repository/ClientRepositoryInterface.php" timestamp="1526984796883">
+        <mark key="[" line="14" column="86" />
+        <mark key="]" line="14" column="94" />
+        <mark key="^" line="14" column="94" />
+        <mark key="." line="14" column="94" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/tests/_support/Helper/Functional.php" timestamp="1526392456901">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" timestamp="1529056268310">
+        <mark key="[" line="120" column="17" />
+        <mark key="]" line="122" column="18" />
+        <mark key="." line="120" column="18" />
+        <mark key="^" line="123" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PromoCodeStaticRepositoryInterface.php" timestamp="1523894088149">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="38" column="33" />
+        <mark key="^" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/CalculatorController.php" timestamp="1528474309603">
+        <mark key="[" line="130" column="60" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="130" column="59" />
+        <mark key="." line="133" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/QuestionRpcService.php" timestamp="1525948863370">
+        <mark key="[" line="133" column="53" />
+        <mark key="]" line="133" column="41" />
+        <mark key="." line="133" column="41" />
+        <mark key="^" line="133" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/PromoCodeStatic.php" timestamp="1524670029710">
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+        <mark key="^" line="22" column="50" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.php" timestamp="1527781621959">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/PassportRpcService.php" timestamp="1525948261181">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/CrmApiServiceProvider/CrmApiClient.php" timestamp="1523377987432">
+        <mark key="[" line="86" column="37" />
+        <mark key="]" line="86" column="82" />
+        <mark key="^" line="86" column="82" />
+        <mark key="." line="86" column="82" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/AchievementService/AchievementServiceInterface.php" timestamp="1524494666721">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Service/PromoCodeService/PromoCodeServiceTest.php" timestamp="1524234288857">
+        <mark key="[" line="177" column="34" />
+        <mark key="]" line="177" column="32" />
+        <mark key="." line="177" column="32" />
+        <mark key="^" line="177" column="32" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1d97259e-99a6-4709-a044-b108ad5917dc/console.sql" timestamp="1528883841491">
+        <mark key="[" line="33" column="55" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="33" column="39" />
+        <mark key="^" line="33" column="39" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.php" timestamp="1522931087609">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Mock/PayoutServiceMock.php" timestamp="1525961393158">
+        <mark key="[" line="100" column="50" />
+        <mark key="]" line="101" column="17" />
+        <mark key="." line="101" column="17" />
+        <mark key="^" line="101" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/learning/project1/docker-compose.yml" timestamp="1514887939268">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/packages/dev/mailchimp.yaml" timestamp="1523627717217">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="3" column="50" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Services/MailChimp/MailChimp.php" timestamp="1523864610679">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/opossum/princess/Lambda.php" timestamp="1521500597110">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1524215229026">
+        <mark key="[" line="598" column="7" />
+        <mark key="]" line="676" column="37" />
+        <mark key="^" line="676" column="37" />
+        <mark key="." line="676" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/Sms/SmsLogPTARepositoryInterface.php" timestamp="1527777858061">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1528898578793">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Mandarin/MandarinPayoutService.php" timestamp="1525336339606">
+        <mark key="[" line="165" column="73" />
+        <mark key="]" line="165" column="79" />
+        <mark key="." line="165" column="79" />
+        <mark key="^" line="165" column="79" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/SmsService/SmsService.php" timestamp="1528186032773">
+        <mark key="'" line="201" column="23" />
+        <mark key="[" line="154" column="66" />
+        <mark key="]" line="154" column="65" />
+        <mark key="." line="154" column="65" />
+        <mark key="^" line="154" column="65" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/TestOrderWithChartCommand.php" timestamp="1522242097066">
+        <mark key="[" line="41" column="62" />
+        <mark key="]" line="41" column="42" />
+        <mark key="^" line="41" column="42" />
+        <mark key="." line="41" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/IssuingBank.php" timestamp="1521790894242">
+        <mark key="[" line="156" column="34" />
+        <mark key="]" line="156" column="40" />
+        <mark key="^" line="156" column="40" />
+        <mark key="." line="156" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/QuestionRepositoryInterface.php" timestamp="1521725624582">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/AnswerRepositoryInterface.php" timestamp="1521725664769">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/TestTinkoffPaymentCommand.php" timestamp="1522341800423">
+        <mark key="[" line="75" column="25" />
+        <mark key="]" line="75" column="35" />
+        <mark key="." line="75" column="35" />
+        <mark key="^" line="75" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/packages/mailchimp.yaml" timestamp="1523627591678">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Promo.php" timestamp="1521736173325">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="22" column="21" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1517582554275">
+        <mark key="[" line="358" column="21" />
+        <mark key="]" line="359" column="7" />
+        <mark key="^" line="359" column="7" />
+        <mark key="." line="359" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/sl/photoautomate/src/SLStudio/ParentsBundle/Controller/Api/ChildController.php" timestamp="1521401446995">
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/services.yaml" timestamp="1527070067751">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="25" />
+        <mark key="." line="22" column="49" />
+        <mark key="^" line="22" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/MoneyTransferService/MoneyTransferService.php" timestamp="1524211978925">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="65" column="32" />
+        <mark key="^" line="65" column="32" />
+        <mark key="." line="65" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/img/docker/base.Dockerfile" timestamp="1515575886227">
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="59" column="17" />
+        <mark key="^" line="59" column="17" />
+        <mark key="." line="59" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" timestamp="1526566039011">
+        <mark key="[" line="129" column="44" />
+        <mark key="]" line="161" column="34" />
+        <mark key="^" line="161" column="34" />
+        <mark key="." line="161" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180423143110.php" timestamp="1524494358894">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="30" column="75" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/learning/project1/Inner.java" timestamp="1515212151170">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528980038010">
+        <mark key="'" line="97" column="16" />
+        <mark key="[" line="231" column="57" />
+        <mark key="]" line="228" column="31" />
+        <mark key="." line="228" column="31" />
+        <mark key="^" line="228" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/SmsPTAService/SmsPTAService.php" timestamp="1528186017522">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1529057379570">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/Code/learning/DockerUbuntu/.gitignore" timestamp="1514880031257">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Event/Events.php" timestamp="1526312688850">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/opossum/princess/AggregationOOP.php" timestamp="1522111250073">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1529057251218">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/AgreementGeneratorServiceProvider/AgreementGeneratorController.php" timestamp="1522242062319">
+        <mark key="[" line="63" column="51" />
+        <mark key="]" line="63" column="71" />
+        <mark key="^" line="63" column="71" />
+        <mark key="." line="63" column="71" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Service/MailChimp/MailChimp.php" timestamp="1523884958629">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="48" column="23" />
+        <mark key="." line="48" column="23" />
+        <mark key="^" line="48" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/config/bundles.php" timestamp="1525968292438">
+        <mark key="[" line="14" column="83" />
+        <mark key="]" line="14" column="81" />
+        <mark key="^" line="14" column="81" />
+        <mark key="." line="14" column="81" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/50a90c8e-1908-4bf9-a70b-50eaa8ab35d2/console.sql" timestamp="1507691526327">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="131" column="4" />
+        <mark key="^" line="131" column="4" />
+        <mark key="." line="131" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Sms/SmsLogPTARepository.php" timestamp="1527784864320">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="46" />
+        <mark key="." line="22" column="46" />
+        <mark key="^" line="22" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/img/seolandingphp/classes/Application.php" timestamp="1517576296504">
+        <mark key="[" line="88" column="56" />
+        <mark key="]" line="96" column="23" />
+        <mark key="^" line="96" column="23" />
+        <mark key="." line="96" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/img/seolandingphp/CRON/yandexImport.php" timestamp="1514234384655">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/SmsService/Interfaces/SmsServiceInterface.php" timestamp="1527783216436">
+        <mark key="[" line="49" column="73" />
+        <mark key="]" line="49" column="73" />
+        <mark key="^" line="49" column="73" />
+        <mark key="." line="49" column="73" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Exception/RpcException/RpcServerErrorException.php" timestamp="1527774919328">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/sl/photoautomate/src/SLStudio/PhotoAutomateBundle/Repository/OrderRepository.php" timestamp="1521417557466">
+        <mark key="[" line="174" column="36" />
+        <mark key="]" line="174" column="35" />
+        <mark key="^" line="174" column="35" />
+        <mark key="." line="174" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/opossum/princess/docker-compose.yml" timestamp="1523467983758">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.php" timestamp="1528288349055">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/config/packages/devim_rpc_server.yaml" timestamp="1525772296538">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180327111614.php" timestamp="1523280566937">
+        <mark key="[" line="21" column="163" />
+        <mark key="]" line="21" column="163" />
+        <mark key="^" line="21" column="163" />
+        <mark key="." line="21" column="163" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Exception/RpcException/RpcSelectedLoanException.php" timestamp="1523953746143">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PromoRepositoryInterface.php" timestamp="1521736839971">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Controller/CollectDataController.php" timestamp="1527065069362">
+        <mark key="[" line="276" column="55" />
+        <mark key="]" line="247" column="54" />
+        <mark key="." line="247" column="54" />
+        <mark key="^" line="247" column="54" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/DependencyInjection/Security/Factory/JwtTwoFactorFactory.php" timestamp="1525699656018">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="69" column="36" />
+        <mark key="." line="69" column="36" />
+        <mark key="^" line="69" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/ContactServiceProvider/ContactService.php" timestamp="1526048825581">
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="58" column="50" />
+        <mark key="^" line="58" column="50" />
+        <mark key="." line="58" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ProxyRpcService.php" timestamp="1525948755465">
+        <mark key="[" line="2106" column="42" />
+        <mark key="]" line="2106" column="41" />
+        <mark key="." line="2106" column="41" />
+        <mark key="^" line="2106" column="41" />
       </file>
       <file name="$USER_HOME$/code/sl/photoautomate/app/config/parameters.yml" timestamp="1521405782247">
         <mark key="[" line="58" column="2" />
@@ -155,12 +589,6 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/ImportBankBinsCommand.php" timestamp="1524484431789">
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="20" />
-        <mark key="^" line="43" column="20" />
-        <mark key="." line="43" column="20" />
-      </file>
       <file name="$USER_HOME$/code/learning/project1/LessonClass.java" timestamp="1515211508246">
         <mark key="[" line="24" column="15" />
         <mark key="]" line="24" column="7" />
@@ -178,18 +606,6 @@
         <mark key="^" line="43" column="29" />
         <mark key="." line="15" column="49" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/ProlongationAgreement.php" timestamp="1522242437943">
-        <mark key="[" line="69" column="135" />
-        <mark key="]" line="70" column="11" />
-        <mark key="^" line="70" column="11" />
-        <mark key="." line="70" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/AchievementRepository.php" timestamp="1526388673323">
-        <mark key="[" line="13" column="95" />
-        <mark key="]" line="13" column="95" />
-        <mark key="." line="13" column="95" />
-        <mark key="^" line="13" column="95" />
-      </file>
       <file name="$USER_HOME$/code/opossum/angel/Readme.me" timestamp="1522272416853">
         <mark key="[" line="16" column="56" />
         <mark key="]" line="17" column="0" />
@@ -202,36 +618,17 @@
         <mark key="^" line="227" column="4" />
         <mark key="." line="227" column="4" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180409132714.php" timestamp="1523283119752">
-        <mark key="[" line="24" column="174" />
-        <mark key="]" line="24" column="176" />
-        <mark key="^" line="24" column="176" />
-        <mark key="." line="24" column="176" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/OfficeMapRpcService.php" timestamp="1525948901066">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="5" />
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1528467447601">
-        <mark key="'" line="704" column="45" />
-        <mark key="[" line="2538" column="5" />
-        <mark key="]" line="677" column="56" />
-        <mark key="." line="677" column="56" />
-        <mark key="^" line="677" column="56" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Mandarin/Controller/MandarinNotifyController.php" timestamp="1524501615853">
-        <mark key="[" line="528" column="28" />
-        <mark key="]" line="529" column="92" />
-        <mark key="^" line="529" column="92" />
-        <mark key="." line="529" column="92" />
-      </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/rooms_page.tpl" timestamp="1512479957632">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="17" column="58" />
-        <mark key="^" line="17" column="58" />
-        <mark key="." line="17" column="58" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/PromoController.php" timestamp="1529057449060">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180418073746.php" timestamp="1524152032949">
         <mark key="[" line="20" column="269" />
@@ -256,16 +653,6 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="33" />
       </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/packages/sonata_admin.yaml" timestamp="1527070005133">
-        <mark key="[" line="14" column="62" />
-        <mark key="]" line="20" column="62" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/PromoRepository.php" timestamp="1524568466421">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/905dca9a-e5a3-4097-b925-e7bec5ce61f5/console.sql" timestamp="1527783919422">
         <mark key="[" line="32" column="22" />
         <mark key="]" line="32" column="33" />
@@ -277,12 +664,6 @@
         <mark key="]" line="62" column="7" />
         <mark key="^" line="62" column="7" />
         <mark key="." line="62" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Repository/ClientRepository.php" timestamp="1527007633650">
-        <mark key="[" line="16" column="70" />
-        <mark key="]" line="16" column="75" />
-        <mark key="^" line="16" column="75" />
-        <mark key="." line="16" column="75" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/Makefile" timestamp="1514883557418">
         <mark key="[" line="11" column="42" />
@@ -308,26 +689,10 @@
         <mark key="^" line="723" column="43" />
         <mark key="." line="723" column="43" />
       </file>
-      <file name="$USER_HOME$/code/opossum/princess/AOP/Readme.me" timestamp="1522106498339">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1516093776903">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/tests/functional.suite.yml" timestamp="1526397594012">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Admin/ClientAdmin.php" timestamp="1528278800725">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="47" column="42" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/LoanRepository.php" timestamp="1528464026988">
         <mark key="'" line="606" column="80" />
@@ -336,29 +701,11 @@
         <mark key="^" line="518" column="33" />
         <mark key="." line="519" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Helper/SocialNetworkHelper.php" timestamp="1523542557273">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="19" column="50" />
-        <mark key="^" line="19" column="50" />
-        <mark key="." line="19" column="50" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/config/services.php" timestamp="1525364471569">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Yandex/YandexPayoutService.php" timestamp="1525336598945">
         <mark key="[" line="372" column="73" />
         <mark key="]" line="372" column="79" />
         <mark key="." line="372" column="79" />
         <mark key="^" line="372" column="79" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/CalculatorService/CalculatorService.php" timestamp="1523368541075">
-        <mark key="[" line="220" column="101" />
-        <mark key="]" line="220" column="104" />
-        <mark key="." line="220" column="104" />
-        <mark key="^" line="220" column="104" />
       </file>
       <file name="$USER_HOME$/code/devim/amo-crm-scripts/.env.dist" timestamp="1528449479468">
         <mark key="[" line="25" column="12" />
@@ -371,12 +718,6 @@
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Repository/ClientRepositoryInterface.php" timestamp="1526984796883">
-        <mark key="[" line="14" column="86" />
-        <mark key="]" line="14" column="94" />
-        <mark key="^" line="14" column="94" />
-        <mark key="." line="14" column="94" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180417154232.php" timestamp="1523981274244">
         <mark key="[" line="21" column="162" />
@@ -395,32 +736,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/tests/_support/Helper/Functional.php" timestamp="1526392456901">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-        <mark key="^" line="7" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" timestamp="1528980944971">
-        <mark key="[" line="298" column="13" />
-        <mark key="]" line="299" column="57" />
-        <mark key="." line="299" column="57" />
-        <mark key="^" line="299" column="57" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PromoCodeStaticRepositoryInterface.php" timestamp="1523894088149">
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="33" />
-        <mark key="^" line="38" column="33" />
-        <mark key="." line="38" column="33" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/AbstractLoanDocument.php" timestamp="1522242171760">
         <mark key="[" line="40" column="66" />
         <mark key="]" line="40" column="78" />
         <mark key="^" line="40" column="78" />
         <mark key="." line="40" column="78" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Entity.Client.yml" timestamp="1528389240427">
-        <mark key="[" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Form/Calculator/CalculatePTARequest.php" timestamp="1528983958580">
         <mark key="[" line="42" column="37" />
@@ -433,12 +753,6 @@
         <mark key="]" line="177" column="32" />
         <mark key="^" line="177" column="32" />
         <mark key="." line="177" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/CalculatorController.php" timestamp="1528474309603">
-        <mark key="[" line="130" column="60" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="130" column="59" />
-        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/AchievementService/AchievementService.php" timestamp="1526313866934">
         <mark key="[" line="12" column="7" />
@@ -482,30 +796,6 @@
         <mark key="^" line="41" column="53" />
         <mark key="." line="41" column="53" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/QuestionRpcService.php" timestamp="1525948863370">
-        <mark key="[" line="133" column="53" />
-        <mark key="]" line="133" column="41" />
-        <mark key="." line="133" column="41" />
-        <mark key="^" line="133" column="41" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/PromoCodeStatic.php" timestamp="1524670029710">
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="22" column="50" />
-        <mark key="." line="22" column="50" />
-        <mark key="^" line="22" column="50" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.php" timestamp="1527781621959">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="12" column="28" />
-        <mark key="^" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/PassportRpcService.php" timestamp="1525948261181">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="18" column="44" />
-        <mark key="^" line="18" column="44" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/rpc.php" timestamp="1527778138548">
         <mark key="[" line="236" column="63" />
         <mark key="]" line="237" column="24" />
@@ -518,47 +808,17 @@
         <mark key="^" line="74" column="109" />
         <mark key="." line="74" column="109" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/CrmApiServiceProvider/CrmApiClient.php" timestamp="1523377987432">
-        <mark key="[" line="86" column="37" />
-        <mark key="]" line="86" column="82" />
-        <mark key="^" line="86" column="82" />
-        <mark key="." line="86" column="82" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/Entity/Bank.php" timestamp="1521556975431">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/AchievementService/AchievementServiceInterface.php" timestamp="1524494666721">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="8" />
-        <mark key="^" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Service/PromoCodeService/PromoCodeServiceTest.php" timestamp="1524234288857">
-        <mark key="[" line="177" column="34" />
-        <mark key="]" line="177" column="32" />
-        <mark key="." line="177" column="32" />
-        <mark key="^" line="177" column="32" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1d97259e-99a6-4709-a044-b108ad5917dc/console.sql" timestamp="1528883841491">
-        <mark key="[" line="33" column="55" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="39" />
-        <mark key="^" line="33" column="39" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/NewBankDocument.php" timestamp="1521563015410">
         <mark key="[" line="28" column="31" />
         <mark key="]" line="28" column="31" />
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="31" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.php" timestamp="1522931087609">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4717b8cf-6657-4fae-b5c0-2fd4b6f07193/console.sql" timestamp="1526565256501">
         <mark key="[" line="2" column="6" />
@@ -572,12 +832,6 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="104" column="74" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Mock/PayoutServiceMock.php" timestamp="1525961393158">
-        <mark key="[" line="100" column="50" />
-        <mark key="]" line="101" column="17" />
-        <mark key="." line="101" column="17" />
-        <mark key="^" line="101" column="17" />
-      </file>
       <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Service/CurlRequest/CurlRequest.php" timestamp="1523873165095">
         <mark key="[" line="21" column="54" />
         <mark key="]" line="22" column="7" />
@@ -589,12 +843,6 @@
         <mark key="]" line="34" column="28" />
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/learning/project1/docker-compose.yml" timestamp="1514887939268">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Kernel.php" timestamp="1525361529465">
         <mark key="[" line="15" column="4" />
@@ -619,17 +867,6 @@
         <mark key="^" line="1265" column="46" />
         <mark key="." line="1265" column="46" />
       </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/packages/dev/mailchimp.yaml" timestamp="1523627717217">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Services/MailChimp/MailChimp.php" timestamp="1523864610679">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="36" />
-        <mark key="^" line="5" column="36" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/InterviewAnswer.php" timestamp="1522069972258">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="10" column="35" />
@@ -647,46 +884,11 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/code/opossum/princess/Lambda.php" timestamp="1521500597110">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1524215229026">
-        <mark key="[" line="598" column="7" />
-        <mark key="]" line="676" column="37" />
-        <mark key="^" line="676" column="37" />
-        <mark key="." line="676" column="37" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/Sms/SmsLogPTARepositoryInterface.php" timestamp="1527777858061">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1528898578793">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="45" />
-        <mark key="." line="0" column="45" />
-      </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/java.Dockerfile" timestamp="1514883927134">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="9" column="32" />
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Mandarin/MandarinPayoutService.php" timestamp="1525336339606">
-        <mark key="[" line="165" column="73" />
-        <mark key="]" line="165" column="79" />
-        <mark key="." line="165" column="79" />
-        <mark key="^" line="165" column="79" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/SmsService/SmsService.php" timestamp="1528186032773">
-        <mark key="'" line="201" column="23" />
-        <mark key="[" line="154" column="66" />
-        <mark key="]" line="154" column="65" />
-        <mark key="." line="154" column="65" />
-        <mark key="^" line="154" column="65" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.php" timestamp="1524835479581">
         <mark key="[" line="4" column="30" />
@@ -706,42 +908,6 @@
         <mark key="^" line="620" column="19" />
         <mark key="." line="620" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/TestOrderWithChartCommand.php" timestamp="1522242097066">
-        <mark key="[" line="41" column="62" />
-        <mark key="]" line="41" column="42" />
-        <mark key="^" line="41" column="42" />
-        <mark key="." line="41" column="42" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/IssuingBank.php" timestamp="1521790894242">
-        <mark key="[" line="156" column="34" />
-        <mark key="]" line="156" column="40" />
-        <mark key="^" line="156" column="40" />
-        <mark key="." line="156" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/QuestionRepositoryInterface.php" timestamp="1521725624582">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/AnswerRepositoryInterface.php" timestamp="1521725664769">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/TestTinkoffPaymentCommand.php" timestamp="1522341800423">
-        <mark key="[" line="75" column="25" />
-        <mark key="]" line="75" column="35" />
-        <mark key="." line="75" column="35" />
-        <mark key="^" line="75" column="35" />
-      </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/packages/mailchimp.yaml" timestamp="1523627591678">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180608152020.php" timestamp="1528471349658">
         <mark key="[" line="22" column="5" />
         <mark key="]" line="23" column="3" />
@@ -754,12 +920,6 @@
         <mark key="^" line="49" column="20" />
         <mark key="." line="49" column="20" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Promo.php" timestamp="1521736173325">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/ChangeMobilePhoneService/ChangeMobilePhoneService.php" timestamp="1527089551993">
         <mark key="[" line="176" column="0" />
         <mark key="]" line="176" column="0" />
@@ -770,9 +930,6 @@
         <mark key="]" line="210" column="7" />
         <mark key="^" line="210" column="7" />
         <mark key="." line="210" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1d97259e-99a6-4709-a044-b108ad5917dc/console_1.sql" timestamp="1528288823747">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/poster.php" timestamp="1513641613071">
         <mark key="[" line="500" column="32" />
@@ -786,18 +943,6 @@
         <mark key="^" line="16" column="49" />
         <mark key="." line="16" column="49" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1517582554275">
-        <mark key="[" line="358" column="21" />
-        <mark key="]" line="359" column="7" />
-        <mark key="^" line="359" column="7" />
-        <mark key="." line="359" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/sl/photoautomate/src/SLStudio/ParentsBundle/Controller/Api/ChildController.php" timestamp="1521401446995">
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="20" column="11" />
-        <mark key="." line="20" column="11" />
-        <mark key="^" line="20" column="11" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/config/packages/security.yaml" timestamp="1525705444923">
         <mark key="[" line="238" column="20" />
         <mark key="]" line="248" column="0" />
@@ -809,38 +954,11 @@
         <mark key="^" line="134" column="82" />
         <mark key="." line="134" column="82" />
       </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/services.yaml" timestamp="1527070067751">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="25" />
-        <mark key="." line="22" column="49" />
-        <mark key="^" line="22" column="49" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/MoneyTransferService/MoneyTransferService.php" timestamp="1524211978925">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="65" column="32" />
-        <mark key="^" line="65" column="32" />
-        <mark key="." line="65" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/img/docker/base.Dockerfile" timestamp="1515575886227">
-        <mark key="[" line="59" column="18" />
-        <mark key="]" line="59" column="17" />
-        <mark key="^" line="59" column="17" />
-        <mark key="." line="59" column="17" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/CreditCardController.php" timestamp="1528468252021">
-        <mark key="[" line="319" column="90" />
-      </file>
       <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Admin/ApplicationAdmin.php" timestamp="1528278880266">
         <mark key="[" line="60" column="39" />
         <mark key="]" line="64" column="7" />
         <mark key="." line="64" column="7" />
         <mark key="^" line="64" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" timestamp="1526566039011">
-        <mark key="[" line="129" column="44" />
-        <mark key="]" line="161" column="34" />
-        <mark key="^" line="161" column="34" />
-        <mark key="." line="161" column="34" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/CRON/newScript.php" timestamp="1514231797420">
         <mark key="[" line="19" column="77" />
@@ -865,53 +983,16 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180423143110.php" timestamp="1524494358894">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="30" column="75" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/PromoRpcService.php" timestamp="1523885406659">
         <mark key="[" line="37" column="55" />
         <mark key="]" line="27" column="50" />
         <mark key="." line="27" column="50" />
         <mark key="^" line="27" column="50" />
       </file>
-      <file name="$USER_HOME$/code/learning/project1/Inner.java" timestamp="1515212151170">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1528980038010">
-        <mark key="'" line="97" column="16" />
-        <mark key="[" line="231" column="57" />
-        <mark key="]" line="228" column="31" />
-        <mark key="." line="228" column="31" />
-        <mark key="^" line="228" column="31" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/.env" timestamp="1525362796699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/SmsPTAService/SmsPTAService.php" timestamp="1528186017522">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="7" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1528981220486">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="39" />
-      </file>
-      <file name="$USER_HOME$/Code/learning/DockerUbuntu/.gitignore" timestamp="1514880031257">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/code/sl/photoautomate/src/SLStudio/ParentsBundle/Resources/views/Cabinet/main.html.twig" timestamp="1521412275509">
         <mark key="[" line="33" column="12" />
@@ -919,33 +1000,11 @@
         <mark key="^" line="33" column="61" />
         <mark key="." line="33" column="61" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Event/Events.php" timestamp="1526312688850">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/opossum/princess/AggregationOOP.php" timestamp="1522111250073">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1528980950621">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Migrations/Version20180522163938.php" timestamp="1527007381829">
         <mark key="[" line="20" column="71" />
         <mark key="]" line="17" column="84" />
         <mark key="^" line="17" column="84" />
         <mark key="." line="17" column="84" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/AgreementGeneratorServiceProvider/AgreementGeneratorController.php" timestamp="1522242062319">
-        <mark key="[" line="63" column="51" />
-        <mark key="]" line="63" column="71" />
-        <mark key="^" line="63" column="71" />
-        <mark key="." line="63" column="71" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/LocalClassTest.java" timestamp="1515212295318">
         <mark key="[" line="4" column="0" />
@@ -965,53 +1024,17 @@
         <mark key="^" line="93" column="39" />
         <mark key="." line="93" column="39" />
       </file>
-      <file name="$USER_HOME$/code/devim/e-mkopo-backend/src/Service/MailChimp/MailChimp.php" timestamp="1523884958629">
-        <mark key="[" line="60" column="33" />
-        <mark key="]" line="48" column="23" />
-        <mark key="." line="48" column="23" />
-        <mark key="^" line="48" column="23" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Bank.php" timestamp="1523018618847">
         <mark key="[" line="296" column="32" />
         <mark key="]" line="296" column="31" />
         <mark key="^" line="296" column="31" />
         <mark key="." line="296" column="31" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/config/bundles.php" timestamp="1525968292438">
-        <mark key="[" line="14" column="83" />
-        <mark key="]" line="14" column="81" />
-        <mark key="^" line="14" column="81" />
-        <mark key="." line="14" column="81" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/50a90c8e-1908-4bf9-a70b-50eaa8ab35d2/console.sql" timestamp="1507691526327">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="131" column="4" />
-        <mark key="^" line="131" column="4" />
-        <mark key="." line="131" column="4" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/GetResponseWrapper.php" timestamp="1527172972496">
         <mark key="[" line="247" column="112" />
         <mark key="]" line="247" column="68" />
         <mark key="." line="247" column="68" />
         <mark key="^" line="247" column="68" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Sms/SmsLogPTARepository.php" timestamp="1527784864320">
-        <mark key="[" line="22" column="48" />
-        <mark key="]" line="22" column="46" />
-        <mark key="." line="22" column="46" />
-        <mark key="^" line="22" column="46" />
-      </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/classes/Application.php" timestamp="1517576296504">
-        <mark key="[" line="88" column="56" />
-        <mark key="]" line="96" column="23" />
-        <mark key="^" line="96" column="23" />
-        <mark key="." line="96" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/img/seolandingphp/CRON/yandexImport.php" timestamp="1514234384655">
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/code/sl/photoautomate/docker-compose.yml" timestamp="1521404851341">
         <mark key="[" line="22" column="0" />
@@ -1031,23 +1054,11 @@
         <mark key="^" line="188" column="18" />
         <mark key="." line="195" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/SmsService/Interfaces/SmsServiceInterface.php" timestamp="1527783216436">
-        <mark key="[" line="49" column="73" />
-        <mark key="]" line="49" column="73" />
-        <mark key="^" line="49" column="73" />
-        <mark key="." line="49" column="73" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PaymentService/PaymentService.php" timestamp="1528470082004">
         <mark key="[" line="263" column="22" />
         <mark key="]" line="263" column="54" />
         <mark key="^" line="263" column="54" />
         <mark key="." line="263" column="54" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Exception/RpcException/RpcServerErrorException.php" timestamp="1527774919328">
-        <mark key="[" line="30" column="24" />
-        <mark key="]" line="24" column="16" />
-        <mark key="^" line="24" column="16" />
-        <mark key="." line="24" column="16" />
       </file>
       <file name="/d8f46b5/1d97259e-99a6-4709-a044-b108ad5917dc/database/site_db/schema/dbo/view/v_orders_for_amoCRM.sql" timestamp="1528878636717">
         <mark key="[" line="51" column="0" />
@@ -1061,23 +1072,6 @@
         <mark key="." line="178" column="30" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/CalculatorRpcService.php" timestamp="1528984355961" />
-      <file name="$USER_HOME$/code/sl/photoautomate/src/SLStudio/PhotoAutomateBundle/Repository/OrderRepository.php" timestamp="1521417557466">
-        <mark key="[" line="174" column="36" />
-        <mark key="]" line="174" column="35" />
-        <mark key="^" line="174" column="35" />
-        <mark key="." line="174" column="35" />
-      </file>
-      <file name="$USER_HOME$/code/opossum/princess/docker-compose.yml" timestamp="1523467983758">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.php" timestamp="1528288349055">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-      </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/allComments.php" timestamp="1513643393435">
         <mark key="[" line="86" column="9" />
         <mark key="]" line="86" column="14" />
@@ -1189,7 +1183,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5kaXNwYXRjaGVyLT5kaXNwYXRjaCgKICAgICAgICAgICAgICAgICAgICBFdmVudHM6OkFDSElFVkVNRU5UX0VBUk5FRCwKICAgICAgICAgICAgICAgICAgICBuZXcgQWNoaWV2ZW1lbnRFdmVudCgkZW50aXR5LT5nZXRMb2FuKCktPmdldENsaWVudCgpLCBBY2hpZXZlbWVudDo6TE9BTl9QUk9MT05HQVRJT04pCiAgICAgICAgICAgICAgICApOw==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmV3IA==</text>
@@ -1200,17 +1194,17 @@
       <register name="0" type="4">
         <text>exec sp_get_Orders_AMO_rev @rev_from = :from,  @rev_cnt = :cnt</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgQlVDS0VUX1NJWkUgID0gMzA7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5kaXNwYXRjaGVyLT5kaXNwYXRjaCgKICAgICAgICAgICAgICAgICAgICBFdmVudHM6OkFDSElFVkVNRU5UX0VBUk5FRCwKICAgICAgICAgICAgICAgICAgICBuZXcgQWNoaWV2ZW1lbnRFdmVudCgkZW50aXR5LT5nZXRMb2FuKCktPmdldENsaWVudCgpLCBBY2hpZXZlbWVudDo6TE9BTl9QUk9MT05HQVRJT04pCiAgICAgICAgICAgICAgICApOw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlci0+Z2V0T3JkZXJUeXBlKCksICRvcmRlci0+Z2V0VXBkYXRlZEF0KCksICRkZWwpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgQlVDS0VUX1NJWkUgID0gMzA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlci0+Z2V0T3JkZXJUeXBlKCksICRvcmRlci0+Z2V0VXBkYXRlZEF0KCksICRkZWwpOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1285,25 +1279,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkb3JkZXItPmdldE9yZGVyTnVtYmVyKCksICRvcmRlci0+Z2V0T3JkZXJTdGF0dXMoKSwgJG9yZGVyLT5nZXRPcmRlclR5cGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgxKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlci0+Z2V0T3JkZXJOdW1iZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkb3JkZXItPmdldE9yZGVyTnVtYmVyKCksICRvcmRlci0+Z2V0T3JkZXJTdGF0dXMoKSwgJG9yZGVyLT5nZXRPcmRlclR5cGUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkb3JkZXItPmdldE9yZGVyTnVtYmVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRvcmRlci0+Z2V0T3JkZXJOdW1iZXIoKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkb3JkZXItPmdldE9yZGVyTnVtYmVyKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY3JlYXRlQ250ID0gMDsK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY3JlYXRlQ250ID0gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

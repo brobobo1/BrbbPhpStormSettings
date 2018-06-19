@@ -48,6 +48,10 @@
         <mark key="]" line="86" column="50" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1529412009330">
+        <mark key="[" line="2726" column="0" />
+        <mark key="]" line="2801" column="4" />
+      </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" timestamp="1514241920266">
         <mark key="[" line="89" column="58" />
         <mark key="]" line="89" column="27" />
@@ -312,12 +316,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1524215229026">
-        <mark key="[" line="598" column="7" />
-        <mark key="]" line="676" column="37" />
-        <mark key="^" line="676" column="37" />
-        <mark key="." line="676" column="37" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/Sms/SmsLogPTARepositoryInterface.php" timestamp="1527777858061">
         <mark key="[" line="19" column="7" />
         <mark key="]" line="22" column="28" />
@@ -441,7 +439,7 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1529334346917">
+      <file name="/dummy.sql" timestamp="1529411005527">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -452,11 +450,6 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Event/Events.php" timestamp="1526312688850">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/opossum/princess/AggregationOOP.php" timestamp="1522111250073">
         <mark key="[" line="6" column="0" />
@@ -911,11 +904,6 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/AcceptanceRpcService.php" timestamp="1524216267010">
-        <mark key="[" line="727" column="0" />
-        <mark key="]" line="727" column="0" />
-        <mark key="." line="727" column="0" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" timestamp="1528470016335">
         <mark key="[" line="1265" column="92" />
         <mark key="]" line="1265" column="46" />
@@ -1245,8 +1233,8 @@
       <jump line="2519" column="46" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXE1haWxlclxNYWlsXE1haWw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkcGFzc3BvcnRQaG90bwogICAgICogQHBhcmFtIHN0cmluZyAkb2xkTW9iaWxlUGhvbmUKICAgICAqIEBwYXJhbSBzdHJpbmcgJG5ld01vYmlsZVBob25lCiAgICAgKgogICAgICogQHJldHVybiBib29sCiAgICAgKgogICAgICogQHRocm93cyBScGNDaGFuZ2VNb2JpbGVQaG9uZVJlcXVlc3ROb3RGb3VuZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBScGNTbXNMaW1pdElzUmVhY2hlZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBcQXBwXEV4Y2VwdGlvblxScGNFeGNlcHRpb25cUnBjQ2xpZW50Tm90Rm91bmRFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNyZWF0ZUNoYW5nZU1vYmlsZVBob25lUmVxdWVzdCgKICAgICAgICBzdHJpbmcgJHBhc3Nwb3J0UGhvdG8sCiAgICAgICAgc3RyaW5nICRvbGRNb2JpbGVQaG9uZSwKICAgICAgICBzdHJpbmcgJG5ld01vYmlsZVBob25lCiAgICApIHsKICAgICAgICAkc21zQ29kZSA9IFJhbmRvbVN0cmluZ0hlbHBlcjo6Z2VuZXJhdGVEaWdpdFBhc3N3b3JkKDQsICR0aGlzLT5zbXNTZXJ2aWNlLT5pc0RlYnVnTW9kZSgpKTsKCiAgICAgICAgJHRoaXMtPmNoYW5nZU1vYmlsZVBob25lU2VydmljZS0+Y3JlYXRlKCRuZXdNb2JpbGVQaG9uZSwgJHBhc3Nwb3J0UGhvdG8sICRvbGRNb2JpbGVQaG9uZSk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgJHRoaXMtPmNoYW5nZU1vYmlsZVBob25lU2VydmljZS0+c2VuZFNtcygkbmV3TW9iaWxlUGhvbmUsICRzbXNDb2RlKTsKICAgICAgICB9IGNhdGNoIChTbXNMaW1pdElzUmVhY2hlZEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnBjU21zTGltaXRJc1JlYWNoZWRFeGNlcHRpb24oKTsKICAgICAgICB9IGNhdGNoIChSZXF1ZXN0Tm90Rm91bmRFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJwY0NoYW5nZU1vYmlsZVBob25lUmVxdWVzdE5vdEZvdW5kRXhjZXB0aW9uKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJG5ld01vYmlsZVBob25lCiAgICAgKiBAcGFyYW0gc3RyaW5nICRzbXNDb2RlCiAgICAgKgogICAgICogQHJldHVybiBib29sCiAgICAgKgogICAgICogQHRocm93cyBScGNDaGFuZ2VNb2JpbGVQaG9uZVJlcXVlc3ROb3RGb3VuZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBScGNXcm9uZ1Ntc0NvZGVFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgXEFwcFxTZXJ2aWNlXENoYW5nZU1vYmlsZVBob25lU2VydmljZVxFeGNlcHRpb25cU2VuZEVtYWlsRXhjZXB0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjb25maXJtQ2hhbmdlTW9iaWxlUGhvbmVSZXF1ZXN0KHN0cmluZyAkbmV3TW9iaWxlUGhvbmUsIHN0cmluZyAkc21zQ29kZSkKICAgIHsKICAgICAgICB0cnkgewogICAgICAgICAgICAkdGhpcy0+Y2hhbmdlTW9iaWxlUGhvbmVTZXJ2aWNlLT5jaGVjaygkbmV3TW9iaWxlUGhvbmUsICRzbXNDb2RlKTsKICAgICAgICAgICAgJHRoaXMtPmNoYW5nZU1vYmlsZVBob25lU2VydmljZS0+c2VuZEVtYWlsKCRuZXdNb2JpbGVQaG9uZSk7CiAgICAgICAgfSBjYXRjaCAoV3JvbmdTbXNDb2RlRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBScGNXcm9uZ1Ntc0NvZGVFeGNlcHRpb24oKTsKICAgICAgICB9IGNhdGNoIChSZXF1ZXN0Tm90Rm91bmRFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJwY0NoYW5nZU1vYmlsZVBob25lUmVxdWVzdE5vdEZvdW5kRXhjZXB0aW9uKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJG5ld01vYmlsZVBob25lCiAgICAgKgogICAgICogQHJldHVybiBib29sCiAgICAgKgogICAgICogQHRocm93cyBScGNDaGFuZ2VNb2JpbGVQaG9uZVJlcXVlc3ROb3RGb3VuZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBScGNTbXNMaW1pdElzUmVhY2hlZEV4Y2VwdGlvbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2VuZENoYW5nZU1vYmlsZVBob25lUmVxdWVzdFNtcyhzdHJpbmcgJG5ld01vYmlsZVBob25lKTogYm9vbAogICAgewogICAgICAgICRzbXNDb2RlID0gUmFuZG9tU3RyaW5nSGVscGVyOjpnZW5lcmF0ZURpZ2l0UGFzc3dvcmQoNCwgJHRoaXMtPnNtc1NlcnZpY2UtPmlzRGVidWdNb2RlKCkpOwoKICAgICAgICB0cnkgewogICAgICAgICAgICAkdGhpcy0+Y2hhbmdlTW9iaWxlUGhvbmVTZXJ2aWNlLT5zZW5kU21zKCRuZXdNb2JpbGVQaG9uZSwgJHNtc0NvZGUpOwogICAgICAgIH0gY2F0Y2ggKFNtc0xpbWl0SXNSZWFjaGVkRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBScGNTbXNMaW1pdElzUmVhY2hlZEV4Y2VwdGlvbigpOwogICAgICAgIH0gY2F0Y2ggKFJlcXVlc3ROb3RGb3VuZEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnBjQ2hhbmdlTW9iaWxlUGhvbmVSZXF1ZXN0Tm90Rm91bmRFeGNlcHRpb24oKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiB0cnVlOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
         <text>MailServicesTrait</text>
@@ -1255,7 +1243,7 @@
         <text encoding="base64">XDx2b2lkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>notificationPTAService</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkcGFzc3BvcnRQaG90bwogICAgICogQHBhcmFtIHN0cmluZyAkb2xkTW9iaWxlUGhvbmUKICAgICAqIEBwYXJhbSBzdHJpbmcgJG5ld01vYmlsZVBob25lCiAgICAgKgogICAgICogQHJldHVybiBib29sCiAgICAgKgogICAgICogQHRocm93cyBScGNDaGFuZ2VNb2JpbGVQaG9uZVJlcXVlc3ROb3RGb3VuZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBScGNTbXNMaW1pdElzUmVhY2hlZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBcQXBwXEV4Y2VwdGlvblxScGNFeGNlcHRpb25cUnBjQ2xpZW50Tm90Rm91bmRFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNyZWF0ZUNoYW5nZU1vYmlsZVBob25lUmVxdWVzdCgKICAgICAgICBzdHJpbmcgJHBhc3Nwb3J0UGhvdG8sCiAgICAgICAgc3RyaW5nICRvbGRNb2JpbGVQaG9uZSwKICAgICAgICBzdHJpbmcgJG5ld01vYmlsZVBob25lCiAgICApIHsKICAgICAgICAkc21zQ29kZSA9IFJhbmRvbVN0cmluZ0hlbHBlcjo6Z2VuZXJhdGVEaWdpdFBhc3N3b3JkKDQsICR0aGlzLT5zbXNTZXJ2aWNlLT5pc0RlYnVnTW9kZSgpKTsKCiAgICAgICAgJHRoaXMtPmNoYW5nZU1vYmlsZVBob25lU2VydmljZS0+Y3JlYXRlKCRuZXdNb2JpbGVQaG9uZSwgJHBhc3Nwb3J0UGhvdG8sICRvbGRNb2JpbGVQaG9uZSk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgJHRoaXMtPmNoYW5nZU1vYmlsZVBob25lU2VydmljZS0+c2VuZFNtcygkbmV3TW9iaWxlUGhvbmUsICRzbXNDb2RlKTsKICAgICAgICB9IGNhdGNoIChTbXNMaW1pdElzUmVhY2hlZEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnBjU21zTGltaXRJc1JlYWNoZWRFeGNlcHRpb24oKTsKICAgICAgICB9IGNhdGNoIChSZXF1ZXN0Tm90Rm91bmRFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJwY0NoYW5nZU1vYmlsZVBob25lUmVxdWVzdE5vdEZvdW5kRXhjZXB0aW9uKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJG5ld01vYmlsZVBob25lCiAgICAgKiBAcGFyYW0gc3RyaW5nICRzbXNDb2RlCiAgICAgKgogICAgICogQHJldHVybiBib29sCiAgICAgKgogICAgICogQHRocm93cyBScGNDaGFuZ2VNb2JpbGVQaG9uZVJlcXVlc3ROb3RGb3VuZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBScGNXcm9uZ1Ntc0NvZGVFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgXEFwcFxTZXJ2aWNlXENoYW5nZU1vYmlsZVBob25lU2VydmljZVxFeGNlcHRpb25cU2VuZEVtYWlsRXhjZXB0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjb25maXJtQ2hhbmdlTW9iaWxlUGhvbmVSZXF1ZXN0KHN0cmluZyAkbmV3TW9iaWxlUGhvbmUsIHN0cmluZyAkc21zQ29kZSkKICAgIHsKICAgICAgICB0cnkgewogICAgICAgICAgICAkdGhpcy0+Y2hhbmdlTW9iaWxlUGhvbmVTZXJ2aWNlLT5jaGVjaygkbmV3TW9iaWxlUGhvbmUsICRzbXNDb2RlKTsKICAgICAgICAgICAgJHRoaXMtPmNoYW5nZU1vYmlsZVBob25lU2VydmljZS0+c2VuZEVtYWlsKCRuZXdNb2JpbGVQaG9uZSk7CiAgICAgICAgfSBjYXRjaCAoV3JvbmdTbXNDb2RlRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBScGNXcm9uZ1Ntc0NvZGVFeGNlcHRpb24oKTsKICAgICAgICB9IGNhdGNoIChSZXF1ZXN0Tm90Rm91bmRFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJwY0NoYW5nZU1vYmlsZVBob25lUmVxdWVzdE5vdEZvdW5kRXhjZXB0aW9uKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICAvKioKICAgICAqIEBwYXJhbSBzdHJpbmcgJG5ld01vYmlsZVBob25lCiAgICAgKgogICAgICogQHJldHVybiBib29sCiAgICAgKgogICAgICogQHRocm93cyBScGNDaGFuZ2VNb2JpbGVQaG9uZVJlcXVlc3ROb3RGb3VuZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBScGNTbXNMaW1pdElzUmVhY2hlZEV4Y2VwdGlvbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2VuZENoYW5nZU1vYmlsZVBob25lUmVxdWVzdFNtcyhzdHJpbmcgJG5ld01vYmlsZVBob25lKTogYm9vbAogICAgewogICAgICAgICRzbXNDb2RlID0gUmFuZG9tU3RyaW5nSGVscGVyOjpnZW5lcmF0ZURpZ2l0UGFzc3dvcmQoNCwgJHRoaXMtPnNtc1NlcnZpY2UtPmlzRGVidWdNb2RlKCkpOwoKICAgICAgICB0cnkgewogICAgICAgICAgICAkdGhpcy0+Y2hhbmdlTW9iaWxlUGhvbmVTZXJ2aWNlLT5zZW5kU21zKCRuZXdNb2JpbGVQaG9uZSwgJHNtc0NvZGUpOwogICAgICAgIH0gY2F0Y2ggKFNtc0xpbWl0SXNSZWFjaGVkRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBScGNTbXNMaW1pdElzUmVhY2hlZEV4Y2VwdGlvbigpOwogICAgICAgIH0gY2F0Y2ggKFJlcXVlc3ROb3RGb3VuZEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnBjQ2hhbmdlTW9iaWxlUGhvbmVSZXF1ZXN0Tm90Rm91bmRFeGNlcHRpb24oKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiB0cnVlOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXE1haWxlclxNYWlsXE1haWw7Cg==</text>

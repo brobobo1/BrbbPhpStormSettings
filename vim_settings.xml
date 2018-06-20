@@ -138,9 +138,9 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Entity.Promotion.yml" timestamp="1529499990916">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Entity.Promotion.yml" timestamp="1529501386273">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="29" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="7" column="16" />
       </file>
@@ -391,6 +391,7 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/config/config.php" timestamp="1529501062031" />
       <file name="$USER_HOME$/code/devim/e-mkopo-backend/config/services.yaml" timestamp="1527070067751">
         <mark key="[" line="41" column="4" />
         <mark key="]" line="41" column="25" />
@@ -427,13 +428,6 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1529426108006">
-        <mark key="'" line="58" column="51" />
-        <mark key="[" line="83" column="54" />
-        <mark key="]" line="83" column="15" />
-        <mark key="^" line="83" column="15" />
-        <mark key="." line="83" column="15" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/SmsPTAService/SmsPTAService.php" timestamp="1528186017522">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -458,7 +452,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529500207166">
+      <file name="/Dummy.txt" timestamp="1529503362451">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -528,6 +522,11 @@
         <mark key="^" line="174" column="35" />
         <mark key="." line="174" column="35" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Provider.MobileApiServiceProvider.PDO.Tariff.yml" timestamp="1529501613406">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/code/opossum/princess/docker-compose.yml" timestamp="1523467983758">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -569,11 +568,11 @@
         <mark key="." line="247" column="54" />
         <mark key="^" line="247" column="54" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/PDO/CalculatorPage.php" timestamp="1529497410875">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="35" column="78" />
-        <mark key="." line="35" column="78" />
-        <mark key="^" line="35" column="78" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/PDO/CalculatorPage.php" timestamp="1529503066468">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="14" />
+        <mark key="^" line="32" column="14" />
+        <mark key="." line="32" column="14" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/DependencyInjection/Security/Factory/JwtTwoFactorFactory.php" timestamp="1525699656018">
         <mark key="[" line="67" column="0" />
@@ -698,6 +697,12 @@
         <mark key="]" line="20" column="23" />
         <mark key="." line="20" column="23" />
         <mark key="^" line="20" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Provider.MobileApiServiceProvider.PDO.CalculatorPage.yml" timestamp="1529503156954">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="16" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/.env.dist" timestamp="1525363559931">
         <mark key="[" line="4" column="0" />
@@ -1273,29 +1278,29 @@
       <jump line="58" column="51" filename="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>string</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRUYXJpZmZzOgogICAgICAgICAgICB0eXBlOiBhcnJheQogICAgICAgICAgICBpbmxpbmU6IHRydWUKICAgICAgICAgICAgdW50aWxfdmVyc2lvbjogMS4zCg==</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2b2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2luY2VfdmVyc2lvbjogMS4zCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRUYXJpZmZzOgogICAgICAgICAgICB0eXBlOiBhcnJheQogICAgICAgICAgICBpbmxpbmU6IHRydWUKICAgICAgICAgICAgdW50aWxfdmVyc2lvbjogMS4zCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRTdWJ0aXRsZToKICAgICAgICAgICAgc2VyaWFsaXplZF9uYW1lOiBzdWJ0aXRsZQogICAgICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgICAgICAgc2luY2VfdmVyc2lvbjogMS4zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRSZXN1bHRWMTIoKTogYXJyYXkgewogICAgICAgcmV0dXJuICR0aGlzLT50YXJpZmZzOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRSZXN1bHRWMTMoKTogYXJyYXkKICAgIHsKICAgICAgICByZXR1cm4gWyR0aGlzLT50YXJpZmZzICsgJHRoaXMtPmFsbFByb21vdGlvbnMgKyAkdGhpcy0+Y2xpZW50UHJvbW90aW9uc107CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW50aWxfdmVyc2lvbjogMS4zCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBQcm9tb3Rpb25bXQogICAgICovCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1370,25 +1375,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW50aWxfdmVyc2lvbjogMS4zCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBQcm9tb3Rpb25bXQogICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW50aWxfdmVyc2lvbjogMS4zCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBUYXJpZmZbXQogICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplZF9uYW1lOiByZXN1bHQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW50aWxfdmVyc2lvbjogMS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW50aWxfdmVyc2lvbjogMS4zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplZF9uYW1lOiByZXN1bHQK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRSZXVsdFYxMgogICAgICAgICAgICBzZXJpYWxpemVkX25hbWU6CiAgICAgICAgICAgIHR5cGU6IGFycmF5CgogICAgICAgIGdldFJlc3VsdFYxMzoKICAgICAgICAgICAgc2VyaWFsaXplZF9uYW1lOiAKICAgICAgICAgICAgdHlwZTogc3RyaW5nCiAgICAgICAgICAgIHNpbmNlX3ZlcnNpb246IDEuMwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgdGVzdDoKICAgICAgICAgICAgcG9zdF9zZXJpYWxpemU6IFtd</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -999,7 +999,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" timestamp="1529942080061" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" timestamp="1529944170524">
+        <mark key="'" line="743" column="8" />
+        <mark key="[" line="768" column="0" />
+        <mark key="]" line="768" column="0" />
+        <mark key="." line="768" column="0" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/InterviewAnswer.php" timestamp="1522069972258">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="10" column="35" />
@@ -1253,8 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
-      <jump line="366" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
       <jump line="368" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
       <jump line="371" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
       <jump line="381" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
@@ -1353,13 +1356,15 @@
       <jump line="2519" column="46" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" />
       <jump line="58" column="51" filename="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" />
       <jump line="27" column="6" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/LoanRepository.php" />
+      <jump line="768" column="44" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
+      <jump line="743" column="8" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>3000000</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2b2lkXD4=</text>
@@ -1374,10 +1379,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hblJlcG9zaXRvcnktPnBlcnNpc3RBbmRGbHVzaCgkbG9hbik7Cg==</text>
+        <text encoding="base64">ICAgICAgIGRkIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hblJlcG9zaXRvcnktPnBlcnNpc3RBbmRGbHVzCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1452,19 +1457,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFydG5lciA9ICR0aGlzLT5wYXJ0bmVyU2VydmljZS0+bWF0Y2hCeVBhcmFtcygkdXRtKTsKICAgICAgICBpZiAoJHBhcnRuZXIgPT09IG51bGwgJiYgJHJlZmVycmVyICE9PSAnJykgewogICAgICAgICAgICAkcGFydG5lciA9ICR0aGlzLT5wYXJ0bmVyU2VydmljZS0+bWF0Y2hCeVJlZmVycmVyKCRyZWZlcnJlcik7CiAgICAgICAgfQoKICAgICAgICAkbG9hbgogICAgICAgICAgICAtPnNldFV0bSgkdXRtKQogICAgICAgICAgICAtPnNldFBhcnRuZXIoJHBhcnRuZXIpOwoKICAgICAgICBpZiAoJHByb21vQ29kZSAhPT0gJycpIHsKICAgICAgICAgICAgJGxvYW4tPnNldFByb21vQ29kZSgkcHJvbW9Db2RlKTsKICAgICAgICB9IGVsc2VpZiAoKCRwcm9tb0NvZGUgPSAkY2xpZW50LT5nZXRQcm9tb0NvZGUoKSkgIT09ICcnKSB7CiAgICAgICAgICAgICRsb2FuLT5zZXRQcm9tb0NvZGUoJHByb21vQ29kZSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoJHRoaXMtPmxvYW5SZXBvc2l0b3J5LT5maW5kT25lQnkoWwogICAgICAgICAgICAnY2xpZW50JyA9PiAkY2xpZW50LT5nZXRJZCgpLAogICAgICAgICAgICAnaXNDbG9zZWQnID0+IHRydWUKICAgICAgICBdKSkgewogICAgICAgICAgICAkbG9hbgogICAgICAgICAgICAgICAgLT5zZXRTa2lwQ29udmVyc2lvbihMb2FuOjpTS0lQX0NPTlZFUlNJT05fWUVTKTsKICAgICAgICB9IGVsc2VpZiAoISRsb2FuLT5nZXRQYXJ0bmVyKCkgJiYgJHBhcnRuZXIpIHsKICAgICAgICAgICAgJGxvYW4KICAgICAgICAgICAgICAgIC0+c2V0U2tpcENvbnZlcnNpb24oJHRoaXMtPnBhcnRuZXJTZXJ2aWNlLT5za2lwQ29udmVyc2lvbigkcGFydG5lcikgPyBMb2FuOjpTS0lQX0NPTlZFUlNJT05fWUVTIDogTG9hbjo6U0tJUF9DT05WRVJTSU9OX05PKTsKICAgICAgICB9CgogICAgICAgICRsb2FuCiAgICAgICAgICAgIC0+c2V0Q29tcGFueSgkY29tcGFueSkKICAgICAgICAgICAgLT5zZXRDbGllbnQoJGNsaWVudCkKICAgICAgICAgICAgLT5zZXRBbW91bnRDbGFpbWVkKCRhbW91bnQpCiAgICAgICAgICAgIC0+c2V0UGVyaW9kQ2xhaW1lZCgkcGVyaW9kKQogICAgICAgICAgICAtPnNldFRpbWVPZmZzZXQoJG9mZnNldCkKICAgICAgICAgICAgLT5zZXRTY29yaW5nTG9hbk51bWJlcignbmV3JykKICAgICAgICAgICAgLT5zZXRHYSgkZ2EpCiAgICAgICAgICAgIC0+c2V0UmVmZXJyZXIoJHJlZmVycmVyKQogICAgICAgICAgICAtPnNldFNpdGVBdXRvQXBwcm92ZUlkKG51bGwpCiAgICAgICAgICAgIC0+c2V0U2l0ZUF1dG9BcHByb3ZlU3RhdHVzKG51bGwpCiAgICAgICAgICAgIC0+c2V0UmVwZWF0ZWQoJGNsaWVudC0+aXNSZWd1bGFyKCkpOwoKICAgICAgICBpZiAoJGFtb3VudCA+IDMwMDAwICogMTAwKSB7CiAgICAgICAgICAgICRsb2FuLT5zZXRXaXRoU2NoZWR1bGUodHJ1ZSk7CiAgICAgICAgfQoKICAgICAgICAkdGhpcy0+bG9hblJlcG9zaXRvcnktPnBlcnNpc3RBbmRGbHVzaCgkbG9hbik7Cgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hblJlcG9zaXRvcnktPnBlcnNpc3RBbmRGbHVzaCgkbG9hbik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFydG5lciA9ICR0aGlzLT5wYXJ0bmVyU2VydmljZS0+bWF0Y2hCeVBhcmFtcygkdXRtKTsKICAgICAgICBpZiAoJHBhcnRuZXIgPT09IG51bGwgJiYgJHJlZmVycmVyICE9PSAnJykgewogICAgICAgICAgICAkcGFydG5lciA9ICR0aGlzLT5wYXJ0bmVyU2VydmljZS0+bWF0Y2hCeVJlZmVycmVyKCRyZWZlcnJlcik7CiAgICAgICAgfQoKICAgICAgICAkbG9hbgogICAgICAgICAgICAtPnNldFV0bSgkdXRtKQogICAgICAgICAgICAtPnNldFBhcnRuZXIoJHBhcnRuZXIpOwoKICAgICAgICBpZiAoJHByb21vQ29kZSAhPT0gJycpIHsKICAgICAgICAgICAgJGxvYW4tPnNldFByb21vQ29kZSgkcHJvbW9Db2RlKTsKICAgICAgICB9IGVsc2VpZiAoKCRwcm9tb0NvZGUgPSAkY2xpZW50LT5nZXRQcm9tb0NvZGUoKSkgIT09ICcnKSB7CiAgICAgICAgICAgICRsb2FuLT5zZXRQcm9tb0NvZGUoJHByb21vQ29kZSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoJHRoaXMtPmxvYW5SZXBvc2l0b3J5LT5maW5kT25lQnkoWwogICAgICAgICAgICAnY2xpZW50JyA9PiAkY2xpZW50LT5nZXRJZCgpLAogICAgICAgICAgICAnaXNDbG9zZWQnID0+IHRydWUKICAgICAgICBdKSkgewogICAgICAgICAgICAkbG9hbgogICAgICAgICAgICAgICAgLT5zZXRTa2lwQ29udmVyc2lvbihMb2FuOjpTS0lQX0NPTlZFUlNJT05fWUVTKTsKICAgICAgICB9IGVsc2VpZiAoISRsb2FuLT5nZXRQYXJ0bmVyKCkgJiYgJHBhcnRuZXIpIHsKICAgICAgICAgICAgJGxvYW4KICAgICAgICAgICAgICAgIC0+c2V0U2tpcENvbnZlcnNpb24oJHRoaXMtPnBhcnRuZXJTZXJ2aWNlLT5za2lwQ29udmVyc2lvbigkcGFydG5lcikgPyBMb2FuOjpTS0lQX0NPTlZFUlNJT05fWUVTIDogTG9hbjo6U0tJUF9DT05WRVJTSU9OX05PKTsKICAgICAgICB9CgogICAgICAgICRsb2FuCiAgICAgICAgICAgIC0+c2V0Q29tcGFueSgkY29tcGFueSkKICAgICAgICAgICAgLT5zZXRDbGllbnQoJGNsaWVudCkKICAgICAgICAgICAgLT5zZXRBbW91bnRDbGFpbWVkKCRhbW91bnQpCiAgICAgICAgICAgIC0+c2V0UGVyaW9kQ2xhaW1lZCgkcGVyaW9kKQogICAgICAgICAgICAtPnNldFRpbWVPZmZzZXQoJG9mZnNldCkKICAgICAgICAgICAgLT5zZXRTY29yaW5nTG9hbk51bWJlcignbmV3JykKICAgICAgICAgICAgLT5zZXRHYSgkZ2EpCiAgICAgICAgICAgIC0+c2V0UmVmZXJyZXIoJHJlZmVycmVyKQogICAgICAgICAgICAtPnNldFNpdGVBdXRvQXBwcm92ZUlkKG51bGwpCiAgICAgICAgICAgIC0+c2V0U2l0ZUF1dG9BcHByb3ZlU3RhdHVzKG51bGwpCiAgICAgICAgICAgIC0+c2V0UmVwZWF0ZWQoJGNsaWVudC0+aXNSZWd1bGFyKCkpOwoKICAgICAgICBpZiAoJGFtb3VudCA+IDMwMDAwICogMTAwKSB7CiAgICAgICAgICAgICRsb2FuLT5zZXRXaXRoU2NoZWR1bGUodHJ1ZSk7CiAgICAgICAgfQoKICAgICAgICAkdGhpcy0+bG9hblJlcG9zaXRvcnktPnBlcnNpc3RBbmRGbHVzaCgkbG9hbik7Cgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>

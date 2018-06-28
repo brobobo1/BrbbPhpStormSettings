@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -22,11 +22,11 @@
         <mark key="]" line="91" column="12" />
         <mark key="." line="91" column="12" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" timestamp="1530114864497">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" timestamp="1530175015357">
+        <mark key="[" line="51" column="52" />
+        <mark key="]" line="55" column="55" />
+        <mark key="." line="55" column="55" />
+        <mark key="^" line="55" column="55" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/config/parameters/parameters_ci.yaml" timestamp="1525426946602">
         <mark key="[" line="3" column="68" />
@@ -743,11 +743,11 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/GetLeadInfo.php" timestamp="1530115920397">
-        <mark key="[" line="50" column="42" />
-        <mark key="]" line="50" column="46" />
-        <mark key="." line="50" column="46" />
-        <mark key="^" line="50" column="46" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/GetLeadInfo.php" timestamp="1530174687908">
+        <mark key="[" line="49" column="44" />
+        <mark key="]" line="49" column="49" />
+        <mark key="." line="49" column="49" />
+        <mark key="^" line="49" column="49" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/Traits/PromotionServicesTrait.php" timestamp="1529078682646">
         <mark key="[" line="16" column="23" />
@@ -1364,25 +1364,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpUWVBFX09GRkxJTkVfSU5TVEFMTE1FTlQgPT4gWwogICAgICAgICAgICBzZWxmOjpTVEFUVVNfQVBQUk9WRUQgPT4gc2VsZjo6QU1PX0lOU1RBTExNRU5UX1NUQVRVU19BUFBST1ZFRCwKICAgICAgICAgICAgc2VsZjo6U1RBVFVTX1BBSUQgICAgID0+IHNlbGY6OkFNT19JTlNUQUxMTUVOVF9TVEFUVVNfUEFJRCwKICAgICAgICAgICAgc2VsZjo6U1RBVFVTX1JFSkVDVEVEID0+IHNlbGY6OkFNT19JTlNUQUxMTUVOVF9TVEFUVVNfUkVKRUNURUQKICAgICAgICBdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">L2luZm8+Jw==</text>
+        <text>$arrayInput</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2b2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIElucHV0SW50ZXJmYWNlICRpbnB1dAogICAgICogQHBhcmFtIE91dHB1dEludGVyZmFjZSAkb3V0cHV0CiAgICAgKiBAcmV0dXJuIGludHxudWxsfHZvaWQKICAgICAqIEB0aHJvd3MgXEFtb0NSTVxFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGV4ZWN1dGUoSW5wdXRJbnRlcmZhY2UgJGlucHV0LCBPdXRwdXRJbnRlcmZhY2UgJG91dHB1dCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpUWVBFX09GRkxJTkVfSU5TVEFMTE1FTlQgPT4gWwogICAgICAgICAgICBzZWxmOjpTVEFUVVNfQVBQUk9WRUQgPT4gc2VsZjo6QU1PX0lOU1RBTExNRU5UX1NUQVRVU19BUFBST1ZFRCwKICAgICAgICAgICAgc2VsZjo6U1RBVFVTX1BBSUQgICAgID0+IHNlbGY6OkFNT19JTlNUQUxMTUVOVF9TVEFUVVNfUEFJRCwKICAgICAgICAgICAgc2VsZjo6U1RBVFVTX1JFSkVDVEVEID0+IHNlbGY6OkFNT19JTlNUQUxMTUVOVF9TVEFUVVNfUkVKRUNURUQKICAgICAgICBdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXJyYXlJbnB1dCA9IG5ldyBBcnJheUlucHV0KCRsZWFkcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEFtb0NSTVxFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGhvbmUpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1460,25 +1460,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcQWNoaWV2ZW1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEFtb0NSTVxFeGNlcHRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxEb2N1bWVudEdlbmVyYXRvclxQcm9sb25nYXRpb25BZ3JlZW1lbnRJbnN0YWxsbWVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxEb2N1bWVudEdlbmVyYXRvclxQcm9sb25nYXRpb25BZ3JlZW1lbnQ7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcQWNoaWV2ZW1lbnQ7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcSW5jb21lOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxEb2N1bWVudEdlbmVyYXRvclxQcm9sb25nYXRpb25BZ3JlZW1lbnRJbnN0YWxsbWVudDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcUHJvbG9uZ2F0aW9uOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxEb2N1bWVudEdlbmVyYXRvclxQcm9sb25nYXRpb25BZ3JlZW1lbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdBTFRFUiBUQUJMRSBwcm9tb2NvZGVfc3RhdGljIEFMVEVSIHBhcmFtZXRlcnMgVFlQRSBKU09OJyk7CiAgICAgICAgJHRoaXMtPmFkZFNxbCgnQUxURVIgVEFCTEUgcHJvbW9jb2RlX3N0YXRpYyBBTFRFUiBwYXJhbWV0ZXJzIFNFVCBERUZBVUxUIFwnW11cJycpOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcSW5jb21lOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

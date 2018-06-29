@@ -5,6 +5,9 @@
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="/a.dummy" timestamp="1530286973062">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/StatsRpcService.php" timestamp="1525948912044">
         <mark key="[" line="48" column="38" />
         <mark key="]" line="48" column="31" />
@@ -526,7 +529,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530285693805">
+      <file name="/Dummy.txt" timestamp="1530287011590">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1038,12 +1041,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" timestamp="1530285638093">
-        <mark key="'" line="775" column="26" />
-        <mark key="[" line="801" column="17" />
-        <mark key="]" line="801" column="26" />
-        <mark key="." line="801" column="26" />
-        <mark key="^" line="801" column="26" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" timestamp="1530287229957">
+        <mark key="'" line="776" column="26" />
+        <mark key="[" line="812" column="64" />
+        <mark key="]" line="812" column="55" />
+        <mark key="." line="812" column="55" />
+        <mark key="^" line="812" column="55" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/InterviewAnswer.php" timestamp="1522069972258">
         <mark key="[" line="14" column="0" />
@@ -1406,8 +1409,8 @@
       <jump line="774" column="26" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LoanCreateException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkc2VuZEFuYWx5dGljcyA9IGZhbHNlOwo=</text>
       </register>
       <register name="-" type="4">
         <text>LoanCreateException</text>
@@ -1419,16 +1422,16 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+ZXJyb3IoImV4dGVybmFsIGxvYW4uY3JlYXRlIGVycm9yIiwgWwogICAgICAgICAgICAgICAgJ2Vycm9yJyAgPT4gJGUtPmdldE1lc3NhZ2UoKSwKICAgICAgICAgICAgICAgICdsb2FuSWQnID0+ICRsb2FuLT5nZXRJZCgpCiAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2VuZEFuYWx5dGljcyA9IGZhbHNlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSAkZS0+Z2V0RGF0YSgpID8/IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNlbmRBbmFseXRpY3MgPSB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dHJhbnNhY3Rpb25TZXJ2aWNlLT5jb21taXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNlbmRBbmFseXRpY3MgPSBmYWxzZTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1506,22 +1509,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dHJhbnNhY3Rpb25TZXJ2aWNlLT5jb21taXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChMb2FuQ3JlYXRlRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgICR0aGlzLT50cmFuc2FjdGlvblNlcnZpY2UtPnJvbGxCYWNrKCk7CiAgICAgICAgICAgIAogICAgICAgICAgICAkZGF0YSA9ICRlLT5nZXREYXRhKCkgPz8gW107CiAgICAgICAgICAgICRkYXRhWydjb250ZXh0J10gPSBbCiAgICAgICAgICAgICAgICAnY2xpZW50SWQnID0+ICRsb2FuLT5nZXRDbGllbnQoKS0+Z2V0SWQoKSwKICAgICAgICAgICAgICAgICdsb2FuSWQnID0+ICRsb2FuLT5nZXRJZCgpLAogICAgICAgICAgICBdOwoKICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+ZXJyb3IoJGUtPmdldE1lc3NhZ2UoKSwgJGRhdGEpOwogICAgICAgICAgICB0aHJvdyBuZXcgUnBjTG9hbkNyZWF0ZUV4Y2VwdGlvbihudWxsLCAkZS0+Z2V0RGF0YSgpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdvb2dsZUFuYWx5dGljcy0+bm90aWZ5U3RhdHVzQ2hhbmdlZCgkbG9hbik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHNlbmRBbmFseXRpY3MpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgJHRoaXMtPnRyYW5zYWN0aW9uU2VydmljZS0+cm9sbEJhY2soKTsKICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+ZXJyb3IoImV4dGVybmFsIGxvYW4uY3JlYXRlIGVycm9yIiwgWwogICAgICAgICAgICAgICAgJ2Vycm9yJyAgPT4gJGUtPmdldE1lc3NhZ2UoKSwKICAgICAgICAgICAgICAgICdsb2FuSWQnID0+ICRsb2FuLT5nZXRJZCgpCiAgICAgICAgICAgIF0pOwogICAgICAgICAgICAKICAgICAgICAgICAgdGhyb3cgCiAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnRyYW5zYWN0aW9uU2VydmljZS0+cm9sbEJhY2soKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGFydG5lclNlcnZpY2UtPnBvc3RCYWNrKCRsb2FuLCBQYXJ0bmVyOjpUWVBFX0xPQU5fQVBQTElDQVRJT04pOwogICAgICAgICR0aGlzLT5nb29nbGVBbmFseXRpY3MtPm5vdGlmeVN0YXR1c0NoYW5nZWQoJGxvYW4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

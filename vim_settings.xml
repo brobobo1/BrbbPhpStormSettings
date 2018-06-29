@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -308,11 +308,8 @@
         <mark key="." line="101" column="17" />
         <mark key="^" line="101" column="17" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/FetchArchiService/FetchArchiService.php" timestamp="1530261381968">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/FetchArchiService/FetchArchiService.php" timestamp="1530276519972">
         <mark key="'" line="137" column="0" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/docker-compose.yml" timestamp="1514887939268">
         <mark key="[" line="3" column="29" />
@@ -1365,10 +1362,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkaGFzQWN0aXZlID0gZnVuY3Rpb24gKCkgIHVzZSAoJG1vYmlsZVBob25lKSB7CiAgICAgICAgICAgIHJldHVybiAkbW9iaWxlUGhvbmUtPmdldENsaWVudCgpLT5nZXRNb2JpbGVQaG9uZSgpICE9PSBudWxsOyAgIAogICAgICAgIH07Cgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewoKICAgICAgICAgICAgJGNsaWVudCA9ICR0aGlzLT51cGRhdGVFeHRlcm5hbENsaWVudCgkY2xpZW50LCAkY2xpZW50SW5mbyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>$hasActive())</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2b2lkXD4=</text>
@@ -1377,16 +1374,16 @@
         <text encoding="base64">JG1vYmlsZVBob25lLT5nZXRDbGllbnQoKS0+Z2V0TW9iaWxlUGhvbmUoKSAhPT0gbnVsbDs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkaGFzQWN0aXZlID0gZnVuY3Rpb24gKCkgIHVzZSAoJG1vYmlsZVBob25lKSB7CiAgICAgICAgICAgIHJldHVybiAkbW9iaWxlUGhvbmUtPmdldENsaWVudCgpLT5nZXRNb2JpbGVQaG9uZSgpICE9PSBudWxsOyAgIAogICAgICAgIH07Cgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewoKICAgICAgICAgICAgJGNsaWVudCA9ICR0aGlzLT51cGRhdGVFeHRlcm5hbENsaWVudCgkY2xpZW50LCAkY2xpZW50SW5mbyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNsaWVudEZyb21QaG9uZSA9ICRtb2JpbGVQaG9uZS0+Z2V0Q2xpZW50KCk7CiAgICAgICAgICAgIGlmICgkY2xpZW50RnJvbVBob25lID09PSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXBkYXRlQ2xpZW50UGFzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaGFzQWN0aXZlID0gZnVuY3Rpb24gKCkgIHVzZSAoJG1vYmlsZVBob25lKSB7CiAgICAgICAgICAgIHJldHVybiAkbW9iaWxlUGhvbmUtPmdldENsaWVudCgpLT5nZXRNb2JpbGVQaG9uZSgpICE9PSBudWxsOyAgIAogICAgICAgIH07Cgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1461,25 +1458,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkaGFzQWN0aXZlID0gZnVuY3Rpb24gKCkgIHVzZSAoJG1vYmlsZVBob25lKSB7CiAgICAgICAgICAgICRjbGllbnRGcm9tUGhvbmUgPSAkbW9iaWxlUGhvbmUtPmdldENsaWVudCgpOwogICAgICAgICAgICBpZiAoJGNsaWVudEZyb21QaG9uZSA9PT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gJGNsaWVudEZyb21QaG9uZS0+Z2V0TW9iaWxlUGhvbmUoKSAhPT0gbnVsbDsKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNsaWVudEZyb21QaG9uZSA9ICRtb2JpbGVQaG9uZS0+Z2V0Q2xpZW50KCk7CiAgICAgICAgICAgIGlmICgkY2xpZW50RnJvbVBob25lID09PSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0gY2F0Y2ggKFNjb3JpbmdDbGllbnRFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+YWxlcnQoIiIsIFsKICAgICAgICAgICAgICAgICdwYXNzcG9ydCcgPT4gJHBhc3Nwb3J0UyAuICcgJyAuICRwYXNzcG9ydE4sCiAgICAgICAgICAgICAgICAnbW9iaWxlUGhvbmUnID0+ICRmb3JtYXR0ZWRQaG9uZU51bWJlciwKICAgICAgICAgICAgICAgICdjbGllbnRJZCcgPT4gJGNsaWVudC0+Z2V0SWQoKQogICAgICAgICAgICBdKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaGFzQWN0aXZlID0gZnVuY3Rpb24gKCkgIHVzZSAoJG1vYmlsZVBob25lKSB7CiAgICAgICAgICAgICRjbGllbnRGcm9tUGhvbmUgPSAkbW9iaWxlUGhvbmUtPmdldENsaWVudCgpOwogICAgICAgICAgICBpZiAoJGNsaWVudEZyb21QaG9uZSA9PT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gJGNsaWVudEZyb21QaG9uZS0+Z2V0TW9iaWxlUGhvbmUoKSAhPT0gbnVsbDsKICAgICAgICB9Owo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlaWYgKCRpbmZvVHlwZSA9PT0gJ2xvYW5zJykgewo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0gY2F0Y2ggKFNjb3JpbmdDbGllbnRFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+YWxlcnQoIiIsIFsKICAgICAgICAgICAgICAgICdwYXNzcG9ydCcgPT4gJHBhc3Nwb3J0UyAuICcgJyAuICRwYXNzcG9ydE4sCiAgICAgICAgICAgICAgICAnbW9iaWxlUGhvbmUnID0+ICRmb3JtYXR0ZWRQaG9uZU51bWJlciwKICAgICAgICAgICAgICAgICdjbGllbnRJZCcgPT4gJGNsaWVudC0+Z2V0SWQoKQogICAgICAgICAgICBdKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlaWYgKCRpbmZvVHlwZSA9PT0gJ2xvYW5zJykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

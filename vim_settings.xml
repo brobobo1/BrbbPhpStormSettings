@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -1041,12 +1041,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" timestamp="1530287229957">
-        <mark key="'" line="776" column="26" />
-        <mark key="[" line="812" column="64" />
-        <mark key="]" line="812" column="55" />
-        <mark key="." line="812" column="55" />
-        <mark key="^" line="812" column="55" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" timestamp="1530522795881">
+        <mark key="'" line="710" column="64" />
+        <mark key="[" line="702" column="13" />
+        <mark key="]" line="723" column="46" />
+        <mark key="." line="723" column="46" />
+        <mark key="^" line="723" column="46" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/InterviewAnswer.php" timestamp="1522069972258">
         <mark key="[" line="14" column="0" />
@@ -1307,7 +1307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="395" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
       <jump line="402" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
       <jump line="418" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
       <jump line="471" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
@@ -1407,10 +1406,11 @@
       <jump line="171" column="8" filename="$USER_HOME$/code/devim/dzp/src/App/Service/FetchArchiService/FetchArchiService.php" />
       <jump line="436" column="5" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
       <jump line="774" column="26" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
+      <jump line="710" column="64" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkc2VuZEFuYWx5dGljcyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAqIEBScGNTZWN1cmVkXFNlY3VyZWQocm9sZXM9e0NsaWVudDo6Uk9MRV9DTElFTlR9ZGQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>LoanCreateException</text>
@@ -1422,16 +1422,16 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+ZXJyb3IoImV4dGVybmFsIGxvYW4uY3JlYXRlIGVycm9yIiwgWwogICAgICAgICAgICAgICAgJ2Vycm9yJyAgPT4gJGUtPmdldE1lc3NhZ2UoKSwKICAgICAgICAgICAgICAgICdsb2FuSWQnID0+ICRsb2FuLT5nZXRJZCgpCiAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc2VuZEFuYWx5dGljcyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAqIEBScGNTZWN1cmVkXFNlY3VyZWQocm9sZXM9e0NsaWVudDo6Uk9MRV9DTElFTlR9ZGQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNlbmRBbmFseXRpY3MgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWRkcl9kdW1wKDEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNlbmRBbmFseXRpY3MgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAkc2VuZEFuYWx5dGljcyA9IGZhbHNlOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1506,25 +1506,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNlbmRBbmFseXRpY3MgPSB0cnVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNlbmRBbmFseXRpY3MgPSBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdvb2dsZUFuYWx5dGljcy0+bm90aWZ5U3RhdHVzQ2hhbmdlZCgkbG9hbik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHNlbmRBbmFseXRpY3MpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdvb2dsZUFuYWx5dGljcy0+bm90aWZ5U3RhdHVzQ2hhbmdlZCgkbG9hbik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGFydG5lclNlcnZpY2UtPnBvc3RCYWNrKCRsb2FuLCBQYXJ0bmVyOjpUWVBFX0xPQU5fQVBQTElDQVRJT04pOwogICAgICAgICR0aGlzLT5nb29nbGVBbmFseXRpY3MtPm5vdGlmeVN0YXR1c0NoYW5nZWQoJGxvYW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHNlbmRBbmFseXRpY3MpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

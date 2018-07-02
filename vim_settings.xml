@@ -1113,6 +1113,12 @@
         <mark key="^" line="219" column="19" />
         <mark key="." line="219" column="19" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Partner/LoanPullUpStrategy/ZaimDotComLoanPullUpStrategy.php" timestamp="1530543831913">
+        <mark key="[" line="79" column="23" />
+        <mark key="]" line="79" column="28" />
+        <mark key="." line="79" column="28" />
+        <mark key="^" line="79" column="28" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180608152020.php" timestamp="1528471349658">
         <mark key="[" line="22" column="5" />
         <mark key="]" line="23" column="3" />
@@ -1409,11 +1415,11 @@
       <jump line="710" column="64" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICRjbGllbnQK</text>
+      <register name="&quot;" type="4">
+        <text>$data['email']</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>$data['email']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2b2lkXD4=</text>

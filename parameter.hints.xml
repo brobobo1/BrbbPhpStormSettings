@@ -1,7 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="PHP" />
+      <blacklist language="PHP">
+        <added pattern="\in_array(needle,haystack,strict)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>

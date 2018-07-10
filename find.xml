@@ -2,12 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*Contro.php</mask>
       <mask>*Control.php</mask>
       <mask>*Controll.php</mask>
       <mask>*Controller.php</mask>
@@ -37,6 +34,7 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.yaml</mask>
     </recentFileMasks>
   </component>
 </application>

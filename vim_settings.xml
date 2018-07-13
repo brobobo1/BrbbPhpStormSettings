@@ -44,6 +44,7 @@
         <mark key="]" line="86" column="50" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180713114620.php" timestamp="1531483213582" />
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" timestamp="1514241920266">
         <mark key="[" line="89" column="58" />
         <mark key="]" line="89" column="27" />
@@ -553,7 +554,7 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1531409656232">
+      <file name="/dummy.sql" timestamp="1531483148155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -690,6 +691,12 @@
         <mark key="]" line="2" column="6" />
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Tariff.php" timestamp="1531483043410">
+        <mark key="[" line="242" column="46" />
+        <mark key="]" line="243" column="21" />
+        <mark key="." line="243" column="21" />
+        <mark key="^" line="243" column="21" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180327111614.php" timestamp="1523280566937">
         <mark key="[" line="21" column="163" />
@@ -1504,7 +1511,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmNsaWVudHMtPmNvbigkY2xpZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICB1bnNldCgkdGhpcy0+aWNvbkxpbmtbJHZlcnNpb25dKTsK</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1516,16 +1523,16 @@
         <text encoding="base64">ICAgICAgICAgICAgLT5hbmRXaGVyZSgncGNzLmVuZERhdGUgPj0gOm5vdycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmNsaWVudHMtPmNvbigkY2xpZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICB1bnNldCgkdGhpcy0+aWNvbkxpbmtbJHZlcnNpb25dKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmNsaWVudHMtPmNvbnRhaW5zKCRjbGllbnQpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkaWNvbkxpbmsKICAgICAqCiAgICAgKiBAcmV0dXJuIFRhcmlmZgogICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2xpZW50LT5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1600,19 +1607,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcHJvbW9Db2RlU3RhdGljLT5pc1BlcnNvbmFsKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmNsaWVudHMtPmNvbigkY2xpZW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcHJvbW8pOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmNsaWVudHMtPmNvbnRhaW5zKCRjbGllbnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcHJvbW8pOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2xpZW50LT5nZXRJZCgpKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm5WCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcHJvbW9Db2RlU3RhdGljLT5pc1BlcnNvbmFsKCkpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcHJvbW8pOwo=</text>

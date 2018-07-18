@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" />
     </globalmarks>
@@ -140,6 +140,12 @@
         <mark key="^" line="48" column="40" />
       </file>
       <file name="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" timestamp="1531211850531" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Service.EventService.DTO.History.History.yml" timestamp="1531869560306">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/code/learning/project1/docker-compose.yml" timestamp="1514887939268">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="23" />
@@ -153,9 +159,6 @@
         <mark key="." line="131" column="4" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/DTO/History/Schedule.php" timestamp="1531868954454">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
         <mark key="^" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/code/opossum/princess/.gitignore" timestamp="1521500586846">
@@ -268,7 +271,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531868200206">
+      <file name="/Dummy.txt" timestamp="1531869572925">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -448,7 +451,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXEV2ZW50U2VydmljZVxFdmVudFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="-" type="4">
         <text>EVENT_HISTORY_ELEMENT_CLOSED</text>
@@ -456,20 +459,20 @@
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>$body        = (int)$schedule['Body'];</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBzOiBbd2ViLCBtb2JpbGVdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXEV2ZW50U2VydmljZVxFdmVudFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXEV2ZW50U2VydmljZVxFdmVudFNlcnZpY2U7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBzOiBbd2ViXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXEV2ZW50U2VydmljZVxFdmVudFNlcnZpY2U7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBnZXREYXRlT246CiAgICAgICAgICAgIHNlcmlhbGl6ZWRfbmFtZTogZGF0ZV9vbgogICAgICAgICAgICB0eXBlOiBEYXRlVGltZTwnWS1tLWRcVEg6aTpzUCc+CiAgICAgICAgICAgIGdyb3VwczogW21vYmlsZV0K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -547,22 +550,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXEV2ZW50U2VydmljZVxFdmVudFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRBbW91bnQ6CiAgICAgICAgICAgIHNlcmlhbGl6ZWRfbmFtZTogYW1vdW50CiAgICAgICAgICAgIHR5cGU6IGludGVnZXIKICAgICAgICAgICAgZ3JvdXBzOiBbd2ViLCBtb2JpbGVdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXEV2ZW50U2VydmljZVxFdmVudFNlcnZpY2U7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXEV2ZW50U2VydmljZVxFdmVudFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXEV2ZW50U2VydmljZVxFdmVudFNlcnZpY2U7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXEV2ZW50U2VydmljZVxFdmVudFNlcnZpY2U7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXEV2ZW50U2VydmljZVxFdmVudFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>e</text>

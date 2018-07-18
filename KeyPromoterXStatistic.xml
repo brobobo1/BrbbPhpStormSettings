@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>166</Count>
+          <Count>210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -126,7 +126,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -230,6 +230,14 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Remove</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Replace...">
+        <Item>
+          <IdeaActionID>Replace</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Replace...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -342,7 +350,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
     </option>

@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -172,6 +172,13 @@
         <mark key="." line="183" column="54" />
         <mark key="^" line="183" column="54" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" timestamp="1533226880700">
+        <mark key="'" line="840" column="0" />
+        <mark key="[" line="806" column="51" />
+        <mark key="]" line="806" column="60" />
+        <mark key="^" line="806" column="60" />
+        <mark key="." line="806" column="60" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.php" timestamp="1532614524845">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="6" column="16" />
@@ -206,6 +213,12 @@
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" timestamp="1533226916068">
+        <mark key="[" line="210" column="19" />
+        <mark key="]" line="236" column="62" />
+        <mark key="." line="236" column="62" />
+        <mark key="^" line="236" column="62" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Entity.Client.yml" timestamp="1533137782834">
         <mark key="[" line="68" column="36" />
@@ -490,7 +503,7 @@
         <mark key="." line="289" column="102" />
         <mark key="^" line="289" column="102" />
       </file>
-      <file name="/dummy.sql" timestamp="1533138178869">
+      <file name="/dummy.sql" timestamp="1533225845817">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -508,13 +521,19 @@
         <mark key="^" line="33" column="61" />
         <mark key="." line="33" column="61" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Event/Events.php" timestamp="1533226247450">
+        <mark key="[" line="15" column="73" />
+        <mark key="]" line="16" column="45" />
+        <mark key="^" line="16" column="45" />
+        <mark key="." line="16" column="45" />
+      </file>
       <file name="$USER_HOME$/code/opossum/princess/AggregationOOP.php" timestamp="1522111250073">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="1" />
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533224273322">
+      <file name="/Dummy.txt" timestamp="1533226926330">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -550,10 +569,11 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/GetResponseWrapper.php" timestamp="1533223645900">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/GetResponseWrapper.php" timestamp="1533226006183">
+        <mark key="[" line="254" column="40" />
+        <mark key="]" line="255" column="45" />
+        <mark key="." line="255" column="45" />
+        <mark key="^" line="255" column="45" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/classes/Application.php" timestamp="1517576296504">
         <mark key="[" line="88" column="56" />
@@ -610,10 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="945" column="0" filename="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" />
-      <jump line="939" column="0" filename="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" />
-      <jump line="936" column="0" filename="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" />
-      <jump line="933" column="0" filename="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" />
       <jump line="910" column="0" filename="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" />
       <jump line="919" column="0" filename="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" />
       <jump line="931" column="7" filename="$USER_HOME$/code/img/seolandingphp/class/Uploader.php" />
@@ -710,19 +726,23 @@
       <jump line="821" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" />
       <jump line="42" column="0" filename="$USER_HOME$/code/devim/get-response-client/src/Model/Contact.php" />
       <jump line="137" column="4" filename="$USER_HOME$/code/devim/get-response-client/src/Model/Contact.php" />
+      <jump line="234" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
+      <jump line="801" column="19" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
+      <jump line="207" column="71" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
+      <jump line="840" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>LOAN_PENDING</text>
       </register>
       <register name="-" type="4">
-        <text>name_middle</text>
+        <text>LOAN_PENDING</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBzdHJpbmcKICAgICAqCiAgICAgKiBAU2VyaWFsaXplclxUeXBlKCJzdHJpbmciKQogICAgICovCg==</text>
+      <register name="0" type="4">
+        <text>onLoanPayout</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>

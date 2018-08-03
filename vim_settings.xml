@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -121,6 +121,12 @@
         <mark key="]" line="17" column="58" />
         <mark key="^" line="17" column="58" />
         <mark key="." line="17" column="58" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/EventHistoryController.php" timestamp="1533295795544">
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="21" />
+        <mark key="^" line="40" column="21" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Service.EventService.DTO.Event.Achievement.yml" timestamp="1532615076154">
         <mark key="[" line="18" column="17" />
@@ -478,10 +484,10 @@
         <mark key="^" line="472" column="11" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1533287145982">
+      <file name="/dummy.sql" timestamp="1533295954376">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/.gitignore" timestamp="1514880031257">
@@ -708,10 +714,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LOAN_PENDING</text>
+        <text>code ILIKE  ' %foryou10%'</text>
       </register>
       <register name="-" type="4">
-        <text>LOAN_PENDING</text>
+        <text>code ILIKE  ' %foryou10%'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
@@ -720,16 +726,16 @@
         <text>onLoanPayout</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnQgJGlkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXROYW1lKFxzdHJ2YWwoJGNsaWVudC0+Z2V0Rmlyc3ROYW1lKCkpKQo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -804,13 +810,13 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXROYW1lKFxzdHJ2YWwoJGNsaWVudC0+Z2V0Rmlyc3ROYW1lKCkpKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -822,7 +828,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oc3ByaW50ZignQ2FuIG5vdCB1cGRhdGUgc3RhdHVzIHRvICVzIGZvciAlcycsCiAgICAgICAgICAgICAgICAkc3RhdHVzLCAkbG9hbi0+Z2V0Q2xpZW50KCktPmdldEVtYWlsKCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

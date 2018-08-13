@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -15,6 +15,12 @@
         <mark key="[" line="67" column="44" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp-admin/templates/SonataAdminBundle/standard_layout.html.twig" timestamp="1534179594459">
+        <mark key="[" line="34" column="83" />
+        <mark key="]" line="34" column="98" />
+        <mark key="^" line="34" column="98" />
+        <mark key="." line="34" column="98" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/providers.php" timestamp="1532422843327">
         <mark key="[" line="21" column="30" />
@@ -783,17 +789,17 @@
       <jump line="499" column="16" filename="$USER_HOME$/code/devim/dzp/config/config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>Смс клиента</text>
       </register>
       <register name="-" type="4">
-        <text>setCustomFie</text>
+        <text>Смс клиента</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0KCRtZXRob2QsICR1cmwsICRwYXJhbWV0ZXJzLCAkcmVzcG9uc2VNb2RlbFR5cGUpID0gJGJ1aWxkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iYWN0aXZlIGZpcnN0IGxhc3QiPjxhIGhyZWY9Int7IHBhdGgoJ2FwcF9fYWRtaW5fX3N0YXRpc3RpY3NfX3BhcnRuZXJzJykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtYW5nbGUtZG91YmxlLXJpZ2h0IiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9pPtCh0LzRgSDQutC70LjQtdC90YLQsDwvYT4KICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>

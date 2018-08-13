@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -16,11 +16,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/templates/SonataAdminBundle/standard_layout.html.twig" timestamp="1534179594459">
-        <mark key="[" line="34" column="83" />
-        <mark key="]" line="34" column="98" />
-        <mark key="^" line="34" column="98" />
-        <mark key="." line="34" column="98" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/templates/SonataAdminBundle/standard_layout.html.twig" timestamp="1534181033932">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="15" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/providers.php" timestamp="1532422843327">
         <mark key="[" line="21" column="30" />
@@ -446,12 +446,6 @@
         <mark key="^" line="359" column="7" />
         <mark key="." line="359" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/config/config.php" timestamp="1533910351050">
-        <mark key="'" line="499" column="16" />
-        <mark key="[" line="447" column="0" />
-        <mark key="]" line="448" column="157" />
-        <mark key="." line="447" column="64" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/public/test/smart-export.php" timestamp="1532429598636">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -638,6 +632,12 @@
         <mark key="^" line="96" column="23" />
         <mark key="." line="96" column="23" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp-admin/config/packages/security.yaml" timestamp="1534181171807">
+        <mark key="[" line="46" column="49" />
+        <mark key="]" line="46" column="49" />
+        <mark key="." line="46" column="49" />
+        <mark key="^" line="46" column="49" />
+      </file>
       <file name="$USER_HOME$/code/img/seolandingphp/CRON/yandexImport.php" timestamp="1514234384655">
         <mark key="[" line="19" column="1" />
         <mark key="]" line="22" column="0" />
@@ -789,29 +789,29 @@
       <jump line="499" column="16" filename="$USER_HOME$/code/devim/dzp/config/config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Смс клиента</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Смс клиента</text>
+        <text>support</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iYWN0aXZlIGZpcnN0IGxhc3QiPjxhIGhyZWY9Int7IHBhdGgoJ2FwcF9fYWRtaW5fX3N0YXRpc3RpY3NfX3BhcnRuZXJzJykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtYW5nbGUtZG91YmxlLXJpZ2h0IiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9pPtCh0LzRgSDQutC70LjQtdC90YLQsDwvYT4KICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgIHslIGlmIGlzX2dyYW50ZWQoJ1JPTEVfU1VQUE9SVCcpICV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkZmllbGQtPmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkbmV3RmllbGQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkZmllbGQtPmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -886,25 +886,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgxMTIzMTMxMjMpO1ZkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkbmV3RmllbGQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgxMTIzMTMxMjMpO1ZkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYW1ldGVycylWOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHUK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYW1ldGVycylWOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkb3V0cHV0KTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvbnRhY3QgPSAkdGhpcy0+c2VuZEN1c3RvbUZpZWxkcygkbG9hbi0+Z2V0Q2xpZW50KCksIFsKICAgICAgICAgICAgICAgICdzdGF0dXMnICAgICAgICAgPT4gJHN0YXR1cywKICAgICAgICAgICAgICAgICdhbW91bnQnICAgICAgICAgPT4gKGludCkoJGxvYW4tPmdldEFtb3VudCgpIC8gMTAwKSwKICAgICAgICAgICAgICAgICdkYXlzJyAgICAgICAgICAgPT4gJGxvYW4tPmdldFBlcmlvZCgpLAogICAgICAgICAgICAgICAgJ2NsaWVudF90eXBlJyAgICA9PiAkY2xpZW50VHlwZSwKICAgICAgICAgICAgICAgICd0cmFmZmljX3NvdXJjZScgPT4gJHRyYWZmaWNTb3VyY2UKICAgICAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkb3V0cHV0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

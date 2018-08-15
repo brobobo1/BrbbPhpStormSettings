@@ -45,6 +45,10 @@
         <mark key="." line="59" column="7" />
         <mark key="^" line="59" column="7" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Admin/Controller/StatisticsController.php" timestamp="1534337985530">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="75" column="49" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/services.php" timestamp="1533049787247">
         <mark key="[" line="519" column="14" />
         <mark key="]" line="519" column="27" />
@@ -371,7 +375,7 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/src/Admin/Support/SmsAdmin.php" timestamp="1534335899858">
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Admin/Support/SmsAdmin.php" timestamp="1534337960630">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -491,11 +495,11 @@
         <mark key="^" line="59" column="17" />
         <mark key="." line="59" column="17" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Support/SmsCrudController.php" timestamp="1534335282123">
-        <mark key="[" line="11" column="75" />
-        <mark key="]" line="11" column="74" />
-        <mark key="^" line="11" column="74" />
-        <mark key="." line="11" column="74" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Support/SmsCrudController.php" timestamp="1534338572361">
+        <mark key="[" line="35" column="54" />
+        <mark key="]" line="35" column="52" />
+        <mark key="." line="35" column="52" />
+        <mark key="^" line="35" column="52" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180719115254.php" timestamp="1532001565514">
         <mark key="[" line="33" column="36" />
@@ -600,7 +604,7 @@
         <mark key="^" line="60" column="77" />
         <mark key="." line="69" column="12" />
       </file>
-      <file name="/dummy.sql" timestamp="1534321968926">
+      <file name="/dummy.sql" timestamp="1534338661578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -835,33 +839,29 @@
       <jump line="499" column="16" filename="$USER_HOME$/code/devim/dzp/config/config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{% block form %}
-    testsdfasdfasdfasdfasd
-{% endblock %}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkc21zU3RhdCBhcyAkc21zKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>'partner.officeId', 'partner.name', 'COUNT(loan.id) as _count'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>Admin/Support/sms.html.twig</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVwbyA9ICR0aGlzLT5vbS0+Z2V0UmVwb3NpdG9yeShMb2FuOjpjbGFzcyk7CiAgICAgICAgJHFiID0gJHJlcG8tPmNyZWF0ZVF1ZXJ5QnVpbGRlcignbG9hbicpOwogICAgICAgICRxYgogICAgICAgICAgICAtPnNlbGVjdChbJ3BhcnRuZXIuaWQnLCAncGFydG5lci5vZmZpY2VJZCcsICdwYXJ0bmVyLm5hbWUnLCAnQ09VTlQobG9hbi5pZCkgYXMgX2NvdW50J10pCiAgICAgICAgICAgIC0+aW5uZXJKb2luKCdsb2FuLnBhcnRuZXInLCAncGFydG5lcicpCiAgICAgICAgICAgIC0+YW5kV2hlcmUoJHFiLT5leHByKCktPmd0ZSgnbG9hbi5jcmVhdGVkQXQnLCAnOm1pZG5pZ2h0JykpCiAgICAgICAgICAgIC0+YW5kV2hlcmUoJHFiLT5leHByKCktPmlzTm90TnVsbCgnbG9hbi5wYXJ0bmVyJykpCiAgICAgICAgICAgIC0+Z3JvdXBCeSgncGFydG5lci5pZCcpCiAgICAgICAgICAgIC0+b3JkZXJCeSgnX2NvdW50JywgJ0RFU0MnKQogICAgICAgICAgICAtPnNldFBhcmFtZXRlcignbWlkbmlnaHQnLCAkbWlkbmlnaHQpOwogICAgICAgIC8qKiBAdmFyIGFycmF5ICRzdGF0ICovCiAgICAgICAgJHN0YXQgPSAkcWItPmdldFF1ZXJ5KCktPmdldEFycmF5UmVzdWx0KCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{% block form %}
-    testsdfasdfasdfasdfasd
-{% endblock %}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkc21zU3RhdCBhcyAkc21zKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ3Ntc1N0YXQnID0+ICRzbXNTdGF0XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBjb25maWd1cmVGb3JtRmllbGRzKEZvcm1NYXBwZXIgJGZvcm0pCiAgICB7CiAgICAgICAgcGFyZW50Ojpjb25maWd1cmVGb3JtRmllbGRzKCRmb3JtKTsKICAgICAgICAkZm9ybS0+YWRkKCd0ZXN0JywgVGV4dFR5cGU6OmNsYXNzKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJG51bWJlcgogICAgICogQHJldHVybiBSZXNwb25zZQogICAgICogQGV4Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -936,25 +936,27 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEZvcm1cRXh0ZW5zaW9uXENvcmVcVHlwZVxUZXh0VHlwZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQYXJhbWV0ZXIoJ21pZG5pZ2h0JywgJG1pZG5pZ2h0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFNvbmF0YVxBZG1pbkJ1bmRsZVxEYXRhZ3JpZFxMaXN0TWFwcGVyOwp1c2UgU29uYXRhXEFkbWluQnVuZGxlXEZvcm1cRm9ybU1hcHBlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5ncm91cEJ5KCdwYXJ0bmVyLmlkJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hbmRXaGVyZSgkcWItPmV4cHIoKS0+Z3RlKCdsb2FuLmNyZWF0ZWRBdCcsICc6bWlkbmlnaHQnKSkKICAgICAgICAgICAgLT5hbmRXaGVyZSgkcWItPmV4cHIoKS0+aXNOb3ROdWxsKCdsb2FuLnBhcnRuZXInKSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>{% block form %}
+    testsdfasdfasdfasdfasd
+{% endblock %}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0QWN0aW9uKCkKICAgIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY29sbGVjdGlvbi0+YWRkKCdzdGF0aXN0aWMnKTsK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBjb25maWd1cmVGb3JtRmllbGRzKEZvcm1NYXBwZXIgJGZvcm0pCiAgICB7CiAgICAgICAgcGFyZW50Ojpjb25maWd1cmVGb3JtRmllbGRzKCRmb3JtKTsKICAgICAgICAkZm9ybS0+YWRkKCd0ZXN0JywgVGV4dFR5cGU6OmNsYXNzKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

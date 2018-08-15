@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -495,11 +495,11 @@
         <mark key="^" line="59" column="17" />
         <mark key="." line="59" column="17" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Support/SmsCrudController.php" timestamp="1534338572361">
-        <mark key="[" line="35" column="54" />
-        <mark key="]" line="35" column="52" />
-        <mark key="." line="35" column="52" />
-        <mark key="^" line="35" column="52" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Support/SmsCrudController.php" timestamp="1534340673663">
+        <mark key="[" line="36" column="53" />
+        <mark key="]" line="36" column="52" />
+        <mark key="^" line="36" column="52" />
+        <mark key="." line="36" column="52" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180719115254.php" timestamp="1532001565514">
         <mark key="[" line="33" column="36" />
@@ -628,7 +628,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534262066946">
+      <file name="/Dummy.txt" timestamp="1534340790113">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -682,11 +682,11 @@
         <mark key="." line="46" column="49" />
         <mark key="^" line="46" column="49" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Support/sms.html.twig" timestamp="1534336249696">
-        <mark key="[" line="8" column="56" />
-        <mark key="]" line="8" column="53" />
-        <mark key="." line="8" column="53" />
-        <mark key="^" line="8" column="53" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Support/sms.html.twig" timestamp="1534340749866">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="12" />
+        <mark key="." line="32" column="12" />
+        <mark key="^" line="32" column="12" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/CRON/yandexImport.php" timestamp="1514234384655">
         <mark key="[" line="19" column="1" />
@@ -840,10 +840,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkc21zU3RhdCBhcyAkc21zKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRzbXM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'partner.officeId', 'partner.name', 'COUNT(loan.id) as _count'</text>
+        <text>substr($sms['text'], 0, 10);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
@@ -852,16 +852,16 @@
         <text encoding="base64">ICAgICAgICAkcmVwbyA9ICR0aGlzLT5vbS0+Z2V0UmVwb3NpdG9yeShMb2FuOjpjbGFzcyk7CiAgICAgICAgJHFiID0gJHJlcG8tPmNyZWF0ZVF1ZXJ5QnVpbGRlcignbG9hbicpOwogICAgICAgICRxYgogICAgICAgICAgICAtPnNlbGVjdChbJ3BhcnRuZXIuaWQnLCAncGFydG5lci5vZmZpY2VJZCcsICdwYXJ0bmVyLm5hbWUnLCAnQ09VTlQobG9hbi5pZCkgYXMgX2NvdW50J10pCiAgICAgICAgICAgIC0+aW5uZXJKb2luKCdsb2FuLnBhcnRuZXInLCAncGFydG5lcicpCiAgICAgICAgICAgIC0+YW5kV2hlcmUoJHFiLT5leHByKCktPmd0ZSgnbG9hbi5jcmVhdGVkQXQnLCAnOm1pZG5pZ2h0JykpCiAgICAgICAgICAgIC0+YW5kV2hlcmUoJHFiLT5leHByKCktPmlzTm90TnVsbCgnbG9hbi5wYXJ0bmVyJykpCiAgICAgICAgICAgIC0+Z3JvdXBCeSgncGFydG5lci5pZCcpCiAgICAgICAgICAgIC0+b3JkZXJCeSgnX2NvdW50JywgJ0RFU0MnKQogICAgICAgICAgICAtPnNldFBhcmFtZXRlcignbWlkbmlnaHQnLCAkbWlkbmlnaHQpOwogICAgICAgIC8qKiBAdmFyIGFycmF5ICRzdGF0ICovCiAgICAgICAgJHN0YXQgPSAkcWItPmdldFF1ZXJ5KCktPmdldEFycmF5UmVzdWx0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkc21zU3RhdCBhcyAkc21zKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRzbXM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ3Ntc1N0YXQnID0+ICRzbXNTdGF0XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNtc1sndGV4dCddKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJG51bWJlcgogICAgICogQHJldHVybiBSZXNwb25zZQogICAgICogQGV4Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcnJheV93YWxrKGZ1bmN0aW9uICgkc21zKSB7CiAgICAgICAgICAgICRzbXNbJ3RleHQnXSA9IHN1YnN0cigkc21zWyd0ZXh0J10sIDAsIDEwKTsKICAgICAgICB9LCAkc21zU3RhdCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -936,27 +936,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQYXJhbWV0ZXIoJ21pZG5pZ2h0JywgJG1pZG5pZ2h0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRzbXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5ncm91cEJ5KCdwYXJ0bmVyLmlkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNtc1sndGV4dCddKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hbmRXaGVyZSgkcWItPmV4cHIoKS0+Z3RlKCdsb2FuLmNyZWF0ZWRBdCcsICc6bWlkbmlnaHQnKSkKICAgICAgICAgICAgLT5hbmRXaGVyZSgkcWItPmV4cHIoKS0+aXNOb3ROdWxsKCdsb2FuLnBhcnRuZXInKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNtcyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="7" type="4">
-        <text>{% block form %}
-    testsdfasdfasdfasdfasd
-{% endblock %}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoMTExMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBjb25maWd1cmVGb3JtRmllbGRzKEZvcm1NYXBwZXIgJGZvcm0pCiAgICB7CiAgICAgICAgcGFyZW50Ojpjb25maWd1cmVGb3JtRmllbGRzKCRmb3JtKTsKICAgICAgICAkZm9ybS0+YWRkKCd0ZXN0JywgVGV4dFR5cGU6OmNsYXNzKTsKICAgIH0K</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

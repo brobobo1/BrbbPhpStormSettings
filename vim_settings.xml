@@ -265,17 +265,23 @@
         <mark key="^" line="36" column="59" />
         <mark key="." line="36" column="59" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Support/push_loan.html.twig" timestamp="1534557177249">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="127" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="18" column="121" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Entity.Tariff.yml" timestamp="1532003002204">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="30" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="36" column="30" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/src/Admin/Support/PushLoanAdmin.php" timestamp="1534555784989">
-        <mark key="[" line="17" column="73" />
-        <mark key="]" line="17" column="75" />
-        <mark key="." line="17" column="75" />
-        <mark key="^" line="17" column="75" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Admin/Support/PushLoanAdmin.php" timestamp="1534556280632">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="11" column="51" />
+        <mark key="^" line="11" column="51" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Service.EventService.DTO.History.History.yml" timestamp="1531919604462">
         <mark key="[" line="3" column="0" />
@@ -343,11 +349,11 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Support/koronacard.html.twig" timestamp="1534554061734">
-        <mark key="[" line="7" column="76" />
-        <mark key="]" line="6" column="102" />
-        <mark key="." line="6" column="102" />
-        <mark key="^" line="6" column="102" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Support/koronacard.html.twig" timestamp="1534556092597">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/java.Dockerfile" timestamp="1514883927134">
         <mark key="[" line="1" column="0" />
@@ -355,11 +361,11 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Support/PushLoanCrudController.php" timestamp="1534555766722">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="28" column="7" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Support/PushLoanCrudController.php" timestamp="1534557255908">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="6" />
+        <mark key="^" line="19" column="6" />
+        <mark key="." line="19" column="6" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/DocumentService/Generator.php" timestamp="1531930556666">
         <mark key="[" line="13" column="0" />
@@ -432,12 +438,6 @@
         <mark key="]" line="33" column="21" />
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/config/config.php" timestamp="1534064886239">
-        <mark key="'" line="499" column="16" />
-        <mark key="[" line="447" column="0" />
-        <mark key="]" line="448" column="157" />
-        <mark key="." line="447" column="64" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.php" timestamp="1533895141344">
         <mark key="[" line="21" column="9" />
@@ -592,6 +592,12 @@
         <mark key="]" line="15" column="43" />
         <mark key="^" line="15" column="43" />
         <mark key="." line="15" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Helper/LoanHelper.php" timestamp="1534556495382">
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="16" column="57" />
+        <mark key="^" line="16" column="57" />
+        <mark key="." line="16" column="57" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/pom.xml" timestamp="1516570577932">
         <mark key="[" line="42" column="10" />
@@ -769,29 +775,29 @@
       <jump line="499" column="16" filename="$USER_HOME$/code/devim/dzp/config/config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>KoronaCardAdmin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHA+PGlucHV0IHR5cGU9InRleHQiIHBsYWNlaG9sZGVyPSLQndC+0LzQtdGAINC30LDQtdC80LAiIG5hbWU9Im51bWJlciIgc2l6ZT0iMzUiIHZhbHVlPSJ7eyBpbmZvLmxvYW5OdW1iZXIgfX0iIGRpc2FibGVkPjwvcD4K</text>
       </register>
       <register name="-" type="4">
-        <text>KoronaCardAdmin</text>
+        <text>placeholder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFwcFxBZG1pblxTdXBwb3J0XEtvcm9uYUNhcmRBZG1pbjoKICAgICAgICBhcmd1bWVudHM6IFt+LCB+LCBBcHBcQ29udHJvbGxlclxBZG1pblxTdXBwb3J0XEtvcm9uYUNhcmRDcnVkQ29udHJvbGxlcl0KICAgICAgICB0YWdzOgogICAgICAgICAgICAtIHsgbmFtZTogc29uYXRhLmFkbWluLCBtYW5hZ2VyX3R5cGU6IG9ybSwgbGFiZWw6INCf0YDQuNCy0Y/Qt9Cw0YLRjCDQutCw0YDRgtGDINC60L7RgNC+0L3RiywgbGFiZWxfdHJhbnNsYXRvcl9zdHJhdGVneTogc29uYXRhLmFkbWluLmxhYmVsLnN0cmF0ZWd5LnVuZGVyc2NvcmUsIGdyb3VwOiBpbXBlcmlvdXNfc3VwcG9ydCB9CiAgICAgICAgcHVibGljOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHA+PGlucHV0IHR5cGU9InRleHQiIHBsYWNlaG9sZGVyPSLQndC+0LzQtdGAINC30LDQtdC80LAiIG5hbWU9Im51bWJlciIgc2l6ZT0iMzUiIHZhbHVlPSJ7eyBpbmZvLmxvYW5OdW1iZXIgfX0iIGRpc2FibGVkPjwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHA+PGlucHV0IHR5cGU9InRleHQiIHBsYWNlaG9sZGVyPSLQndC+0LzQtdGAINC30LDQtdC80LAiIG5hbWU9Im51bWJlciIgc2l6ZT0iMzUiPjwvcD4K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -866,25 +872,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXFN5bWZvbnlcQ29tcG9uZW50XERlcGVuZGVuY3lJbmplY3Rpb25cRXhjZXB0aW9uXFNlcnZpY2VOb3RGb3VuZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBcU3ltZm9ueVxDb21wb25lbnRcRGVwZW5kZW5jeUluamVjdGlvblxFeGNlcHRpb25cU2VydmljZUNpcmN1bGFyUmVmZXJlbmNlRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFxEb2N0cmluZVxPUk1cT1JNRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFxEb2N0cmluZVxPUk1cT1JNSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFxEb2N0cmluZVxPUk1cT3B0aW1pc3RpY0xvY2tFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICA8cD48aW5wdXQgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9ItCd0L7QvNC10YAg0LrQsNGA0YLRiyDQutC+0YDQvtC90LAiIG5hbWU9Im51bWJlciIgc2l6ZT0iMzUiPjwvcD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJ9Cd0LUg0LfQsNC/0L7Qu9C90LXQvdGLINCy0YHQtSDQv9C+0LvRjyc7CiAgICAgICAgJHBob25lICA9ICRyZXF1ZXN0LT5yZXF1ZXN0LT5nZXQoJ3Bob25lJywgJycpOwogICAgICAgICRudW1iZXIgPSAkcmVxdWVzdC0+cmVxdWVzdC0+Z2V0KCdudW1iZXInLCAnJyk7CgogICAgICAgIGlmICgkcGhvbmUgIT09ICcnICYmICRudW1iZXIgIT09ICcnKSB7CiAgICAgICAgICAgICRyZXN1bHQgPSAn0J3QtSDRg9C00LDQu9C+0YHRjCDQv9GA0LjQstGP0LfQsNGC0Ywg0LrQsNGA0YLRgyc7CgogICAgICAgICAgICAkZW0gICA9ICR0aGlzLT5jb250YWluZXItPmdldCgnZG9jdHJpbmUub3JtLmVudGl0eV9tYW5hZ2VyJyk7CiAgICAgICAgICAgICRyZXBvID0gJGVtLT5nZXRSZXBvc2l0b3J5KE1vYmlsZVBob25lOjpjbGFzcyk7CiAgICAgICAgICAgIC8qKiBAdmFyIE1vYmlsZVBob25lICRwaG9uZSAqLwogICAgICAgICAgICAkcGhvbmUgID0gJHJlcG8tPmZpbmRPbmVCeShbJ251bWJlcicgPT4gJHBob25lXSk7CiAgICAgICAgICAgICRjbGllbnQgPSAkcGhvbmUtPmdldENsaWVudCgpOwoKICAgICAgICAgICAgJHJlc3BvbnNlID0gU2NvcmluZ1JwYzo6Q2xpZW50KCktPlVwZGF0ZUNhcmROdW1iZXIoWwogICAgICAgICAgICAgICAgJ2NsaWVudElkJyAgID0+ICRjbGllbnQtPmdldEFyY2hpSWQoKSwKICAgICAgICAgICAgICAgICdjYXJkTnVtYmVyJyA9PiAoc3RyaW5nKSRudW1iZXIKICAgICAgICAgICAgXSk7CgogICAgICAgICAgICAkcmVzcG9uc2UgPSBqc29uX2RlY29kZSgkcmVzcG9uc2UsIHRydWUpOwogICAgICAgICAgICBpZiAoaXNzZXQoJHJlc3BvbnNlWydyZXN1bHQnXSkgJiYgJHJlc3BvbnNlWydyZXN1bHQnXSkgewogICAgICAgICAgICAgICAgJGNsaWVudC0+c2V0S29yb25hQ2FyZE51bWJlcigkbnVtYmVyKTsKICAgICAgICAgICAgICAgICRlbS0+cGVyc2lzdCgkY2xpZW50KTsKICAgICAgICAgICAgICAgICRlbS0+Zmx1c2goKTsKCiAgICAgICAgICAgICAgICAkcmVzdWx0ID0gJ9Ca0LDRgNGC0LAg0LTQvtCx0LDQstC70LXQvdCwJzsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICR0aGlzLT5yZW5kZXJXaXRoRXh0cmFQYXJhbXMoCiAgICAgICAgICAgICdBZG1pbi9TdXBwb3J0L2tvcm9uYWNhcmQuaHRtbC50d2lnJywKICAgICAgICAgICAgY29tcGFjdCgncmVzdWx0JykKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY29sbGVjdGlvbi0+YWRkKCdjb25maXJtJywgJ2xpc3QvY29uZmlybScpOwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY29sbGVjdGlvbi0+YWRkKCdyb2xsYmFjaycsICdsaXN0L3JvbGxiYWNrJyk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cD48aW5wdXQgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9ItCf0L7RgdC70LXQtNC90LjQtSA0INGG0LjRhNGA0Ysg0LrQsNGA0YLRiyIgbmFtZT0ibnVtYmVyIj48L3A+Cg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXFN5bWZvbnlcQ29tcG9uZW50XERlcGVuZGVuY3lJbmplY3Rpb25cRXhjZXB0aW9uXFNlcnZpY2VOb3RGb3VuZEV4Y2VwdGlvbgogICAgICogQHRocm93cyBcU3ltZm9ueVxDb21wb25lbnRcRGVwZW5kZW5jeUluamVjdGlvblxFeGNlcHRpb25cU2VydmljZUNpcmN1bGFyUmVmZXJlbmNlRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFxEb2N0cmluZVxPUk1cT1JNRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFxEb2N0cmluZVxPUk1cT1JNSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFxEb2N0cmluZVxPUk1cT3B0aW1pc3RpY0xvY2tFeGNlcHRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDb2xsZWN0aW9uc1xBcnJheUNvbGxlY3Rpb247CnVzZSBEb2N0cmluZVxDb21tb25cQ29sbGVjdGlvbnNcQ3JpdGVyaWE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJ9Cd0LUg0LfQsNC/0L7Qu9C90LXQvdGLINCy0YHQtSDQv9C+0LvRjyc7CiAgICAgICAgJHBob25lICA9ICRyZXF1ZXN0LT5yZXF1ZXN0LT5nZXQoJ3Bob25lJywgJycpOwogICAgICAgICRudW1iZXIgPSAkcmVxdWVzdC0+cmVxdWVzdC0+Z2V0KCdudW1iZXInLCAnJyk7CgogICAgICAgIGlmICgkcGhvbmUgIT09ICcnICYmICRudW1iZXIgIT09ICcnKSB7CiAgICAgICAgICAgICRyZXN1bHQgPSAn0J3QtSDRg9C00LDQu9C+0YHRjCDQv9GA0LjQstGP0LfQsNGC0Ywg0LrQsNGA0YLRgyc7CgogICAgICAgICAgICAkZW0gICA9ICR0aGlzLT5jb250YWluZXItPmdldCgnZG9jdHJpbmUub3JtLmVudGl0eV9tYW5hZ2VyJyk7CiAgICAgICAgICAgICRyZXBvID0gJGVtLT5nZXRSZXBvc2l0b3J5KE1vYmlsZVBob25lOjpjbGFzcyk7CiAgICAgICAgICAgIC8qKiBAdmFyIE1vYmlsZVBob25lICRwaG9uZSAqLwogICAgICAgICAgICAkcGhvbmUgID0gJHJlcG8tPmZpbmRPbmVCeShbJ251bWJlcicgPT4gJHBob25lXSk7CiAgICAgICAgICAgICRjbGllbnQgPSAkcGhvbmUtPmdldENsaWVudCgpOwoKICAgICAgICAgICAgJHJlc3BvbnNlID0gU2NvcmluZ1JwYzo6Q2xpZW50KCktPlVwZGF0ZUNhcmROdW1iZXIoWwogICAgICAgICAgICAgICAgJ2NsaWVudElkJyAgID0+ICRjbGllbnQtPmdldEFyY2hpSWQoKSwKICAgICAgICAgICAgICAgICdjYXJkTnVtYmVyJyA9PiAoc3RyaW5nKSRudW1iZXIKICAgICAgICAgICAgXSk7CgogICAgICAgICAgICAkcmVzcG9uc2UgPSBqc29uX2RlY29kZSgkcmVzcG9uc2UsIHRydWUpOwogICAgICAgICAgICBpZiAoaXNzZXQoJHJlc3BvbnNlWydyZXN1bHQnXSkgJiYgJHJlc3BvbnNlWydyZXN1bHQnXSkgewogICAgICAgICAgICAgICAgJGNsaWVudC0+c2V0S29yb25hQ2FyZE51bWJlcigkbnVtYmVyKTsKICAgICAgICAgICAgICAgICRlbS0+cGVyc2lzdCgkY2xpZW50KTsKICAgICAgICAgICAgICAgICRlbS0+Zmx1c2goKTsKCiAgICAgICAgICAgICAgICAkcmVzdWx0ID0gJ9Ca0LDRgNGC0LAg0LTQvtCx0LDQstC70LXQvdCwJzsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICR0aGlzLT5yZW5kZXJXaXRoRXh0cmFQYXJhbXMoCiAgICAgICAgICAgICdBZG1pbi9TdXBwb3J0L2tvcm9uYWNhcmQuaHRtbC50d2lnJywKICAgICAgICAgICAgY29tcGFjdCgncmVzdWx0JykKICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

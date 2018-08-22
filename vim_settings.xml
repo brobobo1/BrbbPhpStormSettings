@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -310,11 +310,11 @@
         <mark key="^" line="36" column="59" />
         <mark key="." line="36" column="59" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Provider/MobileApiServiceProvider/Controller/ProfileControllerTest.php" timestamp="1534942542960">
-        <mark key="[" line="34" column="31" />
-        <mark key="]" line="34" column="56" />
-        <mark key="^" line="34" column="35" />
-        <mark key="." line="34" column="31" />
+      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Provider/MobileApiServiceProvider/Controller/ProfileControllerTest.php" timestamp="1534946210915">
+        <mark key="[" line="91" column="8" />
+        <mark key="]" line="94" column="18" />
+        <mark key="^" line="94" column="18" />
+        <mark key="." line="94" column="18" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.php" timestamp="1533895141344">
         <mark key="[" line="21" column="9" />
@@ -848,16 +848,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>getPersonalInfoMobileV13</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>getPersonalInfoMobileV13</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="4">
-        <text>findAndGetClientWithLoans</text>
+        <text>isEmailConfirmed</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0TWV0aG9kcyhbJ2ZpbmQnLCAncGVyc2lzdCcsICdmbHVzaCddKQo=</text>

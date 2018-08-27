@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -367,12 +367,12 @@
         <mark key="." line="21" column="5" />
         <mark key="^" line="21" column="5" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/Service/PartnerService/PartnerServiceTest.php" timestamp="1535379991175">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
-        <mark key="^" line="194" column="17" />
+      <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/Service/PartnerService/PartnerServiceTest.php" timestamp="1535382335164">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="207" column="89" />
+        <mark key="]" line="207" column="94" />
+        <mark key="." line="207" column="94" />
+        <mark key="^" line="207" column="94" />
       </file>
       <file name="$USER_HOME$/code/learning/project1/docker-compose.yml" timestamp="1514887939268">
         <mark key="[" line="3" column="29" />
@@ -645,7 +645,7 @@
         <mark key="." line="499" column="0" />
         <mark key="^" line="498" column="43" />
       </file>
-      <file name="/dummy.sql" timestamp="1535380039623">
+      <file name="/dummy.sql" timestamp="1535381064687">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -798,7 +798,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/code/img/seolandingphp/CRON/reduceImageSize.php" />
       <jump line="165" column="14" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" />
       <jump line="164" column="12" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" />
       <jump line="163" column="8" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" />
@@ -898,19 +897,20 @@
       <jump line="57" column="19" filename="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Support/CreditCardCrudController.php" />
       <jump line="87" column="0" filename="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Support/CreditCardCrudController.php" />
       <jump line="21" column="0" filename="$USER_HOME$/code/devim/dzp/tests/functional/App/Service/PartnerService/PartnerServiceTest.php" />
+      <jump line="95" column="0" filename="$USER_HOME$/code/devim/dzp/tests/functional/App/Service/PartnerService/PartnerServiceTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Payout</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aHR0cDovL2p1bGlhLmF4cmVkLnJ1L2FwaS1jb21wYW55L29yZGVyX3N0YXR1cy8/emFpbWNvbV9jaWQ9Nzg4OCZ6YWltY29tX29yZGVyPSV6YWltY29tX29yZGVyJSZzdGF0dXM9YWNjZXB0ZWQmc3VtPSVsb2FuX2Ftb3VudCUmc2lnbj0lemFpbWNvbV9zaWduJQ==</text>
+        <text>Payout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9hbiA9IChuZXcgTG9hbikKICAgICAgICAgICAgLT5zZXRDcmVhdGVkQXQoJG5vdyktPnNldFVwZGF0ZWRBdCgkbm93KQogICAgICAgICAgICAtPnNldFBhcnRuZXIoJHBhcnRuZXIpCiAgICAgICAgICAgIC0+c2V0Q2xpZW50KAogICAgICAgICAgICAgICAgKG5ldyBDbGllbnQoKSktPnNldENyZWF0ZWRBdCgkbm93KS0+c2V0VXBkYXRlZEF0KCRub3cpCiAgICAgICAgICAgICkKICAgICAgICAgICAgLT5zZXRBbW91bnQoMTAwMDAgKiBSVUJfVE9fS09QKQogICAgICAgICAgICAtPnNldFBlcmlvZCgxMCkKICAgICAgICAgICAgLT5zZXRTdGF0dXMoTG9hbjo6U1RfQVBQUk9WRUQpCiAgICAgICAgICAgIC0+c2V0VXRtKFsKICAgICAgICAgICAgICAgICd6YWltY29tX2NpZCcgICA9PiA3ODg4LAogICAgICAgICAgICAgICAgJ3phaW1jb21fb3JkZXInID0+ICcwNTEyNDMwMzIxNzYwJywKICAgICAgICAgICAgXSkKICAgICAgICAgICAgLT5zZXRTa2lwQ29udmVyc2lvbihmYWxzZSk7CiAgICAgICAgJGVtLT5wZXJzaXN0KCRsb2FuKTsKICAgICAgICAkZW0tPmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcG9zdEJhY2tPbkNyZWF0ZSA9ICdodHRwOi8vbG9jYWxob3N0OjMwMzAvdGVzdC9wb3N0YmFjaz90ZXN0X2lkPSV0ZXN0X2lkJSZsb2FuX2lkPSVsb2FuX2lkJSZjcmVhdGUnOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -919,10 +919,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcG9zdEJhY2tPblBheW91dCA9ICdodHRwOi8vbG9jYWxob3N0OjMwMzAvdGVzdC9wb3N0YmFjaz90ZXN0X2lkPSV0ZXN0X2lkJSZsb2FuX2lkPSVsb2FuX2lkJSZwYXlvdXQnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQYkFwcHJvdmVkKCdodHRwOi8vanVsaWEuYXhyZWQucnUvYXBpLWNvbXBhbnkvb3JkZXJfc3RhdHVzLz96YWltY29tX2NpZD03ODg4JnphaW1jb21fb3JkZXI9JXphaW1jb21fb3JkZXIlJnN0YXR1cz1hcHByb3ZlZCZzdW09JWxvYW5fYW1vdW50JSZzaWduPSV6YWltY29tX3NpZ24lJykKICAgICAgICAgICAgLT5zZXRQYlJlamVjdGVkKCdodHRwOi8vanVsaWEuYXhyZWQucnUvYXBpLWNvbXBhbnkvb3JkZXJfc3RhdHVzLz96YWltY29tX2NpZD03ODg4JnphaW1jb21fb3JkZXI9JXphaW1jb21fb3JkZXIlJnN0YXR1cz1kZW5pZWQmc3VtPSVsb2FuX2Ftb3VudCUmc2lnbj0lemFpbWNvbV9zaWduJScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -997,25 +997,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRNYXRjaCgnemFpbWNvbV9jaWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAkcG9zdEJhY2tTdHIgPSBzdHJfcmVwbGFjZSgnJXRlc3RfaWQlJywgJHRlc3RJZCwgJHBvc3RCYWNrT25DcmVhdGUpOwogICAgICAgICRwb3N0YmFja1N0ciA9IHN0cl9yZXBsYWNlKCclJScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRJZCgzNikKICAgICAgICAgICAgLT5zZXRPZmZpY2VJZCgxNTQpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29udmVyc2lvblJlcG9zaXRvcnkgPSAkdGhpcy0+Z2V0QXBwbGljYXRpb24oKVsncmVwb3NpdG9yeS5jb252ZXJzaW9uJ107Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFydG5lciA9IG5ldyBQYXJ0bmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBkYXRhUHJvdmlkZXIgcHJvdmlkZXJQb3N0QmFja09uTG9hblN0YXR1c0NoYW5nZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9hbiA9IG5ldyBMb2FuKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

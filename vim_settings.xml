@@ -249,10 +249,12 @@
         <mark key="^" line="73" column="64" />
         <mark key="." line="73" column="64" />
       </file>
-      <file name="$USER_HOME$/code/learning/testExercise/exercises1_22.php" timestamp="1536021357614">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/code/learning/testExercise/exercises1_22.php" timestamp="1536024909619">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="34" column="14" />
+        <mark key="]" line="34" column="14" />
+        <mark key="." line="34" column="14" />
+        <mark key="^" line="34" column="14" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/src/Helper/IncomHelper.php" timestamp="1535039258057">
         <mark key="[" line="6" column="11" />
@@ -797,8 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/code/img/seolandingphp/CRON/reduceImageSize.php" />
-      <jump line="165" column="14" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" />
       <jump line="164" column="12" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" />
       <jump line="163" column="8" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" />
       <jump line="162" column="0" filename="$USER_HOME$/code/img/seolandingphp/Utils/YandexOffer.php" />
@@ -897,31 +897,33 @@
       <jump line="57" column="19" filename="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Support/CreditCardCrudController.php" />
       <jump line="87" column="0" filename="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Support/CreditCardCrudController.php" />
       <jump line="293" column="33" filename="$USER_HOME$/code/devim/dzp/tests/functional/App/Service/PartnerService/PartnerServiceTest.php" />
+      <jump line="37" column="22" filename="$USER_HOME$/code/learning/testExercise/exercises1_22.php" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/learning/testExercise/exercises1_22.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKiogQG5vaW5zcGVjdGlvbiBNYWdpY01ldGhvZHNWYWxpZGl0eUluc3BlY3Rpb24gKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX3Vuc2V0KCRpdGVtKTogdm9pZAogICAgewogICAgICAgICRhZ2dyID0gZnVuY3Rpb24gKHN0cmluZyAkc3VtbSwgc3RyaW5nICRpdGVtKTogc3RyaW5nIHsKICAgICAgICAgICAgIHJldHVybiAkc3VtbSAuICcgJyAuICRpdGVtIC4gJywnIDsKICAgICAgICB9OwogICAgICAgIGVjaG8gcnRyaW0oKHN0cmluZylhcnJheV9yZWR1Y2UoJHRoaXMtPmdldEFycmF5Q29weSgpLCAkYWdnciwgJ0dvb2RieScpLCAnLCcpOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>( $item = null)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>\'n</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKiBAbm9pbnNwZWN0aW9uIE1hZ2ljTWV0aG9kc1ZhbGlkaXR5SW5zcGVjdGlvbiAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9faW52b2tlKGFycmF5ICRpdGVtID0gbnVsbCk6IHZvaWQKICAgIHsKICAgICAgICAkYWdnciA9IGZ1bmN0aW9uIChzdHJpbmcgJHN1bW0sIHN0cmluZyAkaXRlbSk6IHN0cmluZyB7CiAgICAgICAgICAgIHJldHVybiAkc3VtbSAuICcgJyAuICRpdGVtIC4gJywnIDsKICAgICAgICB9OwogICAgICAgIGVjaG8gcnRyaW0oKHN0cmluZylhcnJheV9yZWR1Y2UoJHRoaXMtPmdldEFycmF5Q29weSgpLCAkYWdnciwgJ0dvb2RieScpLCAnLCcpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKiogQG5vaW5zcGVjdGlvbiBNYWdpY01ldGhvZHNWYWxpZGl0eUluc3BlY3Rpb24gKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX3Vuc2V0KCRpdGVtKTogdm9pZAogICAgewogICAgICAgICRhZ2dyID0gZnVuY3Rpb24gKHN0cmluZyAkc3VtbSwgc3RyaW5nICRpdGVtKTogc3RyaW5nIHsKICAgICAgICAgICAgIHJldHVybiAkc3VtbSAuICcgJyAuICRpdGVtIC4gJywnIDsKICAgICAgICB9OwogICAgICAgIGVjaG8gcnRyaW0oKHN0cmluZylhcnJheV9yZWR1Y2UoJHRoaXMtPmdldEFycmF5Q29weSgpLCAkYWdnciwgJ0dvb2RieScpLCAnLCcpOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX3NldChzdHJpbmcgJG5hbWUsICR2YWx1ZSkKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">dmFyX2R1bXAoJGZvbyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fZGkK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -996,25 +998,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICB1bnNldCgkdGhpcy0+KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX191bnNldCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">CiAgICAvKiogQG5vaW5zcGVjdGlvbiBNYWdpY01ldGhvZHNWYWxpZGl0eUluc3BlY3Rpb24gKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2ludm9rZShhcnJheSAkaXRlbSA9IG51bGwpOiB2b2lkCiAgICB7CiAgICAgICAgJGFnZ3IgPSBmdW5jdGlvbiAoc3RyaW5nICRzdW1tLCBzdHJpbmcgJGl0ZW0pOiBzdHJpbmcgewogICAgICAgICAgICByZXR1cm4gJHN1bW0gLiAnICcgLiAkaXRlbSAuICcsJyA7CiAgICAgICAgfTsKICAgICAgICBlY2hvIHJ0cmltKChzdHJpbmcpYXJyYXlfcmVkdWNlKCR0aGlzLT5nZXRBcnJheUNvcHkoKSwgJGFnZ3IsICdHb29kYnknKSwgJywnKTsKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0QXJyYXlDb3B5KCk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBAbm9pbnNwZWN0aW9uIE1hZ2ljTWV0aG9kc1ZhbGlkaXR5SW5zcGVjdGlvbiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JGZvbyA9ICRmb28oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX190b1N0cmluZygpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

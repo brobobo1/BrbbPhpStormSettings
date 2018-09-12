@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" />
     </globalmarks>
@@ -346,6 +346,7 @@
         <mark key="." line="116" column="81" />
         <mark key="^" line="116" column="81" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/config/config.dev.php" timestamp="1536737895236" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Entity.Tariff.yml" timestamp="1536710601482">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="29" />
@@ -611,11 +612,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/config/config.local.php" timestamp="1534153039968">
-        <mark key="[" line="229" column="37" />
-        <mark key="]" line="61" column="158" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="33" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/config/config.local.php" timestamp="1536737703497">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Service.EventService.DTO.EventsHistory.yml" timestamp="1531837277410">
         <mark key="[" line="4" column="29" />
@@ -671,6 +672,10 @@
         <mark key="^" line="294" column="28" />
         <mark key="." line="294" column="28" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/config/config.test.php" timestamp="1536737676581">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="20" column="1" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/EventService.php" timestamp="1536321040311">
         <mark key="[" line="178" column="39" />
         <mark key="]" line="178" column="42" />
@@ -707,7 +712,7 @@
         <mark key="." line="15" column="58" />
         <mark key="^" line="15" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536710915685">
+      <file name="/Dummy.txt" timestamp="1536737865504">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -918,8 +923,8 @@
       <jump line="2223" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Loan.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID8/IG51bGw=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JGFwcFsnZGIub3B0aW9ucyddID0gWwogICAgJ2RyaXZlcicgPT4gJ3Bkb19wZ3NxbCcsCiAgICAnZGJuYW1lJyA9PiAnc2NvcmluZ19taWRkbGV3YXJlX2R6cF8yMCcsCiAgICAnaG9zdCcgPT4gJzItdGVzdC1wZ3NxbC0wMi5kZXZpbS50ZWFtJywKICAgICd1c2VyJyA9PiAnc2NvcmluZ19taWRkbGV3YXJlJywKICAgICdwYXNzd29yZCcgPT4gJ29vZ2hhaVlhaGx1Q2kxYWV6ZWlHJywKXTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID8/IG51bGw=</text>
@@ -928,7 +933,7 @@
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2luY2VfdmVyc2lvbjogMS4zCg==</text>
+        <text encoding="base64">JGFwcFsnZGIub3B0aW9ucyddID0gWwogICAgJ2RyaXZlcicgPT4gJ3Bkb19wZ3NxbCcsCiAgICAnZGJuYW1lJyA9PiAnc2NvcmluZ19taWRkbGV3YXJlX2R6cF8yMCcsCiAgICAnaG9zdCcgPT4gJzItdGVzdC1wZ3NxbC0wMi5kZXZpbS50ZWFtJywKICAgICd1c2VyJyA9PiAnc2NvcmluZ19taWRkbGV3YXJlJywKICAgICdwYXNzd29yZCcgPT4gJ29vZ2hhaVlhaGx1Q2kxYWV6ZWlHJywKXTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>

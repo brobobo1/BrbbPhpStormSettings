@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" />
     </globalmarks>
@@ -47,9 +47,9 @@
         <mark key="." line="59" column="7" />
         <mark key="^" line="59" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/MobileApiServiceProvider.php" timestamp="1534943093786">
-        <mark key="[" line="262" column="14" />
-        <mark key="]" line="262" column="17" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/MobileApiServiceProvider.php" timestamp="1536828413763">
+        <mark key="[" line="164" column="92" />
+        <mark key="]" line="164" column="114" />
         <mark key="^" line="262" column="17" />
         <mark key="." line="262" column="17" />
       </file>
@@ -939,8 +939,8 @@
       <jump line="2223" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Loan.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRvY3VtZW50c1snY3JlYXRlZGF0J10gPSAkZG9jdW1lbnRzWydjcmVhdGVkYXQnXS0+Zm9ybWF0KCdkLm0uWScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>changePhoneNumberAction</text>
       </register>
       <register name="-" type="4">
         <text>Vocuments);</text>
@@ -948,8 +948,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCgkZG9jdW1lbnRzIGFzICRrZXkgPT4gJGRvY3VtZW50KSB7CiAgICAgICAgICAgICAgICAkZG9jdW1lbnRzWyRrZXldWydjcmVhdGVkYXQnXSA9IChuZXcgXERhdGVUaW1lKCRkb2N1bWVudFsnY3JlYXRlZGF0J10pKS0+Zm9ybWF0KCdkLm0uWScpOwogICAgICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>changePhoneNumberAction</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGRvY3VtZW50c1snY3JlYXRlZGF0J10gPSAkZG9jdW1lbnRzWydjcmVhdGVkYXQnXS0+Zm9ybWF0KCdkLm0uWScpOwo=</text>

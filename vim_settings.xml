@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -159,6 +159,10 @@
         <mark key="]" line="18" column="23" />
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/HolidaysNotificationsCommand.php" timestamp="1537191923171">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="70" column="4" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/DTO/History/History.php" timestamp="1533306120060">
         <mark key="[" line="16" column="38" />
@@ -380,9 +384,9 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/LoanEventsCommand.php" timestamp="1534167078109">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/LoanEventsCommand.php" timestamp="1537192281390">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="114" column="77" />
         <mark key="^" line="168" column="42" />
         <mark key="." line="193" column="0" />
       </file>
@@ -415,6 +419,12 @@
         <mark key="]" line="18" column="38" />
         <mark key="^" line="18" column="38" />
         <mark key="." line="18" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/UpdateGetResponseClientsWithoutStatus.php" timestamp="1537192291065">
+        <mark key="[" line="68" column="78" />
+        <mark key="]" line="70" column="7" />
+        <mark key="." line="70" column="7" />
+        <mark key="^" line="70" column="7" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/java.Dockerfile" timestamp="1514883927134">
         <mark key="[" line="1" column="0" />
@@ -930,7 +940,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ2NhbXBhaWduSWRzTGlzdCcgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'setCustomFields'</text>
@@ -939,19 +949,19 @@
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBzdHJpbmcgJG1ldGhvZCAqLwogICAgICAgIC8qKiBAdmFyIHN0cmluZyAkdXJsICovCiAgICAgICAgLyoqIEB2YXIgbWl4ZWQgJHBhcmFtZXRlcnMgKi8KICAgICAgICAvKiogQHZhciBzdHJpbmcgJHJlc3BvbnNlTW9kZWxUeXBlICovCiAgICAgICAgbGlzdCgkbWV0aG9kLCAkdXJsLCAkcGFyYW1ldGVycywgJHJlc3BvbnNlTW9kZWxUeXBlKSA9ICR0aGlzLT5yZXNvdXJjZS0+bGlzdCgpOwogICAgICAgICRwYXJhbWV0ZXJzWydxdWVyeSddID0gWydlbWFpbCcgPT4gJGVtYWlsXTsKICAgICAgICByZXR1cm4gWyRtZXRob2QsICR1cmwsICRwYXJhbWV0ZXJzLCAkcmVzcG9uc2VNb2RlbFR5cGVdOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQGluaGVyaXRkb2MKICAgICAqIEB0aHJvd3MgXFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcRXhjZXB0aW9uXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbgogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gY29uZmlndXJlKCk6IHZvaWQKICAgIHsKICAgICAgICAkdGhpcwogICAgICAgICAgICAtPnNldE5hbWUoJ25vdGlmaWNhdGlvbi1zeXN0ZW06bG9hbjpydW4nKQogICAgICAgICAgICAtPnNldERlc2NyaXB0aW9uKCdTZW5kIGFsbCBub3RpZmljYXRpb25zJyk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAaW5oZXJpdGRvYwogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZXhlY3V0ZShJbnB1dEludGVyZmFjZSAkaW5wdXQsIE91dHB1dEludGVyZmFjZSAkb3V0cHV0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ2NhbXBhaWduSWRzTGlzdCcgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCgo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGF0Y2hlciA9ICRkaXNwYXRjaGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1ldGVyc1sncXVlcnknXSA9IFsnZW1haWwnID0+ICRlbWFpbF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGF0Y2hlciA9ICRkaXNwYXRjaGVyOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1026,28 +1036,28 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1ldGVyc1sncXVlcnknXSA9IFsnZW1haWwnID0+ICRlbWFpbF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBFdmVudERpc3BhdGNoZXJJbnRlcmZhY2UgJGRpc3BhdGNoZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50UmVwbyA9ICRjbGllbnRSZXBvc2l0b3J5OwogICAgICAgICR0aGlzLT5yZXBvcnRSZXBvID0gJHJlcG9ydFJlcG9zaXRvcnk7CiAgICAgICAgJHRoaXMtPmxvZ2dlciA9ICRsb2dnZXI7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBOc0NsaWVudFJlcG9zaXRvcnlJbnRlcmZhY2UgJGNsaWVudFJlcG9zaXRvcnksCiAgICAgICAgU2VuZFJlcG9ydFJlcG9zaXRvcnlJbnRlcmZhY2UgJHJlcG9ydFJlcG9zaXRvcnksCiAgICAgICAgTG9nZ2VyICRsb2dnZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1063,10 +1073,10 @@
       </history-search>
       <history-cmd>
         <entry>Q</entry>
-        <entry>q</entry>
         <entry>e</entry>
         <entry>sp</entry>
         <entry>vs</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />

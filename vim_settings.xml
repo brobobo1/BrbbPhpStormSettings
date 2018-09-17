@@ -225,11 +225,11 @@
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/DocumentService/DocumentService.php" timestamp="1536931256616">
         <mark key="[" line="168" column="125" />
       </file>
-      <file name="$USER_HOME$/code/devim/get-response-client/src/Service/ContactsService.php" timestamp="1537176039425">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="65" column="97" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/code/devim/get-response-client/src/Service/ContactsService.php" timestamp="1537192721992">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/Makefile" timestamp="1514883557418">
         <mark key="[" line="11" column="42" />
@@ -420,11 +420,11 @@
         <mark key="^" line="18" column="38" />
         <mark key="." line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/UpdateGetResponseClientsWithoutStatus.php" timestamp="1537192291065">
-        <mark key="[" line="68" column="78" />
-        <mark key="]" line="70" column="7" />
-        <mark key="." line="70" column="7" />
-        <mark key="^" line="70" column="7" />
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/UpdateGetResponseClientsWithoutStatus.php" timestamp="1537194486814">
+        <mark key="'" line="22" column="35" />
+        <mark key="[" line="86" column="84" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/java.Dockerfile" timestamp="1514883927134">
         <mark key="[" line="1" column="0" />
@@ -770,6 +770,13 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/GetResponseWrapper.php" timestamp="1537192822849">
+        <mark key="'" line="239" column="32" />
+        <mark key="[" line="395" column="8" />
+        <mark key="]" line="395" column="6" />
+        <mark key="^" line="395" column="6" />
+        <mark key="." line="395" column="6" />
+      </file>
       <file name="$USER_HOME$/code/img/seolandingphp/classes/Application.php" timestamp="1517576296504">
         <mark key="[" line="88" column="56" />
         <mark key="]" line="96" column="23" />
@@ -837,10 +844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="466" column="37" filename="$USER_HOME$/code/img/seolandingphp/class/landing.class.php" />
-      <jump line="261" column="0" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/default/footer.tpl" />
-      <jump line="157" column="13" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/default2/footer.tpl" />
-      <jump line="694" column="38" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/class/admin.class.php" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console.sql" />
       <jump line="343" column="33" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/templates/pages/site.tpl" />
       <jump line="84" column="66" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/templates/pages/blocks.tpl" />
@@ -937,13 +940,17 @@
       <jump line="61" column="55" filename="$USER_HOME$/code/devim/get-response-client/src/ResourceDescription/ContactsResource.php" />
       <jump line="59" column="4" filename="$USER_HOME$/code/devim/get-response-client/src/ResourceDescription/ContactsResource.php" />
       <jump line="67" column="0" filename="$USER_HOME$/code/devim/get-response-client/src/ResourceDescription/ContactsResource.php" />
+      <jump line="239" column="32" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/GetResponseWrapper.php" />
+      <jump line="75" column="73" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/UpdateGetResponseClientsWithoutStatus.php" />
+      <jump line="78" column="87" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/UpdateGetResponseClientsWithoutStatus.php" />
+      <jump line="19" column="35" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/UpdateGetResponseClientsWithoutStatus.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDcml0ZXJpYTo6ZXhwcigpLT4K</text>
       </register>
       <register name="-" type="4">
-        <text>'setCustomFields'</text>
+        <text>or</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
@@ -952,16 +959,16 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQGluaGVyaXRkb2MKICAgICAqIEB0aHJvd3MgXFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcRXhjZXB0aW9uXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbgogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gY29uZmlndXJlKCk6IHZvaWQKICAgIHsKICAgICAgICAkdGhpcwogICAgICAgICAgICAtPnNldE5hbWUoJ25vdGlmaWNhdGlvbi1zeXN0ZW06bG9hbjpydW4nKQogICAgICAgICAgICAtPnNldERlc2NyaXB0aW9uKCdTZW5kIGFsbCBub3RpZmljYXRpb25zJyk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAaW5oZXJpdGRvYwogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZXhlY3V0ZShJbnB1dEludGVyZmFjZSAkaW5wdXQsIE91dHB1dEludGVyZmFjZSAkb3V0cHV0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDcml0ZXJpYTo6ZXhwcigpLT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGF0Y2hlciA9ICRkaXNwYXRjaGVyOwo=</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGF0Y2hlciA9ICRkaXNwYXRjaGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1036,25 +1043,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkY29udGFjdHMgYXMgJGNvbnRhY3QpIHsKICAgICAgICAgICAgJGVtYWlsID0gJGNvbnRhY3QtPmdldEVtYWlsKCk7CiAgICAgICAgICAgIAogICAgICAgICAgICAkY2xpZW50ID0gCgoKCgogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudERpc3BhdGNoZXJJbnRlcmZhY2UgJGRpc3BhdGNoZXIK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnQgJGNudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50UmVwbyA9ICRjbGllbnRSZXBvc2l0b3J5OwogICAgICAgICR0aGlzLT5yZXBvcnRSZXBvID0gJHJlcG9ydFJlcG9zaXRvcnk7CiAgICAgICAgJHRoaXMtPmxvZ2dlciA9ICRsb2dnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIEdldFJlc3BvbnNlV3JhcHBlciAqLwogICAgcHJpdmF0ZSAkZ2V0UmVzcG9uc2VXcmFwcGVyOwoK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoKTsK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBHZXRSZXNwb25zZVdyYXBwZXIgJGdldFJlc3BvbnNlV3JhcHBlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBOc0NsaWVudFJlcG9zaXRvcnlJbnRlcmZhY2UgJGNsaWVudFJlcG9zaXRvcnksCiAgICAgICAgU2VuZFJlcG9ydFJlcG9zaXRvcnlJbnRlcmZhY2UgJHJlcG9ydFJlcG9zaXRvcnksCiAgICAgICAgTG9nZ2VyICRsb2dnZXIK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0UmVzcG9uc2VXcmFwcGVyID0gJGdldFJlc3BvbnNlV3JhcHBlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

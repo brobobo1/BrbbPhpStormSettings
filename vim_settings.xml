@@ -148,6 +148,12 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1537448463414">
+        <mark key="[" line="1294" column="19" />
+        <mark key="]" line="1294" column="19" />
+        <mark key="^" line="1294" column="19" />
+        <mark key="." line="1294" column="19" />
+      </file>
       <file name="$USER_HOME$/code/sl/photoautomate/web/app_dev.php" timestamp="1526322553194">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -409,11 +415,11 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Entity/ClientTest.php" timestamp="1537448003638">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="18" column="52" />
-        <mark key="^" line="8" column="97" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Entity/ClientTest.php" timestamp="1537448638025">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/src/Admin/Underwriting/IncreaseLoanAdmin.php" timestamp="1535560801854">
         <mark key="[" line="18" column="37" />
@@ -952,10 +958,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHRlc3QgZW5zdXJlIHRoYXQgbG9hbiB3aXRoIHNjaGVkdWxlIHJldHVybiBjb3JyZWN0IGFtb3V0IG9mIGRhaWx5IHBheW1lbnQKICAgICAqIEBjb3ZlcnMgXEFwcFxFbnRpdHlcTG9hbjo6Z2V0U2NoZWR1bGVQYXltZW50QW1vdW50CiAgICAgKiBAYXV0aG9yIFNlcmdleSBDaGVya2Vzb3YgPHNlcmdleS5jaGVya2Vzb3ZAZGV2aW0udGVhbT4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNoZWNrU2NoZWR1bGVBbW91bnRDYWxjdWxhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>LoanTest</text>
+        <text>checkScheduleAmountCalculation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
@@ -964,13 +970,13 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHRlc3QgZW5zdXJlIHRoYXQgbG9hbiB3aXRoIHNjaGVkdWxlIHJldHVybiBjb3JyZWN0IGFtb3V0IG9mIGRhaWx5IHBheW1lbnQKICAgICAqIEBjb3ZlcnMgXEFwcFxFbnRpdHlcTG9hbjo6Z2V0U2NoZWR1bGVQYXltZW50QW1vdW50CiAgICAgKiBAYXV0aG9yIFNlcmdleSBDaGVya2Vzb3YgPHNlcmdleS5jaGVya2Vzb3ZAZGV2aW0udGVhbT4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNoZWNrU2NoZWR1bGVBbW91bnRDYWxjdWxhdGlvbigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9hbgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1048,25 +1054,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGN1c3RvbUZpZWxkc1sncmVwYWlkX2Nsb3NlZF9kYXRlJ10gPT4gJGxhc3RDbG9zZWRMb2FuLT5nZXRDbG9zZWRBdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JlcGFpZF9jbG9zZWRfZGF0ZScgPT4gJGxvYW4tPmdldENsaWVudCgpLT5nZXRMYXN0Q2xvc2VkTG9hbigpLT5nZXRDbG9zZWRBdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpIT1VSU19JTl9EQVkgLyAyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGN1c3RvbUZpZWxkc1sncmVwYWlkX2Nsb3NlZF9kYXRlJ10gPT4gJGxhc3RDbG9zZWRMb2FuLT5nZXRDbG9zZWRBdCgpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCgoKCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3JlcGFpZF9jbG9zZWRfZGF0ZScgPT4gJGxvYW4tPmdldENsaWVudCgpLT5nZXRMYXN0Q2xvc2VkTG9hbigpLT5nZXRDbG9zZWRBdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpIT1VSU19JTl9EQVkgLyAyLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgCgoKCgoK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

@@ -230,6 +230,7 @@
         <mark key="^" line="80" column="160" />
         <mark key="." line="80" column="160" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.php" timestamp="1537810697273" />
       <file name="$USER_HOME$/code/devim/dzp-admin/src/Helper/IncomHelper.php" timestamp="1535039258057">
         <mark key="[" line="6" column="11" />
       </file>
@@ -258,10 +259,10 @@
         <mark key="^" line="183" column="54" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" timestamp="1537808035535">
-        <mark key="[" line="914" column="27" />
-        <mark key="]" line="917" column="32" />
-        <mark key="^" line="917" column="32" />
-        <mark key="." line="917" column="32" />
+        <mark key="[" line="912" column="27" />
+        <mark key="]" line="915" column="32" />
+        <mark key="^" line="915" column="32" />
+        <mark key="." line="915" column="32" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/AdminPanelServiceProvider/SearchCriteria/LeadSearchCriteria.php" timestamp="1534506779046">
         <mark key="[" line="141" column="5" />
@@ -439,8 +440,6 @@
       <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Entity/ClientTest.php" timestamp="1537807194863">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="105" />
-        <mark key="." line="146" column="0" />
-        <mark key="^" line="161" column="67" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/src/Admin/Underwriting/IncreaseLoanAdmin.php" timestamp="1535560801854">
         <mark key="[" line="18" column="37" />
@@ -448,12 +447,12 @@
         <mark key="^" line="18" column="38" />
         <mark key="." line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/UpdateGetResponseClientsWithoutStatus.php" timestamp="1537810236822">
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/UpdateGetResponseClientsWithoutStatus.php" timestamp="1537811108364">
         <mark key="'" line="26" column="35" />
-        <mark key="[" line="179" column="38" />
-        <mark key="]" line="179" column="37" />
-        <mark key="." line="179" column="37" />
-        <mark key="^" line="179" column="37" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="109" column="74" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/java.Dockerfile" timestamp="1514883927134">
         <mark key="[" line="1" column="0" />
@@ -740,7 +739,7 @@
         <mark key="." line="178" column="42" />
         <mark key="^" line="178" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1537799559744">
+      <file name="/dummy.sql" timestamp="1537811173185">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="63" />
@@ -770,7 +769,7 @@
         <mark key="." line="15" column="58" />
         <mark key="^" line="15" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537807698703">
+      <file name="/Dummy.txt" timestamp="1537811319702">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -993,10 +992,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRleHByLT5uZXEoJ2FyY2hpSWQnLCBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgIGsgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Entity/ClientTest.php</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
@@ -1005,16 +1004,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRleHByLT5uZXEoJ2FyY2hpSWQnLCBudWxsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGsgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIERldmltXENvbXBvbmVudFxOb3RpZmljYXRpb25TeXN0ZW1cRXZlbnRcRXZlbnRzIGFzIE5vdGlmaWNhdGlvblN5c3RlbUV2ZW50czsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0QmVmb3JlT3ZlcmR1ZUhvdXJzTGVmdChpbnQgJGhvdXJzKTogQ3JpdGVyaWEKICAgIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">dXNlIERldmltXENvbXBvbmVudFxOb3RpZmljYXRpb25TeXN0ZW1cRXZlbnRcTm9uSXNzdWVkTG9uZ1RpbWVFdmVudDsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1089,22 +1088,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY3JpdGVyaWEgPSAkdGhpcy0+dG9va01vbmV5Q3JpdGVyaWEoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0QmVmb3JlT3ZlcmR1ZUhvdXJzTGVmdChpbnQgJGhvdXJzKTogQ3JpdGVyaWEKICAgIHsKCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ3J0aXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>

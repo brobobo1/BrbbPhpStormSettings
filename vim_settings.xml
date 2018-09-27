@@ -416,12 +416,8 @@
         <mark key="^" line="18" column="38" />
         <mark key="." line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/UpdateGetResponseClientsWithoutStatus.php" timestamp="1538048755965">
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/UpdateGetResponseClientsWithoutStatus.php" timestamp="1538050379692">
         <mark key="'" line="28" column="35" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="101" column="30" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/composer.json" timestamp="1538042679304">
         <mark key="[" line="70" column="47" />
@@ -730,10 +726,10 @@
         <mark key="." line="178" column="42" />
         <mark key="^" line="178" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1538047929981">
+      <file name="/dummy.sql" timestamp="1538050605762">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="38" />
+        <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/.gitignore" timestamp="1514880031257">
@@ -760,7 +756,7 @@
         <mark key="." line="15" column="58" />
         <mark key="^" line="15" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538048384015">
+      <file name="/Dummy.txt" timestamp="1538050811635">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -807,12 +803,6 @@
         <mark key="]" line="13" column="44" />
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/GetResponseWrapper.php" timestamp="1538048879900">
-        <mark key="[" line="359" column="0" />
-        <mark key="]" line="317" column="26" />
-        <mark key="^" line="317" column="26" />
-        <mark key="." line="317" column="26" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/classes/Application.php" timestamp="1517576296504">
         <mark key="[" line="88" column="56" />
@@ -985,16 +975,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKDIyMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGNsaWVudFR5cGUgPT09IHNlbGY6OkNMSUVOVF9UWVBFX19JTlNUQUxMKSB7CiAgICAgICAgICAgIGlmICgkbG9hbi0+Z2V0UGVyaW9kKCkgPT09IDE4MSkgewogICAgICAgICAgICAgICAgJG1vbnRoID0gNjsKICAgICAgICAgICAgfSBlbHNlaWYgKCRsb2FuLT5nZXRQZXJpb2QoKSAlIDM2NiA9PT0gMCkgewogICAgICAgICAgICAgICAgJG1vbnRoID0gJGxvYW4tPmdldFBlcmlvZCgpIC8gMzY2ICogMTI7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkbW9udGggPSBmbG9vcigkbG9hbi0+Z2V0UGVyaW9kKCkgLyAzMCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICRjdXN0b21GaWVsZHNbJ21vbnRoJ10gPSAkbW9udGg7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>self::STATUS__TOOK_MONEY;</text>
+        <text encoding="base64">JGVtYWlscy0+dG9BcnJheSgp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvbnRhY3RzID0gJHRoaXMtPmdldFJlc3BvbnNlV3JhcHBlci0+Z2V0Q2xpZW50c1dpdGhvdXRTdGF0dXMoc2VsZjo6Q09OVEFDVF9MSU1JVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGNsaWVudFR5cGUgPT09IHNlbGY6OkNMSUVOVF9UWVBFX19JTlNUQUxMKSB7CiAgICAgICAgICAgIGlmICgkbG9hbi0+Z2V0UGVyaW9kKCkgPT09IDE4MSkgewogICAgICAgICAgICAgICAgJG1vbnRoID0gNjsKICAgICAgICAgICAgfSBlbHNlaWYgKCRsb2FuLT5nZXRQZXJpb2QoKSAlIDM2NiA9PT0gMCkgewogICAgICAgICAgICAgICAgJG1vbnRoID0gJGxvYW4tPmdldFBlcmlvZCgpIC8gMzY2ICogMTI7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkbW9udGggPSBmbG9vcigkbG9hbi0+Z2V0UGVyaW9kKCkgLyAzMCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICRjdXN0b21GaWVsZHNbJ21vbnRoJ10gPSAkbW9udGg7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKDIyMik7Cg==</text>

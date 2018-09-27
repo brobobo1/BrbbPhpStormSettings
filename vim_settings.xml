@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -381,6 +381,12 @@
         <mark key="." line="21" column="5" />
         <mark key="^" line="21" column="5" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/Service/PartnerService/PartnerServiceTest.php" timestamp="1538056667587">
+        <mark key="[" line="473" column="8" />
+        <mark key="]" line="473" column="8" />
+        <mark key="^" line="473" column="8" />
+        <mark key="." line="473" column="8" />
+      </file>
       <file name="$USER_HOME$/code/learning/project1/docker-compose.yml" timestamp="1514887939268">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="23" />
@@ -733,10 +739,10 @@
         <mark key="." line="178" column="42" />
         <mark key="^" line="178" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1538050605762">
+      <file name="/dummy.sql" timestamp="1538057147986">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="65" />
+        <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/.gitignore" timestamp="1514880031257">
@@ -763,7 +769,7 @@
         <mark key="." line="15" column="58" />
         <mark key="^" line="15" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538050811635">
+      <file name="/Dummy.txt" timestamp="1538057296193">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -981,17 +987,17 @@
       <jump line="363" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZW50aXR5ID0gJGFyZ3MtPmdldEVudGl0eSgpOwogICAgICAgICRlbSA9ICRhcmdzLT5nZXRFbnRpdHlNYW5hZ2VyKCk7CiAgICAgICAgJGV2ZW50TWFuYWdlciA9ICRlbS0+Z2V0RXZlbnRNYW5hZ2VyKCk7CiAgICAgICAgaWYgKCRldmVudE1hbmFnZXIpIHsKICAgICAgICAgICAgJGV2ZW50TWFuYWdlci0+cmVtb3ZlRXZlbnRMaXN0ZW5lcigKICAgICAgICAgICAgICAgIFtEb2N0cmluZUV2ZW50czo6cHJlVXBkYXRlXSwKICAgICAgICAgICAgICAgICR0aGlzCiAgICAgICAgICAgICk7CiAgICAgICAgfQoKCiAgICAgICAgLyppZiAoJG9iamVjdCBpbnN0YW5jZW9mIFRyYW5zYWN0aW9uICYmIG51bGwgIT09ICRvYmplY3QtPmdldFJlY3VycmVudFBheW1lbnQoKSkgewogICAgICAgICAgICAkdGhpcy0+ZGlzcGF0Y2hlci0+ZGlzcGF0Y2goCiAgICAgICAgICAgICAgICBFdmVudHM6OkxPQU5fUkVDVVJSRU5UX1BBWU1FTlRfUkVDRUlWRUQsCiAgICAgICAgICAgICAgICBuZXcgTG9hbkF1dG9QYXltZW50RXZlbnQoJG9iamVjdC0+Z2V0UmVjdXJyZW50UGF5bWVudCgpKSk7CiAgICAgICAgfSBlbHNlaWYgKCRvYmplY3QgaW5zdGFuY2VvZiBSZWN1cnJlbnRQYXltZW50KSB7CiAgICAgICAgICAgICR0aGlzLT5kaXNwYXRjaGVyLT5kaXNwYXRjaCgKICAgICAgICAgICAgICAgIEV2ZW50czo6TE9BTl9SRUNVUlJFTlRfUEFZTUVOVF9SRUNFSVZFRCwKICAgICAgICAgICAgICAgIG5ldyBMb2FuQXV0b1BheW1lbnRFdmVudCgkb2JqZWN0KSk7CiAgICAgICAgfSovCgogICAgICAgIC8vIEFkZCBsaXN0ZW5lciBiYWNrIGFnYWluCiAgICAgICAgaWYgKCRldmVudE1hbmFnZXIpIHsKICAgICAgICAgICAgJGV2ZW50TWFuYWdlci0+YWRkRXZlbnRMaXN0ZW5lcigKICAgICAgICAgICAgICAgIFtEb2N0cmluZUV2ZW50czo6cHJlVXBkYXRlXSwKICAgICAgICAgICAgICAgICR0aGlzCiAgICAgICAgICAgICk7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>1117)</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>1117)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJiYgYXJyYXlfa2V5X2V4aXN0cygnc3RhdHVzJywgJGVjcykKICAgICAgICAgICAgJiYgJGVjc1snc3RhdHVzJ11bMF0gPT09IFJlY3VycmVudFBheW1lbnQ6OlNUQVRVU19QRU5ESU5HCiAgICAgICAgICAgICYmICRlY3NbJ3N0YXR1cyddWzFdID09PSBSZWN1cnJlbnRQYXltZW50OjpTVEFUVVNfU1VDQ0VTUwo=</text>
+      <register name="0" type="4">
+        <text>time() + random_int(1, 30000)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkZW50aXR5ID0gJGFyZ3MtPmdldEVudGl0eSgpOwogICAgICAgICRlbSA9ICRhcmdzLT5nZXRFbnRpdHlNYW5hZ2VyKCk7CiAgICAgICAgJGV2ZW50TWFuYWdlciA9ICRlbS0+Z2V0RXZlbnRNYW5hZ2VyKCk7CiAgICAgICAgaWYgKCRldmVudE1hbmFnZXIpIHsKICAgICAgICAgICAgJGV2ZW50TWFuYWdlci0+cmVtb3ZlRXZlbnRMaXN0ZW5lcigKICAgICAgICAgICAgICAgIFtEb2N0cmluZUV2ZW50czo6cHJlVXBkYXRlXSwKICAgICAgICAgICAgICAgICR0aGlzCiAgICAgICAgICAgICk7CiAgICAgICAgfQoKCiAgICAgICAgLyppZiAoJG9iamVjdCBpbnN0YW5jZW9mIFRyYW5zYWN0aW9uICYmIG51bGwgIT09ICRvYmplY3QtPmdldFJlY3VycmVudFBheW1lbnQoKSkgewogICAgICAgICAgICAkdGhpcy0+ZGlzcGF0Y2hlci0+ZGlzcGF0Y2goCiAgICAgICAgICAgICAgICBFdmVudHM6OkxPQU5fUkVDVVJSRU5UX1BBWU1FTlRfUkVDRUlWRUQsCiAgICAgICAgICAgICAgICBuZXcgTG9hbkF1dG9QYXltZW50RXZlbnQoJG9iamVjdC0+Z2V0UmVjdXJyZW50UGF5bWVudCgpKSk7CiAgICAgICAgfSBlbHNlaWYgKCRvYmplY3QgaW5zdGFuY2VvZiBSZWN1cnJlbnRQYXltZW50KSB7CiAgICAgICAgICAgICR0aGlzLT5kaXNwYXRjaGVyLT5kaXNwYXRjaCgKICAgICAgICAgICAgICAgIEV2ZW50czo6TE9BTl9SRUNVUlJFTlRfUEFZTUVOVF9SRUNFSVZFRCwKICAgICAgICAgICAgICAgIG5ldyBMb2FuQXV0b1BheW1lbnRFdmVudCgkb2JqZWN0KSk7CiAgICAgICAgfSovCgogICAgICAgIC8vIEFkZCBsaXN0ZW5lciBiYWNrIGFnYWluCiAgICAgICAgaWYgKCRldmVudE1hbmFnZXIpIHsKICAgICAgICAgICAgJGV2ZW50TWFuYWdlci0+YWRkRXZlbnRMaXN0ZW5lcigKICAgICAgICAgICAgICAgIFtEb2N0cmluZUV2ZW50czo6cHJlVXBkYXRlXSwKICAgICAgICAgICAgICAgICR0aGlzCiAgICAgICAgICAgICk7CiAgICAgICAgfQo=</text>

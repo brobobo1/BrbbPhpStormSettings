@@ -23,6 +23,9 @@
         <mark key="." line="57" column="16" />
         <mark key="^" line="57" column="16" />
       </file>
+      <file name="/a.dummy" timestamp="1538644648880">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/templates/SonataAdminBundle/standard_layout.html.twig" timestamp="1534181033932">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="31" column="15" />
@@ -202,11 +205,11 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Client/ApiClient.php" timestamp="1538643411593">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="42" column="4" />
-        <mark key="." line="42" column="4" />
-        <mark key="^" line="42" column="4" />
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Client/ApiClient.php" timestamp="1538644175263">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="67" column="50" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/Device/DeviceRepositoryInterface.php" timestamp="1532426820659">
         <mark key="[" line="21" column="49" />
@@ -291,11 +294,11 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/ApiRequestInterface.php" timestamp="1538585426544">
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/ApiRequestInterface.php" timestamp="1538643678121">
         <mark key="[" line="7" column="54" />
-        <mark key="]" line="9" column="46" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="9" column="46" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.php" timestamp="1531744764275">
         <mark key="[" line="1" column="16" />
@@ -325,6 +328,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Request/TokenRequest.php" timestamp="1538645944108">
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="31" column="11" />
+        <mark key="." line="31" column="11" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Service.EventService.DTO.Event.Loan.yml" timestamp="1533302748663">
         <mark key="[" line="60" column="59" />
@@ -510,6 +519,18 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="184" column="64" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Exception/MyTargetException.php" timestamp="1538643943309">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Response/TokenRequest.php" timestamp="1538644634452">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="49" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Map/AppEventToNotificationServiceEvent.php" timestamp="1538574442371">
         <mark key="[" line="6" column="52" />
@@ -832,7 +853,7 @@
         <mark key="." line="15" column="58" />
         <mark key="^" line="15" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538642728030">
+      <file name="/Dummy.txt" timestamp="1538644598699">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1071,28 +1092,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISgkcmVzdWx0IGluc3RhbmNlb2YgQXBpUmVzcG9uc2VJbnRlcmZhY2UpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZSgpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRyZXN1bHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ApiResponseInterface</text>
+        <text>responseClass</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dXNlIEd1enpsZUh0dHBcUHNyN1xSZXF1ZXN0Owo=</text>
+      <register name="0" type="4">
+        <text>/api/v2/oauth2/token.json</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISgkcmVzdWx0IGluc3RhbmNlb2YgQXBpUmVzcG9uc2VJbnRlcmZhY2UpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZSgpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRyZXN1bHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICB0aHJvdyBcIAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50SWQgPSAkY2xpZW50SWQ7CiAgICAgICAgJHRoaXMtPmNsaWVudFNlY3JldCA9ICRjbGllbnRTZWNyZXQ7CiAgICAgICAgJHRoaXMtPmNsaWVudENyZWRlbnRpYWwgPSAkY2xpZW50Q3JlZGVudGlhbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3VsdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1167,25 +1188,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2VuZFJlcXVlc3QoKQo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+YWRkSGUK</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaXNSZWdpc3RlcigpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgUkVTUE9OU0VfQ09ERV9PSyA9IDIwMDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogJHJlcXVlc3QtPmdldFJlICovCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGNsaWVuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIERldmltXENvbXBvbmVudFxOb3RpZmljYXRpb25TeXN0ZW1cU2VydmljZVxNeVRhcmdldFNlcnZpY2VcQXBpUmVzcG9uc2VJbnRlcmZhY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0UmVxdWVzdCgpIG1ldGhvZC4K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

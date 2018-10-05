@@ -449,7 +449,7 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1538728971223">
+      <file name="/dummy.sql" timestamp="1538751144431">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -509,7 +509,12 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Request/AddUsersListRequest.php" timestamp="1538749825998" />
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Request/AddUsersListRequest.php" timestamp="1538751813088">
+        <mark key="[" line="32" column="49" />
+        <mark key="]" line="32" column="47" />
+        <mark key="." line="32" column="47" />
+        <mark key="^" line="32" column="47" />
+      </file>
       <file name="$USER_HOME$/code/sl/photoautomate/src/SLStudio/PhotoAutomateBundle/Repository/OrderRepository.php" timestamp="1521417557466">
         <mark key="[" line="174" column="36" />
         <mark key="]" line="174" column="35" />
@@ -1165,28 +1170,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>file_get_contents($listPath, 'r')</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="4">
-        <text>file_get_contents($listPath, 'r')</text>
+        <text>fopen($listPath, 'rb'),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGl0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRlbnRzJyA9PiBmCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZnAgPSBmb3BlbigkbGlzdFBhdGgsICdyYicpVmpqOwoKICAgICAgICAkc3RyZWFtID0gbmV3IFN0cmVhbSgkZnApOwoKICAgICAgICAkZ2VuZXJlYXRvciA9IGZ1bmN0aW9uICgkYnl0ZXMpIHsKICAgICAgICAgICAgZm9yICgkaSA9IDA7ICRpIDwgJGJ5dGVzOyAkaSsrKSB7CiAgICAgICAgICAgICAgICB5aWVsZCAnLic7CiAgICAgICAgICAgIH0KICAgICAgICB9OwoKICAgICAgICAkaXRlciA9ICRnZW5lcmVhdG9yKDUwMDApOwoK</text>
+        <text encoding="base64">ICAgICAgICAkYi0+YWRkRWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH1oCg==</text>
+        <text encoding="base64">ICAgICAgICAkbXVsdGlwYXJ0U3RyZWFtID0gbmV3IFBzcjdcTXVsdGlwYXJ0U3RyZWFtKFtbJ25hbWUnID0+ICdtZXRhZGF0YScsICdoZWFkZXJzJyA9PiBbJ0NvbnRlbnQtVHlwZScgPT4gJ2FwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9VVRGLTgnXSwgJ2NvbnRlbnRzJyA9PiBqc29uX2VuY29kZSgkdGhpcy0+bWV0YWRhdGEpXSwgWyduYW1lJyA9PiAnZGF0YScsICdoZWFkZXJzJyA9PiBbJ0NvbnRlbnQtVHlwZScgPT4gJHRoaXMtPmNvbnRlbnRUeXBlXSwgJ2NvbnRlbnRzJyA9PiAkdGhpcy0+ZGF0YV1dLCAnYm91bmRhcnknKTsKICAgICAgICAkaGVhZGVycyA9IFsnQ29udGVudC1UeXBlJyA9PiAnbXVsdGlwYXJ0L3JlbGF0ZWQ7IGJvdW5kYXJ5PWJvdW5kYXJ5JywgJ0NvbnRlbnQtTGVuZ3RoJyA9PiAkbXVsdGlwYXJ0U3RyZWFtLT5nZXRTaXplKCldOwogICAgICAgIHJldHVybiBqc29uX2RlY29kZSgkdGhpcy0+cmVxdWVzdFdyYXBwZXItPnNlbmQobmV3IFJlcXVlc3QoJ1BPU1QnLCAkdGhpcy0+dXJpLCAkaGVhZGVycywgJG11bHRpcGFydFN0cmVhbSksICR0aGlzLT5yZXF1ZXN0T3B0aW9ucyktPmdldEJvZHkoKSwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1264,22 +1269,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYm9keSA9ICAuICdkYXRhPScgLiAkZGF0YTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RyZWFtID0gbmV3IFN0cmVhbSgkZnApOwo=</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZnAgPSBmb3BlbigkbGlzdFBhdGgsICdyYicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGl0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAkZnAgPSBmb3BlbigkbGlzdFBhdGgsICdyYicpVmpqOwoKICAgICAgICAkc3RyZWFtID0gbmV3IFN0cmVhbSgkZnApOwoKICAgICAgICAkZ2VuZXJlYXRvciA9IGZ1bmN0aW9uICgkYnl0ZXMpIHsKICAgICAgICAgICAgZm9yICgkaSA9IDA7ICRpIDwgJGJ5dGVzOyAkaSsrKSB7CiAgICAgICAgICAgICAgICB5aWVsZCAnLic7CiAgICAgICAgICAgIH0KICAgICAgICB9OwoKICAgICAgICAkaXRlciA9ICRnZW5lcmVhdG9yKDUwMDApOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlY2VwdF9kZWJ1ZygkYm9keSk7Cg==</text>
+        <text encoding="base64">ICAgIH1oCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

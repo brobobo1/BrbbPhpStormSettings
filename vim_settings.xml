@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -91,6 +91,10 @@
         <mark key="]" line="9" column="29" />
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Client.php" timestamp="1539006123113">
+        <mark key="[" line="327" column="0" />
+        <mark key="]" line="331" column="33" />
       </file>
       <file name="$USER_HOME$/code/sl/photoautomate/web/app_dev.php" timestamp="1526322553194">
         <mark key="[" line="18" column="0" />
@@ -505,7 +509,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539100567127">
+      <file name="/Dummy.txt" timestamp="1539158962709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Entity/EventReport.php" timestamp="1539008896162">
@@ -514,6 +518,14 @@
         <mark key="]" line="101" column="0" />
         <mark key="^" line="100" column="3" />
         <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/tests/unit/Devim/Component/NotificationSystem/Service/TemplatorTest.php" timestamp="1538655640979">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/MyTargetUpdateEventsListsCommand.php" timestamp="1539158852827">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/50a90c8e-1908-4bf9-a70b-50eaa8ab35d2/console.sql" timestamp="1507691526327">
         <mark key="[" line="1" column="36" />
@@ -557,11 +569,21 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/tests/functional/Devim/Component/NotificationSystem/Service/FCMClientTest.php" timestamp="1538656049113">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="44" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/templates/SonataAdminBundle/standard_layout.html.twig" timestamp="1534181033932">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="31" column="15" />
         <mark key="." line="31" column="15" />
         <mark key="^" line="31" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/MyTargetCreateEventsListsCommand.php" timestamp="1539158793163">
+        <mark key="[" line="85" column="47" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/DispatchEventsCommand.php" timestamp="1533896490833">
         <mark key="[" line="70" column="0" />
@@ -1226,7 +1248,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">bmFtZXNwYWNlIERldmltXENvbXBvbmVudFxOb3RpZmljYXRpb25TeXN0ZW1cQ29tbWFuZDsK</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -1234,8 +1256,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gKGludCAkbGltaXQsIGludCAkb2Zmc2V0KSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+bW9iaWxlUGhvbmVSZXBvc2l0b3J5LT5nZXRBbGxGcm9tQ2xpZW50UmVnaXN0cmF0aW9uKCRsaW1pdCwgJG9mZnNldCk7CiAgICAgICAgICAgIH0s</text>
+      <register name="0" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIERldmltXENvbXBvbmVudFxOb3RpZmljYXRpb25TeXN0ZW1cQ29tbWFuZDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>

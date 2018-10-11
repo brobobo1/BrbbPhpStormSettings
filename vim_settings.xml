@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -31,6 +31,9 @@
         <mark key="]" line="93" column="47" />
         <mark key="^" line="93" column="47" />
         <mark key="." line="93" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Entity/Order.php" timestamp="1539276022258">
+        <mark key="[" line="89" column="59" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/MobileApiServiceProvider.php" timestamp="1534943093786">
         <mark key="[" line="262" column="14" />
@@ -325,11 +328,11 @@
         <mark key="^" line="24" column="71" />
         <mark key="." line="24" column="71" />
       </file>
-      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/TestUpdateAmoCrmCommand.php" timestamp="1539265532781">
-        <mark key="[" line="69" column="43" />
-        <mark key="]" line="77" column="28" />
-        <mark key="^" line="77" column="28" />
-        <mark key="." line="77" column="28" />
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/TestUpdateAmoCrmCommand.php" timestamp="1539277825057">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="90" column="53" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/DTO/Loan.php" timestamp="1531834451777">
         <mark key="[" line="9" column="10" />
@@ -432,6 +435,9 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/src/Command/ImportToAmoCrmCommand.php" timestamp="1539277718874">
+        <mark key="[" line="185" column="74" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/config/config.local.php" timestamp="1536751050043">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -467,7 +473,7 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1539261913807">
+      <file name="/dummy.sql" timestamp="1539278378424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="63" />
@@ -491,11 +497,8 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539271341266">
-        <mark key="e" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1539277833457">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/DTO/EventHistory.php" timestamp="1536247564731">
         <mark key="[" line="6" column="0" />
@@ -844,6 +847,12 @@
         <mark key="]" line="1173" column="15" />
         <mark key="." line="1173" column="15" />
         <mark key="^" line="1173" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/devim/amo-crm-scripts/.env" timestamp="1539275888524">
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="28" column="12" />
+        <mark key="^" line="28" column="12" />
+        <mark key="." line="28" column="12" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/UpdateGetResponseClientsWithoutStatus.php" timestamp="1537752815869">
         <mark key="[" line="143" column="0" />
@@ -1264,7 +1273,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -1276,16 +1285,16 @@
         <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUIERJU1RJTkNUIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJG5ld0xlYWRzICAgID0gW107CiAgICBwcml2YXRlICRuZXdDb250YWN0cyA9IFtdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgbDIuYXJjaGlpZCBJUyBOT1QgTlVMTAo=</text>
+        <text encoding="base64">dXNlIEFtb0NSTVxNb2RlbHNcQ29udGFjdDsKdXNlIEFtb0NSTVxNb2RlbHNcTGVhZDsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1360,25 +1369,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcl9kdW1wKCR2YWx1ZSwgJG9yZGVySWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcl9kdW1wKCR2YWx1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TElNSVQgMTAwMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJGZpZWxkWyd2YWx1ZXMnXSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hZGRBcmd1bWVudCgnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QU1PX0RPTUFJTj1kenAKQU1PX0xPR0lOPWFsZWtzYW5kci5tYXNoa2lsZWlzb25AZGV2aW0udGVhbQpBTU9fSEFTSD1jNmZjMGI2ZmRjODU4YWVjNmQ0YmRkNDVlYTNkM2M4OAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmdW5jdGlvbiBhZGRQaG9uZShzdHJpbmcgJHBob25lLCBzdHJpbmcgJHN0YXR1cyk6IHZvaWQKLy8gICAgewovLyAgICAgICAgJGxldmVsID0gJHRoaXMtPmV2ZW50THZsTWFwWyRzdGF0dXNdID8/IG51bGw7Ci8vICAgICAgICBpZiAoJGxldmVsICE9PSBudWxsKSB7Ci8vICAgICAgICAgICAkdGhpcy0+bHZsTGlzdE1hcFskbGV2ZWxdWydhZGQnXVskcGhvbmVdID0gdHJ1ZTsKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

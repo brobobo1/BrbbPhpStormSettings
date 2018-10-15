@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -16,6 +16,9 @@
         <mark key="]" line="19" column="4" />
         <mark key="^" line="47" column="42" />
         <mark key="." line="47" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/DaDataService/Suggest.php" timestamp="1539623084301">
+        <mark key="[" line="37" column="66" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Support/KoronaCardCrudController.php" timestamp="1536239672799">
         <mark key="[" line="65" column="29" />
@@ -158,6 +161,12 @@
         <mark key="^" line="62" column="50" />
         <mark key="." line="62" column="50" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/DaDataService/DaDataService.php" timestamp="1539623048234">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="22" />
+        <mark key="." line="42" column="22" />
+        <mark key="^" line="42" column="22" />
+      </file>
       <file name="/a.sql" timestamp="1539009027911">
         <mark key="[" line="0" column="0" />
       </file>
@@ -299,11 +308,11 @@
         <mark key="^" line="122" column="25" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/GetIndexForAddressCommand.php" timestamp="1539622159859">
-        <mark key="[" line="54" column="92" />
-        <mark key="]" line="54" column="59" />
-        <mark key="." line="54" column="59" />
-        <mark key="^" line="54" column="59" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Command/GetIndexForAddressCommand.php" timestamp="1539623053642">
+        <mark key="[" line="52" column="31" />
+        <mark key="]" line="52" column="32" />
+        <mark key="." line="52" column="32" />
+        <mark key="^" line="52" column="31" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Exception/MyTargetException.php" timestamp="1538643943309">
         <mark key="[" line="7" column="1" />
@@ -1313,7 +1322,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoMSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>trim('', '&quot;&quot;')</text>
@@ -1325,16 +1334,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmcHV0Y3N2KCRoYW5kbGVOZXcsIFskZGF0YVswXSwgJGRhRGF0YVsnZGF0YSddWydwb3N0YWxfY29kZSddLCAkZGFEYXRhWyd1bnJlc3RyaWN0ZWRfdmFsdWUnXV0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoMSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1409,25 +1418,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwdXRjc3YoJGhhbmRsZU5ldywgWyRkYXRhWzBdLCAkZGFEYXRhWydkYXRhJ11bJ3Bvc3RhbF9jb2RlJ10sICRkYURhdGFbJ3VucmVzdHJpY3RlZF92YWx1ZSddXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JywgJyIiJykpOwogICAgICAgICAgICAgICAgdmFyX2R1bXAoJGRhRGF0YSk7CiAgICAgICAgICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwdXRjc3YoJGhhbmRsZU5ldywgWyRkYXRhWzBdLCAkZGFEYXRhWydkYXRhJ11bJ3Bvc3RhbF9jb2RlJ10sICRkYURhdGFbJ3VucmVzdHJpY3RlZF92YWx1ZSddXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRxdWVyeSk7Vgo=</text>
+        <text encoding="base64">JywgJyIiJykpOwogICAgICAgICAgICAgICAgdmFyX2R1bXAoJGRhRGF0YSk7CiAgICAgICAgICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IjI3OTU0OCwxMzIzMDksIiIiIiwiItCg0J7QodCh0JjQmdCh0JrQkNCvINCk0JXQlNCV0KDQkNCm0JjQrywg0JrQoNCQ0KHQndCe0JTQkNCg0KHQmtCY0Jkg0JrQoNCQ0JksINCd0L7QstC+0L/QvtC60YDQvtCy0YHQutC40LkgLCDRgdGCLdGG0LAg0JrQsNC70L3QuNCx0L7Qu9C+0YbQutCw0Y8sINC/0LXRgC4g0K7QsdC40LvQtdC50L3Ri9C5LCA2LCA1IiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRxdWVyeSk7Vgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRkYURhdGEpOwo=</text>
+        <text encoding="base64">IjI3OTU0OCwxMzIzMDksIiIiIiwiItCg0J7QodCh0JjQmdCh0JrQkNCvINCk0JXQlNCV0KDQkNCm0JjQrywg0JrQoNCQ0KHQndCe0JTQkNCg0KHQmtCY0Jkg0JrQoNCQ0JksINCd0L7QstC+0L/QvtC60YDQvtCy0YHQutC40LkgLCDRgdGCLdGG0LAg0JrQsNC70L3QuNCx0L7Qu9C+0YbQutCw0Y8sINC/0LXRgC4g0K7QsdC40LvQtdC50L3Ri9C5LCA2LCA1IiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRxdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRkYURhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

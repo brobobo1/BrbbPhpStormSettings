@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -214,11 +214,12 @@
       <file name="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" timestamp="1538580275473">
         <mark key="[" line="177" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/checkMyTarget.sql" timestamp="1539702371662">
-        <mark key="[" line="51" column="2" />
-        <mark key="]" line="66" column="1" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="37" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/checkMyTarget.sql" timestamp="1539703942768">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/code/sl/photoautomate/Dockerfile" timestamp="1526318759332">
         <mark key="[" line="36" column="61" />
@@ -1216,7 +1217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="13" filename="$USER_HOME$/code/img/seolandingphp/templates_landing/default2/footer.tpl" />
       <jump line="694" column="38" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/class/admin.class.php" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/814b1392-b444-455b-aa48-f4c0e60fd345/console.sql" />
       <jump line="343" column="33" filename="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/templates/pages/site.tpl" />
@@ -1316,31 +1316,32 @@
       <jump line="112" column="23" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/UpdateGetResponseClientsWithoutStatus.php" />
       <jump line="223" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
       <jump line="1226" column="7" filename="$USER_HOME$/code/devim/dzp/tests/_data/users-list-data-remove.txt" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/checkMyTarget.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUIERJU1RJTkNUCiAgICAgICAgICAgICAgbS5udW1iZXIKICAgICAgICAgICAgRlJPTSBtb2JpbGVwaG9uZSBtCiAgICAgICAgICAgICAgSk9JTiBsb2FuIGwgT04gbS5jbGllbnRpZCA9IGwuY2xpZW50aWQKICAgICAgICAgICAgV0hFUkUgbC5zdGF0dXMgPSAnIC4gTG9hbjo6U1RfTkVXIC4gJyAKICAgICAgICAgICAgQU5EIG0uZW5hYmxlZCA9IFRSVUUKICAgICAgICAgICAgQU5EIGwuaWQgPSAoCiAgICAgICAgICAgICAgICBTRUxFQ1QgbDIuaWQKICAgICAgICAgICAgICAgIEZST00gbG9hbiBsMgogICAgICAgICAgICAgICAgV0hFUkUgbDIuY2xpZW50aWQgPSBsLmNsaWVudGlkCiAgICAgICAgICAgICAgICBBTkQgbDIuYXJjaGlpZCBJUyBOT1QgTlVMTAogICAgICAgICAgICAgICAgT1JERVIgQlkgbDIuY3JlYXRlZGF0IERFU0MKICAgICAgICAgICAgICAgIExJTUlUIDEKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIHdoZXJlIGwyLmlkIGluIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>AND m.enabled = TRUE</text>
+        <text>ON m.clientid = l.clientid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUIERJU1RJTkNUCiAgICAgICAgICAgICAgbS5udW1iZXIKICAgICAgICAgICAgRlJPTSBtb2JpbGVwaG9uZSBtCiAgICAgICAgICAgICAgSk9JTiBsb2FuIGwgT04gbS5jbGllbnRpZCA9IGwuY2xpZW50aWQKICAgICAgICAgICAgV0hFUkUgbC5zdGF0dXMgPSAnIC4gTG9hbjo6U1RfTkVXIC4gJyAKICAgICAgICAgICAgQU5EIG0uZW5hYmxlZCA9IFRSVUUKICAgICAgICAgICAgQU5EIGwuaWQgPSAoCiAgICAgICAgICAgICAgICBTRUxFQ1QgbDIuaWQKICAgICAgICAgICAgICAgIEZST00gbG9hbiBsMgogICAgICAgICAgICAgICAgV0hFUkUgbDIuY2xpZW50aWQgPSBsLmNsaWVudGlkCiAgICAgICAgICAgICAgICBBTkQgbDIuYXJjaGlpZCBJUyBOT1QgTlVMTAogICAgICAgICAgICAgICAgT1JERVIgQlkgbDIuY3JlYXRlZGF0IERFU0MKICAgICAgICAgICAgICAgIExJTUlUIDEKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">c2VsZWN0IERJU1RJTkNUIGNvdW50KG0ubnVtYmVyKQpmcm9tIG1vYmlsZXBob25lIG0KSk9JTiBsb2FuIGwgT04gbS5jbGllbnRpZCA9IGwuY2xpZW50aWQKd2hlcmUgbC5hcmNoaWlkIGlzIG5vdCBudWxsCmFuZCBsLnN0YXR1cyA9IDYKYW5kIGwuaXNjbG9zZWQgPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBncgpvcmRlciBieSBsLmNyZWF0ZWRhdCBERVNDOwo=</text>
+        <text encoding="base64">ICAgIHdoZXJlIGwyLmlkIGluIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRkYURhdGEpOwo=</text>
+        <text encoding="base64">ZnJvbSBtb2JpbGVwaG9uZSBtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKHRyaW0oJHF1ZXJ5LCAnIiInKSk7Cg==</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KGwuY2xpZW50aWQpCmZyb20gbG9hbiBsCndoZXJlIGwuYXJjaGlpZCBpcyBub3QgbnVsbDsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1415,25 +1416,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoMSk7Cg==</text>
+        <text encoding="base64">ICBncgpvcmRlciBieSBsLmNyZWF0ZWRhdCBERVNDOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRkYURhdGEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKHRyaW0oJHF1ZXJ5LCAnIiInKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwdXRjc3YoJGhhbmRsZU5ldywgWyRkYXRhWzBdLCAkZGFEYXRhWydkYXRhJ11bJ3Bvc3RhbF9jb2RlJ10sICRkYURhdGFbJ3VucmVzdHJpY3RlZF92YWx1ZSddXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JywgJyIiJykpOwogICAgICAgICAgICAgICAgdmFyX2R1bXAoJGRhRGF0YSk7CiAgICAgICAgICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

@@ -214,12 +214,11 @@
       <file name="$USER_HOME$/code/devim/dzp/src/App/EventListener/DataUpdatesSubscriber.php" timestamp="1538580275473">
         <mark key="[" line="177" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/checkMyTarget.sql" timestamp="1539703942768">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/checkMyTarget.sql" timestamp="1539706502630">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="30" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/code/sl/photoautomate/Dockerfile" timestamp="1526318759332">
         <mark key="[" line="36" column="61" />
@@ -1320,28 +1319,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIGwyLmlkIGluIAo=</text>
+        <text encoding="base64">c2VsZWN0ICogRlJPTSAoCiAgc2VsZWN0IG1heChpZCkgZnJvbSAKKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>ON m.clientid = l.clientid</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IERJU1RJTkNUIGNvdW50KG0ubnVtYmVyKQpmcm9tIG1vYmlsZXBob25lIG0KSk9JTiBsb2FuIGwgT04gbS5jbGllbnRpZCA9IGwuY2xpZW50aWQKd2hlcmUgbC5hcmNoaWlkIGlzIG5vdCBudWxsCmFuZCBsLnN0YXR1cyA9IDYKYW5kIGwuaXNjbG9zZWQgPSB0cnVlOwo=</text>
+        <text encoding="base64">U0VMRUNUIERJU1RJTkNUCiAgY291bnQobS5udW1iZXIpCkZST00gbW9iaWxlcGhvbmUgbQogIEpPSU4gbG9hbiBsIE9OIG0uY2xpZW50aWQgPSBsLmNsaWVudGlkCldIRVJFIGwuaXNjbG9zZWQgPSBGQUxTRQogICAgICBBTkQgbS5lbmFibGVkID0gVFJVRQogICAgICBBTkQgbC5zdGF0dXMgPSA2CiAgICAgIEFORCBsLmlkID0gKAogIFNFTEVDVCBsMi5pZAogIEZST00gbG9hbiBsMgogIFdIRVJFIGwyLmNsaWVudGlkID0gbC5jbGllbnRpZAogICAgICAgIEFORCBsMi5hcmNoaWlkIElTIE5PVCBOVUxMCiAgT1JERVIgQlkgbDIuY3JlYXRlZGF0IERFU0MKICBMSU1JVCAxCik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIGwyLmlkIGluIAo=</text>
+        <text encoding="base64">c2VsZWN0ICogRlJPTSAoCiAgc2VsZWN0IG1heChpZCkgZnJvbSAKKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtb2JpbGVwaG9uZSBtCg==</text>
+        <text encoding="base64">ICAgICAgQU5EIGwuaWQgPSAoCiAgU0VMRUNUIGwyLmlkCiAgRlJPTSBsb2FuIGwyCiAgV0hFUkUgbDIuY2xpZW50aWQgPSBsLmNsaWVudGlkCiAgICAgICAgQU5EIGwyLmFyY2hpaWQgSVMgTk9UIE5VTEwKICBPUkRFUiBCWSBsMi5jcmVhdGVkYXQgREVTQwogIExJTUlUIDEKKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KGwuY2xpZW50aWQpCmZyb20gbG9hbiBsCndoZXJlIGwuYXJjaGlpZCBpcyBub3QgbnVsbDsK</text>
+        <text encoding="base64">c2VsZWN0IGRpc3RpbmMK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1415,26 +1414,40 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBncgpvcmRlciBieSBsLmNyZWF0ZWRhdCBERVNDOwo=</text>
+      <register name="4" type="4">
+        <text>SELECT DISTINCT
+  count(m.number)
+  FROM loan l
+join mobilephone m ON m.clientid = l.clientid
+WHERE l.isclosed = FALSE
+      AND m.enabled = TRUE
+      AND l.status = 6
+      AND l.id = (
+  SELECT l2.id
+  FROM loan l2
+  WHERE l2.clientid = l.clientid
+        AND l2.archiid IS NOT NULL
+  ORDER BY l2.createdat DESC
+  LIMIT 1
+);</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRkYURhdGEpOwo=</text>
+        <text encoding="base64">RlJPTSBtb2JpbGVwaG9uZSBtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKHRyaW0oJHF1ZXJ5LCAnIiInKSk7Cg==</text>
+        <text encoding="base64">ICAgIHdoZXJlIGwyLmlkIGluIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoMSk7Cg==</text>
+        <text encoding="base64">ZnJvbSBtb2JpbGVwaG9uZSBtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KGwuY2xpZW50aWQpCmZyb20gbG9hbiBsCndoZXJlIGwuYXJjaGlpZCBpcyBub3QgbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICBncgpvcmRlciBieSBsLmNyZWF0ZWRhdCBERVNDOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

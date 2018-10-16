@@ -372,11 +372,11 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" timestamp="1539700805000">
-        <mark key="[" line="715" column="22" />
-        <mark key="]" line="715" column="22" />
-        <mark key="." line="715" column="22" />
-        <mark key="^" line="715" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" timestamp="1539702021350">
+        <mark key="[" line="723" column="32" />
+        <mark key="]" line="725" column="27" />
+        <mark key="." line="725" column="27" />
+        <mark key="^" line="725" column="27" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/src/Admin/Controller/SupportController.php" timestamp="1534182465231">
         <mark key="[" line="57" column="16" />
@@ -1320,11 +1320,11 @@
       <jump line="1226" column="7" filename="$USER_HOME$/code/devim/dzp/tests/_data/users-list-data-remove.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBncgpvcmRlciBieSBsLmNyZWF0ZWRhdCBERVNDOwo=</text>
+      <register name="&quot;" type="4">
+        <text>AND m.enabled = TRUE</text>
       </register>
       <register name="-" type="4">
-        <text>trim('', '&quot;&quot;')</text>
+        <text>AND m.enabled = TRUE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJfZHVtcFw+</text>

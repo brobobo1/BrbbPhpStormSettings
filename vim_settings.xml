@@ -1195,11 +1195,11 @@
         <mark key="^" line="33" column="33" />
         <mark key="." line="33" column="33" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/PushWebEventsCommand.php" timestamp="1540487778842">
-        <mark key="[" line="101" column="74" />
-        <mark key="]" line="103" column="7" />
-        <mark key="^" line="103" column="7" />
-        <mark key="." line="103" column="7" />
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/PushWebEventsCommand.php" timestamp="1540546949499">
+        <mark key="[" line="146" column="52" />
+        <mark key="]" line="146" column="60" />
+        <mark key="^" line="146" column="60" />
+        <mark key="." line="146" column="60" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/runtime/vendor/devimteam/get-response-client/src/Service/ContactsService.php" timestamp="1540213441337">
         <mark key="[" line="139" column="0" />
@@ -1542,31 +1542,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>limit</text>
+        <text>fetchAll</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>limit</text>
+        <text>fetchAll</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgRVZFTlRfVE9fTVNHID0gWwogICAgICAgIEV2ZW50czo6TE9BTl9BUFBST1ZFRCAgICA9PiBXZWJNZXNzYWdlOjpNU0dfQVBQUk9WRV9NT01FTlQsCiAgICAgICAgRXZlbnRzOjpMT0FOX1BSRUFQUFJPVkVEID0+IFdlYk1lc3NhZ2U6Ok1TR19QUkVBUFBST1ZFRF9NT01FTlQKICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXBwID0gJHRoaXMtPmdldEFwcGxpY2F0aW9uKCk7CiAgICAgICAgLyoqIEB2YXIgRW50aXR5TWFuYWdlciAkZW0gKi8KICAgICAgICAkZW0gICA9ICRhcHBbJ29ybS5lbSddOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtPmV4ZWN1dGUoWwogICAgICAgICAgICAncmVhc29uJyA9PiBzZWxmOjpSRUFTT05fUkVHSVNUUkFUSU9OLAogICAgICAgICAgICAnc3RhcnQnID0+IG5ldyBcRGF0ZVRpbWUoIi0kc3RhcnQgaG91cnMiKSwKICAgICAgICAgICAgJ2VuZCcgPT4gbmV3IFxEYXRlVGltZSgiLSR0byBob3VycyIpLAogICAgICAgICAgICAnbGltaXQnID0+ICRsaW1pdCwKICAgICAgICAgICAgJ29mZnNldCcgPT4gJG9mZnNldAogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHFiLT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZXhwci0+bHQoJ2MyLmNyZWF0ZWRhdCcsICdlbmQnKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGVtLT5nZXRDb25uZWN0aW9uKCktPnByZXBhcmUoJHNxbCktPmJpbmRWYWx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1641,25 +1641,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAkcWIgPSAkdGhpcy0+bG9hblJlcG9zaXRvcnktPmNyZWF0ZVF1ZXJ5QnVpbGRlcignYzInKTsKICAgICAgICAkZXhwciA9ICRxYi0+ZXhwcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAkZW0K</text>
+        <text encoding="base64">ICAgICAgICAtPmV4ZWN1dGUoWwogICAgICAgICAgICAncmVhc29uJyA9PiBzZWxmOjpSRUFTT05fUkVHSVNUUkFUSU9OLAogICAgICAgICAgICAnc3RhcnQnID0+IG5ldyBcRGF0ZVRpbWUoIi0kc3RhcnQgaG91cnMiKSwKICAgICAgICAgICAgJ2VuZCcgPT4gbmV3IFxEYXRlVGltZSgiLSR0byBob3VycyIpLAogICAgICAgICAgICAnbGltaXQnID0+ICRsaW1pdCwKICAgICAgICAgICAgJ29mZnNldCcgPT4gJG9mZnNldAogICAgICAgIF0pOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBwID0gJHRoaXMtPmdldEFwcGxpY2F0aW9uKCk7CiAgICAgICAgLyoqIEB2YXIgRW50aXR5TWFuYWdlciAkZW0gKi8KICAgICAgICAkZW0gPSAkYXBwWydvcm0uZW0nXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZW0gPSAkYXBwWydvcm0uZW0nXTsKCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGVtLT5nZXRDb25uZWN0aW9uKCktPnByZXBhcmUoJHNxbCktPmJpbmRWYWx1ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZW0K</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

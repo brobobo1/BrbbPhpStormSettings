@@ -41,6 +41,14 @@
         <mark key="^" line="262" column="17" />
         <mark key="." line="262" column="17" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/services.php" timestamp="1540816277030">
+        <mark key="a" line="683" column="15" />
+        <mark key="'" line="675" column="6" />
+        <mark key="[" line="520" column="15" />
+        <mark key="]" line="520" column="21" />
+        <mark key="^" line="520" column="21" />
+        <mark key="." line="520" column="21" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventReportRepositoryInterface.php" timestamp="1540568063338">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -494,6 +502,13 @@
         <mark key="^" line="359" column="7" />
         <mark key="." line="359" column="7" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/config/config.php" timestamp="1540816205691">
+        <mark key="'" line="916" column="34" />
+        <mark key="[" line="1021" column="33" />
+        <mark key="]" line="1021" column="28" />
+        <mark key="." line="1021" column="28" />
+        <mark key="^" line="1021" column="28" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.php" timestamp="1538556844060">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -588,7 +603,7 @@
         <mark key="]" line="19" column="40" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1540814909425">
+      <file name="/dummy.sql" timestamp="1540816399443">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="23" />
@@ -612,7 +627,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540811999830">
+      <file name="/Dummy.txt" timestamp="1540816280968">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1053,6 +1068,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Service/BinNumberService/BinNumberServiceTest.php" timestamp="1540816926585">
+        <mark key="[" line="21" column="41" />
+        <mark key="]" line="21" column="39" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MediatorService/Components/PushComponent.php" timestamp="1540471687825">
         <mark key="[" line="24" column="7" />
         <mark key="]" line="24" column="44" />
@@ -1454,7 +1475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/code/devim/dzp/tests/functional/App/Service/PartnerService/PartnerServiceTest.php" />
       <jump line="95" column="0" filename="$USER_HOME$/code/devim/dzp/tests/functional/App/Service/PartnerService/PartnerServiceTest.php" />
       <jump line="257" column="0" filename="$USER_HOME$/code/devim/dzp/tests/functional/App/Service/PartnerService/PartnerServiceTest.php" />
       <jump line="278" column="38" filename="$USER_HOME$/code/devim/dzp/tests/functional/App/Service/PartnerService/PartnerServiceTest.php" />
@@ -1554,34 +1574,35 @@
       <jump line="97" column="28" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/Component/PushNotifyCommand.php" />
       <jump line="22" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/Component/PushNotifyCommand.php" />
       <jump line="508" column="20" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/ClientRepository.php" />
+      <jump line="13" column="14" filename="$USER_HOME$/code/devim/dzp/tests/unit/App/Service/BinNumberService/BinNumberServiceTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIENyZWRpdENhcmQgJGNyZWRpdENhcmQKICAgICAqIEByZXR1cm4gQmFuawogICAgICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>providerCheckHistoryLoanStatus</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>Bank</text>
+        <text>providerCheckHistoryLoanStatus</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBzdHJpbmcKICAgICAqIEBTZXJpYWxpemVkTmFtZSgiYmluIikKICAgICAqIEBUeXBlKCJzdHJpbmciKQogICAgICovCg==</text>
+      <register name="0" type="4">
+        <text>providerCheckBinNumberServiceFindBank</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIENyZWRpdENhcmQgJGNyZWRpdENhcmQKICAgICAqIEByZXR1cm4gQmFuawogICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIENyZWRpdENhcmQgJGNyZWRpdENhcmQKICAgICAqIEByZXR1cm4gQmFuawogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9hbiAgID0gXEFwcFxTZXJ2aWNlXEV2ZW50U2VydmljZVxEVE9cRXZlbnRcTG9hbjo6Y3JlYXRlKCRwYXJhbXNbMF0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIEJpbiAkYmluCiAgICAgKiBAcmV0dXJuIEJhbmsKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1656,28 +1677,28 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIEJpbiAkYmluCiAgICAgKiBAcmV0dXJuIEJhbmsKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkcGFyYW1zCiAgICAgKiBAcGFyYW0gaW50ICRyZXN1bHQKICAgICAqIEBwYXJhbSBzdHJpbmcgJG1lc3NhZ2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIEJhbmsgJGJhbmsKICAgICAqIEByZXR1cm4gQmluCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0V2ZW50IHN0YXR1cyBleHBpcmVkJyAgID0+IFtbJGxvYW4zXSwgRXZlbnQ6OlNUQVRVU19FWFBJUkVEXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkbmFtZQogICAgICogQHJldHVybiBJc3N1aW5nQmFuawogICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBCaW5bXQogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRlX2RlZmF1bHRfdGltZXpvbmVfc2V0KCdFdXJvcGUvTW9zY293Jyk7CiAgICAgICAgJGxvYW4gPSBuZXcgTG9hbigpOwogICAgICAgICRsb2FuLT5zZXRDcmVhdGVkQXQobmV3IFxEYXRlVGltZSgnLTIgZGF5cycpKTsKICAgICAgICAkbG9hbi0+c2V0U3RhdHVzKExvYW46OlNUX1JFSkVDVEVEKTsKICAgICAgICAkbG9hbi0+c2V0RXh0ZXJuYWxTdGF0dXMoMCk7CiAgICAgICAgJGxvYW4tPnNldElzQ2xvc2VkKGZhbHNlKTsKICAgICAgICAkbG9hbi0+c2V0UmVwYXltZW50QXQobmV3IFxEYXRlVGltZSgnbm93JykpOwoKICAgICAgICAkbG9hbjEgPSBjbG9uZSAkbG9hbjsKICAgICAgICAkbG9hbjEtPnNldFN0YXR1cyhMb2FuOjpTVF9JU1NVSU5HX0NPTkZJUk1FRCk7CiAgICAgICAgJGxvYW4xLT5zZXRJc0Nsb3NlZCh0cnVlKTsKCiAgICAgICAgJGxvYW4yID0gY2xvbmUgJGxvYW4xOwogICAgICAgICRsb2FuMi0+c2V0SXNDbG9zZWQoZmFsc2UpOwogICAgICAgICRsb2FuMi0+c2V0UmVwYXltZW50QXQobmV3IFxEYXRlVGltZSgnKzIgZGF5cycpKTsKCiAgICAgICAgJGxvYW4zID0gY2xvbmUgJGxvYW4yOwogICAgICAgICRsb2FuMy0+c2V0UmVwYXltZW50QXQobmV3IFxEYXRlVGltZSgnLTEgZGF5JykpOwoKICAgICAgICAkbG9hbjQgPSBjbG9uZSAkbG9hbjsKICAgICAgICAkbG9hbjQtPnNldFN0YXR1cyhMb2FuOjpTVF9BUFBST1ZFRCk7CiAgICAgICAgJGxvYW40LT5zZXRJc0Nsb3NlZChmYWxzZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcHJvdmlkZXJDaGVja0hpc3RvcnlMb2FuU3RhdHVzKCk6IGFycmF5CiAgICB7CiAgICAgICAgZGF0ZV9kZWZhdWx0X3RpbWV6b25lX3NldCgnRXVyb3BlL01vc2NvdycpOwogICAgICAgICRsb2FuID0gbmV3IExvYW4oKTsKICAgICAgICAkbG9hbi0+c2V0Q3JlYXRlZEF0KG5ldyBcRGF0ZVRpbWUoJy0yIGRheXMnKSk7CiAgICAgICAgJGxvYW4tPnNldFN0YXR1cyhMb2FuOjpTVF9SRUpFQ1RFRCk7CiAgICAgICAgJGxvYW4tPnNldEV4dGVybmFsU3RhdHVzKDApOwogICAgICAgICRsb2FuLT5zZXRJc0Nsb3NlZChmYWxzZSk7CiAgICAgICAgJGxvYW4tPnNldFJlcGF5bWVudEF0KG5ldyBcRGF0ZVRpbWUoJ25vdycpKTsKCiAgICAgICAgJGxvYW4xID0gY2xvbmUgJGxvYW47CiAgICAgICAgJGxvYW4xLT5zZXRTdGF0dXMoTG9hbjo6U1RfSVNTVUlOR19DT05GSVJNRUQpOwogICAgICAgICRsb2FuMS0+c2V0SXNDbG9zZWQodHJ1ZSk7CgogICAgICAgICRsb2FuMiA9IGNsb25lICRsb2FuMTsKICAgICAgICAkbG9hbjItPnNldElzQ2xvc2VkKGZhbHNlKTsKICAgICAgICAkbG9hbjItPnNldFJlcGF5bWVudEF0KG5ldyBcRGF0ZVRpbWUoJysyIGRheXMnKSk7CgogICAgICAgICRsb2FuMyA9IGNsb25lICRsb2FuMjsKICAgICAgICAkbG9hbjMtPnNldFJlcGF5bWVudEF0KG5ldyBcRGF0ZVRpbWUoJy0xIGRheScpKTsKCiAgICAgICAgJGxvYW40ID0gY2xvbmUgJGxvYW47CiAgICAgICAgJGxvYW40LT5zZXRTdGF0dXMoTG9hbjo6U1RfQVBQUk9WRUQpOwogICAgICAgICRsb2FuNC0+c2V0SXNDbG9zZWQoZmFsc2UpOwoKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnRXZlbnQgc3RhdHVzIHJlamVjdGVkJyAgPT4gW1skbG9hbl0sIEV2ZW50OjpTVEFUVVNfUkVKRUNURURdLAogICAgICAgICAgICAnRXZlbnQgc3RhdHVzIGNsb3NlZCcgICAgPT4gW1skbG9hbjFdLCBFdmVudDo6U1RBVFVTX0NMT1NFRF0sCiAgICAgICAgICAgICdFdmVudCBzdGF0dXMgYWN0aXZlJyAgICA9PiBbWyRsb2FuMl0sIEV2ZW50OjpTVEFUVVNfQUNUSVZFXSwKICAgICAgICAgICAgJ0V2ZW50IHN0YXR1cyBleHBpcmVkJyAgID0+IFtbJGxvYW4zXSwgRXZlbnQ6OlNUQVRVU19FWFBJUkVEXQogICAgICAgIF07CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -1696,10 +1717,10 @@
       <history-cmd>
         <entry>Q</entry>
         <entry>e</entry>
-        <entry>vs</entry>
         <entry>ps</entry>
         <entry>sp</entry>
         <entry>q</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />

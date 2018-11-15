@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -285,12 +285,6 @@
         <mark key="^" line="12" column="81" />
         <mark key="." line="12" column="81" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/DTO/EventsHistory.php" timestamp="1542211493915">
-        <mark key="[" line="71" column="21" />
-        <mark key="]" line="72" column="7" />
-        <mark key="." line="72" column="7" />
-        <mark key="^" line="72" column="7" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.php" timestamp="1533895141344">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="24" column="9" />
@@ -381,8 +375,8 @@
         <mark key="." line="9" column="146" />
         <mark key="^" line="9" column="146" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1542118572666">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1542272378575">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
@@ -421,12 +415,6 @@
         <mark key="]" line="20" column="10" />
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Entity/EventCustomer.php" timestamp="1542115227549">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="56" />
-        <mark key="^" line="75" column="39" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Client/ApiClientInterface.php" timestamp="1538582885055">
         <mark key="[" line="8" column="37" />
@@ -619,7 +607,7 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="/dummy.sql" timestamp="1542209120061">
+      <file name="/dummy.sql" timestamp="1542272371374">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -761,10 +749,7 @@
         <mark key="^" line="45" column="85" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Service/EventService/EventServiceTest.php" timestamp="1542212636066">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="127" column="35" />
+        <mark key="^" line="4" column="35" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MediatorService/PushPushMediatorService.php" timestamp="1541152942927">
         <mark key="[" line="39" column="32" />
@@ -1403,11 +1388,11 @@
         <mark key="^" line="294" column="28" />
         <mark key="." line="294" column="28" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/EventService.php" timestamp="1542212819578">
-        <mark key="[" line="45" column="51" />
-        <mark key="]" line="45" column="79" />
-        <mark key="." line="45" column="79" />
-        <mark key="^" line="45" column="79" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/EventService.php" timestamp="1542271867907">
+        <mark key="[" line="48" column="92" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="55" column="0" />
       </file>
       <file name="/EventCustomer.php" timestamp="1542115218993">
         <mark key="[" line="45" column="0" />
@@ -1655,7 +1640,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlY2VwdF9kZWJ1ZygkZmlyc3RFbGVtZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGhpc3RvcnkgPSAkdGhpcy0+Y3JlYXRlRXZlbnRIaXN0b3J5KCRsb2FuKTsK</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
@@ -1667,7 +1652,7 @@
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlY2VwdF9kZWJ1Zygkc2Vjb25kRWxlbWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGhpc3RvcnkgPSAkdGhpcy0+Y3JlYXRlRXZlbnRIaXN0b3J5KCRsb2FuKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb2RlY2VwdF9kZWJ1ZygkZmlyc3RFbGVtZW50KTsK</text>

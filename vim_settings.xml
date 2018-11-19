@@ -326,7 +326,6 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" timestamp="1542290356854" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/PushController.php" timestamp="1542206202148">
         <mark key="[" line="35" column="72" />
         <mark key="]" line="35" column="102" />
@@ -1113,11 +1112,11 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4717b8cf-6657-4fae-b5c0-2fd4b6f07193/console.sql" timestamp="1539260414952">
-        <mark key="[" line="45" column="30" />
-        <mark key="]" line="45" column="102" />
-        <mark key="." line="45" column="102" />
-        <mark key="^" line="45" column="102" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4717b8cf-6657-4fae-b5c0-2fd4b6f07193/console.sql" timestamp="1542628786150">
+        <mark key="[" line="59" column="59" />
+        <mark key="]" line="59" column="73" />
+        <mark key="." line="59" column="73" />
+        <mark key="^" line="59" column="73" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/LoanEventsCommand.php" timestamp="1539779055769">
         <mark key="[" line="386" column="0" />
@@ -1264,9 +1263,11 @@
         <mark key="^" line="28" column="42" />
         <mark key="." line="28" column="42" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/ChangeMobilePhoneService/ChangeMobilePhoneService.php" timestamp="1542380608418">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="189" column="19" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/ChangeMobilePhoneService/ChangeMobilePhoneService.php" timestamp="1542628722502">
+        <mark key="[" line="166" column="70" />
+        <mark key="]" line="166" column="75" />
+        <mark key="^" line="166" column="75" />
+        <mark key="." line="166" column="75" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/MobilePhoneRepository.php" timestamp="1539702354687">
         <mark key="[" line="43" column="0" />
@@ -1661,19 +1662,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>status = 10</text>
+        <text>additionalPhoto</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>status = 10</text>
+        <text>additionalPhoto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>mailer.generator</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkcmF3QmFzZTY0ID0gZXhwbG9kZSgnLCcsICRwaG90byk7CiAgICAgICAgJGJhc2U2NCA9IGJhc2U2NF9kZWNvZGUoZW5kKCRyYXdCYXNlNjQpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5hZGRUZXh0KCfQotC10LvQtdGE0L7QvSAnIC4gJGNsaWVudC0+Z2V0TW9iaWxlUGhvbmVTdHJpbmcoKSAuICcuINCf0LDRgdC/0L7RgNGCICcuICRjbGllbnQtPmdldFBhc3Nwb3J0UygpIC4gJyAnIC4gJGNsaWVudC0+Z2V0UGFzc3BvcnROKCkpOwo=</text>

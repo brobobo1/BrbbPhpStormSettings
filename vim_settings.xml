@@ -658,7 +658,7 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="/dummy.sql" timestamp="1542616668672">
+      <file name="/dummy.sql" timestamp="1542618231836">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1654,14 +1654,14 @@
       <jump line="456" column="12" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hZGRUZXh0KCfQotC10LvQtdGE0L7QvSAnIC4gJGNsaWVudC0+Z2V0TW9iaWxlUGhvbmVTdHJpbmcoKSAuICcuINCf0LDRgdC/0L7RgNGCICcuICRjbGllbnQtPmdldFBhc3Nwb3J0UygpIC4gJyAnIC4gJGNsaWVudC0+Z2V0UGFzc3BvcnROKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>status = 10</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>mail</text>
+        <text>status = 10</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>

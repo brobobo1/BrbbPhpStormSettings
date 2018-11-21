@@ -701,7 +701,7 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="/dummy.sql" timestamp="1542814722599">
+      <file name="/dummy.sql" timestamp="1542816095029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -731,7 +731,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542809130076">
+      <file name="/Dummy.txt" timestamp="1542815433568">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -1363,10 +1363,11 @@
         <mark key="." line="123" column="39" />
         <mark key="^" line="123" column="39" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/UpdateProfileService/UpdateProfileService.php" timestamp="1542815419663">
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="292" column="0" />
-        <mark key="." line="292" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/UpdateProfileService/UpdateProfileService.php" timestamp="1542816146210">
+        <mark key="[" line="295" column="57" />
+        <mark key="]" line="295" column="67" />
+        <mark key="." line="295" column="67" />
+        <mark key="^" line="295" column="67" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MediatorService/Components/MyTargetComponent.php" timestamp="1539096122828">
         <mark key="[" line="12" column="0" />
@@ -1811,14 +1812,14 @@
       <jump line="339" column="26" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkbWFpbCA9ICR0aGlzLT5tYWlsR2VuZXJhdG9yLT5jbGllbnRJZGVudGlmaWNhdGlvbk1haWwoJGNsaWVudCwgJHBhc3Nwb3J0UGhvdG8sICRmYWNlUGhvdG8pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>: UpdateProfileRequest::ST_ACTUAL</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>additionalPhoto</text>
+        <text>: UpdateProfileRequest::ST_ACTUAL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>

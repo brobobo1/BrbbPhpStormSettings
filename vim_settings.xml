@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -47,14 +47,10 @@
         <mark key="^" line="262" column="17" />
         <mark key="." line="262" column="17" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/services.php" timestamp="1542723836965">
-        <mark key="." line="62" column="14" />
-        <mark key="^" line="62" column="13" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1542648472778">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1542803398051">
         <mark key="'" line="3394" column="0" />
-        <mark key="[" line="547" column="119" />
-        <mark key="]" line="547" column="116" />
+        <mark key="[" line="562" column="28" />
+        <mark key="]" line="562" column="57" />
         <mark key="." line="547" column="116" />
         <mark key="^" line="547" column="116" />
       </file>
@@ -339,6 +335,12 @@
         <mark key="]" line="12" column="81" />
         <mark key="^" line="12" column="81" />
         <mark key="." line="12" column="81" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1542803521453">
+        <mark key="[" line="95" column="100" />
+        <mark key="]" line="96" column="81" />
+        <mark key="^" line="96" column="81" />
+        <mark key="." line="96" column="81" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.php" timestamp="1533895141344">
         <mark key="[" line="21" column="9" />
@@ -725,7 +727,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542799969468">
+      <file name="/Dummy.txt" timestamp="1542803541563">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -1789,8 +1791,8 @@
       <jump line="220" column="61" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$promoInfo['toFreeLoan'] ?? 0,</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
@@ -1801,8 +1803,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFsnbWVzc2FnZScgPT4gV2ViTWVzc2FnZTo6TVNHX1JFUFBBSURfVEVFTl9EQVksICdzdGFydCcgPT4gMjQwLCAndG8nID0+IDcyMF0sCg==</text>
+      <register name="0" type="4">
+        <text>$promoInfo['toFreeLoan'] ?? 0,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

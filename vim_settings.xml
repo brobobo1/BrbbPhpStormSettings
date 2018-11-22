@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -329,18 +329,14 @@
         <mark key="^" line="36" column="59" />
         <mark key="." line="36" column="59" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/Mailer/MailerInterface.php" timestamp="1542815360308" />
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/ApiClientInterface.php" timestamp="1538584018690">
         <mark key="[" line="12" column="66" />
         <mark key="]" line="12" column="81" />
         <mark key="^" line="12" column="81" />
         <mark key="." line="12" column="81" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1542882433269">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="101" />
-        <mark key="^" line="96" column="81" />
-        <mark key="." line="96" column="81" />
-      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1542893247883" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.php" timestamp="1533895141344">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="24" column="9" />
@@ -364,11 +360,6 @@
         <mark key="]" line="8" column="23" />
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Service/PromoCodeService/PromoCodeServiceTest.php" timestamp="1542886626048">
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="87" />
-        <mark key="." line="204" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_36.php" timestamp="1541509618549">
         <mark key="[" line="2" column="15" />
@@ -743,7 +734,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542882022488">
+      <file name="/Dummy.txt" timestamp="1542893256109">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -1299,11 +1290,6 @@
         <mark key="^" line="9" column="60" />
         <mark key="." line="9" column="60" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MediatorService/Components/PushComponent.php" timestamp="1542818928257">
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="15" />
-        <mark key="^" line="12" column="15" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20181113134811.php" timestamp="1542198091683">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1414,12 +1400,6 @@
         <mark key="]" line="56" column="12" />
         <mark key="^" line="73" column="26" />
         <mark key="." line="73" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/DocumentGenerator/LoanAgreementDocument.php" timestamp="1542288081288">
-        <mark key="[" line="96" column="23" />
-        <mark key="]" line="98" column="26" />
-        <mark key="^" line="98" column="26" />
-        <mark key="." line="98" column="26" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/GetResponseNotifyCommand.php" timestamp="1541063535364">
         <mark key="[" line="191" column="0" />
@@ -1832,8 +1812,8 @@
       <jump line="554" column="45" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>VERIFIED</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkbG9nZ2VyID0gJHRoaXMtPm1ha2UoTG9nZ2VyOjpjbGFzcywgWydlcnJvcicgPT4gZnVuY3Rpb24gKCkge3JldHVybiB0cnVlO31dKTsK</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
@@ -1845,7 +1825,7 @@
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBjb3ZlcnMgICAgICAgXEFwcFxTZXJ2aWNlXFByb21vQ29kZVNlcnZpY2VcUHJvbW9Db2RlU2VydmljZTo6Z2V0UHJvbW9Db2RlSW5mbygpCg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9nZ2VyID0gJHRoaXMtPm1ha2UoTG9nZ2VyOjpjbGFzcywgWydlcnJvcicgPT4gZnVuY3Rpb24gKCkge3JldHVybiB0cnVlO31dKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

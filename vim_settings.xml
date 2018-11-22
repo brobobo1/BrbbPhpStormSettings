@@ -564,6 +564,13 @@
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" timestamp="1542878543591">
+        <mark key="'" line="113" column="9" />
+        <mark key="[" line="784" column="17" />
+        <mark key="]" line="784" column="10" />
+        <mark key="." line="784" column="10" />
+        <mark key="^" line="784" column="10" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/BinRepositoryInterface.php" timestamp="1540821392503">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -693,7 +700,7 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="/dummy.sql" timestamp="1542819824948">
+      <file name="/dummy.sql" timestamp="1542877472213">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1700,7 +1707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="4" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
       <jump line="84" column="4" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
       <jump line="88" column="4" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
       <jump line="92" column="4" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
@@ -1800,34 +1806,35 @@
       <jump line="1" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/UpdateProfileRequest.php" />
       <jump line="220" column="61" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
       <jump line="339" column="26" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
+      <jump line="113" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'';</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>: UpdateProfileRequest::ST_ACTUAL</text>
+        <text>'';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGxvYW5JZCA9ICRldmVudC0+Z2V0RXZlbnQoKS0+Z2V0UGFyYW1ldGVyKCdsb2FuSWQnKTsK</text>
+      <register name="0" type="4">
+        <text>'2018-11-22 12:00:00')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldEZpbGVFeHRlbnNpb24oc3RyaW5nICRmaWxlKTogc3RyaW5nCiAgICB7CiAgICAgICAgJGYgPSBmaW5mb19vcGVuKCk7CiAgICAgICAgJG1pbWVfdHlwZSA9IGZpbmZvX2J1ZmZlcigkZiwgJGZpbGUsIEZJTEVJTkZPX01JTUVfVFlQRSk7CiAgICAgICAgJGd1ZXNzZXIgPSBFeHRlbnNpb25HdWVzc2VyOjpnZXRJbnN0YW5jZSgpOwogICAgICAgIHJldHVybiAkZ3Vlc3Nlci0+Z3Vlc3MoJG1pbWVfdHlwZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkZS0+Z2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1902,25 +1909,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGxvYW5JZCA9ICRldmVudC0+Z2V0RXZlbnQoKS0+Z2V0UGFyYW1ldGVyKCdsb2FuSWQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGxvYW5JZCA9ICRldmVudC0+Z2V0RXZlbnQoKS0+Z2V0UGFyYW1ldGVyKCdsb2FuSWQnKTsKICAgICAgICAgICAgICAgICAgICAgICAgJGxvYW4gICA9ICR0aGlzLT5sb2FuUmVwb3NpdG9yeS0+ZmluZCgkbG9hbklkKTsKICAgICAgICAgICAgICAgICAgICAgICAgJGNsaWVudCA9ICRsb2FuLT5nZXRDbGllbnQoKTsK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldEZpbGVFeHRlbnNpb24oc3RyaW5nICRmaWxlKTogc3RyaW5nCiAgICB7CiAgICAgICAgJGYgPSBmaW5mb19vcGVuKCk7CiAgICAgICAgJG1pbWVfdHlwZSA9IGZpbmZvX2J1ZmZlcigkZiwgJGZpbGUsIEZJTEVJTkZPX01JTUVfVFlQRSk7CiAgICAgICAgJGd1ZXNzZXIgPSBFeHRlbnNpb25HdWVzc2VyOjpnZXRJbnN0YW5jZSgpOwogICAgICAgIHJldHVybiAkZ3Vlc3Nlci0+Z3Vlc3MoJG1pbWVfdHlwZSk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGNsaWVudElkID0gJGV2ZW50LT5nZXRFdmVudCgpLT5nZXRQYXJhbWV0ZXIoJ2NsaWVudElkJyk7CiAgICAgICAgICAgICAgICAgICAgICAgICRjbGllbnQgICA9ICR0aGlzLT5jbGllbnRSZXBvc2l0b3J5LT5maW5kU2ltcGxlKCRjbGllbnRJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkZS0+Z2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGxvYW5JZCA9ICRldmVudC0+Z2V0RXZlbnQoKS0+Z2V0UGFyYW1ldGVyKCdsb2FuSWQnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0ZW1wbGF0ZSA9IEV2ZW50VG9TbXNUZW1wbGF0ZTo6Z2V0KCRldmVudC0+Z2V0RXZlbnQoKS0+Z2V0RXZlbnQoKSk7CiAgICAgICAgICAgICAgICBpZiAoJHRlbXBsYXRlID09PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFxSdW50aW1lRXhjZXB0aW9uKCJTbXMgdGVtcGxhdGUgZm9yIGV2ZW50IHskZXZlbnQtPmdldEV2ZW50KCktPmdldEV2ZW50KCl9IG5vdCBleGlzdHMiKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGxvYW5JZCA9ICRldmVudC0+Z2V0RXZlbnQoKS0+Z2V0UGFyYW1ldGVyKCdsb2FuSWQnKTsKICAgICAgICAgICAgICAgICAgICAgICAgJGxvYW4gICA9ICR0aGlzLT5sb2FuUmVwb3NpdG9yeS0+ZmluZCgkbG9hbklkKTsKICAgICAgICAgICAgICAgICAgICAgICAgJGNsaWVudCA9ICRsb2FuLT5nZXRDbGllbnQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRldmVudC0+Z2V0RXZlbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGNsaWVudElkID0gJGV2ZW50LT5nZXRFdmVudCgpLT5nZXRQYXJhbWV0ZXIoJ2NsaWVudElkJyk7CiAgICAgICAgICAgICAgICAgICAgICAgICRjbGllbnQgICA9ICR0aGlzLT5jbGllbnRSZXBvc2l0b3J5LT5maW5kU2ltcGxlKCRjbGllbnRJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

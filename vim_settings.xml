@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -1566,11 +1566,11 @@
         <mark key="." line="23" column="7" />
         <mark key="^" line="23" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/PersonalPdlDTO.php" timestamp="1542987320849">
-        <mark key="[" line="58" column="133" />
-        <mark key="]" line="59" column="14" />
-        <mark key="." line="59" column="14" />
-        <mark key="^" line="59" column="14" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/PersonalPdlDTO.php" timestamp="1543222183289">
+        <mark key="[" line="27" column="69" />
+        <mark key="]" line="52" column="31" />
+        <mark key="." line="52" column="31" />
+        <mark key="^" line="52" column="31" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeInfo.php" timestamp="1542960797685">
         <mark key="[" line="8" column="0" />
@@ -1886,20 +1886,20 @@
       <jump line="300" column="4" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJiYgcHJlZ19ncmVwKCIveyR0aGlzLT5jb2RlfS9pIiwgJGNsaWVudC0+Z2V0VXNlZFByb21vQ29kZXMoKSA/PyBbXSkgPT09IFtdOwo=</text>
+      <register name="&quot;" type="4">
+        <text>$clientType === Client::NOT_REGULAR ? Loan::PROMO_NOT_REGULAR_MAX_PERIOD : Loan::PROMO_REGULAR_MAX_PERIOD;</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCRwcm9tb0NvZGVTdGF0aWNUeXBlID09PSBQcm9tb0NvZGVTdGF0aWM6OlRZUEVfSU5TVEFMTE1FTlQgJiYgJGxvYW5BbW91bnQgPj0gTG9hbjo6SU5TVEFMTE1FTlRfTUlOSU1BTF9BTU9VTlQpIHx8</text>
+        <text>$clientType === Client::NOT_REGULAR ? Loan::PROMO_NOT_REGULAR_MAX_PERIOD : Loan::PROMO_REGULAR_MAX_PERIOD;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJlZ19ncmVwKCIveyR0aGlzLT5jb2RlfS9pIiwgJGNsaWVudC0+Z2V0VXNlZFByb21vQ29kZXMoKSA/PyBbXSkgIT09IFtdKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>Client::PROMO_LIST[$clientType]['maxAmount'] ?? 0;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJiYgcHJlZ19ncmVwKCIveyR0aGlzLT5jb2RlfS9pIiwgJGNsaWVudC0+Z2V0VXNlZFByb21vQ29kZXMoKSA/PyBbXSkgPT09IFtdOwo=</text>

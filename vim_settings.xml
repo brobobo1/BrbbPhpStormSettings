@@ -56,8 +56,11 @@
         <mark key="^" line="262" column="17" />
         <mark key="." line="262" column="17" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/services.php" timestamp="1541510925240">
-        <mark key="a" line="733" column="15" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/GiftInstallmentDTO.php" timestamp="1543304835584">
+        <mark key="'" line="45" column="19" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/brjioewgh12312erger5412/uploader.php" timestamp="1514241920266">
         <mark key="[" line="89" column="58" />
@@ -160,11 +163,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="21" column="133" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Client/ApiClient.php" timestamp="1540813175076">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="100" column="9" />
-        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Helper/EmailHelper.php" timestamp="1540986412802">
         <mark key="[" line="29" column="25" />
@@ -304,12 +302,12 @@
         <mark key="^" line="12" column="81" />
         <mark key="." line="12" column="81" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1543297536915">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1543306372817">
         <mark key="'" line="61" column="44" />
-        <mark key="[" line="135" column="62" />
-        <mark key="]" line="135" column="61" />
-        <mark key="^" line="135" column="61" />
-        <mark key="." line="135" column="61" />
+        <mark key="[" line="143" column="57" />
+        <mark key="]" line="143" column="67" />
+        <mark key="^" line="143" column="67" />
+        <mark key="." line="143" column="67" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Entity.Tariff.yml" timestamp="1536710601482">
         <mark key="[" line="30" column="0" />
@@ -650,7 +648,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541513212521">
+      <file name="/Dummy.txt" timestamp="1543304629263">
         <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -704,6 +702,12 @@
         <mark key="^" line="22" column="16" />
         <mark key="." line="22" column="16" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/PromoCodeGift.php" timestamp="1543304671794">
+        <mark key="[" line="447" column="16" />
+        <mark key="]" line="447" column="16" />
+        <mark key="." line="447" column="16" />
+        <mark key="^" line="447" column="16" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Request/AddUsersListRequest.php" timestamp="1539163696673">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="35" column="21" />
@@ -739,6 +743,13 @@
         <mark key="]" line="39" column="9" />
         <mark key="." line="39" column="9" />
         <mark key="^" line="39" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/GiftPdlDTO.php" timestamp="1543304895489">
+        <mark key="'" line="44" column="18" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="44" column="18" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/DispatchEventsCommand.php" timestamp="1533896490833">
         <mark key="[" line="70" column="0" />
@@ -908,11 +919,6 @@
         <mark key="^" line="22" column="38" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1541507988962">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20181101130215.php" timestamp="1541158410276">
         <mark key="[" line="22" column="63" />
         <mark key="]" line="22" column="62" />
@@ -998,11 +1004,11 @@
         <mark key="^" line="27" column="57" />
         <mark key="." line="27" column="57" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeDTOFactory.php" timestamp="1543297450290">
-        <mark key="[" line="51" column="35" />
-        <mark key="]" line="51" column="26" />
-        <mark key="." line="51" column="26" />
-        <mark key="^" line="51" column="26" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeDTOFactory.php" timestamp="1543304028330">
+        <mark key="[" line="46" column="86" />
+        <mark key="]" line="46" column="77" />
+        <mark key="." line="46" column="77" />
+        <mark key="^" line="46" column="77" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Service.EventService.DTO.Event.Loan.yml" timestamp="1533302748663">
         <mark key="[" line="60" column="59" />
@@ -1094,11 +1100,6 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/YandexNotifyServiceProvider/Controller/YandexPaymentNotifyController.php" timestamp="1540987561978">
-        <mark key="[" line="312" column="0" />
-        <mark key="]" line="312" column="0" />
-        <mark key="." line="312" column="0" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/LoanEventsCommand.php" timestamp="1539779055769">
         <mark key="[" line="386" column="0" />
         <mark key="]" line="386" column="0" />
@@ -1134,6 +1135,12 @@
         <mark key="]" line="9" column="60" />
         <mark key="^" line="9" column="60" />
         <mark key="." line="9" column="60" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20181122184509.php" timestamp="1543304537723">
+        <mark key="[" line="20" column="124" />
+        <mark key="]" line="20" column="122" />
+        <mark key="^" line="20" column="122" />
+        <mark key="." line="20" column="122" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MediatorService/Components/PushComponent.php" timestamp="1541512596854">
         <mark key="[" line="16" column="77" />
@@ -1224,6 +1231,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="31" column="57" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeGiftDTO.php" timestamp="1543301344776">
+        <mark key="[" line="10" column="63" />
+        <mark key="]" line="10" column="47" />
+        <mark key="^" line="10" column="47" />
+        <mark key="." line="10" column="47" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Request/TokenDeleteRequest.php" timestamp="1539171956901">
         <mark key="[" line="15" column="88" />
@@ -1333,11 +1346,6 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20181012152100.php" timestamp="1540553508432">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="31" column="22" />
-        <mark key="." line="42" column="79" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20181026141840.php" timestamp="1540553491903">
         <mark key="[" line="21" column="334" />
         <mark key="]" line="23" column="7" />
@@ -1440,11 +1448,6 @@
         <mark key="^" line="42" column="9" />
         <mark key="." line="42" column="9" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/PushService/Clients/ApiResponseInterface.php" timestamp="1541161802685">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/TemplateService/Templates.php" timestamp="1540987603913">
         <mark key="[" line="12" column="70" />
         <mark key="]" line="12" column="70" />
@@ -1501,10 +1504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
-      <jump line="1226" column="7" filename="$USER_HOME$/code/devim/dzp/tests/_data/users-list-data-remove.txt" />
-      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/checkMyTarget.sql" />
-      <jump line="290" column="8" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/GetResponseWrapper.php" />
       <jump line="14" column="21" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/EmailConfirmServiceProvider/Controller/EmailConfirmController.php" />
       <jump line="25" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/EmailConfirmServiceProvider/Controller/EmailConfirmController.php" />
       <jump line="646" column="4" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
@@ -1601,10 +1600,14 @@
       <jump line="20" column="31" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" />
       <jump line="86" column="62" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" />
       <jump line="61" column="44" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" />
+      <jump line="62" column="18" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/GiftPdlDTO.php" />
+      <jump line="44" column="19" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/GiftInstallmentDTO.php" />
+      <jump line="128" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/GiftPdlDTO.php" />
+      <jump line="44" column="18" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/GiftPdlDTO.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBAcmV0dXJuIFByb21vQ29kZVBkbERUT1tdICovCg==</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
@@ -1616,19 +1619,19 @@
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHByb21vLT5nZXRUeXBlKCkgPT09IFByb21vQ29kZVN0YXRpYzo6VFlQRV9QREwpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBTZXJpYWxpemFibGVQZGxEVE8oJHByb21vKTsKICAgICAgICB9IGVsc2VpZiAoJHByb21vLT5nZXRUeXBlKCkgPT09IFByb21vQ29kZVN0YXRpYzo6VFlQRV9JTlNUQUxMTUVOVCkgewogICAgICAgICAgICByZXR1cm4gbmV3IFNlcmlhbGl6YWJsZUluc3RhbGxtZW50RFRPKCRwcm9tbyk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWlyZW1lbnRzICAgID0gJHByb21vQ29kZVN0YXRpYy0+Z2V0UmVxdWlyZW1lbnRzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBAcmV0dXJuIFByb21vQ29kZVBkbERUT1tdICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0QWN0dWFsKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJGV2ZW50LT5nZXRFdmVudCgpLT5nZXRQYXJhbWV0ZXJzKCkpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1703,25 +1706,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgxMik7CiAgICAgICAgZGllOwo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndoZXJlKCRxYi0+ZXhwcigpLT5hbmRYKFsKLy8gICAgICAgICAgICAgICAgJHFiLT5leHByKCktPmVxKCdlYy5zdWJzY3JpYmVySWQnLCAnOnN1YnNjcmliZXJJZCcpLAovLyAgICAgICAgICAgICAgICAkcWItPmV4cHIoKS0+ZXEoJ2VjLnN0YXR1cycsIEV2ZW50Q3VzdG9tZXI6OlNUQVRVU19QRU5ESU5HKSwKLy8gICAgICAgICAgICAgICAgJHFiLT5leHByKCktPmd0ZSgnZWMuc3RhcnREYXRlJywgJG5vdyksCi8vICAgICAgICAgICAgICAgICRxYi0+ZXhwcigpLT5vclgoCi8vICAgICAgICAgICAgICAgICAgICAkcWItPmV4cHIoKS0+aXNOdWxsKCdlYy5lbmREYXRlJyksCi8vICAgICAgICAgICAgICAgICAgICAkcWItPmV4cHIoKS0+bHQoJ2VjLmVuZERhdGUnLCAkbm93KQovLyAgICAgICAgICAgICAgICApCi8vICAgICAgICAgICAgXSkpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHJlcXVpcmVtZW50czsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndoZXJlKCRxYi0+ZXhwcigpLT5hbmRYKFsKLy8gICAgICAgICAgICAgICAgJHFiLT5leHByKCktPmVxKCdlYy5zdWJzY3JpYmVySWQnLCAnOnN1YnNjcmliZXJJZCcpLAovLyAgICAgICAgICAgICAgICAkcWItPmV4cHIoKS0+ZXEoJ2VjLnN0YXR1cycsIEV2ZW50Q3VzdG9tZXI6OlNUQVRVU19QRU5ESU5HKSwKLy8gICAgICAgICAgICAgICAgJHFiLT5leHByKCktPmd0ZSgnZWMuc3RhcnREYXRlJywgJG5vdyksCi8vICAgICAgICAgICAgICAgICRxYi0+ZXhwcigpLT5vclgoCi8vICAgICAgICAgICAgICAgICAgICAkcWItPmV4cHIoKS0+aXNOdWxsKCdlYy5lbmREYXRlJyksCi8vICAgICAgICAgICAgICAgICAgICAkcWItPmV4cHIoKS0+bHQoJ2VjLmVuZERhdGUnLCAkbm93KQovLyAgICAgICAgICAgICAgICApCi8vICAgICAgICAgICAgXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVyZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJHFiLT5leHByKCktPmVxKCdlYy5zdWJzY3JpYmVySWQnLCAnOnN1YnNjcmliZXJJZCcpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgyKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpc0F2YWlsYWJsZShpbnQgJG92ZXJkdWVEYXlzKTogYm9vbAogICAgewogICAgICAgIC8vIFRPRE86IEltcGxlbWVudCBpc0F2YWlsYWJsZSgpIG1ldGhvZC4KICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

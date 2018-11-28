@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -693,9 +693,9 @@
         <mark key="^" line="359" column="7" />
         <mark key="." line="359" column="7" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/config/config.php" timestamp="1542807627681">
-        <mark key="[" line="508" column="5" />
-        <mark key="]" line="508" column="37" />
+      <file name="$USER_HOME$/code/devim/dzp/config/config.php" timestamp="1543398077613">
+        <mark key="[" line="709" column="0" />
+        <mark key="]" line="709" column="51" />
         <mark key="." line="508" column="45" />
         <mark key="^" line="490" column="5" />
       </file>
@@ -802,6 +802,10 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/config/config.test.php" timestamp="1543398135486">
+        <mark key="." line="309" column="0" />
+        <mark key="^" line="309" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1543397087039">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -844,7 +848,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543397056309">
+      <file name="/Dummy.txt" timestamp="1543398201509">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1339,6 +1343,12 @@
         <mark key="]" line="12" column="71" />
         <mark key="^" line="12" column="71" />
         <mark key="." line="12" column="71" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/config/config.dev.php" timestamp="1543398191216">
+        <mark key="[" line="154" column="54" />
+        <mark key="]" line="154" column="53" />
+        <mark key="." line="154" column="53" />
+        <mark key="^" line="154" column="53" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/BinNumberService.php" timestamp="1540919233489">
         <mark key="[" line="27" column="16" />
@@ -2035,8 +2045,8 @@
       <jump line="33" column="17" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/GiftInstallmentDTO.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JGFwcFsnc3VwcG9ydC50b19lbWFpbCddID0gJ2FuZHJleS5yZWJyb3ZAZGV2aW0udGVhbSc7Cg==</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
@@ -2048,7 +2058,7 @@
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gc2VsZWN0ZWRfbG9hbiB3aGVyZSBjcmVhdGVkYXQgPiAnMjAxOC0xMS0yNiAwMDowMCcgYW5kIGNyZWF0ZWRhdCA8ICcyMDE4LTExLTI2IDIzOjU5JyBhbmQgdXRtICE9ICdbXSc7Cg==</text>
+        <text encoding="base64">JGFwcFsnc3VwcG9ydC50b19lbWFpbCddID0gJ2FuZHJleS5yZWJyb3ZAZGV2aW0udGVhbSc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2FuIHdoZXJlIAo=</text>

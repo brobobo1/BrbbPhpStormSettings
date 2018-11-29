@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -527,6 +527,7 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="31" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1543498978922" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_42.php" timestamp="1542978610041">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="3" column="19" />
@@ -769,7 +770,7 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="/dummy.sql" timestamp="1543495867186">
+      <file name="/dummy.sql" timestamp="1543499137061">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -811,7 +812,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543494212107">
+      <file name="/Dummy.txt" timestamp="1543499144103">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1998,7 +1999,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKDEpOwo=</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
@@ -2013,16 +2014,16 @@
         <text encoding="base64">ICAgICAgICAgICAgJGNvbnRhY3QtPmFkZEN1c3RvbUZpZWxkVmFsdWUoCiAgICAgICAgICAgICAgICAobmV3IEN1c3RvbUZpZWxkKCkpLT5zZXROYW1lKCdtb2JpbGVfcGhvbmUnKQogICAgICAgICAgICAgICAgICAgIC0+c2V0VmFsdWVzKFsnKycgLiAkY2xpZW50LT5nZXRNb2JpbGVQaG9uZVN0cmluZygpXSkKICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKDEpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGZ1bGxEZXB0LCAkdHJhbnNhY3Rpb24tPmdldFJlc3BvbnNlKClbJ2Ftb3VudCddKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VzaWFMb2NrJyA9PiAobnVsbCAhPSAkdGhpcy0+ZXNpYVByb2ZpbGVSZXBvLT5nZXRCeUNsaWVudCgkY2xpZW50KSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGZ1bGxEZXB0IDw9ICR0cmFuc2FjdGlvbi0+Z2V0UmVxdWVzdCgpWydhbW91bnQnXSA/PyAtMSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2097,25 +2098,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdHJhbnNhY3Rpb24tPmdldFN0YXR1cygpLCAkbG9hbi0+Z2V0SWQoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2FuIHdoZXJlIAo=</text>
+        <text encoding="base64">ICAgICAgIHZhcl9kdW1wKCRsb2FuLT5nZXRJZCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzbV9jb252ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbG9hbik7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2FuIHdoZXJlIGNsaWVudGlkIGluICgKICBzZWxlY3QgY2xpZW50aWQgZnJvbSAoc2VsZWN0IGNsaWVudGlkLCBjb3VudCgqKSBhcyBjbnQgZnJvbSBsb2FuIHdoZXJlIGNyZWF0ZWRhdCA+ICcyMDE4LTExLTI2IDAwOjAwJyBhbmQgIGNyZWF0ZWRhdCA8ICcyMDE4LTExLTI2IDIzOjU5JyBhbmQgc2NvcmluZ2xvYW5udW1iZXIgPSAnbmV3JyBncm91cCBieSBjbGllbnRpZCBvcmRlciBieSBjbnQgZGVzYykgbG9hbl9jbnQKKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aGVyZSBjbnQgPSAyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBsb2FuIHdoZXJlIHNjb3Jpbmdsb2FubnVtYmVyICE9ICduZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

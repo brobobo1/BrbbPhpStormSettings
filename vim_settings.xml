@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -413,7 +413,6 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" timestamp="1543509060275" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/PushController.php" timestamp="1542206202148">
         <mark key="[" line="35" column="72" />
         <mark key="]" line="35" column="102" />
@@ -1276,6 +1275,12 @@
         <mark key="." line="1229" column="48" />
         <mark key="^" line="1229" column="48" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Service/RequestService/ScoringRpc.php" timestamp="1543931358403">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/config/packages/sonata_admin.yaml" timestamp="1535559442704">
         <mark key="[" line="22" column="19" />
         <mark key="]" line="22" column="20" />
@@ -1562,11 +1567,11 @@
         <mark key="^" line="289" column="25" />
         <mark key="." line="289" column="25" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Underwriting/IncreaseLoanCrudController.php" timestamp="1543930752611">
-        <mark key="[" line="106" column="45" />
-        <mark key="]" line="106" column="45" />
-        <mark key="^" line="100" column="19" />
-        <mark key="." line="106" column="45" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Underwriting/IncreaseLoanCrudController.php" timestamp="1543931400906">
+        <mark key="[" line="128" column="76" />
+        <mark key="]" line="128" column="75" />
+        <mark key="^" line="128" column="75" />
+        <mark key="." line="128" column="75" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MediatorService/Components/MyTargetComponent.php" timestamp="1539096122828">
         <mark key="[" line="12" column="0" />
@@ -2071,8 +2076,8 @@
       <jump line="66" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cli</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQG1ldGhvZCBhcnJheSBGaW5kKGFycmF5ICRwYXJhbWV0ZXJzKQo=</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
@@ -2084,7 +2089,7 @@
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+0KHRgtCw0YLRg9GBINC30LDQtdC80LAgLSB7eyBjbGllbnRJbmZvLmxvYW5TdGF0dXMgfCBjb252ZXJ0X2xvYW5fc3RhdHVzIH19PC9wPgo=</text>
+        <text encoding="base64">ICogQG1ldGhvZCBhcnJheSBGaW5kKGFycmF5ICRwYXJhbWV0ZXJzKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

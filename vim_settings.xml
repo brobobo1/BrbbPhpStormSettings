@@ -418,9 +418,9 @@
         <mark key="^" line="12" column="81" />
         <mark key="." line="12" column="81" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1544273736613">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="80" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1544274590592">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="78" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Entity.Tariff.yml" timestamp="1536710601482">
         <mark key="[" line="30" column="0" />
@@ -1351,10 +1351,11 @@
         <mark key="^" line="17" column="44" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Handler/GiftPromoCodeHandler.php" timestamp="1544274524017">
-        <mark key="]" line="6" column="49" />
-        <mark key="^" line="6" column="49" />
-        <mark key="." line="6" column="49" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Handler/GiftPromoCodeHandler.php" timestamp="1544275199383">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="23" />
+        <mark key="." line="39" column="23" />
+        <mark key="^" line="39" column="23" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/config/packages/sonata_admin.yaml" timestamp="1535559442704">
         <mark key="[" line="22" column="19" />
@@ -1368,10 +1369,10 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeDTOFactory.php" timestamp="1544273994263">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeDTOFactory.php" timestamp="1544274732389">
         <mark key="'" line="20" column="27" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="59" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="30" column="8" />
         <mark key="^" line="33" column="4" />
         <mark key="." line="20" column="74" />
       </file>
@@ -2170,13 +2171,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>client</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2VpZiAoJGRhdGEgaW5zdGFuY2VvZiBQcm9tb0NvZGVTdGF0aWMgJiYgJGRhdGEtPmdldFR5cGUoKSA9PT0gUHJvbW9Db2RlU3RhdGljOjpUWVBFX1BETCkgewogICAgICAgICAgICByZXR1cm4gbmV3IFN0YXRpY1BkbERUTygkZGF0YSwgJGNsaWVudCk7CiAgICAgICAgfSBlbHNlaWYgKCRkYXRhIGluc3RhbmNlb2YgUHJvbW9Db2RlU3RhdGljICYmICRkYXRhLT5nZXRUeXBlKCkgPT09IFByb21vQ29kZVN0YXRpYzo6VFlQRV9JTlNUQUxMTUVOVCkgewogICAgICAgICAgICByZXR1cm4gbmV3IFN0YXRpY0luc3RhbGxtZW50RFRPKCRkYXRhLCAkY2xpZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2VpZiAoJGRhdGEgaW5zdGFuY2VvZiBQcm9tb0NvZGVHaWZ0ICYmICRkYXRhLT5nZXRUeXBlKCkgPT09IFByb21vQ29kZUdpZnQ6OlRZUEVfUERMKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgR2lmdFBkbERUTygkZGF0YSwgJGNsaWVudCk7CiAgICAgICAgfSBlbHNlaWYgKCRkYXRhIGluc3RhbmNlb2YgUHJvbW9Db2RlR2lmdCAmJiAkZGF0YS0+Z2V0VHlwZSgpID09PSBQcm9tb0NvZGVHaWZ0OjpUWVBFX0lOU1RBTExNRU5UKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgR0lmdEluc3RhbGxtZW50RFRPKCRkYXRhLCAkY2xpZW50KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2185,10 +2186,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHByb21vSW5mby0+Z2V0VHlwZSgpID09PSBQcm9tb0NvZGVHaWZ0OjpUWVBFX1BETCkgewogICAgICAgICAgICByZXR1cm4gbmV3IEdpZnRQZGxEVE8oJHByb21vSW5mbywgJHRoaXMtPmNsaWVudCk7CiAgICAgICAgfSBlbHNlaWYgKCRkYXRhLT5nZXRUeXBlKCkgPT09IFByb21vQ29kZUdpZnQ6OlRZUEVfSU5TVEFMTE1FTlQpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBHSWZ0SW5zdGFsbG1lbnREVE8oJGRhdGEsICRjbGllbnQpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2262,14 +2263,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">KTsKICAgICAgICA=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHByb21vSW5mKSAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGVQcm9tbygpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -2278,7 +2279,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzc2V0KCRwcm9tb0luZm9bJ25leHRQcm9tb2NvZGVEYXlzJ10pIHx8ICRwcm9tb0luZm9bJ25leHRQcm9tb2NvZGVEYXlzJ10gPT09IDApIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

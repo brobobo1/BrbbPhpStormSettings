@@ -418,9 +418,11 @@
         <mark key="^" line="12" column="81" />
         <mark key="." line="12" column="81" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1544274590592">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="78" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1544276262221">
+        <mark key="[" line="50" column="35" />
+        <mark key="]" line="51" column="11" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="51" column="11" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Entity.Tariff.yml" timestamp="1536710601482">
         <mark key="[" line="30" column="0" />
@@ -585,11 +587,11 @@
         <mark key="^" line="43" column="46" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Handler/Handler.php" timestamp="1544273106085">
-        <mark key="[" line="10" column="50" />
-        <mark key="]" line="10" column="50" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="10" column="50" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Handler/Handler.php" timestamp="1544276651180">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="62" />
+        <mark key="^" line="11" column="62" />
+        <mark key="." line="11" column="62" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1517582554275">
         <mark key="[" line="358" column="21" />
@@ -865,7 +867,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544274471760">
+      <file name="/Dummy.txt" timestamp="1544275309080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1075,6 +1077,13 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="1606" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Handler/PersonalPromoCodeHandler.php" timestamp="1544276626002">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="64" />
+        <mark key="." line="24" column="64" />
+        <mark key="^" line="24" column="64" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/DocumentController.php" timestamp="1536768392549">
         <mark key="[" line="34" column="0" />
@@ -1369,10 +1378,10 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeDTOFactory.php" timestamp="1544274732389">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeDTOFactory.php" timestamp="1544275610074">
         <mark key="'" line="20" column="27" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="30" column="8" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="100" />
         <mark key="^" line="33" column="4" />
         <mark key="." line="20" column="74" />
       </file>
@@ -1474,11 +1483,11 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Handler/AbstractHandler.php" timestamp="1544273090882">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="26" column="19" />
-        <mark key="." line="26" column="19" />
-        <mark key="^" line="26" column="19" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Handler/AbstractHandler.php" timestamp="1544276706769">
+        <mark key="[" line="21" column="49" />
+        <mark key="]" line="21" column="64" />
+        <mark key="." line="21" column="64" />
+        <mark key="^" line="21" column="64" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/DTO/Traits/duplicateMethodForMobileSerialization.php" timestamp="1532615419035">
         <mark key="[" line="12" column="89" />
@@ -2062,9 +2071,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="6" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
-      <jump line="112" column="25" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
-      <jump line="114" column="14" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
       <jump line="132" column="0" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
       <jump line="173" column="25" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
       <jump line="134" column="0" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
@@ -2162,10 +2168,13 @@
       <jump line="42" column="19" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/StaticInstallmentDTO.php" />
       <jump line="66" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" />
       <jump line="22" column="27" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeDTOFactory.php" />
+      <jump line="29" column="60" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Handler/PersonalPromoCodeHandler.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Handler/PersonalPromoCodeHandler.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Handler/PersonalPromoCodeHandler.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50QXJjaGlJZCA9ICRjbGllbnQgJiYgJGNsaWVudC0+aXNSZWd1bGFyKCkgPyAkY2xpZW50LT5nZXRBcmNoaUlkKCkgOiBudWxsOwo=</text>
       </register>
       <register name="j" type="4">
         <text>kj</text>
@@ -2177,19 +2186,19 @@
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2VpZiAoJGRhdGEgaW5zdGFuY2VvZiBQcm9tb0NvZGVHaWZ0ICYmICRkYXRhLT5nZXRUeXBlKCkgPT09IFByb21vQ29kZUdpZnQ6OlRZUEVfUERMKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgR2lmdFBkbERUTygkZGF0YSwgJGNsaWVudCk7CiAgICAgICAgfSBlbHNlaWYgKCRkYXRhIGluc3RhbmNlb2YgUHJvbW9Db2RlR2lmdCAmJiAkZGF0YS0+Z2V0VHlwZSgpID09PSBQcm9tb0NvZGVHaWZ0OjpUWVBFX0lOU1RBTExNRU5UKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgR0lmdEluc3RhbGxtZW50RFRPKCRkYXRhLCAkY2xpZW50KTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50QXJjaGlJZCA9ICRjbGllbnQgJiYgJGNsaWVudC0+aXNSZWd1bGFyKCkgPyAkY2xpZW50LT5nZXRBcmNoaUlkKCkgOiBudWxsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHByb21vSW5mby0+Z2V0VHlwZSgpID09PSBQcm9tb0NvZGVHaWZ0OjpUWVBFX1BETCkgewogICAgICAgICAgICByZXR1cm4gbmV3IEdpZnRQZGxEVE8oJHByb21vSW5mbywgJHRoaXMtPmNsaWVudCk7CiAgICAgICAgfSBlbHNlaWYgKCRkYXRhLT5nZXRUeXBlKCkgPT09IFByb21vQ29kZUdpZnQ6OlRZUEVfSU5TVEFMTE1FTlQpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBHSWZ0SW5zdGFsbG1lbnREVE8oJGRhdGEsICRjbGllbnQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICAgICAgICAkcHJvbW9JbmZvID0gJHRoaXMtPnNjb3JpbmdDbGllbnQtPmdldENsaWVudFByb21vSW5mbygkY2xpZW50QXJjaGlJZCwgbnVsbCwgJHByb21vQ29kZSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2263,23 +2272,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KTsKICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGVQcm9tbygpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHByb21vSW5mby0+Z2V0VHlwZSgpID09PSBQcm9tb0NvZGVHaWZ0OjpUWVBFX1BETCkgewogICAgICAgICAgICByZXR1cm4gbmV3IEdpZnRQZGxEVE8oJHByb21vSW5mbywgJHRoaXMtPmNsaWVudCk7CiAgICAgICAgfSBlbHNlaWYgKCRkYXRhLT5nZXRUeXBlKCkgPT09IFByb21vQ29kZUdpZnQ6OlRZUEVfSU5TVEFMTE1FTlQpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBHSWZ0SW5zdGFsbG1lbnREVE8oJGRhdGEsICRjbGllbnQpOwogICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">KTsKICAgICAgICA=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

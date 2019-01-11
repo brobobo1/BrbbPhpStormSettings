@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -700,12 +700,12 @@
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" timestamp="1547220260792">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" timestamp="1547221016179">
         <mark key="'" line="554" column="17" />
-        <mark key="[" line="584" column="14" />
-        <mark key="]" line="582" column="3" />
-        <mark key="^" line="582" column="3" />
-        <mark key="." line="582" column="3" />
+        <mark key="[" line="586" column="0" />
+        <mark key="]" line="586" column="71" />
+        <mark key="^" line="586" column="53" />
+        <mark key="." line="586" column="53" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/LoanCreateService/LoanCreateService.php" timestamp="1546001222622">
         <mark key="[" line="26" column="10" />
@@ -2287,8 +2287,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2hlcmUgdDIuaWQgaW4gKAo=</text>
+      <register name="&quot;" type="4">
+        <text>select clientid, max(lastactivityat) from sm_token t1 group by clientid;</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2297,13 +2297,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>ll max(lastactivityat)</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSAoc2VsZWN0ICogZnJvbSBzbV90b2tlbiB0IHdoZXJlIHQubGFzdGFjdGl2aXR5YXQgPj0gJzIwMTgxMDExJyBhbmQgdC5sYXN0YWN0aXZpdHlhdCA8PSAnMjAxODEwMTInKSBhcyB0MjsK</text>
+      <register name="0" type="4">
+        <text>select clientid, max(lastactivityat) from sm_token t1 group by clientid;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">d2hlcmUgdDIuaWQgaW4gKAo=</text>

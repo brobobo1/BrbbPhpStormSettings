@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -432,7 +432,6 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" timestamp="1547122070378" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/PushController.php" timestamp="1542206202148">
         <mark key="[" line="35" column="72" />
         <mark key="]" line="35" column="102" />
@@ -534,6 +533,9 @@
         <mark key="]" line="18" column="38" />
         <mark key="^" line="18" column="38" />
         <mark key="." line="18" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/SecurityMobileApiServiceProvider/Authentication/Token/Provider/TwoFactorJwtTokenProvider.php" timestamp="1547206366237">
+        <mark key="[" line="164" column="55" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/Rpc/EsiaRpcServiceTest.php" timestamp="1542127484227">
         <mark key="[" line="14" column="22" />
@@ -726,8 +728,8 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console_3.sql" timestamp="1547139408546">
-        <mark key="[" line="7" column="52" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console_3.sql" timestamp="1547205199111">
+        <mark key="[" line="22" column="26" />
         <mark key="]" line="7" column="52" />
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="52" />
@@ -847,10 +849,10 @@
         <mark key="^" line="269" column="45" />
         <mark key="." line="269" column="45" />
       </file>
-      <file name="/dummy.sql" timestamp="1547139479774">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="49" />
+      <file name="/dummy.sql" timestamp="1547206385666">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Code/learning/DockerUbuntu/.gitignore" timestamp="1514880031257">
@@ -877,11 +879,12 @@
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Event/Events.php" timestamp="1547141345633">
-        <mark key="[" line="11" column="61" />
-        <mark key="]" line="11" column="56" />
-        <mark key="." line="11" column="56" />
-        <mark key="^" line="11" column="56" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Event/Events.php" timestamp="1547206668258">
+        <mark key="'" line="11" column="24" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/code/opossum/princess/AggregationOOP.php" timestamp="1522111250073">
         <mark key="[" line="6" column="0" />
@@ -889,7 +892,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547142169500">
+      <file name="/Dummy.txt" timestamp="1547206276635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -948,11 +951,11 @@
         <mark key="^" line="96" column="23" />
         <mark key="." line="96" column="23" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/config/packages/security.yaml" timestamp="1545647801166">
-        <mark key="[" line="42" column="33" />
-        <mark key="]" line="42" column="31" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/config/packages/security.yaml" timestamp="1547206972369">
+        <mark key="[" line="95" column="24" />
+        <mark key="]" line="95" column="29" />
         <mark key="^" line="42" column="31" />
-        <mark key="." line="42" column="31" />
+        <mark key="." line="95" column="29" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Event/SelectedLoanEvent.php" timestamp="1547140960646">
         <mark key="[" line="18" column="50" />
@@ -1086,13 +1089,14 @@
         <mark key="^" line="39" column="75" />
         <mark key="." line="39" column="75" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547201039256">
-        <mark key="a" line="124" column="0" />
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="89" column="15" />
-        <mark key="]" line="89" column="90" />
-        <mark key="." line="89" column="90" />
-        <mark key="^" line="89" column="90" />
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547206829109">
+        <mark key="a" line="113" column="0" />
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="20" column="82" />
+        <mark key="k" line="89" column="0" />
+        <mark key="]" line="21" column="50" />
+        <mark key="." line="21" column="50" />
+        <mark key="^" line="21" column="50" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/DocumentController.php" timestamp="1536768392549">
         <mark key="[" line="34" column="0" />
@@ -1491,7 +1495,7 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/SelectedLoanRepository.php" timestamp="1547142156756">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/SelectedLoanRepository.php" timestamp="1547205098022">
         <mark key="[" line="90" column="42" />
         <mark key="]" line="90" column="41" />
         <mark key="." line="90" column="41" />
@@ -2130,12 +2134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="0" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
-      <jump line="23" column="27" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/PushService/FCMFactory.php" />
-      <jump line="26" column="4" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/PushService/FCMFactory.php" />
-      <jump line="35" column="8" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/PushService/FCMFactory.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/PushService/FCMFactory.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/PushService/FCMFactory.php" />
       <jump line="10" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/PushService/FCMFactory.php" />
       <jump line="37" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/PushService/FCMFactory.php" />
       <jump line="34" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/PushService/FCMFactory.php" />
@@ -2194,23 +2192,18 @@
       <jump line="184" column="4" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/LoanRpcService.php" />
       <jump line="76" column="55" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="106" column="13" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="113" column="68" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="88" column="13" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="95" column="68" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="117" column="4" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="120" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="86" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="98" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="104" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="116" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="103" column="12" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="35" column="20" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/SelectedLoanRepositoryInterface.php" />
       <jump line="41" column="8" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="108" column="33" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="92" column="20" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="14" column="6" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="21" column="18" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="26" column="25" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="110" column="45" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="90" column="49" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
@@ -2230,6 +2223,17 @@
       <jump line="78" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="124" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="140" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
+      <jump line="120" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
+      <jump line="103" column="8" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
+      <jump line="91" column="4" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
+      <jump line="86" column="54" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
+      <jump line="31" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Event/Events.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Event/Events.php" />
+      <jump line="11" column="24" filename="$USER_HOME$/code/devim/dzp/src/App/Event/Events.php" />
+      <jump line="21" column="67" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
+      <jump line="118" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
+      <jump line="113" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
+      <jump line="114" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2251,32 +2255,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ewogICAgICAgIGZvcmVhY2ggKHNlbGY6OlJFTUlOREVSX0RBWVNbc2VsZjo6Q0xJRU5UX1RZUEVfU0VDT05EQVJZXSBhcyAkZGF5KSB7CiAgICAgICAgICAgICRkYXlBZ29TdGFydCA9IG5ldyBcRGF0ZVRpbWUoJy0nIC4gJGRheSAuICcgZGF5cyBtaWRuaWdodCcpOwogICAgICAgICAgICAkZGF5QWdvRW5kID0gKG5ldyBcRGF0ZVRpbWUoJy0nIC4gJGRheSAuICcgZGF5cycpKS0+c2V0VGltZSgyMywgNTksIDU5KTsKCiAgICAgICAgICAgICRvZmZzZXQgPSAwOwogICAgICAgICAgICAkbWF4SXRlcmF0aW9ucyA9IDEwMDA7CiAgICAgICAgICAgIGRvIHsKICAgICAgICAgICAgICAgICRzZWxlY3RlZExvYW5zID0gJHRoaXMtPnNlbGVjdGVkTG9hblJlcG9zaXRvcnktPmZpbmRDbGllbnRXaXRoQWJhbmRvbmVkTG9hbigKICAgICAgICAgICAgICAgICAgICAkZGF5QWdvU3RhcnQsCiAgICAgICAgICAgICAgICAgICAgJGRheUFnb0VuZCwKICAgICAgICAgICAgICAgICAgICBmYWxzZSwKICAgICAgICAgICAgICAgICAgICAkb2Zmc2V0LAogICAgICAgICAgICAgICAgICAgIHNlbGY6OlJPV19MSU1JVAogICAgICAgICAgICAgICAgKTsKCiAgICAgICAgICAgICAgICBmb3JlYWNoICgkc2VsZWN0ZWRMb2FucyBhcyAkbG9hbikgewogICAgICAgICAgICAgICAgICAgICR0aGlzLT5kaXNwYXRjaGVyLT5kaXNwYXRjaChFdmVudHM6OkNMSUVOVF9SRUdVTEFSX0FCQU5ET05FRF9MT0FOLCBuZXcgTG9hbkFiYW5kb25lZEV2ZW50KCRsb2FuLCAkZGF5KSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgJG9mZnNldCArPSBzZWxmOjpST1dfTElNSVQ7CiAgICAgICAgICAgIH0gd2hpbGUgKFxjb3VudCgkc2VsZWN0ZWRMb2FucykgPT09IHNlbGY6OlJPV19MSU1JVCAmJiAkbWF4SXRlcmF0aW9ucy0tICE9PSAwKTsKICAgICAgICB9CiAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIERldmltXENvbXBvbmVudFxOb3RpZmljYXRpb25TeXN0ZW1cTG9hblJlcG9zaXRvcnlJbnRlcmZhY2U7Cg==</text>
+      </register>
+      <register name="b" type="4">
+        <text />
       </register>
       <register name="j" type="4">
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>LIENT_NOT_REGULAR_ABANDONED_LOAN</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRheUFnb0VuZCA9IChuZXcgXERhdGVUaW1lKCctJyAuICRkYXkgLiAnIGRheXMnKSktPnNldFRpbWUoMjMsIDU5LCA1OSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUEFTU1dPUkQ6IDdrekM4UUNCYjEKICAgICAgICAgICAgICAgICAgICAgICAgUk9MRVM6ICdyb2xlX3VuZGVyJwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ewogICAgICAgIGZvcmVhY2ggKHNlbGY6OlJFTUlOREVSX0RBWVNbc2VsZjo6Q0xJRU5UX1RZUEVfU0VDT05EQVJZXSBhcyAkZGF5KSB7CiAgICAgICAgICAgICRkYXlBZ29TdGFydCA9IG5ldyBcRGF0ZVRpbWUoJy0nIC4gJGRheSAuICcgZGF5cyBtaWRuaWdodCcpOwogICAgICAgICAgICAkZGF5QWdvRW5kID0gKG5ldyBcRGF0ZVRpbWUoJy0nIC4gJGRheSAuICcgZGF5cycpKS0+c2V0VGltZSgyMywgNTksIDU5KTsKCiAgICAgICAgICAgICRvZmZzZXQgPSAwOwogICAgICAgICAgICAkbWF4SXRlcmF0aW9ucyA9IDEwMDA7CiAgICAgICAgICAgIGRvIHsKICAgICAgICAgICAgICAgICRzZWxlY3RlZExvYW5zID0gJHRoaXMtPnNlbGVjdGVkTG9hblJlcG9zaXRvcnktPmZpbmRDbGllbnRXaXRoQWJhbmRvbmVkTG9hbigKICAgICAgICAgICAgICAgICAgICAkZGF5QWdvU3RhcnQsCiAgICAgICAgICAgICAgICAgICAgJGRheUFnb0VuZCwKICAgICAgICAgICAgICAgICAgICBmYWxzZSwKICAgICAgICAgICAgICAgICAgICAkb2Zmc2V0LAogICAgICAgICAgICAgICAgICAgIHNlbGY6OlJPV19MSU1JVAogICAgICAgICAgICAgICAgKTsKCiAgICAgICAgICAgICAgICBmb3JlYWNoICgkc2VsZWN0ZWRMb2FucyBhcyAkbG9hbikgewogICAgICAgICAgICAgICAgICAgICR0aGlzLT5kaXNwYXRjaGVyLT5kaXNwYXRjaChFdmVudHM6OkNMSUVOVF9SRUdVTEFSX0FCQU5ET05FRF9MT0FOLCBuZXcgTG9hbkFiYW5kb25lZEV2ZW50KCRsb2FuLCAkZGF5KSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgJG9mZnNldCArPSBzZWxmOjpST1dfTElNSVQ7CiAgICAgICAgICAgIH0gd2hpbGUgKFxjb3VudCgkc2VsZWN0ZWRMb2FucykgPT09IHNlbGY6OlJPV19MSU1JVCAmJiAkbWF4SXRlcmF0aW9ucy0tICE9PSAwKTsKICAgICAgICB9CiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIERldmltXENvbXBvbmVudFxOb3RpZmljYXRpb25TeXN0ZW1cTG9hblJlcG9zaXRvcnlJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBDTElFTlRfSU5BQ1RJVkUgICAgICAgICAgICAgICAgICAgPSAnY2xpZW50LmluYWN0aXZlJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoIChzZWxmOjpSRU1JTkRFUl9EQVlTW3NlbGY6OkNMSUVOVF9UWVBFX1BSSU1BUlldIGFzICRkYXkpIHsKICAgICAgICAgICAgJGRheUFnb1N0YXJ0ID0gbmV3IFxEYXRlVGltZSgnLScgLiAkZGF5IC4gJyBkYXlzJyk7CiAgICAgICAgICAgICRkYXlBZ29FbmQgPSAobmV3IFxEYXRlVGltZSgnLScgLiAkZGF5IC4gJyBkYXlzJykpLT5zZXRUaW1lKDIzLCA1OSwgNTkpOwoKICAgICAgICAgICAgJG9mZnNldCA9IDA7CiAgICAgICAgICAgICRtYXhJdGVyYXRpb25zID0gMTAwMDsKICAgICAgICAgICAgZG8gewogICAgICAgICAgICAgICAgJHNlbGVjdGVkTG9hbnMgPSAkdGhpcy0+c2VsZWN0ZWRMb2FuUmVwb3NpdG9yeS0+ZmluZENsaWVudFdpdGhBYmFuZG9uZWRMb2FuKAogICAgICAgICAgICAgICAgICAgICRkYXlBZ29TdGFydCwKICAgICAgICAgICAgICAgICAgICAkZGF5QWdvRW5kLAogICAgICAgICAgICAgICAgICAgIGZhbHNlLAogICAgICAgICAgICAgICAgICAgICRvZmZzZXQsCiAgICAgICAgICAgICAgICAgICAgc2VsZjo6Uk9XX0xJTUlUCiAgICAgICAgICAgICAgICApOwoKICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRzZWxlY3RlZExvYW5zIGFzICRsb2FuKSB7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmRpc3BhdGNoZXItPmRpc3BhdGNoKEV2ZW50czo6Q0xJRU5UX05PVF9SRUdVTEFSX0FCQU5ET05FRF9MT0FOLCBuZXcgTG9hbkFiYW5kb25lZEV2ZW50KCRsb2FuLCAkZGF5KSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgJG9mZnNldCArPSBzZWxmOjpST1dfTElNSVQ7CiAgICAgICAgICAgIH0gd2hpbGUgKFxjb3VudCgkc2VsZWN0ZWRMb2FucykgPT09IHNlbGY6OlJPV19MSU1JVCAmJiAkbWF4SXRlcmF0aW9ucy0tICE9PSAwKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2351,25 +2358,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRheUFnb0VuZCAgID0gbmV3IFxEYXRlVGltZSgnLScgLiAtLSRkYXkgLiAnZGF5cycpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgQ0xJRU5UX1RZUEVfUFJJTUFSWSAgID0gJ3ByaW1hcnknOwogICAgcHJpdmF0ZSBjb25zdCBDTElFTlRfVFlQRV9TRUNPTkRBUlkgPSAnc2Vjb25kYXJ5JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWZqZGpka2tqO2FrIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgQ0xJRU5UX1RZUEVfUFJJTUFSWSAgID0gJ3ByaW1hcnknOwogICAgcHJpdmF0ZSBjb25zdCBDTElFTlRfVFlQRV9TRUNPTkRBUlkgPSAnc2Vjb25kYXJ5JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWZqZGpka2tqO2FrIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzc3Bvd3JrCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGZpZmpkamRra2o7YWsgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGF5QWdvU3RhcnQsCiAgICAgICAgICAgICAgICAgICAgJGRheUFnb0VuZCwKICAgICAgICAgICAgICAgICAgICAkaXNSZWd1bGFyLAogICAgICAgICAgICAgICAgICAgICRvZmZzZXQsCiAgICAgICAgICAgICAgICAgICAgc2VsZjo6Uk9XX0xJTUlUCiAgICAgICAgICAgICAgICApOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZmlmamRqZGtrajthawo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ewogICAgICAgIGZvcmVhY2ggKHNlbGY6OlJFTUlOREVSX0RBWVNbc2VsZjo6Q0xJRU5UX1RZUEVfU0VDT05EQVJZXSBhcyAkZGF5KSB7CiAgICAgICAgICAgICRkYXlBZ29TdGFydCA9IG5ldyBcRGF0ZVRpbWUoJy0nIC4gJGRheSAuICcgZGF5cyBtaWRuaWdodCcpOwogICAgICAgICAgICAkZGF5QWdvRW5kID0gKG5ldyBcRGF0ZVRpbWUoJy0nIC4gJGRheSAuICcgZGF5cycpKS0+c2V0VGltZSgyMywgNTksIDU5KTsKCiAgICAgICAgICAgICRvZmZzZXQgPSAwOwogICAgICAgICAgICAkbWF4SXRlcmF0aW9ucyA9IDEwMDA7CiAgICAgICAgICAgIGRvIHsKICAgICAgICAgICAgICAgICRzZWxlY3RlZExvYW5zID0gJHRoaXMtPnNlbGVjdGVkTG9hblJlcG9zaXRvcnktPmZpbmRDbGllbnRXaXRoQWJhbmRvbmVkTG9hbigKICAgICAgICAgICAgICAgICAgICAkZGF5QWdvU3RhcnQsCiAgICAgICAgICAgICAgICAgICAgJGRheUFnb0VuZCwKICAgICAgICAgICAgICAgICAgICBmYWxzZSwKICAgICAgICAgICAgICAgICAgICAkb2Zmc2V0LAogICAgICAgICAgICAgICAgICAgIHNlbGY6OlJPV19MSU1JVAogICAgICAgICAgICAgICAgKTsKCiAgICAgICAgICAgICAgICBmb3JlYWNoICgkc2VsZWN0ZWRMb2FucyBhcyAkbG9hbikgewogICAgICAgICAgICAgICAgICAgICR0aGlzLT5kaXNwYXRjaGVyLT5kaXNwYXRjaChFdmVudHM6OkNMSUVOVF9SRUdVTEFSX0FCQU5ET05FRF9MT0FOLCBuZXcgTG9hbkFiYW5kb25lZEV2ZW50KCRsb2FuLCAkZGF5KSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgJG9mZnNldCArPSBzZWxmOjpST1dfTElNSVQ7CiAgICAgICAgICAgIH0gd2hpbGUgKFxjb3VudCgkc2VsZWN0ZWRMb2FucykgPT09IHNlbGY6OlJPV19MSU1JVCAmJiAkbWF4SXRlcmF0aW9ucy0tICE9PSAwKTsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

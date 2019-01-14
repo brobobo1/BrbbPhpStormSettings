@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -725,11 +725,11 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console_3.sql" timestamp="1547478719523">
-        <mark key="[" line="100" column="11" />
-        <mark key="]" line="101" column="20" />
-        <mark key="^" line="101" column="20" />
-        <mark key="." line="101" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console_3.sql" timestamp="1547485093878">
+        <mark key="[" line="114" column="39" />
+        <mark key="]" line="114" column="41" />
+        <mark key="." line="114" column="41" />
+        <mark key="^" line="114" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1517582554275">
         <mark key="[" line="358" column="21" />
@@ -840,14 +840,14 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/ClientRepository.php" timestamp="1547481015848">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/ClientRepository.php" timestamp="1547484580602">
         <mark key="'" line="560" column="3" />
-        <mark key="[" line="565" column="0" />
-        <mark key="]" line="565" column="0" />
-        <mark key="^" line="570" column="19" />
-        <mark key="." line="565" column="0" />
+        <mark key="[" line="561" column="46" />
+        <mark key="]" line="561" column="47" />
+        <mark key="." line="561" column="47" />
+        <mark key="^" line="561" column="45" />
       </file>
-      <file name="/dummy.sql" timestamp="1547222771908">
+      <file name="/dummy.sql" timestamp="1547484664408">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -896,7 +896,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547213350270">
+      <file name="/Dummy.txt" timestamp="1547483900929">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2258,7 +2258,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIGwuY3JlYXRlZGF0ID0gbDEuY3JlYXRlZGF0Cg==</text>
+        <text encoding="base64">YW5kIGwuaWQgKHNlbGVjKQo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2273,19 +2273,19 @@
         <text>day</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0CiAgYzIuaWQsIGMyLmFyY2hpaWQKZnJvbSBsb2FuIGwKaW5uZXIgam9pbiAoCiAgc2VsZWN0CiAgICBtYXgoaWQpIGFzIGlkLAogICAgY2xpZW50aWQgYXMgY2xpZW50aWQKICBmcm9tIGxvYW4KICBncm91cCBieSBjbGllbnRpZAopIGFzIGwxIG9uIGwuaWQgPSBsMS5pZAogIGpvaW4gY2xpZW50IGMyIE9OIGwuY2xpZW50aWQgPSBjMi5pZApXSEVSRSBsLmNsb3NlZGF0ID49ICcyMDE4MTIxNScgQU5EIGwuY2xvc2VkYXQgPCAnMjAxODEyMTYnOwo=</text>
+        <text encoding="base64">V0hFUkUgbC5jbG9zZWRhdCA+PSAnMjAxODEyMTUnIEFORCBsLmNsb3NlZGF0IDwgJzIwMTgxMjE2Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIGwuY3JlYXRlZGF0ID0gbDEuY3JlYXRlZGF0Cg==</text>
+        <text encoding="base64">YW5kIGwuaWQgKHNlbGVjKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgSU5ORVIgSk9JTiAoCiAgICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICBtYXgoY3JlYXRlZGF0KSBBUyBjcmVhdGVkYXQsCiAgICAgICAgICAgICAgICBjbGllbnRpZCBBUyBjbGllbnRpZAogICAgICAgICAgICAgIEZST00gbG9hbgogICAgICAgICAgICAgIEdST1VQIEJZIGNsaWVudGlkCiAgICAgICAgICAgICkgQVMgbDEgT04gbC5jbGllbnRpZCA9IGwxLmNsaWVudGlk</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBzZWxlY3QgKAogICAgc2VsZWN0CiAgICAgIGNsaWVudGlkLCBtYXgoaWQpCiAgICBmcm9tIGxvYW4KICAgIHdoZXJlIAoKICAgICAgICAgKSBhcyBsMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjMi5pZCwgYzIuYXJjaGlpZAo=</text>
+        <text encoding="base64">d2hlcmUgbC5jbG9zZWRhdCAgCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2360,25 +2360,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbm5lciBqb2luICgKICAgICAgICAgICAgICAgc2VsZWN0CiAgICAgICAgICAgICAgICAgbWF4KGlkKSBhcyBpZCwKICAgICAgICAgICAgICAgICBjbGllbnRpZCBhcyBjbGllbnRpZAogICAgICAgICAgICAgICBmcm9tIGxvYW4KICAgICAgICAgICAgICAgZ3JvdXAgYnkgY2xpZW50aWQKICAgICAgICAgICAgICkgYXMgbDEgb24gbC5pZCA9IGwxLmlkCiAgam9pbiBjbGllbnQgYzIgT04gbC5jbGllbnRpZCA9IGMyLmlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgV0hFUkUgbC5jbG9zZWRhdCA+PSA6ZnJvbSBBTkQgbC5jbG9zZWRhdCA8PSA6dG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YW5kIGwuY3JlYXRlZGF0ID0gbDEuY3JlYXRlZGF0Owo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZnJvbS0+Zm9ybWF0KCdZLW0tZCBIOmk6cycpKTsKICAgICAgICB2YXJfZHVtcCgkdG8tPmZvcm1hdCgnWS1tLWQgSDppOnMnKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBqb2luIGNsaWVudCBjMiBPTiBsLmNsaWVudGlkID0gYzIuaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgV0hFUkUgbC5jbG9zZWRhdCA+PSA6ZnJvbSBBTkQgbC5jbG9zZWRhdCA8PSA6dG8K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RtdC0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjMi5pZCBhcyBpZCwgYzIuYXJjaGlpZCBhcyBhcmNoaUlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJHN0bXQpCg==</text>
+        <text encoding="base64">SU5ORVIgSk9JTiBjbGllbnQgYzIgT04gbC5jbGllbnRpZCA9IGMyLmlkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIGwuY3JlYXRlZGF0ID0gbDEuY3JlYXRlZGF0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

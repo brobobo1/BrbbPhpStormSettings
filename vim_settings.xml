@@ -886,7 +886,7 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547409121003">
+      <file name="/Dummy.txt" timestamp="1547455396055">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1084,11 +1084,12 @@
         <mark key="^" line="39" column="75" />
         <mark key="." line="39" column="75" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547410501376">
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547455367019">
         <mark key="'" line="49" column="11" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="120" column="85" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/DocumentController.php" timestamp="1536768392549">
         <mark key="[" line="34" column="0" />
@@ -2239,8 +2240,8 @@
       <jump line="1324" column="17" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/LoanRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dayAgoEnd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJ0xvYW4nKTsK</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2254,22 +2255,20 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0bmVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXJJbnRlcmZhY2UgJGxvZ2dlciwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHRoaXMtPnByZXBhcmVEYXRhRm9yRGlzcGF0Y2goJG1ldGhvZCwgJGV2ZW50KSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChWMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJ0xvYW4nKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>t = null, int $offset = 0): array
-    {
-        var_dump(V1;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJ0NsaWVudCcpOwo=</text>
       </register>
-      <register name="3" type="8">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJ1NlbGVjdGVkTG9hbicpOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2343,26 +2342,28 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">MSk7CiAgICAgICAgJHFiID0gJHRoaXMtPmNy</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRldmVudCwgJGRheSwgXGNvdW50KCRkYXRhKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGRheSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyX2R1bXAoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChzZWxmOjpSRU1JTkRFUl9EQVlTWyRldmVudF0pOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyX2R1bXAoMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCR0aGlzLT5wcmVwYXJlRGF0YUZvckRpc3BhdGNoKCRtZXRob2QsICRldmVudCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2FuUmVwb3NpdG9yeUludGVyZmFjZSAkbG9hblJlcG9zaXRvcnksCiAgICAgICAgU2VsZWN0ZWRMb2FuUmVwb3NpdG9yeUludGVyZmFjZSAkc2VsZWN0ZWRMb2FuUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChWMTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFwcFsnb3JtLmVtJ10K</text>
+      <register name="9" type="4">
+        <text>t = null, int $offset = 0): array
+    {
+        var_dump(V1;</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

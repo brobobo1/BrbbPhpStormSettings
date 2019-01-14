@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -1109,14 +1109,14 @@
         <mark key="^" line="39" column="75" />
         <mark key="." line="39" column="75" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547222489802">
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547456047705">
         <mark key="a" line="113" column="0" />
         <mark key="'" line="34" column="29" />
-        <mark key="[" line="21" column="35" />
+        <mark key="[" line="95" column="0" />
         <mark key="k" line="89" column="0" />
-        <mark key="]" line="79" column="48" />
-        <mark key="." line="79" column="48" />
-        <mark key="^" line="79" column="48" />
+        <mark key="]" line="95" column="16" />
+        <mark key="." line="128" column="0" />
+        <mark key="^" line="128" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/DocumentController.php" timestamp="1536768392549">
         <mark key="[" line="34" column="0" />
@@ -1515,11 +1515,11 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/SelectedLoanRepository.php" timestamp="1547212515456">
-        <mark key="[" line="66" column="44" />
-        <mark key="]" line="66" column="45" />
-        <mark key="." line="66" column="45" />
-        <mark key="^" line="66" column="45" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/SelectedLoanRepository.php" timestamp="1547456108569">
+        <mark key="[" line="71" column="31" />
+        <mark key="]" line="71" column="31" />
+        <mark key="." line="71" column="31" />
+        <mark key="^" line="71" column="31" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/DTO/Event.php" timestamp="1531834421310">
         <mark key="[" line="6" column="1" />
@@ -2287,8 +2287,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>select clientid, max(lastactivityat) from sm_token t1 group by clientid;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2302,8 +2302,8 @@
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="4">
-        <text>select clientid, max(lastactivityat) from sm_token t1 group by clientid;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">d2hlcmUgdDIuaWQgaW4gKAo=</text>

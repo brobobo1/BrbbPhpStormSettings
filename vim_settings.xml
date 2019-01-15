@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -311,14 +311,14 @@
         <mark key="." line="39" column="44" />
         <mark key="^" line="39" column="44" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" timestamp="1547546621355">
-        <mark key="a" line="225" column="68" />
-        <mark key="s" line="876" column="4" />
-        <mark key="'" line="225" column="58" />
-        <mark key="[" line="882" column="122" />
-        <mark key="]" line="882" column="122" />
-        <mark key="." line="882" column="122" />
-        <mark key="^" line="882" column="122" />
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" timestamp="1547549152648">
+        <mark key="a" line="226" column="68" />
+        <mark key="s" line="877" column="4" />
+        <mark key="'" line="885" column="21" />
+        <mark key="[" line="229" column="56" />
+        <mark key="]" line="229" column="62" />
+        <mark key="." line="229" column="62" />
+        <mark key="^" line="229" column="62" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/ApiRequestInterface.php" timestamp="1538643678121">
         <mark key="[" line="7" column="54" />
@@ -1091,13 +1091,13 @@
         <mark key="^" line="39" column="75" />
         <mark key="." line="39" column="75" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547546509666">
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547546746361">
         <mark key="a" line="108" column="0" />
         <mark key="'" line="34" column="29" />
         <mark key="[" line="97" column="92" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="27" column="55" />
+        <mark key="]" line="79" column="63" />
+        <mark key="." line="79" column="63" />
+        <mark key="^" line="79" column="63" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/DocumentController.php" timestamp="1536768392549">
         <mark key="[" line="34" column="0" />
@@ -2134,9 +2134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="916" column="34" filename="$USER_HOME$/code/devim/dzp/config/config.php" />
-      <jump line="661" column="6" filename="$USER_HOME$/code/devim/dzp/src/services.php" />
-      <jump line="97" column="28" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/Component/PushNotifyCommand.php" />
       <jump line="22" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/Component/PushNotifyCommand.php" />
       <jump line="508" column="20" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/ClientRepository.php" />
       <jump line="13" column="14" filename="$USER_HOME$/code/devim/dzp/tests/unit/App/Service/BinNumberService/BinNumberServiceTest.php" />
@@ -2234,6 +2231,9 @@
       <jump line="212" column="68" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
       <jump line="875" column="4" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
       <jump line="224" column="58" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
+      <jump line="879" column="4" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
+      <jump line="231" column="40" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
+      <jump line="885" column="21" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2255,8 +2255,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>loanId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBvblJlZ3VsYXJDbGllbnRBYmFuZG9uZWRMb2FuKExvYW5BYmFuZG9uZWRFdmVudCAkZXZlbnQpOiB2b2lkCiAgICB7CiAgICAgICAgJGNsaWVudCA9ICRldmVudC0+Z2V0U2VsZWN0ZWRMb2FuKCktPmdldENsaWVudCgpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgICR0aGlzLT5zYXZlRXZlbnQoRXZlbnRzOjpDTElFTlRfUkVHVUxBUl9BQkFORE9ORURfTE9BTiwgWwogICAgICAgICAgICAgICAgJ2NsaWVudElkJyA9PiAkY2xpZW50LT5nZXRJZCgpLCAKICAgICAgICAgICAgICAgICdkYXknID0+ICRldmVudC0+Z2V0RGF5c0FnbygpCiAgICAgICAgICAgIF0pOwogICAgICAgIH0gY2F0Y2ggKFxFeGNlcHRpb24gJGV4KSB7CiAgICAgICAgICAgICR0aGlzLT5sb2dnZXItPmVycm9yKCRleC0+Z2V0TWVzc2FnZSgpLCBbJ05vdGlmaWNhdGlvblN1YnNjcmliZXInLCAnb25DbGllbnRBYmFuZG9uZWRMb2FhbiddKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2265,25 +2265,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>loanId</text>
+        <text encoding="base64">JGNsaWVudC0+aXNSZQ==</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9hbiA9ICRldmVudC0+Z2V0TG9hbigpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgICR0aGlzLT5zYXZlRXZlbnQoRXZlbnRzOjpMT0FOX1BSRUFQUFJPVkVELCBbJ2xvYW5JZCcgPT4gJGxvYW4tPmdldElkKCksICdkYXknID0+ICRldmVudC0+Z2V0RGF5KCldKTsKICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRleCkgewogICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5lcnJvcigkZXgtPmdldE1lc3NhZ2UoKSwgWydOb3RpZmljYXRpb25TdWJzY3JpYmVyJywgJ29uTG9hblByZWFwcHJvdmVkJ10pOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBvblJlZ3VsYXJDbGllbnRBYmFuZG9uZWRMb2FuKExvYW5BYmFuZG9uZWRFdmVudCAkZXZlbnQpOiB2b2lkCiAgICB7CiAgICAgICAgJGNsaWVudCA9ICRldmVudC0+Z2V0U2VsZWN0ZWRMb2FuKCktPmdldENsaWVudCgpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgICR0aGlzLT5zYXZlRXZlbnQoRXZlbnRzOjpDTElFTlRfUkVHVUxBUl9BQkFORE9ORURfTE9BTiwgWwogICAgICAgICAgICAgICAgJ2NsaWVudElkJyA9PiAkY2xpZW50LT5nZXRJZCgpLCAKICAgICAgICAgICAgICAgICdkYXknID0+ICRldmVudC0+Z2V0RGF5c0FnbygpCiAgICAgICAgICAgIF0pOwogICAgICAgIH0gY2F0Y2ggKFxFeGNlcHRpb24gJGV4KSB7CiAgICAgICAgICAgICR0aGlzLT5sb2dnZXItPmVycm9yKCRleC0+Z2V0TWVzc2FnZSgpLCBbJ05vdGlmaWNhdGlvblN1YnNjcmliZXInLCAnb25DbGllbnRBYmFuZG9uZWRMb2FhbiddKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEBzZWUgTm90aWZpY2F0aW9uU3Vic2NyaWJlcjo6b25DbGllbnRWZXJpZmllZCAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2358,25 +2358,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEBzZWUgTm90aWZpY2F0aW9uU3Vic2NyaWJlcjo6b25DbGllbnRWZXJpZmllZCAqLwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXZlbnRzOjpWSQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIGwuc3RhdHVzID0gOnN0YXR1cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

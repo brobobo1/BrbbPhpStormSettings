@@ -1097,13 +1097,13 @@
         <mark key="^" line="39" column="75" />
         <mark key="." line="39" column="75" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547552633734">
-        <mark key="a" line="119" column="0" />
-        <mark key="'" line="35" column="29" />
-        <mark key="[" line="102" column="37" />
-        <mark key="]" line="102" column="36" />
-        <mark key="." line="102" column="36" />
-        <mark key="^" line="102" column="36" />
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547553497342">
+        <mark key="a" line="132" column="0" />
+        <mark key="'" line="36" column="29" />
+        <mark key="[" line="120" column="36" />
+        <mark key="]" line="120" column="52" />
+        <mark key="." line="120" column="36" />
+        <mark key="^" line="126" column="56" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/DocumentController.php" timestamp="1536768392549">
         <mark key="[" line="34" column="0" />
@@ -2267,8 +2267,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIAo=</text>
+      <register name="&quot;" type="4">
+        <text>$dayLastArcitvity</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2277,16 +2277,16 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>ClientNotFoundException</text>
+        <text>$dayLastArcitvity</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRsYXN0TG9hbiA9ICR0aGlzLT5zY29yaW5nQ2xpZW50LT5nZXRMYXN0TG9hbk9yZGVyKCRpdGVtLT5nZXRBcmNoaUlkKCkpOyAK</text>
+      <register name="0" type="4">
+        <text>$dayLastActivity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2295,7 +2295,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IExvYW5Ob3QoJGUtPmdldE1lc3NhZ2UoKSwgJGUtPmdldERhdGEoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmRpc3BhdGNoZXItPmRpc3BhdGNoKCRldmVudCwgJGV2ZW50Q2xhc3MpOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2370,25 +2370,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoICgpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGRheUxhc3RBcmNpdHZpdHkgPSAobmV3IFxEYXRlVGltZSgkbGFzdExvYW5bJ0NyZWF0ZWRBdCddKSktPnNldFRpbWUoMCwgMCwgMCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGxhc3RBY3Rpdml0eSA9IChuZXcgXERhdGVUaW1lKCRsYXN0KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEBzZWUgTm90aWZpY2F0aW9uU3Vic2NyaWJlcjo6b25DbGllbnRWZXJpZmllZCAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRsYXN0TG9hbiA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

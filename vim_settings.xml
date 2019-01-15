@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -512,11 +512,11 @@
         <mark key="^" line="32" column="26" />
         <mark key="." line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/events.php" timestamp="1547473631094">
-        <mark key="[" line="228" column="29" />
-        <mark key="]" line="228" column="34" />
-        <mark key="^" line="228" column="34" />
-        <mark key="." line="228" column="34" />
+      <file name="$USER_HOME$/code/devim/dzp/src/events.php" timestamp="1547552392070">
+        <mark key="[" line="231" column="26" />
+        <mark key="]" line="232" column="31" />
+        <mark key="^" line="232" column="31" />
+        <mark key="." line="232" column="31" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Form/Profile/ContactFormTypeV13.php" timestamp="1533028728555">
         <mark key="[" line="37" column="0" />
@@ -535,6 +535,12 @@
         <mark key="]" line="18" column="38" />
         <mark key="^" line="18" column="38" />
         <mark key="." line="18" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1547552286623">
+        <mark key="[" line="391" column="0" />
+        <mark key="]" line="391" column="56" />
+        <mark key="." line="390" column="18" />
+        <mark key="^" line="390" column="18" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/Rpc/EsiaRpcServiceTest.php" timestamp="1542127484227">
         <mark key="[" line="14" column="22" />
@@ -1091,13 +1097,13 @@
         <mark key="^" line="39" column="75" />
         <mark key="." line="39" column="75" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547546746361">
-        <mark key="a" line="108" column="0" />
-        <mark key="'" line="34" column="29" />
-        <mark key="[" line="97" column="92" />
-        <mark key="]" line="79" column="63" />
-        <mark key="." line="79" column="63" />
-        <mark key="^" line="79" column="63" />
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547552633734">
+        <mark key="a" line="119" column="0" />
+        <mark key="'" line="35" column="29" />
+        <mark key="[" line="102" column="37" />
+        <mark key="]" line="102" column="36" />
+        <mark key="." line="102" column="36" />
+        <mark key="^" line="102" column="36" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/DocumentController.php" timestamp="1536768392549">
         <mark key="[" line="34" column="0" />
@@ -1182,6 +1188,12 @@
         <mark key="]" line="12" column="44" />
         <mark key="^" line="12" column="44" />
         <mark key="." line="12" column="44" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/scoring-client/src/ScoringClientInterface.php" timestamp="1547552311317">
+        <mark key="[" line="631" column="4" />
+        <mark key="]" line="632" column="37" />
+        <mark key="." line="632" column="37" />
+        <mark key="^" line="632" column="37" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Repository/EventReportRepository.php" timestamp="1538580140511">
         <mark key="[" line="16" column="50" />
@@ -2256,7 +2268,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBvblJlZ3VsYXJDbGllbnRBYmFuZG9uZWRMb2FuKExvYW5BYmFuZG9uZWRFdmVudCAkZXZlbnQpOiB2b2lkCiAgICB7CiAgICAgICAgJGNsaWVudCA9ICRldmVudC0+Z2V0U2VsZWN0ZWRMb2FuKCktPmdldENsaWVudCgpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgICR0aGlzLT5zYXZlRXZlbnQoRXZlbnRzOjpDTElFTlRfUkVHVUxBUl9BQkFORE9ORURfTE9BTiwgWwogICAgICAgICAgICAgICAgJ2NsaWVudElkJyA9PiAkY2xpZW50LT5nZXRJZCgpLCAKICAgICAgICAgICAgICAgICdkYXknID0+ICRldmVudC0+Z2V0RGF5c0FnbygpCiAgICAgICAgICAgIF0pOwogICAgICAgIH0gY2F0Y2ggKFxFeGNlcHRpb24gJGV4KSB7CiAgICAgICAgICAgICR0aGlzLT5sb2dnZXItPmVycm9yKCRleC0+Z2V0TWVzc2FnZSgpLCBbJ05vdGlmaWNhdGlvblN1YnNjcmliZXInLCAnb25DbGllbnRBYmFuZG9uZWRMb2FhbiddKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2265,16 +2277,16 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGNsaWVudC0+aXNSZQ==</text>
+        <text>ClientNotFoundException</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBvblJlZ3VsYXJDbGllbnRBYmFuZG9uZWRMb2FuKExvYW5BYmFuZG9uZWRFdmVudCAkZXZlbnQpOiB2b2lkCiAgICB7CiAgICAgICAgJGNsaWVudCA9ICRldmVudC0+Z2V0U2VsZWN0ZWRMb2FuKCktPmdldENsaWVudCgpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgICR0aGlzLT5zYXZlRXZlbnQoRXZlbnRzOjpDTElFTlRfUkVHVUxBUl9BQkFORE9ORURfTE9BTiwgWwogICAgICAgICAgICAgICAgJ2NsaWVudElkJyA9PiAkY2xpZW50LT5nZXRJZCgpLCAKICAgICAgICAgICAgICAgICdkYXknID0+ICRldmVudC0+Z2V0RGF5c0FnbygpCiAgICAgICAgICAgIF0pOwogICAgICAgIH0gY2F0Y2ggKFxFeGNlcHRpb24gJGV4KSB7CiAgICAgICAgICAgICR0aGlzLT5sb2dnZXItPmVycm9yKCRleC0+Z2V0TWVzc2FnZSgpLCBbJ05vdGlmaWNhdGlvblN1YnNjcmliZXInLCAnb25DbGllbnRBYmFuZG9uZWRMb2FhbiddKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRsYXN0TG9hbiA9ICR0aGlzLT5zY29yaW5nQ2xpZW50LT5nZXRMYXN0TG9hbk9yZGVyKCRpdGVtLT5nZXRBcmNoaUlkKCkpOyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2283,7 +2295,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IExvYW5Ob3QoJGUtPmdldE1lc3NhZ2UoKSwgJGUtPmdldERhdGEoKSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2358,10 +2370,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEBzZWUgTm90aWZpY2F0aW9uU3Vic2NyaWJlcjo6b25DbGllbnRWZXJpZmllZCAqLwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoICgpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -2370,13 +2382,13 @@
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEBzZWUgTm90aWZpY2F0aW9uU3Vic2NyaWJlcjo6b25DbGllbnRWZXJpZmllZCAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>

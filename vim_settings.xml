@@ -828,8 +828,11 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/SelectedLoanRepository.php" timestamp="1547651739100">
-        <mark key="[" line="87" column="46" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/SelectedLoanRepository.php" timestamp="1547654599897">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Handler/AbstractHandler.php" timestamp="1544299839869">
         <mark key="[" line="21" column="51" />
@@ -1473,12 +1476,12 @@
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" timestamp="1547651662516">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" timestamp="1547653842536">
         <mark key="'" line="554" column="17" />
-        <mark key="[" line="654" column="17" />
-        <mark key="]" line="654" column="17" />
-        <mark key="^" line="654" column="17" />
-        <mark key="." line="654" column="17" />
+        <mark key="[" line="677" column="8" />
+        <mark key="]" line="677" column="8" />
+        <mark key="^" line="666" column="13" />
+        <mark key="." line="677" column="8" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/BinRepositoryInterface.php" timestamp="1540821392503">
         <mark key="[" line="10" column="0" />
@@ -1666,13 +1669,13 @@
         <mark key="." line="45" column="85" />
         <mark key="^" line="45" column="85" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547652169979">
-        <mark key="a" line="139" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1547655440125">
+        <mark key="a" line="143" column="0" />
         <mark key="'" line="36" column="29" />
-        <mark key="[" line="159" column="37" />
-        <mark key="]" line="159" column="34" />
-        <mark key="." line="159" column="34" />
-        <mark key="^" line="159" column="34" />
+        <mark key="[" line="101" column="34" />
+        <mark key="]" line="101" column="33" />
+        <mark key="." line="101" column="33" />
+        <mark key="^" line="101" column="33" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/DocumentController.php" timestamp="1536768392549">
         <mark key="[" line="34" column="0" />
@@ -2355,7 +2358,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRldmVudCwgJGRheUFnb1N0YXJ0LT5mb3JtYXQoJ1ktbS1kIEg6aTpzJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGltaXQsICRvZmZzZXQpOwo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2364,7 +2367,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>limit</text>
+        <text>, $limit, $offset</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
@@ -2373,16 +2376,17 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRldmVudCwgJGRheUFnb1N0YXJ0LT5mb3JtYXQoJ1ktbS1kIEg6aTpzJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChcY291bnQoJGNsaWVudHMpKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGltaXQsICRvZmZzZXQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgpCg==</text>
+      <register name="2" type="4">
+        <text>LIMIT 1000
+offset 0;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRldmVudCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2457,25 +2461,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChcY291bnQoJGNsaWVudHMpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0KCRwYXNzcG9ydFNlcnZpY2UtPmlzVmFsaWRBY2NvcmRpbmdUb1JmbSgkY2xpZW50KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQYXNzcG9ydFMoKHN0cmluZylyYW5kb21faW50KDIyMjIsIDk5OTkpKQogICAgICAgICAgICAtPnNldFBhc3Nwb3J0Tigoc3RyaW5nKXJhbmRvbV9pbnQoMzMzMzMzLCA5OTk5OTkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCdDUkVBVEUgU0NIRU1BIHB1YmxpYycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

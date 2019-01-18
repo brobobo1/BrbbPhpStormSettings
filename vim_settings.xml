@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -798,11 +798,11 @@
         <mark key="^" line="29" column="71" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/GetResponseEmailOrder.sql" timestamp="1547819762208">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="23" />
-        <mark key="^" line="12" column="23" />
-        <mark key="." line="12" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/GetResponseEmailOrder.sql" timestamp="1547823539006">
+        <mark key="[" line="18" column="126" />
+        <mark key="]" line="18" column="126" />
+        <mark key="^" line="18" column="12" />
+        <mark key="." line="18" column="126" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Provider/MobileApiServiceProvider/Controller/ProfileControllerTest.php" timestamp="1534950575542">
         <mark key="[" line="116" column="82" />
@@ -2324,8 +2324,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhcnQnICAgID0+IG5ldyBcRGF0ZVRpbWUoInskbGVmdEhvdXJzU3RyfSBob3VycyAteyRsZWV3YXlJbk1pbnV0ZXN9IG1pbnV0ZXMiKSwKICAgICAgICAgICAgICAgICAgICAnZmluaXNoJyAgID0+IG5ldyBcRGF0ZVRpbWUoInskbGVmdEhvdXJzU3RyfSBob3VycyIpLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGFuZCBzdGF0dXMgPSAwIG9yZGVyIGJ5IGNyZWF0ZWRhdCAgZGVzYw==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2334,7 +2334,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE5PVCBOVUxM</text>
+        <text encoding="base64">IGFuZCBzdGF0dXMgPSAwIG9yZGVyIGJ5IGNyZWF0ZWRhdCAgZGVzYw==</text>
       </register>
       <register name="/" type="4">
         <text>day</text>

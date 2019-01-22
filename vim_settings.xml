@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -232,14 +232,12 @@
         <mark key="^" line="75" column="51" />
         <mark key="." line="75" column="51" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/Mailer/MailerInterface.php" timestamp="1547565615370" />
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/ApiClientInterface.php" timestamp="1538584018690">
         <mark key="[" line="12" column="66" />
         <mark key="]" line="12" column="81" />
         <mark key="^" line="12" column="81" />
         <mark key="." line="12" column="81" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1547561099488" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.php" timestamp="1533895141344">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="24" column="9" />
@@ -435,7 +433,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="18" column="58" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" timestamp="1547134975060" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/ReportServiceProvider/Controller/ReportController.php" timestamp="1532428924415">
         <mark key="[" line="33" column="34" />
         <mark key="]" line="34" column="84" />
@@ -602,7 +599,6 @@
         <mark key="." line="75" column="37" />
         <mark key="^" line="75" column="37" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Token/TokenRepository.php" timestamp="1547476411348" />
       <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/Service/PassportService/PassportServiceTest.php" timestamp="1547649459517">
         <mark key="[" line="62" column="88" />
         <mark key="]" line="85" column="61" />
@@ -769,7 +765,6 @@
         <mark key="^" line="28" column="75" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/.idea/httpRequests/http-requests-log.http" timestamp="1547804201454" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/BinCodesAPI/BinCodeService.php" timestamp="1540902610615">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1079,7 +1074,6 @@
         <mark key="^" line="42" column="9" />
         <mark key="." line="42" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/loan.createBySelectedLoan.http" timestamp="1548075829622" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/UpdateLoanStuffCommand.php" timestamp="1545828574976">
         <mark key="[" line="129" column="17" />
         <mark key="]" line="129" column="16" />
@@ -1270,7 +1264,6 @@
         <mark key="^" line="62" column="50" />
         <mark key="." line="62" column="50" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BonusService/BonusService.php" timestamp="1547563021455" />
       <file name="$USER_HOME$/code/devim/get-response-client/src/Service/ContactsService.php" timestamp="1541086133900">
         <mark key="[" line="94" column="29" />
         <mark key="]" line="94" column="29" />
@@ -1341,6 +1334,7 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" timestamp="1548150227777" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/PersonalInstalllmentDTO.php" timestamp="1542980912506">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="24" />
@@ -1520,7 +1514,6 @@
         <mark key="." line="33" column="22" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/config/config.local.php" timestamp="1547805435607" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/support.sql" timestamp="1548072580081">
         <mark key="[" line="46" column="1" />
         <mark key="]" line="46" column="0" />
@@ -1667,6 +1660,12 @@
         <mark key="]" line="45" column="85" />
         <mark key="." line="45" column="85" />
         <mark key="^" line="45" column="85" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" timestamp="1548150366686">
+        <mark key="[" line="16" column="57" />
+        <mark key="]" line="16" column="56" />
+        <mark key="." line="16" column="56" />
+        <mark key="^" line="16" column="56" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/DocumentController.php" timestamp="1536768392549">
         <mark key="[" line="34" column="0" />
@@ -2371,7 +2370,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkdGhpcy0+cGFzc3BvcnRTZXJ2aWNlLT5pc1ZhbGlkQWNjb3JkaW5nVG9SZm0oJGNsaWVudCkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBScGNMb2FuQ3JlYXRlRXhjZXB0aW9uKCdQYXNzcG9ydCBudW1iZXIgJy4gJGNsaWVudC0+Z2V0UGFzc3BvcnRTKCkgLiAnICcgLiAkY2xpZW50LT5nZXRQYXNzcG9ydE4oKSAuICcgaW4gcmZtIGJhc2UnKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">dXNlIERldmltXENvbXBvbmVudFxTY29yaW5nQ2xpZW50XFNjb3JpbmdDbGllbnRJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2386,7 +2385,7 @@
         <text>day</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBTVUJTQ1JJQkVSX0dFVF9SRVNQT05TRSAgICAgICAgPSAxOwo=</text>
+        <text encoding="base64">dXNlIERldmltXENvbXBvbmVudFxTY29yaW5nQ2xpZW50XFNjb3JpbmdDbGllbnRJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkdGhpcy0+cGFzc3BvcnRTZXJ2aWNlLT5pc1ZhbGlkQWNjb3JkaW5nVG9SZm0oJGNsaWVudCkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBScGNMb2FuQ3JlYXRlRXhjZXB0aW9uKCdQYXNzcG9ydCBudW1iZXIgJy4gJGNsaWVudC0+Z2V0UGFzc3BvcnRTKCkgLiAnICcgLiAkY2xpZW50LT5nZXRQYXNzcG9ydE4oKSAuICcgaW4gcmZtIGJhc2UnKTsKICAgICAgICAgICAgfQo=</text>

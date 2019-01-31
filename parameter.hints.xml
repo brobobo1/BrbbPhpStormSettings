@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="PHP">
         <added pattern="\in_array(needle,haystack,strict)" />
+        <added pattern="\App\Entity\PromoCodeStatic.setType(type)" />
       </blacklist>
     </blacklists>
   </component>

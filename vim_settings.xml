@@ -1064,6 +1064,12 @@
         <mark key="." line="10" column="92" />
         <mark key="^" line="10" column="92" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Exception/RpcException/RpcWrongPromoCodeTextException.php" timestamp="1549641359327">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Strategy/Personal.php" timestamp="1542961302406">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="6" column="42" />
@@ -1833,6 +1839,13 @@
         <mark key="^" line="22" column="16" />
         <mark key="." line="22" column="16" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Exception/RpcException/RpcServerErrorException.php" timestamp="1549641322794">
+        <mark key="'" line="65" column="3" />
+        <mark key="[" line="66" column="63" />
+        <mark key="]" line="65" column="62" />
+        <mark key="." line="65" column="62" />
+        <mark key="^" line="65" column="62" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/Installment.php" timestamp="1542960920532">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1863,11 +1876,11 @@
         <mark key="." line="140" column="29" />
         <mark key="^" line="140" column="29" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/PromoCodeRpcService.php" timestamp="1547111111159">
-        <mark key="[" line="268" column="84" />
-        <mark key="]" line="295" column="7" />
-        <mark key="." line="295" column="7" />
-        <mark key="^" line="295" column="7" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/PromoCodeRpcService.php" timestamp="1549641197727">
+        <mark key="[" line="263" column="9" />
+        <mark key="]" line="264" column="7" />
+        <mark key="." line="264" column="7" />
+        <mark key="^" line="264" column="7" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeInstallmentDTO.php" timestamp="1543233138795">
         <mark key="[" line="7" column="40" />
@@ -2564,8 +2577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="20" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="14" column="6" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="26" column="25" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="110" column="45" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="90" column="49" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
@@ -2664,6 +2675,8 @@
       <jump line="8" column="62" filename="$USER_HOME$/code/interview/photo/task2.php" />
       <jump line="23" column="32" filename="$USER_HOME$/code/interview/photo/task2.php" />
       <jump line="48" column="0" filename="$USER_HOME$/code/devim/dzp/src/rpc.php" />
+      <jump line="120" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Exception/RpcException/RpcServerErrorException.php" />
+      <jump line="65" column="3" filename="$USER_HOME$/code/devim/dzp/src/App/Exception/RpcException/RpcServerErrorException.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2685,8 +2698,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CnNlbGVjdCAqIGZyb20gbnNfX2V2ZW50X2N1c3RvbWVyIHdoZXJlIHN0YXR1cyA9IDEgYW5kIHN1YnNjcmliZXJfaWQgID0gMyBvcmRlciBieSBjcmVhdGVkYXQgQVNDOwo=</text>
+      <register name="&quot;" type="4">
+        <text>ERROR</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2695,13 +2708,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>ERROR</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBuc19fZXZlbnRfY3VzdG9tZXIgd2hlcmUgc3RhdHVzID0gMSBhbmQgc3Vic2NyaWJlcl9pZCAgPSAzIG9yZGVyIGJ5IGNyZWF0ZWRhdCBBU0M7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IFdST05HX1BST01PX0NPREVfRVJST1IgICAgICAgICAgICAgICAgICAgICAgID0gLTMyMDYwOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CnNlbGVjdCAqIGZyb20gbnNfX2V2ZW50X2N1c3RvbWVyIHdoZXJlIHN0YXR1cyA9IDEgYW5kIHN1YnNjcmliZXJfaWQgID0gMyBvcmRlciBieSBjcmVhdGVkYXQgQVNDOwo=</text>

@@ -23,7 +23,7 @@
         <mark key="." line="57" column="16" />
         <mark key="^" line="57" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1549406384449">
+      <file name="/a.dummy" timestamp="1550050558499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/DTO/Bank.php" timestamp="1540902148863">
@@ -567,7 +567,7 @@
         <mark key="^" line="9" column="69" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550049659717">
+      <file name="/Dummy.txt" timestamp="1550050573845">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="11" />
@@ -2058,6 +2058,12 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/ApplePay/Api/ApiClientInterface.php" timestamp="1550050512113">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Serializer/Entity/App.Service.EventService.DTO.Event.Loan.yml" timestamp="1533302748663">
         <mark key="[" line="60" column="59" />
         <mark key="]" line="61" column="26" />
@@ -2153,11 +2159,12 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" timestamp="1549990538210">
-        <mark key="[" line="12" column="60" />
-        <mark key="]" line="12" column="89" />
-        <mark key="^" line="12" column="89" />
-        <mark key="." line="12" column="89" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" timestamp="1550050636509">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="121" column="5" />
+        <mark key="]" line="25" column="78" />
+        <mark key="^" line="25" column="78" />
+        <mark key="." line="25" column="78" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/LoanEventsCommand.php" timestamp="1547819926262">
         <mark key="[" line="168" column="74" />
@@ -2550,9 +2557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="25" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="110" column="45" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="90" column="49" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="31" column="12" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="8" column="10" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/SelectedLoanRepositoryInterface.php" />
       <jump line="30" column="4" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
@@ -2650,6 +2654,9 @@
       <jump line="48" column="0" filename="$USER_HOME$/code/devim/dzp/src/rpc.php" />
       <jump line="120" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Exception/RpcException/RpcServerErrorException.php" />
       <jump line="65" column="3" filename="$USER_HOME$/code/devim/dzp/src/App/Exception/RpcException/RpcServerErrorException.php" />
+      <jump line="16" column="9" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" />
+      <jump line="34" column="81" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" />
+      <jump line="129" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2671,8 +2678,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>APIClientInterface</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2681,7 +2688,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>APIClientInterface</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
@@ -2699,7 +2706,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcHJlcGFyZVBheW91dCgpIG1ldGhvZC4K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2774,25 +2781,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwcmVwYXJlUGF5bWVudChpbnQgJGFtb3VudCk6IGFycmF5OwoKICAgIHB1YmxpYyBmdW5jdGlvbiBwcmVwYXJlUGF5b3V0KCk6IGFycmF5Owo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcHJlcGFyZVBheW1lbnQoKSBtZXRob2QuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JGdyZWV0aW5nLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkcHJvbW9JbmZvID09PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwcmVwYXJlUGF5bWVudChpbnQgJGFtb3VudCk6IGFycmF5OwoKICAgIHB1YmxpYyBmdW5jdGlvbiBwcmVwYXJlUGF5b3V0KCk6IGFycmF5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

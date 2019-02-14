@@ -101,7 +101,8 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Transaction.php" timestamp="1550153873535">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Transaction.php" timestamp="1550156751876">
+        <mark key="'" line="31" column="17" />
         <mark key="[" line="33" column="56" />
         <mark key="]" line="33" column="56" />
         <mark key="." line="33" column="56" />
@@ -555,7 +556,7 @@
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
       </file>
-      <file name="/dummy.sql" timestamp="1550075860181">
+      <file name="/dummy.sql" timestamp="1550155873299">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -744,6 +745,13 @@
         <mark key="]" line="16" column="77" />
         <mark key="^" line="16" column="77" />
         <mark key="." line="16" column="77" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" timestamp="1550156265776">
+        <mark key="'" line="16" column="59" />
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="16" column="58" />
+        <mark key="^" line="16" column="58" />
+        <mark key="." line="16" column="58" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_47.php" timestamp="1548258828373">
         <mark key="[" line="7" column="1" />
@@ -969,6 +977,13 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="17" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4717b8cf-6657-4fae-b5c0-2fd4b6f07193/console.sql" timestamp="1549892717476">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/External/LoanRpcService.php" timestamp="1547119775881">
         <mark key="[" line="366" column="108" />
@@ -1611,6 +1626,9 @@
         <mark key="^" line="122" column="25" />
         <mark key="." line="127" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1550155869276">
+        <mark key="[" line="0" column="7" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" timestamp="1550075778930">
         <mark key="[" line="54" column="101" />
         <mark key="]" line="56" column="0" />
@@ -1675,6 +1693,13 @@
         <mark key="]" line="57" column="27" />
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" timestamp="1549877017003">
+        <mark key="'" line="556" column="17" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/BinRepositoryInterface.php" timestamp="1540821392503">
         <mark key="[" line="10" column="0" />
@@ -2169,11 +2194,12 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" timestamp="1550153276649">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="123" column="41" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" timestamp="1550157016744">
+        <mark key="'" line="141" column="54" />
+        <mark key="[" line="172" column="7" />
+        <mark key="]" line="174" column="7" />
+        <mark key="^" line="174" column="7" />
+        <mark key="." line="174" column="7" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/LoanEventsCommand.php" timestamp="1547819926262">
         <mark key="[" line="168" column="74" />
@@ -2566,18 +2592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="10" filename="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/SelectedLoanRepositoryInterface.php" />
-      <jump line="30" column="4" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="47" column="5" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="100" column="15" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="101" column="15" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="81" column="4" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="99" column="20" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="80" column="4" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="77" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="143" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
-      <jump line="84" column="2" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="78" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="124" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
       <jump line="140" column="0" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/ClientDailyEventsCommand.php" />
@@ -2666,6 +2680,18 @@
       <jump line="34" column="81" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" />
       <jump line="129" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" />
       <jump line="524" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/AcceptanceRpcService.php" />
+      <jump line="92" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
+      <jump line="36" column="4" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" />
+      <jump line="134" column="40" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" />
+      <jump line="429" column="54" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
+      <jump line="427" column="4" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
+      <jump line="16" column="59" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
+      <jump line="141" column="54" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" />
+      <jump line="31" column="17" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Transaction.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2687,8 +2713,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>PENDING</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgogICAgICAgIAoK</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2697,25 +2723,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>PENDING</text>
+        <text>APPLE_PAY_AUTHORIZE_FAILED</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBTVF9BUFBMRV9QQVlfQVVUSE9SSVpFX1BFTkRJTkcgICAgICAgPSA3Owo=</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJHRyYW5zYWN0aW9uLT5nZXRQYXltZW50TG9hbigpLT5nZXRDbGllbnQoKTsKICAgICAgICAkYW1vdW50ID0gJHRyYW5zYWN0aW9uLT5nZXRSZXF1ZXN0KClbJ2Ftb3VudCddICogMTAwOwogICAgICAgICR0ZXJtaW5hbCA9ICR0aGlzLT5kZXRlcm1pbmVQYXltZW50VGVybWluYWwoJGFtb3VudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBTVF9BUFBMRV9QQVlfSU4gCg==</text>
+        <text encoding="base64">CgogICAgICAgIAoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XGk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdHJhbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBMb2FuICRsb2FuCiAgICAgKiBAcmV0dXJuIGFycmF5Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2793,22 +2819,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgJGFtb3VudCA9IHJvdW5kKCRhbW91bnQgLyAxMDAsIDIpOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9ICR0cmFuc2FjdGlvbi0+Z2V0UmVxdWVzdCgpOwogICAgICAgICRhbW91bnQgID0gJHJlcXVlc3RbJ2Ftb3VudCddOwogICAgICAgICRmaWVsZHMgID0gW107CgogICAgICAgIHN3aXRjaCAoJHNlcnZpY2VUeXBlKSB7CiAgICAgICAgICAgIGNhc2Ugc2VsZjo6VF9QQVlNRU5UX1NFUlZJQ0VfWUFOREVYOgogICAgICAgICAgICAgICAgJGNvbXBhbnkgICAgICAgICAgPSAkdGhpcy0+Y29tcGFueVJlcG9zaXRvcnktPmZpbmRPbmVCeShbJ2FsaWFzJyA9PiBDb21wYW55UmVwb3NpdG9yeTo6QUxJQVNfRFpQXSk7CiAgICAgICAgICAgICAgICAkY29sbGVjdG9yQ29tcGFueSA9ICRsb2FuLT5nZXRDb2xsZWN0b3JDb21wYW55KCk7CiAgICAgICAgICAgICAgICBpZiAoJGNvbGxlY3RvckNvbXBhbnkpIHsKICAgICAgICAgICAgICAgICAgICAkY29tcGFueSA9ICRjb2xsZWN0b3JDb21wYW55OwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICRmaWVsZHMgPSBbCiAgICAgICAgICAgICAgICAgICAgJ3Nob3BJZCcgICAgICAgICA9PiAkY29tcGFueS0+Z2V0WWFuZGV4U2hvcElkKCksCiAgICAgICAgICAgICAgICAgICAgJ3NjaWQnICAgICAgICAgICA9PiAkY29tcGFueS0+Z2V0WWFuZGV4U2NpZCgpLAogICAgICAgICAgICAgICAgICAgICdlbWFpbCcgICAgICAgICAgPT4gJGVtYWlsLAogICAgICAgICAgICAgICAgICAgICdwaG9uZScgICAgICAgICAgPT4gJG1vYmlsZVBob25lLAogICAgICAgICAgICAgICAgICAgICdjdXN0b21lck51bWJlcicgPT4gJGxvYW4tPmdldFNjb3JpbmdMb2FuTnVtYmVyKCksCiAgICAgICAgICAgICAgICAgICAgJ29yZGVyTnVtYmVyJyAgICA9PiAkdHJhbnNhY3Rpb24tPmdldElkKCksCiAgICAgICAgICAgICAgICAgICAgJ3N1bScgICAgICAgICAgICA9PiByb3VuZCgkYW1vdW50LCAyKSwKICAgICAgICAgICAgICAgICAgICAnYmlydGhEYXRlJyAgICAgID0+ICRsb2FuLT5nZXRDbGllbnQoKS0+Z2V0QmlydGhEYXRlKCktPmZvcm1hdCgnZC5tLlknKQogICAgICAgICAgICAgICAgXTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIHNlbGY6OlRfUEFZTUVOVF9TRVJWSUNFX01BTkRBUklOOgogICAgICAgICAgICAgICAgJGFkZGl0aW9uYWxEYXRhID0gWwogICAgICAgICAgICAgICAgICAgICdlbWFpbCcgICAgICAgPT4gJGVtYWlsLAogICAgICAgICAgICAgICAgICAgICdtb2JpbGVQaG9uZScgPT4gJG1vYmlsZVBob25lCiAgICAgICAgICAgICAgICBdOwoKICAgICAgICAgICAgICAgICRmaWVsZHMgPSAkdGhpcy0+cGF5b3V0U2VydmljZS0+Z2V0UGF5bWVudEluZm8oJHRyYW5zYWN0aW9uLCAkYWRkaXRpb25hbERhdGEpOwogICAgICAgIH0KCiAgICAgICAgJHRyYW5zYWN0aW9uLT5zZXRSZXF1ZXN0KGFycmF5X21lcmdlKCRyZXF1ZXN0LCAkZmllbGRzKSk7CiAgICAgICAgJHRoaXMtPnRyYW5zYWN0aW9uUmVwb3NpdG9yeS0+Zmx1c2goKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWyRdCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGprago=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBMb2FuICRsb2FuCiAgICAgKiBAcmV0dXJuIGFycmF5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxFeGNlcHRpb25cUnBjRXhjZXB0aW9uXFJwY1Byb2xvbmdhdGlvbk5vdENvbmZpcm1lZEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBcaToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxFeGNlcHRpb25cUnBjRXhjZXB0aW9uXFJwY0ludmFsaWREYXRhRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkcmVxdWVzdAogICAgICogQHJldHVybiBhcnJheQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

@@ -95,13 +95,6 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/Transaction.php" timestamp="1550156751876">
-        <mark key="'" line="31" column="17" />
-        <mark key="[" line="33" column="56" />
-        <mark key="]" line="33" column="56" />
-        <mark key="." line="33" column="56" />
-        <mark key="^" line="33" column="56" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MediatorService/PushMediatorService.php" timestamp="1542818866335">
         <mark key="[" line="27" column="5" />
         <mark key="]" line="27" column="36" />
@@ -371,10 +364,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Underwriting/increase_loan.html.twig" timestamp="1544097738470">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Underwriting/increase_loan.html.twig" timestamp="1550329464121">
+        <mark key="[" line="81" column="49" />
+        <mark key="]" line="81" column="49" />
+        <mark key="." line="81" column="49" />
         <mark key="^" line="174" column="45" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Command/GetIndexForAddressCommand.php" timestamp="1539680776342">
@@ -555,7 +548,7 @@
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
       </file>
-      <file name="/dummy.sql" timestamp="1550245009595">
+      <file name="/dummy.sql" timestamp="1550329622008">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -1006,13 +999,6 @@
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/AcceptanceRpcService.php" timestamp="1550152094717">
-        <mark key="'" line="522" column="0" />
-        <mark key="[" line="544" column="0" />
-        <mark key="]" line="548" column="8" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="442" column="30" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/DTO/History/Schedule.php" timestamp="1536320967835">
         <mark key="[" line="29" column="12" />
@@ -2345,11 +2331,11 @@
         <mark key="^" line="307" column="171" />
         <mark key="." line="291" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Underwriting/IncreaseLoanCrudController.php" timestamp="1545747569930">
-        <mark key="[" line="135" column="47" />
-        <mark key="]" line="136" column="23" />
-        <mark key="." line="136" column="23" />
-        <mark key="^" line="136" column="23" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Underwriting/IncreaseLoanCrudController.php" timestamp="1550329445236">
+        <mark key="[" line="177" column="150" />
+        <mark key="]" line="177" column="150" />
+        <mark key="." line="177" column="100" />
+        <mark key="^" line="177" column="99" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/API/Bank.php" timestamp="1540905192932">
         <mark key="[" line="43" column="0" />
@@ -2719,7 +2705,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>https://crm2-api.devim.team/</text>
+        <text>paymentsAmount</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2728,13 +2714,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>Вторичник</text>
+        <text>paymentsAmount</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
       <register name="0" type="4">
-        <text>https://crm2-api.devim.team/</text>
+        <text>$scoringLoanInfo['result']['calculation'] ?? null,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSB0cmFuc2FjdGlvbiB3aGVyZSByZXF1ZXN0LT4+J3N1bScgaXMgbm90IG51bGw7Cg==</text>

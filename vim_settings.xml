@@ -1698,12 +1698,12 @@
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" timestamp="1550483940914">
-        <mark key="'" line="566" column="17" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="20" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/console.sql" timestamp="1550484405948">
+        <mark key="'" line="575" column="17" />
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+        <mark key="^" line="29" column="3" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/BinRepositoryInterface.php" timestamp="1540821392503">
         <mark key="[" line="10" column="0" />
@@ -2719,7 +2719,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBub3QgKAogICAgbC5zdGF0dXMgaW4gKDMsIDYpIGFuZCBsLmlzY2xvc2VkID0gZmFsc2UKICApCg==</text>
+        <text encoding="base64">YW5kIGMyLmlkID0gMTAwMDAwOTsK</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2737,16 +2737,16 @@
         <text>$scoringLoanInfo['result']['calculation'] ?? null,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBub3QgKAogICAgbC5zdGF0dXMgaW4gKDMsIDYpIGFuZCBsLmlzY2xvc2VkID0gZmFsc2UKICApCg==</text>
+        <text encoding="base64">YW5kIGMyLmlkID0gMTAwMDAwOTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB0cmFuc2FjdGlvbiB3aGVyZSByZXF1ZXN0LT4+J3N1bScgaXMgbm90IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgd2hlcmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHdoZXJlIGNsaWVudGlkID0gYzIuaWQK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2821,25 +2821,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICBub3QgKAogICAgbC5zdGF0dXMgaW4gKDMsIDYpIGFuZCBsLmlzY2xvc2VkID0gZmFsc2UKICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8kcmVzcG9uc2UgPSAnJzsKCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB0cmFuc2FjdGlvbiB3aGVyZSByZXF1ZXN0LT4+J3N1bScgaXMgbm90IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0YXR1cyA9IChpbnQpIGN1cmxfZ2V0aW5mbygkY2gsIENVUkxJTkZPX0hUVFBfQ09ERSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkcmVzdWx0KSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgVGlua29mZkV4Y2VwdGlvbignUmVzcG9uc2UgaXMgbnVsbCcsIC0xMDEpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8kcmVzcG9uc2UgPSAnJzsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICR0aGlzLT5sb2dnZXItPmFsZXJ0KCJUaW5rb2ZmIiwgWwogICAgICAgICAgICAgICAgJ3VybCcgPT4gJHVybCwKICAgICAgICAgICAgICAgICdyZXF1ZXN0JyA9PiAkcmVxdWVzdCwKICAgICAgICAgICAgICAgICdyZXNwb25zZScgPT4gJHJlc3BvbnNlLAogICAgICAgICAgICAgICAgJ2N1cmxTdGF0dXMnID0+ICRzdGF0dXMsCiAgICAgICAgICAgICAgICAnY3VybEVycm9yJyA9PiBjdXJsX2Vycm9yKCRjaCkKICAgICAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkcmVzdWx0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

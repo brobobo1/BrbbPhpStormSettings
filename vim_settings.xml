@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -22,6 +22,12 @@
         <mark key="]" line="57" column="16" />
         <mark key="." line="57" column="16" />
         <mark key="^" line="57" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Helper/CalculationHelper.php" timestamp="1551184120775">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="30" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/DTO/Bank.php" timestamp="1540902148863">
         <mark key="[" line="81" column="0" />
@@ -483,7 +489,10 @@
         <mark key="." line="13" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/application.fillStep1.http" timestamp="1550231349836" />
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/LoanScheduleService/LoanScheduleService.php" timestamp="1551173797920" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/LoanScheduleService/LoanScheduleService.php" timestamp="1551180374344">
+        <mark key="[" line="741" column="0" />
+        <mark key="]" line="771" column="8" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1517582554275">
         <mark key="[" line="358" column="21" />
         <mark key="]" line="359" column="7" />
@@ -572,7 +581,7 @@
         <mark key="." line="48" column="60" />
         <mark key="^" line="48" column="60" />
       </file>
-      <file name="/dummy.sql" timestamp="1551175406331">
+      <file name="/dummy.sql" timestamp="1551182136938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="66" />
@@ -596,7 +605,7 @@
         <mark key="^" line="9" column="69" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551178960048">
+      <file name="/Dummy.txt" timestamp="1551181553851">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="11" />
@@ -613,10 +622,11 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Underwriting/calculation_amount.html.twig" timestamp="1550327215634">
-        <mark key="[" line="11" column="121" />
-        <mark key="]" line="11" column="121" />
-        <mark key="." line="11" column="121" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Underwriting/calculation_amount.html.twig" timestamp="1551183278283">
+        <mark key="[" line="28" column="182" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PassportVerifyRepositoryInterface.php" timestamp="1547570325979">
         <mark key="[" line="24" column="0" />
@@ -1608,11 +1618,11 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="64" column="127" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Underwriting/CalculationAmountCrudController.php" timestamp="1551179250720">
-        <mark key="[" line="84" column="19" />
-        <mark key="]" line="86" column="33" />
-        <mark key="." line="86" column="33" />
-        <mark key="^" line="86" column="33" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Underwriting/CalculationAmountCrudController.php" timestamp="1551183433293">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="66" column="36" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/API/PaySpace.php" timestamp="1540905156677">
         <mark key="[" line="32" column="31" />
@@ -2586,8 +2596,8 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/src/Helper/LoanHelper.php" timestamp="1535039249805">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Helper/LoanHelper.php" timestamp="1551181423489">
+        <mark key="[" line="19" column="26" />
         <mark key="]" line="19" column="4" />
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="26" />
@@ -2791,13 +2801,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNjaGVkdWxlKTs=</text>
+        <text>use App\Entity\Loan;</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JGFwcFsnZGIub3B0aW9ucyddID0gWwogICAgJ2RyaXZlcicgICAgICAgID0+ICdwZG9fcGdzcWwnLAogICAgJ2RyaXZlck9wdGlvbnMnID0+IFsKICAgICAgICBQRE86OkFUVFJfVElNRU9VVCA9PiAxMCwKICAgIF0sCiAgICAnZGJuYW1lJyAgICAgICAgPT4gJ3Njb3JpbmdfbWlkZGxld2FyZV9kenAyJywKICAgICdob3N0JyAgICAgICAgICA9PiAnMTAuMC4xMS4yMDUnLAogICAgJ3VzZXInICAgICAgICAgID0+ICdzY29yaW5nX21pZGRsZXdhcmVfZHpwMicsCiAgICAncGFzc3dvcmQnICAgICAgPT4gJ1ZhaDl5YWh1ajFvb2MzY2hhaWNoJywKXTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIzIiB7JSBpZiB0YXJpZmZJZCBpcyBkZWZpbmVkIGFuZCB0YXJpZmZJZCA9PSAzICV9IHNlbGVjdGVkPSJzZWxlY3RlZCIgeyUgZW5kaWYgJX0+0KLQvtC/PC9vcHRpb24+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2806,10 +2816,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKDEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMyI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIHBsYWNlaG9sZGVyPSLQmtC+0Lst0LLQviDQtNC90LXQuSIgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0icGVyaW9kIiB2YWx1ZT0ieyUgaWYgdGFyaWZmSWQgaXMgZGVmaW5lZCBhbmQgdGFyaWZmSWQgPT0gMyAlfTM2NXslIGVsc2UgJX17eyBwZXJpb2R8ZGVmYXVsdCgnJykgfX17JSBlbmRpZiAlfSI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2887,19 +2897,19 @@
         <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdCA9IFtdOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB2YXJfZHVtcCgkcmVzdWx0KTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdCA9ICRjYWxjdWxhdGlvbi0+R2V0UGF5bWVudFNjaGVkdWxlKFsKICAgICAgICAgICAgICAgICdtb2RlbE5hbWUnID0+ICdpbnN0YWxsbWVudC5hbm51aXR5JywKICAgICAgICAgICAgICAgICdmaXJzdFBheW1lbnRBdCcgPT4gJHBheW1lZEF0LT5tb2RpZnkoJzE1OjAwJyktPmZvcm1hdChcRGF0ZVRpbWU6OlJGQzMzMzkpLAogICAgICAgICAgICAgICAgJ2RheXMnICA9PiAzNjUsCiAgICAgICAgICAgICAgICAnbW9kZWxQYXJhbWV0ZXJzJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ0RhaWx5UGVyY2VudFJhdGUnID0+IDE2LjczICogMTIgLyAzNjUsCiAgICAgICAgICAgICAgICAgICAgJ1BlbmFsdGllc1BlcmNlbnRSYXRlJyA9PiAyMCwKICAgICAgICAgICAgICAgICAgICAnUGVuYWx0aWVzU3RhcnREYXknID0+IDEsCiAgICAgICAgICAgICAgICAgICAgJ1Jlc3RQZXJjZW50T2ZCb2R5JyA9PiA2MCwKICAgICAgICAgICAgICAgICAgICAnU2Vjb25kUGVyaW9kUGVuYWx0aWVzU3RhcnREYXknID0+IDEwMCwKICAgICAgICAgICAgICAgICAgICAnU2Vjb25kUGVyaW9kUGVuYWx0aWVzUGVyY2VudFJhdGUnID0+IDIwIC8gMTAwCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgJ3NraXBIb2xpZGF5cycgPT4gZmFsc2UsCiAgICAgICAgICAgICAgICAnYW1vdW50JyA9PiAoaW50KSRhbW91bnQgKiAxMDAsCiAgICAgICAgICAgICAgICAnZGF0ZXMnID0+ICRzY2hlZHVsZVsnJ10KICAgICAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdCA9ICRjYWxjdWxhdGlvbi0+R2V0UGF5bWVudFNjaGVkdWxlKFsKICAgICAgICAgICAgICAgICdtb2RlbE5hbWUnID0+ICdpbnN0YWxsbWVudC5hbm51aXR5JywKICAgICAgICAgICAgICAgICdmaXJzdFBheW1lbnRBdCcgPT4gJHBheW1lZEF0LT5tb2RpZnkoJzE1OjAwJyktPmZvcm1hdChcRGF0ZVRpbWU6OlJGQzMzMzkpLAogICAgICAgICAgICAgICAgJ2RheXMnICA9PiAzNjUsCiAgICAgICAgICAgICAgICAnbW9kZWxQYXJhbWV0ZXJzJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ0RhaWx5UGVyY2VudFJhdGUnID0+IDE2LjczICogMTIgLyAzNjUsCiAgICAgICAgICAgICAgICAgICAgJ1BlbmFsdGllc1BlcmNlbnRSYXRlJyA9PiAyMCwKICAgICAgICAgICAgICAgICAgICAnUGVuYWx0aWVzU3RhcnREYXknID0+IDEsCiAgICAgICAgICAgICAgICAgICAgJ1Jlc3RQZXJjZW50T2ZCb2R5JyA9PiA2MCwKICAgICAgICAgICAgICAgICAgICAnU2Vjb25kUGVyaW9kUGVuYWx0aWVzU3RhcnREYXknID0+IDEwMCwKICAgICAgICAgICAgICAgICAgICAnU2Vjb25kUGVyaW9kUGVuYWx0aWVzUGVyY2VudFJhdGUnID0+IDIwIC8gMTAwCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgJ3NraXBIb2xpZGF5cycgPT4gZmFsc2UsCiAgICAgICAgICAgICAgICAnYW1vdW50JyA9PiAoaW50KSRhbW91bnQgKiAxMDAsCiAgICAgICAgICAgICAgICAnZGF0ZXMnID0+ICRzY2hlZHVsZVsnJ10KICAgICAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyBwZGxfY2xhaW0iIHslIGlmIHRhcmlmZklkIGlzIGRlZmluZWQgYW5kIHRhcmlmZklkIGluICgzLCA0KSAlfSAgc3R5bGU9ImRpc3BsYXk6IG5vbmUiIHslIGVuZGlmICV9Pgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

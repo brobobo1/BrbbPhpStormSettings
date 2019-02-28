@@ -1003,11 +1003,12 @@
         <mark key="]" line="17" column="17" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4717b8cf-6657-4fae-b5c0-2fd4b6f07193/console.sql" timestamp="1551260716039">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4717b8cf-6657-4fae-b5c0-2fd4b6f07193/console.sql" timestamp="1551362392389">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+        <mark key="[" line="53" column="31" />
+        <mark key="]" line="53" column="44" />
+        <mark key="." line="53" column="44" />
+        <mark key="^" line="53" column="44" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/External/LoanRpcService.php" timestamp="1547119775881">
         <mark key="[" line="366" column="108" />
@@ -1685,6 +1686,7 @@
         <mark key="^" line="122" column="25" />
         <mark key="." line="127" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1551362494263" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" timestamp="1551359524539">
         <mark key="[" line="151" column="51" />
         <mark key="]" line="151" column="50" />
@@ -2782,7 +2784,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>3324725</text>
+        <text>m.clientid = l.clientid</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2791,7 +2793,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>33247</text>
+        <text>m.clientid = l.clientid</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
@@ -2800,16 +2802,16 @@
         <text>3324725</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBlbXBsb3llZWF1dG9jYWxsIHdoZXJlIGV4dGVybmFsaWQgPQo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">c2VsZWN0IAogICogCmZyb20gbG9hbgp3aGVyZSBzdGF0dXMgPSA2IGFuZCBpc2NrCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyZXN1bHQsICRzY2hlZHVsZVsncmVzdWx0J10pOwogICAgICAgICAgICAgICAgZGllOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBlbXBsb3llZWF1dG9jYWxsIHdoZXJlIGV4dGVybmFsaWQgPQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2883,26 +2885,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyZXN1bHQsICRzY2hlZHVsZVsncmVzdWx0J10pOwogICAgICAgICAgICAgICAgZGllOw==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZXZlbnROYW1lID0gJGV2ZW50IC4gJ192Mic7CiAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJGV2ZW50TmFtZSk7</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoJHVwZGEpIHsKICAgICAgICAgICAgJHVwZGF0ZVNjb3JpbmcgJiYgJHRoaXMtPnNjb3JpbmdDbGllbnQtPnVwZGF0ZUN1c3RvbWVyRXZlbnRzU3RhdHVzKCRzY29yaW5nSWRzKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdXBkYXRlU2NvcmluZyAmJiAkdGhpcy0+c2NvcmluZ0NsaWVudC0+dXBkYXRlQ3VzdG9tZXJFdmVudHNTdGF0dXMoJHNjb3JpbmdJZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoJHVwZGEpIHsKICAgICAgICAgICAgJHVwZGF0ZVNjb3JpbmcgJiYgJHRoaXMtPnNjb3JpbmdDbGllbnQtPnVwZGF0ZUN1c3RvbWVyRXZlbnRzU3RhdHVzKCRzY29yaW5nSWRzKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -1838,11 +1838,11 @@
         <mark key="." line="33" column="22" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/support.sql" timestamp="1550828523541">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="63" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/support.sql" timestamp="1551784769308">
+        <mark key="[" line="54" column="132" />
+        <mark key="]" line="54" column="137" />
+        <mark key="." line="54" column="137" />
+        <mark key="^" line="54" column="137" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/config/config.local.php" timestamp="1551194524802">
         <mark key="[" line="205" column="76" />
@@ -2806,7 +2806,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'511-7277', '17-9227'</text>
+        <text>order by createdat desc</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2815,7 +2815,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>'511-7277', '17-9227'</text>
+        <text>order by createdat desc</text>
       </register>
       <register name="/" type="4">
         <text>day</text>

@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -588,7 +588,7 @@
         <mark key="^" line="158" column="68" />
         <mark key="." line="158" column="68" />
       </file>
-      <file name="/dummy.sql" timestamp="1551959324367">
+      <file name="/dummy.sql" timestamp="1552296975170">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="42" />
@@ -612,7 +612,7 @@
         <mark key="^" line="9" column="69" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551716305171">
+      <file name="/Dummy.txt" timestamp="1552296002917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="11" />
@@ -796,12 +796,12 @@
         <mark key="^" line="16" column="77" />
         <mark key="." line="16" column="77" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" timestamp="1551441283099">
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" timestamp="1552297411779">
         <mark key="'" line="135" column="0" />
-        <mark key="[" line="89" column="31" />
-        <mark key="]" line="89" column="32" />
-        <mark key="." line="89" column="32" />
-        <mark key="^" line="89" column="45" />
+        <mark key="[" line="423" column="66" />
+        <mark key="]" line="135" column="11" />
+        <mark key="^" line="135" column="11" />
+        <mark key="." line="135" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_47.php" timestamp="1548258828373">
         <mark key="[" line="7" column="1" />
@@ -1394,7 +1394,7 @@
         <mark key="^" line="89" column="27" />
         <mark key="." line="89" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/applePay.validate.http" timestamp="1551193633423">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/applePay.validate.http" timestamp="1552297261952">
         <mark key="[" line="106" column="24" />
         <mark key="]" line="106" column="24" />
         <mark key="." line="106" column="24" />
@@ -2842,8 +2842,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkYXBwbHlQYXlQYXltZW50VGVybWluYWxVcmw7</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2852,25 +2852,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>2-7848</text>
+        <text encoding="base64">J0VtYWlsPScgLiAoIWVtcHR5KCRhZGRpdGlvbmFsRGF0YSkgPyB1cmxlbmNvZGUoJGFkZGl0aW9uYWxEYXRhWydlbWFpbCddKSA6IHVybGVuY29kZSgkY2xpZW50LT5nZXRFbWFpbCgpKSks</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VVBEQVRFIGxvYW5hcHBsaWNhdGlvbmFzc2lnbnRvZW1wbG95ZWUgU0VUIGRlbGV0ZWRhdCA9IG5vdygpIHdoZXJlIGlkIGluICgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0VtYWlsJyA9PiAhZW1wdHkoJGFkZGl0aW9uYWxEYXRhKSA/IHVybGVuY29kZSgkYWRkaXRpb25hbERhdGFbJ2VtYWlsJ10pIDogdXJsZW5jb2RlKCRjbGllbnQtPmdldEVtYWlsKCkpLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwogICAgcHJpdmF0ZSAkYXBwbHlQYXlQYXltZW50VGVybWluYWxVcmw7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUCiAgbC5pZCwgbC5jbGllbnRfaWQsIGwub3JkZXJudW1iZXIsIGwuZXhwaXJlZGRheXMKRlJPTSBsb2FuYXBwbGljYXRpb25hc3NpZ250b2VtcGxveWVlIGxhYXRlCiAgSU5ORVIgSk9JTiBsb2FuYXBwbGljYXRpb24gbCBPTiBsYWF0ZS5sb2FuX2FwcGxpY2F0aW9uX2lkID0gbC5pZAogIElOTkVSIEpPSU4gZW1wbG95ZWUgZSBPbiBsYWF0ZS5lbXBsb3llZV9pZCA9IGUuaWQKV0hFUkUgbC5leHBpcmVkZGF5cyA+IDkwIGFuZCBsYWF0ZS5kZWxldGVkYXQgaXMgbnVsbCBBTkQgZS5yb2xlcyA/JiBhcnJheVsnUk9MRV9DT0xMRUNUT1JfSEFSRCddOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGwuaWQsCiAgICBsLmNsaWVudF9pZCwKICAgIGwub3JkZXJudW1iZXIsCiAgICBsLmV4cGlyZWRkYXlzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2945,22 +2945,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9ICR0aGlzLT5pbml0UGF5bWVudCgkdHJhbnNhY3Rpb24sICRhZGRpdGlvbmFsRGF0YSwgJHRlcm1pbmFsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50ICAgICAgICAgID0gJHRyYW5zYWN0aW9uLT5nZXRQYXltZW50TG9hbigpLT5nZXRDbGllbnQoKTsKICAgICAgICAkcmVxdWVzdFsnREFUQSddID0gWwogICAgICAgICAgICAnRW1haWwnID0+ICFlbXB0eSgkYWRkaXRpb25hbERhdGEpID8gdXJsZW5jb2RlKCRhZGRpdGlvbmFsRGF0YVsnZW1haWwnXSkgOiB1cmxlbmNvZGUoJGNsaWVudC0+Z2V0RW1haWwoKSksCiAgICAgICAgXTsKCiAgICAgICAgcmV0dXJuICRyZXF1ZXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">U0VMRUNUCiAgbC5pZCwgbC5jbGllbnRfaWQsIGwub3JkZXJudW1iZXIsIGwuZXhwaXJlZGRheXMKRlJPTSBsb2FuYXBwbGljYXRpb25hc3NpZ250b2VtcGxveWVlIGxhYXRlCiAgSU5ORVIgSk9JTiBsb2FuYXBwbGljYXRpb24gbCBPTiBsYWF0ZS5sb2FuX2FwcGxpY2F0aW9uX2lkID0gbC5pZAogIElOTkVSIEpPSU4gZW1wbG95ZWUgZSBPbiBsYWF0ZS5lbXBsb3llZV9pZCA9IGUuaWQKV0hFUkUgbC5leHBpcmVkZGF5cyA+IDkwIGFuZCBsYWF0ZS5kZWxldGVkYXQgaXMgbnVsbCBBTkQgZS5yb2xlcyA/JiBhcnJheVsnUk9MRV9DT0xMRUNUT1JfSEFSRCddOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0IAogICoKZnJvbSBlbXBsb3llZQp3aGVyZSBpZCBpbiAoc2VsZWN0ICBmcm9tIGxvYW5hcHBsaWNhdGlvbiB3aGVyZSBvcmRlcm51bWJlciBpbiAoJzUwNy04ODExJykpOwo=</text>
+        <text encoding="base64">ICAgIGwuaWQsCiAgICBsLmNsaWVudF9pZCwKICAgIGwub3JkZXJudW1iZXIsCiAgICBsLmV4cGlyZWRkYXlzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

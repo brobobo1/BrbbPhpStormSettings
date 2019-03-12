@@ -592,10 +592,10 @@
         <mark key="^" line="158" column="68" />
         <mark key="." line="158" column="68" />
       </file>
-      <file name="/dummy.sql" timestamp="1552322989146">
+      <file name="/dummy.sql" timestamp="1552323621901">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="42" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/Rpc/Internal/EsiaRpcServiceTest.php" timestamp="1542127874954">
@@ -2010,8 +2010,8 @@
         <mark key="^" line="8" column="44" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/DWN-3652.sql" timestamp="1552323041156">
-        <mark key="[" line="9" column="33" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/DWN-3652.sql" timestamp="1552323562068">
+        <mark key="[" line="12" column="0" />
         <mark key="]" line="10" column="20" />
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
@@ -2869,8 +2869,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBuc19fZXZlbnRfcmVwb3J0CndoZXJlIGV2ZW50ID0gJ2xvYW4ucHJlYXBwcm92ZWQnCg==</text>
+      <register name="&quot;" type="4">
+        <text>--and id = 4305210</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2879,7 +2879,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>$office[]</text>
+        <text>--and id = 4305210</text>
       </register>
       <register name="/" type="4">
         <text>day</text>

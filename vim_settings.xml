@@ -368,11 +368,11 @@
         <mark key="." line="15" column="51" />
         <mark key="^" line="15" column="51" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Ads/promocode_static.html.twig" timestamp="1552471882850">
-        <mark key="[" line="79" column="42" />
-        <mark key="]" line="203" column="44" />
-        <mark key="." line="203" column="44" />
-        <mark key="^" line="203" column="44" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Ads/promocode_static.html.twig" timestamp="1552493228600">
+        <mark key="[" line="69" column="27" />
+        <mark key="]" line="69" column="27" />
+        <mark key="." line="69" column="27" />
+        <mark key="^" line="69" column="27" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/PhoneRpcService.php" timestamp="1542640875119">
         <mark key="[" line="96" column="0" />
@@ -535,10 +535,10 @@
         <mark key="^" line="18" column="58" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Command/ValidateCommand.php" timestamp="1552491960096">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="118" column="20" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="124" column="20" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Command/GetStaticPdoDTOCommand.php" timestamp="1552399159250">
         <mark key="^" line="6" column="38" />
@@ -615,7 +615,7 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552471909879">
+      <file name="/Dummy.txt" timestamp="1552492098618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -829,10 +829,10 @@
         <mark key="^" line="32" column="82" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/scoring-client/src/ScoringClientInterface.php" timestamp="1552491614725">
-        <mark key="[" line="743" column="110" />
-        <mark key="]" line="743" column="91" />
-        <mark key="." line="743" column="91" />
-        <mark key="^" line="743" column="91" />
+        <mark key="[" line="524" column="110" />
+        <mark key="]" line="524" column="91" />
+        <mark key="." line="524" column="91" />
+        <mark key="^" line="524" column="91" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.php" timestamp="1540986316084">
         <mark key="[" line="7" column="25" />
@@ -1667,13 +1667,6 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1552491773607">
-        <mark key="'" line="1843" column="100" />
-        <mark key="[" line="1847" column="0" />
-        <mark key="]" line="1847" column="0" />
-        <mark key="." line="1847" column="0" />
-        <mark key="^" line="1845" column="69" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/Rpc/EsiaRpcServiceTest.php" timestamp="1542127484227">
         <mark key="[" line="14" column="22" />
@@ -2615,10 +2608,11 @@
         <mark key="." line="28" column="37" />
         <mark key="^" line="28" column="37" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Ads/PromoCodeStaticController.php" timestamp="1552471844475">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Ads/PromoCodeStaticController.php" timestamp="1552493280328">
+        <mark key="[" line="47" column="26" />
+        <mark key="]" line="47" column="25" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="47" column="25" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/PromoCodePDL.php" timestamp="1542960550158">
         <mark key="[" line="21" column="0" />
@@ -2803,8 +2797,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>marketing/promocode_static_search</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2813,13 +2807,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>int $period, int $amount</text>
+        <text>marketing/promocode_static_search</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgTUVUSE9EX1BST01PX0NPREVfQ0hFQ0sgICAgICAgICAgICAgICAgICAgICAgICAgID0gJ1Byb21vQ29kZS5DaGVjayc7Cg==</text>
+      <register name="0" type="4">
+        <text>marketing/promocode_static_add</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>

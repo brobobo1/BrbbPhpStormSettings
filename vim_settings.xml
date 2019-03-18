@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -589,7 +589,7 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552914741208">
+      <file name="/Dummy.txt" timestamp="1552921457938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1015,6 +1015,10 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="21" column="371" />
       </file>
+      <file name="/RpcServerErrorException.php" timestamp="1552921520279">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="70" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/Component/GetResponseNotifyCommand.php" timestamp="1552660701275">
         <mark key="[" line="102" column="119" />
         <mark key="]" line="102" column="123" />
@@ -1338,6 +1342,12 @@
         <mark key="]" line="108" column="24" />
         <mark key="." line="108" column="24" />
         <mark key="^" line="110" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Exception/RpcException/RpcWrongPromoCodeDataException.php" timestamp="1552921344122">
+        <mark key="[" line="8" column="59" />
+        <mark key="]" line="8" column="85" />
+        <mark key="^" line="8" column="79" />
+        <mark key="." line="8" column="79" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/src/Service/RequestService/DzpRpc.php" timestamp="1552392514752">
         <mark key="[" line="16" column="22" />
@@ -1872,6 +1882,12 @@
         <mark key="]" line="22" column="16" />
         <mark key="^" line="22" column="16" />
         <mark key="." line="22" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Exception/RpcException/RpcServerErrorException.php" timestamp="1552921529006">
+        <mark key="[" line="68" column="62" />
+        <mark key="]" line="68" column="54" />
+        <mark key="." line="68" column="54" />
+        <mark key="^" line="68" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a868591-5e2a-494a-8f1b-5d0318ea4ac1/DWN-3636.sql" timestamp="1551703876137">
         <mark key="[" line="15" column="28" />
@@ -2726,7 +2742,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+dXJsLCAkaGVhZGVycywgJHJlcXVlc3QpOwogICAgICAgIGRpZTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBXUk9OR19QUk9NT19DT0RFX0RBVEFfRVJST1IgICAgICAgICAgICAgICAgICA9IC0zMjEwNDsK</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2735,25 +2751,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>PDL</text>
+        <text>WRONG_PROMO_CODE_DATE_ERROR</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="4">
-        <text>installmentDays</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBXUk9OR19QUk9NT19DT0RFX0RBVEFfRVJST1IgICAgICAgICAgICAgICAgICA9IC0zMjEwNDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+dXJsLCAkaGVhZGVycywgJHJlcXVlc3QpOwogICAgICAgIGRpZTsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyCg==</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgUnBjV3JvbmdQcm9tb0NvZGVFeGNlcHRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+dXJsLCAkaGVhZGVycywgJHJlcXVlc3QpOwogICAgICAgIGRpZTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2828,25 +2844,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaW5zdGFsbG1lbnRQcm9tb0NvZGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaW5zdGFsbG1lbnRQcm9tb0NvZGVzKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRpbnN0YWxsbWVudC0+Z2V0Q29kZSgpKTsK</text>
+        <text encoding="base64">ICAgIGVjaG8gJGI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoY291bnQoJGluc3RhbGxtZW50cykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRpbnN0YWxsbWVudC0+Z2V0Q29kZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -2255,6 +2255,12 @@
         <mark key="^" line="28" column="12" />
         <mark key="." line="28" column="12" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Command/UpdateTariffCommand.php" timestamp="1553098151077">
+        <mark key="[" line="51" column="89" />
+        <mark key="]" line="51" column="104" />
+        <mark key="^" line="51" column="104" />
+        <mark key="." line="51" column="104" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Service/BinNumberService/BinNumberServiceTest.php" timestamp="1540989637557">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="45" />
@@ -2745,7 +2751,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>PROMO_CODE_CLIENT_REGULAR_TYPE</text>
+        <text encoding="base64">JHByb21vLT5nZXRNaW5QZXJpb2QoKQ==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2754,7 +2760,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>PROMO_CODE_CLIENT_REGULAR_TYPE</text>
+        <text encoding="base64">JHByb21vLT5nZXRNaW5QZXJpb2QoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
@@ -2763,16 +2769,16 @@
         <text>PROMO_CODE_CLIENT_ORDER_SOURCE_OFFLINE_AND_ONLINE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXROYW1lKCRjbGllbnQtPmdldEZpcnN0TmFtZSgpIC4gJyAnIC4gJGNsaWVudC0+Z2V0UGF0cm9ueW1pYygpID8/ICRjbGllbnQtPmdldExhc3ROYW1lKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2847,25 +2853,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAoJHN0YXR1cyA9PT0gc2VsZjo6U1RBVFVTX19UT09LX01PTkVZKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXROYW1lKCRjbGllbnQtPmdldEZpcnN0TmFtZSgpIC4gJyAnIC4gJGNsaWVudC0+Z2V0UGF0cm9ueW1pYygpID8/ICRjbGllbnQtPmdldExhc3ROYW1lKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0RBVEEnICAgICAgICAgICAgICAgICA9PiBbJ0FwcGxlUGF5V2ViJyA9PiB0cnVlXQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAoJHN0YXR1cyA9PT0gc2VsZjo6U1RBVFVTX19UT09LX01PTkVZKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjbGllbnQgYzIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0RBVEEnICAgICAgICAgICAgICAgICA9PiBbJ0FwcGxlUGF5V2ViJyA9PiB0cnVlXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gY2xpZW50IHdoZXJlIHBhdHJvbnltaWMgaXMgbnVsbCBhbmQgZmlyc3RuYW1lIGlzIG5vdCBudWxsOyAtLTI0MzMKCnNlbGVjdCBjb3VudCgqKSBmcm9tIGNsaWVudCB3aGVyZSBmaXJzdG5hbWUgaXMgbm90IG51bGw7IC0tMjI2NjczMQoK</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

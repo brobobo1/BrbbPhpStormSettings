@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -541,11 +541,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="18" column="58" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Command/ValidateCommand.php" timestamp="1552922577535">
-        <mark key="[" line="114" column="77" />
-        <mark key="]" line="117" column="95" />
-        <mark key="^" line="117" column="95" />
-        <mark key="." line="117" column="95" />
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Command/ValidateCommand.php" timestamp="1553174349052">
+        <mark key="[" line="112" column="71" />
+        <mark key="]" line="113" column="67" />
+        <mark key="^" line="113" column="67" />
+        <mark key="." line="113" column="67" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/ReportServiceProvider/Controller/ReportController.php" timestamp="1532428924415">
         <mark key="[" line="33" column="34" />
@@ -1984,6 +1984,7 @@
         <mark key="." line="45" column="85" />
         <mark key="^" line="45" column="85" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/promoCode.getInfo.http" timestamp="1553174101930" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_51.php" timestamp="1549539289134">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="29" />
@@ -2774,7 +2775,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCJVUERBVEUgdGFyaWZmIFNFVCBwcm9tb2NvZGVyYW5nZXMgPSd7XCIxMGRmcmVlMVwiOlt7XCJtYXhBbW91bnRcIjoxMDAwMDAwLFwibWF4UGVyaW9kXCI6MjAsXCJtaW5BbW91bnRcIjoyMDAwMDAsXCJtaW5QZXJpb2RcIjo3LFwic3RlcEFtb3VudFwiOjEwMDAwMCxcInN0ZXBQZXJpb2RcIjoxfSx7XCJtYXhBbW91bnRcIjozMDAwMDAwLFwibWF4UGVyaW9kXCI6MzAsXCJtaW5BbW91bnRcIjoxMDAwMDAwLFwibWluUGVyaW9kXCI6MjAsXCJzdGVwQW1vdW50XCI6MTAwMDAwLFwic3RlcFBlcmlvZFwiOjF9XSxcIjEwZGZyZWUyXCI6W3tcIm1heEFtb3VudFwiOjEwMDAwMDAsXCJtYXhQZXJpb2RcIjoyMCxcIm1pbkFtb3VudFwiOjIwMDAwMCxcIm1pblBlcmlvZFwiOjcsXCJzdGVwQW1vdW50XCI6MTAwMDAwLFwic3RlcFBlcmlvZFwiOjF9LHtcIm1heEFtb3VudFwiOjMwMDAwMDAsXCJtYXhQZXJpb2RcIjozMCxcIm1pbkFtb3VudFwiOjEwMDAwMDAsXCJtaW5QZXJpb2RcIjoyMSxcInN0ZXBBbW91bnRcIjoxMDAwMDAsXCJzdGVwUGVyaW9kXCI6MX1dLFwiMTBkZnJlZTNcIjpbe1wibWF4QW1vdW50XCI6MTAwMDAwMCxcIm1heFBlcmlvZFwiOjIwLFwibWluQW1vdW50XCI6MjAwMDAwLFwibWluUGVyaW9kXCI6NyxcInN0ZXBBbW91bnRcIjoxMDAwMDAsXCJzdGVwUGVyaW9kXCI6MX0se1wibWF4QW1vdW50XCI6MzAwMDAwMCxcIm1heFBlcmlvZFwiOjMwLFwibWluQW1vdW50XCI6MTAwMDAwMCxcIm1pblBlcmlvZFwiOjIxLFwic3RlcEFtb3VudFwiOjEwMDAwMCxcInN0ZXBQZXJpb2RcIjoxfV0sXCJmcmVlN25hN1wiOlt7XCJtYXhBbW91bnRcIjo3MDAwMDAsXCJtYXhQZXJpb2RcIjo3LFwibWluQW1vdW50XCI6NzAwMDAwLFwibWluUGVyaW9kXCI6NyxcInN0ZXBBbW91bnRcIjoxMDAwMDAsXCJzdGVwUGVyaW9kXCI6MX1dLFwibWV0cm8xNzdcIjpbe1wibWF4QW1vdW50XCI6NzAwMDAwLFwibWF4UGVyaW9kXCI6NyxcIm1pbkFtb3VudFwiOjcwMDAwMCxcIm1pblBlcmlvZFwiOjcsXCJzdGVwQW1vdW50XCI6MTAwMDAwLFwic3RlcFBlcmlvZFwiOjF9XSxcIm1ldHJvMTc4XCI6W3tcIm1heEFtb3VudFwiOjcwMDAwMCxcIm1heFBlcmlvZFwiOjcsXCJtaW5BbW91bnRcIjo3MDAwMDAsXCJtaW5QZXJpb2RcIjo3LFwic3RlcEFtb3VudFwiOjEwMDAwMCxcInN0ZXBQZXJpb2RcIjoxfV0sXCJzdGFuZGFydFwiOlt7XCJtYXhBbW91bnRcIjoyMDAwMDAwLFwibWF4UGVyaW9kXCI6MzAsXCJtaW5BbW91bnRcIjoyMDAwMDAsXCJtaW5QZXJpb2RcIjo3LFwic3RlcEFtb3VudFwiOjEwMDAwMCxcInN0ZXBQZXJpb2RcIjoxfV19JyBXSEVSRSB0YXJpZmZUeXBlID0gMiBhbmQgdGFyaWZmVHlwZSA9IDEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoMSk7Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2792,16 +2793,16 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkU3FsKCJVUERBVEUgdGFyaWZmIFNFVCBwcm9tb2NvZGVyYW5nZXMgPSd7XCIxMGRmcmVlMVwiOlt7XCJtYXhBbW91bnRcIjoxMDAwMDAwLFwibWF4UGVyaW9kXCI6MjAsXCJtaW5BbW91bnRcIjoyMDAwMDAsXCJtaW5QZXJpb2RcIjo3LFwic3RlcEFtb3VudFwiOjEwMDAwMCxcInN0ZXBQZXJpb2RcIjoxfSx7XCJtYXhBbW91bnRcIjozMDAwMDAwLFwibWF4UGVyaW9kXCI6MzAsXCJtaW5BbW91bnRcIjoxMDAwMDAwLFwibWluUGVyaW9kXCI6MjAsXCJzdGVwQW1vdW50XCI6MTAwMDAwLFwic3RlcFBlcmlvZFwiOjF9XSxcIjEwZGZyZWUyXCI6W3tcIm1heEFtb3VudFwiOjEwMDAwMDAsXCJtYXhQZXJpb2RcIjoyMCxcIm1pbkFtb3VudFwiOjIwMDAwMCxcIm1pblBlcmlvZFwiOjcsXCJzdGVwQW1vdW50XCI6MTAwMDAwLFwic3RlcFBlcmlvZFwiOjF9LHtcIm1heEFtb3VudFwiOjMwMDAwMDAsXCJtYXhQZXJpb2RcIjozMCxcIm1pbkFtb3VudFwiOjEwMDAwMDAsXCJtaW5QZXJpb2RcIjoyMSxcInN0ZXBBbW91bnRcIjoxMDAwMDAsXCJzdGVwUGVyaW9kXCI6MX1dLFwiMTBkZnJlZTNcIjpbe1wibWF4QW1vdW50XCI6MTAwMDAwMCxcIm1heFBlcmlvZFwiOjIwLFwibWluQW1vdW50XCI6MjAwMDAwLFwibWluUGVyaW9kXCI6NyxcInN0ZXBBbW91bnRcIjoxMDAwMDAsXCJzdGVwUGVyaW9kXCI6MX0se1wibWF4QW1vdW50XCI6MzAwMDAwMCxcIm1heFBlcmlvZFwiOjMwLFwibWluQW1vdW50XCI6MTAwMDAwMCxcIm1pblBlcmlvZFwiOjIxLFwic3RlcEFtb3VudFwiOjEwMDAwMCxcInN0ZXBQZXJpb2RcIjoxfV0sXCJmcmVlN25hN1wiOlt7XCJtYXhBbW91bnRcIjo3MDAwMDAsXCJtYXhQZXJpb2RcIjo3LFwibWluQW1vdW50XCI6NzAwMDAwLFwibWluUGVyaW9kXCI6NyxcInN0ZXBBbW91bnRcIjoxMDAwMDAsXCJzdGVwUGVyaW9kXCI6MX1dLFwibWV0cm8xNzdcIjpbe1wibWF4QW1vdW50XCI6NzAwMDAwLFwibWF4UGVyaW9kXCI6NyxcIm1pbkFtb3VudFwiOjcwMDAwMCxcIm1pblBlcmlvZFwiOjcsXCJzdGVwQW1vdW50XCI6MTAwMDAwLFwic3RlcFBlcmlvZFwiOjF9XSxcIm1ldHJvMTc4XCI6W3tcIm1heEFtb3VudFwiOjcwMDAwMCxcIm1heFBlcmlvZFwiOjcsXCJtaW5BbW91bnRcIjo3MDAwMDAsXCJtaW5QZXJpb2RcIjo3LFwic3RlcEFtb3VudFwiOjEwMDAwMCxcInN0ZXBQZXJpb2RcIjoxfV0sXCJzdGFuZGFydFwiOlt7XCJtYXhBbW91bnRcIjoyMDAwMDAwLFwibWF4UGVyaW9kXCI6MzAsXCJtaW5BbW91bnRcIjoyMDAwMDAsXCJtaW5QZXJpb2RcIjo3LFwic3RlcEFtb3VudFwiOjEwMDAwMCxcInN0ZXBQZXJpb2RcIjoxfV19JyBXSEVSRSB0YXJpZmZUeXBlID0gMiBhbmQgdGFyaWZmVHlwZSA9IDEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGRvd24oKSBtaWdyYXRpb24gaXMgYXV0by1nZW5lcmF0ZWQsIHBsZWFzZSBtb2RpZnkgaXQgdG8geW91ciBuZWVkcwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoMSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIGRvd24oKSBtaWdyYXRpb24gaXMgYXV0by1nZW5lcmF0ZWQsIHBsZWFzZSBtb2RpZnkgaXQgdG8geW91ciBuZWVkcwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzIHVwKCkgbWlncmF0aW9uIGlzIGF1dG8tZ2VuZXJhdGVkLCBwbGVhc2UgbW9kaWZ5IGl0IHRvIHlvdXIgbmVlZHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2876,25 +2877,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzIHVwKCkgbWlncmF0aW9uIGlzIGF1dG8tZ2VuZXJhdGVkLCBwbGVhc2UgbW9kaWZ5IGl0IHRvIHlvdXIgbmVlZHMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZXROYW1lKCRjbGllbnQtPmdldEZpcnN0TmFtZSgpIC4gJyAnIC4gJGNsaWVudC0+Z2V0UGF0cm9ueW1pYygpID8/ICRjbGllbnQtPmdldExhc3ROYW1lKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXROYW1lKCRjbGllbnQtPmdldEZpcnN0TmFtZSgpIC4gJyAnIC4gJGNsaWVudC0+Z2V0UGF0cm9ueW1pYygpID8/ICRjbGllbnQtPmdldExhc3ROYW1lKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

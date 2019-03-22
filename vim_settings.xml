@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -1008,11 +1008,11 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4717b8cf-6657-4fae-b5c0-2fd4b6f07193/console.sql" timestamp="1553264674505">
-        <mark key="[" line="75" column="5" />
-        <mark key="]" line="75" column="5" />
-        <mark key="^" line="75" column="5" />
-        <mark key="." line="75" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4717b8cf-6657-4fae-b5c0-2fd4b6f07193/console.sql" timestamp="1553265519136">
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="75" column="23" />
+        <mark key="^" line="75" column="23" />
+        <mark key="." line="75" column="23" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/External/LoanRpcService.php" timestamp="1547119775881">
         <mark key="[" line="366" column="108" />
@@ -2282,6 +2282,12 @@
         <mark key="^" line="28" column="12" />
         <mark key="." line="28" column="12" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Command/UpdateTariffCommand.php" timestamp="1553265260961">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="48" column="65" />
+        <mark key="^" line="48" column="65" />
+        <mark key="." line="48" column="65" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/tests/unit/App/Service/BinNumberService/BinNumberServiceTest.php" timestamp="1540989637557">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="45" />
@@ -2774,8 +2780,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgoK</text>
+      <register name="&quot;" type="4">
+        <text>isclose</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2784,7 +2790,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isclose</text>
       </register>
       <register name="/" type="4">
         <text>day</text>

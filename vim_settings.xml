@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -1695,12 +1695,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1553786484763">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" timestamp="1553785421319">
-        <mark key="'" line="169" column="0" />
-        <mark key="[" line="153" column="76" />
-        <mark key="]" line="140" column="50" />
-        <mark key="." line="140" column="43" />
-        <mark key="^" line="133" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" timestamp="1553849740014">
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="158" column="75" />
+        <mark key="]" line="158" column="78" />
+        <mark key="^" line="158" column="78" />
+        <mark key="." line="158" column="78" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Entity/EventCustomer.php" timestamp="1547824657321">
         <mark key="[" line="23" column="40" />
@@ -2805,7 +2805,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>3551873</text>
+        <text>(order by employee_id, loan_application_id)</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2814,25 +2814,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>3551873</text>
+        <text>where</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
       <register name="0" type="4">
-        <text>3551873</text>
+        <text>(order by employee_id, loan_application_id)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SEF2aW5nCiAgZW1wbG95ZWVfaWRfMSA9IGVtcGxveWVlX2lkXzIKQU5ECiAgbG9hbl9hcHBsaWNhdGlvbl9pZF8xID0gbG9hbl9hcHBsaWNhdGlvbl9pZF8yOwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dW5pb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAlcwo=</text>
+        <text encoding="base64">dW5pb24K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2910,22 +2910,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YW5kIGNyZWF0ZWRhdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">YW5kIGNyZWF0ZWRhdAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvbW9Db2RlID0gCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByb21vCg==</text>
+        <text encoding="base64">ICAgICAgICAkcHJvbW9Db2RlID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHByb21vCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

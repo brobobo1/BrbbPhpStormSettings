@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -2934,7 +2934,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSEFWSU5HCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>exit</text>
       </register>
     </registers>
     <search>
@@ -2972,8 +2972,8 @@
         <entry>sview rpc.php</entry>
         <entry>sv</entry>
         <entry>sp</entry>
-        <entry>exit</entry>
         <entry>vs</entry>
+        <entry>exit</entry>
       </history-cmd>
       <history-expr />
       <history-input />

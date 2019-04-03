@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -490,6 +490,7 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
+      <file name="$USER_HOME$/code/devim/dzp/src/App/Service/LoanScheduleService/LoanScheduleService.php" timestamp="1554282690109" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1517582554275">
         <mark key="[" line="358" column="21" />
         <mark key="]" line="359" column="7" />
@@ -1692,13 +1693,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554279746432">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" timestamp="1554133726394">
-        <mark key="'" line="105" column="57" />
-        <mark key="[" line="155" column="6" />
-        <mark key="]" line="154" column="22" />
-        <mark key="^" line="154" column="22" />
-        <mark key="." line="154" column="22" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Entity/EventCustomer.php" timestamp="1547824657321">
         <mark key="[" line="23" column="40" />
         <mark key="]" line="23" column="47" />
@@ -2789,8 +2783,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Rpc2NvdW50JyAgICAgICAgICAgID0+IDAsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KAogICAgICAgICAgICAgICAgJG1vZGVsTmFtZSwKICAgICAgICAgICAgICAgICR0aGlzLT5idWlsZE1vZGVsUGFyYW1ldGVyc1JhdygkbG9hbk1vbnRoUGVyY2VudCwgJGxvYW5UeXBlKSwKICAgICAgICAgICAgICAgICRpc3N1ZURhdGUsCiAgICAgICAgICAgICAgICAkbG9hbkFtb3VudCwKICAgICAgICAgICAgICAgICRzY2hlZHVsZSwKICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAnZGF5c0NvdW50JyA9PiAkZGlzY291bnRGcmVlRGF5cywKICAgICAgICAgICAgICAgICAgICAncGVyY2VudCcgICA9PiAkZGlzY291bnRQZXJjZW50LAogICAgICAgICAgICAgICAgICAgICdkaXJlY3Rpb24nID0+ICRkaXNjb3VudERpcmVjdGlvbgogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAp</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2805,7 +2799,7 @@
         <text>day</text>
       </register>
       <register name="0" type="4">
-        <text>percent</text>
+        <text encoding="base64">KAogICAgICAgICAgICAgICAgJG1vZGVsTmFtZSwKICAgICAgICAgICAgICAgICR0aGlzLT5idWlsZE1vZGVsUGFyYW1ldGVyc1JhdygkbG9hbk1vbnRoUGVyY2VudCwgJGxvYW5UeXBlKSwKICAgICAgICAgICAgICAgICRpc3N1ZURhdGUsCiAgICAgICAgICAgICAgICAkbG9hbkFtb3VudCwKICAgICAgICAgICAgICAgICRzY2hlZHVsZSwKICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAnZGF5c0NvdW50JyA9PiAkZGlzY291bnRGcmVlRGF5cywKICAgICAgICAgICAgICAgICAgICAncGVyY2VudCcgICA9PiAkZGlzY291bnRQZXJjZW50LAogICAgICAgICAgICAgICAgICAgICdkaXJlY3Rpb24nID0+ICRkaXNjb3VudERpcmVjdGlvbgogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2Rpc2NvdW50JyAgICAgICAgICAgID0+IDAsCg==</text>

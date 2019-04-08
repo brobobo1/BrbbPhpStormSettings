@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -1679,10 +1679,12 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1554393573121">
-        <mark key="[" line="2040" column="0" />
-        <mark key="]" line="2040" column="0" />
-        <mark key="." line="2040" column="0" />
+      <file name="$USER_HOME$/code/devim/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1554732517382">
+        <mark key="'" line="703" column="55" />
+        <mark key="[" line="703" column="12" />
+        <mark key="]" line="703" column="11" />
+        <mark key="." line="703" column="11" />
+        <mark key="^" line="703" column="11" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/tests/functional/App/Rpc/EsiaRpcServiceTest.php" timestamp="1542127484227">
         <mark key="[" line="14" column="22" />
@@ -2692,7 +2694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="37" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Command/ValidateCommand.php" />
       <jump line="8" column="30" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/InternalDTO.php" />
       <jump line="12" column="10" filename="$USER_HOME$/code/devim/dzp/src/scoring-client/src/ScoringClientInterface.php" />
       <jump line="129" column="5" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/StaticInstallmentDTO.php" />
@@ -2792,6 +2793,7 @@
       <jump line="138" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" />
       <jump line="105" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" />
       <jump line="69" column="59" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/COLLECT-1526.sql" />
+      <jump line="703" column="55" filename="$USER_HOME$/code/devim/dzp/src/scoring-client/src/ScoringClient.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2813,8 +2815,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBvZmZzZXQgMTAKICBsaW1pdCA1Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2823,7 +2825,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>UNION</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>day</text>

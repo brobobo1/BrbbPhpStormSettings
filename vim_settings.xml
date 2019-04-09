@@ -451,6 +451,13 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/COLLECT-1526.sql" timestamp="1554368309219">
+        <mark key="'" line="69" column="59" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="103" column="28" />
+        <mark key="." line="101" column="19" />
+        <mark key="^" line="101" column="19" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Entity/IssuingBank.php" timestamp="1540815081240">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
@@ -1705,12 +1712,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554296186616">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" timestamp="1554814783525">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" timestamp="1554816412666">
         <mark key="'" line="105" column="57" />
-        <mark key="[" line="384" column="123" />
-        <mark key="]" line="391" column="52" />
-        <mark key="." line="391" column="52" />
-        <mark key="^" line="391" column="52" />
+        <mark key="[" line="407" column="47" />
+        <mark key="]" line="408" column="11" />
+        <mark key="." line="408" column="11" />
+        <mark key="^" line="408" column="11" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Entity/EventCustomer.php" timestamp="1547824657321">
         <mark key="[" line="23" column="40" />
@@ -2814,8 +2821,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c2.passportseries = '9313' and c2.passportnumber = '498998';</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2824,25 +2831,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>c2.passportseries = '9313' and c2.passportnumber = '498998';</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgxKTsK</text>
+        <text encoding="base64">U0VMRUNUIHAubnVtYmVyLCBjMi4qCmZyb20gY2xpZW50IGMyCiAgaW5uZXIgam9pbiBsb2FuYXBwbGljYXRpb24gbCBPTiBjMi5pZCA9IGwuY2xpZW50X2lkCiAgaW5uZXIgam9pbiBwaG9uZSBwIE9OIGwuaWQgPSBwLmxvYW5fYXBwbGljYXRpb25faWQKd2hlcmUgYzIucGFzc3BvcnRzZXJpZXMgPSAnOTMxMycgYW5kIGMyLnBhc3Nwb3J0bnVtYmVyID0gJzQ5ODk5OCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJjaGlJZCA9ICR0aGlzLT5jbGllbnQtPmdldEFyY2hpSWQoKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNSZWd1bGFyID0gJHRoaXMtPmNsaWVudC0+aXNSZWd1bGFyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXJjaGlJZCA9ICR0aGlzLT5jbGllbnQtPmdldEFyY2hpSWQoKTsKCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2917,25 +2924,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaXNSZWd1bGFyID0gJHRoaXMtPmNsaWVudC0+aXNSZWd1bGFyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcHJvbW8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcHJvbW8pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgxKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>exit</text>

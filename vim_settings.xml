@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -937,7 +937,6 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/SkorozvonApiProvider/SkorozvonService.php" timestamp="1554804063110" />
       <file name="$USER_HOME$/code/devim/dzp/tests/functional/Devim/Component/NotificationSystem/Service/NotificationSystem/Service/MyTargetService/Client/ClientApiTest.php" timestamp="1538657100060">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="11" column="3" />
@@ -1608,6 +1607,7 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" timestamp="1554826038394" />
       <file name="$USER_HOME$/code/devim/dzp/src/repositories.php" timestamp="1550582158510">
         <mark key="[" line="110" column="30" />
         <mark key="]" line="110" column="43" />
@@ -1712,12 +1712,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554296186616">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" timestamp="1554816412666">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" timestamp="1554887957963">
         <mark key="'" line="105" column="57" />
-        <mark key="[" line="407" column="47" />
-        <mark key="]" line="408" column="11" />
-        <mark key="." line="408" column="11" />
-        <mark key="^" line="408" column="11" />
+        <mark key="[" line="365" column="64" />
+        <mark key="]" line="365" column="63" />
+        <mark key="." line="365" column="63" />
+        <mark key="^" line="365" column="63" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Entity/EventCustomer.php" timestamp="1547824657321">
         <mark key="[" line="23" column="40" />
@@ -2822,7 +2822,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>c2.passportseries = '9313' and c2.passportnumber = '498998';</text>
+        <text>(p.number like '+72%' or p.number like '+73%')</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2831,25 +2831,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>c2.passportseries = '9313' and c2.passportnumber = '498998';</text>
+        <text>(p.number like '+72%' or p.number like '+73%')</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIHAubnVtYmVyLCBjMi4qCmZyb20gY2xpZW50IGMyCiAgaW5uZXIgam9pbiBsb2FuYXBwbGljYXRpb24gbCBPTiBjMi5pZCA9IGwuY2xpZW50X2lkCiAgaW5uZXIgam9pbiBwaG9uZSBwIE9OIGwuaWQgPSBwLmxvYW5fYXBwbGljYXRpb25faWQKd2hlcmUgYzIucGFzc3BvcnRzZXJpZXMgPSAnOTMxMycgYW5kIGMyLnBhc3Nwb3J0bnVtYmVyID0gJzQ5ODk5OCc7Cg==</text>
+      <register name="0" type="4">
+        <text>(p.number like '+72%' or p.number like '+73$' or p.number like '+75%' or p.number like '+76%')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWMK</text>
+        <text encoding="base64">d2hlcmUgbGFhLmRlbGV0ZWRhdCA9ICcyMDE5MDQwOFQxODo0MDowMCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJjaGlJZCA9ICR0aGlzLT5jbGllbnQtPmdldEFyY2hpSWQoKTsKCg==</text>
+        <text encoding="base64">c2VsZWMK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2924,25 +2924,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNSZWd1bGFyID0gJHRoaXMtPmNsaWVudC0+aXNSZWd1bGFyKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkYXJjaGlJZCA9ICR0aGlzLT5jbGllbnQtPmdldEFyY2hpSWQoKTsKCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkaXNSZWd1bGFyID0gJHRoaXMtPmNsaWVudC0+aXNSZWd1bGFyKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcHJvbW8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcHJvbW8pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

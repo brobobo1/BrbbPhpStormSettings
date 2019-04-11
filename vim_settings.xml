@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -161,11 +161,10 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/code/devim/collectors/src/App/Command/RemoveDeletedLoanApplicationCommand.php" timestamp="1554986768143">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="33" column="41" />
-        <mark key="." line="36" column="42" />
-        <mark key="^" line="36" column="42" />
+      <file name="$USER_HOME$/code/devim/collectors/src/App/Command/RemoveDeletedLoanApplicationCommand.php" timestamp="1554988709293">
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/rooms_page.tpl" timestamp="1512479957632">
         <mark key="[" line="19" column="36" />
@@ -1085,11 +1084,10 @@
         <mark key="^" line="43" column="19" />
         <mark key="." line="43" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9fa4bee0-10da-40a3-b690-2af9551f8fdc/console.sql" timestamp="1554987096273">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="10" column="23" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="10" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9fa4bee0-10da-40a3-b690-2af9551f8fdc/console.sql" timestamp="1554987548942">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/src/Admin/Support/TransactionAdmin.php" timestamp="1534343121719">
         <mark key="[" line="17" column="50" />
@@ -1730,12 +1728,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554986878777">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" timestamp="1554984262974">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" timestamp="1554989175486">
         <mark key="'" line="489" column="0" />
-        <mark key="[" line="547" column="6" />
-        <mark key="]" line="547" column="6" />
-        <mark key="^" line="554" column="0" />
-        <mark key="." line="547" column="6" />
+        <mark key="[" line="557" column="91" />
+        <mark key="]" line="557" column="97" />
+        <mark key="^" line="557" column="97" />
+        <mark key="." line="557" column="97" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Entity/EventCustomer.php" timestamp="1547824657321">
         <mark key="[" line="23" column="40" />
@@ -2840,8 +2838,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICBsYS5kb2NudW1iZXIKICAgICAgICAgICAgRlJPTQogICAgICAgICAgICAgIGxvYW5hcHBsaWNhdGlvbiBBUyBsYSAKICAgICAgICAgICAgV0hFUkUgbGEuZGVsZXRlZGF0IElTIE5PVCBOVUxMCg==</text>
+      <register name="&quot;" type="4">
+        <text>'20190411T15:30:00'</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2855,20 +2853,20 @@
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgICBsYS5kb2NudW1iZXIKICAgICAgICAgICAgRlJPTQogICAgICAgICAgICAgIGxvYW5hcHBsaWNhdGlvbiBBUyBsYSAKICAgICAgICAgICAgV0hFUkUgbGEuZGVsZXRlZGF0IElTIE5PVCBOVUxMCg==</text>
+      <register name="0" type="4">
+        <text>'20190411T15:30:00'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkc3RtdC0+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFORCBsYS5kZWxldGVkYXQgaXMgbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RtdC0+YmluZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFORCBsYS5kZWxldGVkYXQgaXMgbnVsbAo=</text>
+        <text encoding="base64">YW5kIGxhLmRvY251bWJlciAhPSBUSU1FU1RBTVAoMCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -2943,25 +2941,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFORCBsYS5kZWxldGVkYXQgaXMgbnVsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFORCBsYS5kZWxldGVkYXQgaXMgbnVsbAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">c2VsZWN0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

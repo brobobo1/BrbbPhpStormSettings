@@ -1532,6 +1532,10 @@
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="26" />
       </file>
+      <file name="$USER_HOME$/code/collectors/src/import.php" timestamp="1559662373767">
+        <mark key="[" line="102" column="44" />
+        <mark key="]" line="102" column="57" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/ApiResponseInterface.php" timestamp="1538642744880">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="8" />
@@ -2864,7 +2868,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>) {</text>
+        <text>crm.connection</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2878,8 +2882,8 @@
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRldmVudFsnb3JnYW5pemF0aW9uX2lkJ10gPT09IENvbXBhbnk6OlREX09SR19JRCkgewo=</text>
+      <register name="0" type="4">
+        <text>crm.connection</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>

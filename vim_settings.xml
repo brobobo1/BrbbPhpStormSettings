@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -1328,6 +1328,12 @@
         <mark key="]" line="28" column="13" />
         <mark key="." line="28" column="13" />
         <mark key="^" line="28" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Command/ExportToScorozvonCommand.php" timestamp="1559640650483">
+        <mark key="[" line="180" column="65" />
+        <mark key="]" line="180" column="64" />
+        <mark key="." line="180" column="64" />
+        <mark key="^" line="180" column="64" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/EmailConfirmServiceProvider/EmailConfirmServiceProvider.php" timestamp="1540909348863">
         <mark key="[" line="21" column="48" />
@@ -2858,7 +2864,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNsaWVudEFyY2hpSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRldmVudFsndHlwZSddID09PSBTa29yb3p2b25TZXJ2aWNlOjpUWVBFX1BETCkgewogICAgICAgICAgICAgICAgJGNyZWF0ZWRBdCA9IG5ldyBcRGF0ZVRpbWUoJGV2ZW50WydjcmVhdGVkQXQnXSk7CiAgICAgICAgICAgICAgICBpZiAoKG5ldyBcRGF0ZVRpbWUoKSktPmdldFRpbWVzdGFtcCgpIC0gJGNyZWF0ZWRBdC0+Z2V0VGltZXN0YW1wKCkgPj0gMTIwMCkgewogICAgICAgICAgICAgICAgICAgICRsZWFkc1Byb2plY3RzW1Nrb3JvenZvblNlcnZpY2U6OkNBTExfUFJPSkVDVF9QRExfSURdW10gPSAkbGVhZERhdGE7CiAgICAgICAgICAgICAgICAgICAgJGNvbmZpcm1Eb25lT3JkZXJJZHNbXSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9ICRldmVudFsnb3JkZXJJZCddOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2872,8 +2878,8 @@
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="4">
-        <text>(!isset($promoInfo['nextPromocodeDays']) || $promoInfo['nextPromocodeDays'] === 0)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRldmVudFsndHlwZSddID09PSBTa29yb3p2b25TZXJ2aWNlOjpUWVBFX1BETCkgewogICAgICAgICAgICAgICAgJGNyZWF0ZWRBdCA9IG5ldyBcRGF0ZVRpbWUoJGV2ZW50WydjcmVhdGVkQXQnXSk7CiAgICAgICAgICAgICAgICBpZiAoKG5ldyBcRGF0ZVRpbWUoKSktPmdldFRpbWVzdGFtcCgpIC0gJGNyZWF0ZWRBdC0+Z2V0VGltZXN0YW1wKCkgPj0gMTIwMCkgewogICAgICAgICAgICAgICAgICAgICRsZWFkc1Byb2plY3RzW1Nrb3JvenZvblNlcnZpY2U6OkNBTExfUFJPSkVDVF9QRExfSURdW10gPSAkbGVhZERhdGE7CiAgICAgICAgICAgICAgICAgICAgJGNvbmZpcm1Eb25lT3JkZXJJZHNbXSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9ICRldmVudFsnb3JkZXJJZCddOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNsaWVudEFyY2hpSWQpOwo=</text>

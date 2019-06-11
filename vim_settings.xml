@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -446,6 +446,9 @@
         <mark key="^" line="33" column="117" />
         <mark key="." line="33" column="117" />
       </file>
+      <file name="$USER_HOME$/code/collectors/runtime/vendor/nette/mail/src/Mail/SmtpMailer.php" timestamp="1560244377990">
+        <mark key="'" line="26" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4717b8cf-6657-4fae-b5c0-2fd4b6f07193/new_promo_admin.sql" timestamp="1554802760694">
         <mark key="[" line="23" column="3" />
         <mark key="]" line="23" column="2" />
@@ -680,7 +683,7 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560186772862">
+      <file name="/Dummy.txt" timestamp="1560246175095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -769,11 +772,12 @@
         <mark key="." line="31" column="15" />
         <mark key="^" line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/code/collectors/src/App/Command/ImportCrmWithMetricCommand.php" timestamp="1560186512905">
-        <mark key="[" line="27" column="26" />
-        <mark key="]" line="27" column="33" />
-        <mark key="." line="27" column="33" />
-        <mark key="^" line="27" column="33" />
+      <file name="$USER_HOME$/code/collectors/src/App/Command/ImportCrmWithMetricCommand.php" timestamp="1560246176513">
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="35" column="60" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="4" />
+        <mark key="^" line="47" column="4" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/DTO/Achievement.php" timestamp="1531834441106">
         <mark key="[" line="6" column="17" />
@@ -1018,12 +1022,12 @@
         <mark key="." line="105" column="44" />
         <mark key="^" line="105" column="44" />
       </file>
-      <file name="$USER_HOME$/code/collectors/config/config.php" timestamp="1560243262281">
+      <file name="$USER_HOME$/code/collectors/config/config.php" timestamp="1560246007133">
         <mark key="'" line="321" column="14" />
-        <mark key="[" line="372" column="59" />
-        <mark key="]" line="372" column="58" />
-        <mark key="." line="372" column="58" />
-        <mark key="^" line="372" column="58" />
+        <mark key="[" line="357" column="18" />
+        <mark key="]" line="357" column="39" />
+        <mark key="." line="357" column="40" />
+        <mark key="^" line="357" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1517582554275">
         <mark key="[" line="358" column="21" />
@@ -2322,12 +2326,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/collectors/src/App/Command/ImportCrmCommand.php" timestamp="1560183596440">
-        <mark key="[" line="37" column="43" />
-        <mark key="]" line="40" column="49" />
-        <mark key="." line="40" column="49" />
-        <mark key="^" line="40" column="49" />
-      </file>
+      <file name="$USER_HOME$/code/collectors/src/App/Command/ImportCrmCommand.php" timestamp="1560245713337" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_69.php" timestamp="1553257327640">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -2921,8 +2920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="427" column="4" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
-      <jump line="16" column="59" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
       <jump line="141" column="54" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" />
       <jump line="31" column="17" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Transaction.php" />
       <jump line="10" column="20" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/ApplePayIntegrationInterface.php" />
@@ -3021,6 +3018,8 @@
       <jump line="269" column="29" filename="$USER_HOME$/code/collectors/src/services.php" />
       <jump line="155" column="74" filename="$USER_HOME$/code/collectors/src/services.php" />
       <jump line="321" column="14" filename="$USER_HOME$/code/collectors/config/config.php" />
+      <jump line="39" column="19" filename="$USER_HOME$/code/collectors/src/App/Command/ImportCrmWithMetricCommand.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/collectors/runtime/vendor/nette/mail/src/Mail/SmtpMailer.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3043,7 +3042,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgR3V6emxlSHR0cENsaWVudChuZXcgR3V6emxlQ2xpZW50KFsKLy8gICAgICAgICAgICAnY3VybCcgPT4gWwovLyAgICAgICAgICAgICAgICBDVVJMT1BUX1BST1hZID0+ICdwcm94eS5kZXZpbS50ZWFtOjE2MzgwJywKLy8gICAgICAgICAgICAgICAgQ1VSTE9QVF9QUk9YWVVTRVJQV0QgPT4gJ2RldnByb3h5Olg4Z2gwdHBTSDVBRkonLAovLyAgICAgICAgICAgICAgICBDVVJMT1BUX1BST1hZVFlQRSA9PiBDVVJMUFJPWFlfU09DS1M1LAovLyAgICAgICAgICAgICAgICBDVVJMT1BUX1BST1hZQVVUSCA9PiBDVVJMQVVUSF9CQVNJQwovLyAgICAgICAgICAgIF0KLy8gICAgICAgIF0pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1haWxNZXNzYWdlLT5zZXRIZWFkZXIoJzEnLCAnU3lzdGVtIHJlcG9ydCcpOwo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -3052,25 +3051,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text>day</text>
       </register>
       <register name="0" type="4">
-        <text>'devproxy:X8gh0tpSH5AFJ',</text>
+        <text>noreply@dozarplati.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgR3V6emxlSHR0cENsaWVudChuZXcgR3V6emxlQ2xpZW50KFsKLy8gICAgICAgICAgICAnY3VybCcgPT4gWwovLyAgICAgICAgICAgICAgICBDVVJMT1BUX1BST1hZID0+ICdwcm94eS5kZXZpbS50ZWFtOjE2MzgwJywKLy8gICAgICAgICAgICAgICAgQ1VSTE9QVF9QUk9YWVVTRVJQV0QgPT4gJ2RldnByb3h5Olg4Z2gwdHBTSDVBRkonLAovLyAgICAgICAgICAgICAgICBDVVJMT1BUX1BST1hZVFlQRSA9PiBDVVJMUFJPWFlfU09DS1M1LAovLyAgICAgICAgICAgICAgICBDVVJMT1BUX1BST1hZQVVUSCA9PiBDVVJMQVVUSF9CQVNJQwovLyAgICAgICAgICAgIF0KLy8gICAgICAgIF0pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1haWxNZXNzYWdlLT5zZXRIZWFkZXIoJzEnLCAnU3lzdGVtIHJlcG9ydCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgU2VydmljZVxIdHRwQ2xpZW50U2VydmljZVxIdHRwQ2xpZW50U2VydmljZSgpCg==</text>
+        <text encoding="base64">ICAgICdzdWJqZWN0JyA9PiAnJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFRlbGVncmFtXEJvdFxIdHRwQ2xpZW50c1xHdXp6bGVIdHRwQ2xpZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1haWxNZXNzYWdlLT5zZXRIZWFkZXIoJzEnLCAnU3lzdGVtIHJlcG9ydCcpOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3145,25 +3144,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50IGFzIEd1enpsZUNsaWVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNldEZyb20K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgR3V6emxlSHR0cENsaWVudChuZXcgR3V6emxlQ2xpZW50KFsKICAgICAgICdjdXJsJyA9PiBbCiAgICAgICAgICAgQ1VSTE9QVF9QUk9YWSA9PiAncHJveHkuZGV2aW0udGVhbToxNjM4MCcsCiAgICAgICAgICAgQ1VSTE9QVF9QUk9YWVVTRVJQV0QgPT4gJ2RldnByb3h5Olg4Z2gwdHBTSDVBRkonLAogICAgICAgICAgIENVUkxPUFRfUFJPWFlUWVBFID0+IENVUkxQUk9YWV9TT0NLUzUsCiAgICAgICAgICAgQ1VSTE9QVF9QUk9YWUFVVEggPT4gQ1VSTEFVVEhfQkFTSUMKICAgICAgIF0KICAgIF0pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1haWxNZXNzYWdlLT5zZXRTdWJqZWN0KCdDb2xsZWN0b3JzIGNybSBpbXBvcnQgYWJvcnRpbmcnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENVUkxPUFRfUFJPWFlVU0VSUFdEID0+IGV2cHJveHk6WDhnaDB0cFNINUFGSicsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgR3V6emxlSHR0cENsaWVudChuZXcgR3V6emxlQ2xpZW50KFsKLy8gICAgICAgICAgICAnY3VybCcgPT4gWwovLyAgICAgICAgICAgICAgICBDVVJMT1BUX1BST1hZID0+ICdwcm94eS5kZXZpbS50ZWFtOjE2MzgwJywKLy8gICAgICAgICAgICAgICAgQ1VSTE9QVF9QUk9YWVVTRVJQV0QgPT4gJ2RldnByb3h5Olg4Z2gwdHBTSDVBRkonLAovLyAgICAgICAgICAgICAgICBDVVJMT1BUX1BST1hZVFlQRSA9PiBDVVJMUFJPWFlfU09DS1M1LAovLyAgICAgICAgICAgICAgICBDVVJMT1BUX1BST1hZQVVUSCA9PiBDVVJMQVVUSF9CQVNJQwovLyAgICAgICAgICAgIF0KLy8gICAgICAgIF0pKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgU2VydmljZVxIdHRwQ2xpZW50U2VydmljZVxIdHRwQ2xpZW50U2VydmljZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50Owo=</text>
+        <text encoding="base64">dXNlIFRlbGVncmFtXEJvdFxIdHRwQ2xpZW50c1xHdXp6bGVIdHRwQ2xpZW50Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50IGFzIEd1enpsZUNsaWVudDsK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

@@ -83,6 +83,10 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
+      <file name="$USER_HOME$/code/dzp/docker-compose.yml" timestamp="1560266004562">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="10" column="27" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Helper/AchievementHelper.php" timestamp="1535109981489">
         <mark key="[" line="18" column="16" />
         <mark key="]" line="18" column="23" />
@@ -537,6 +541,10 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="134" column="29" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/services.php" timestamp="1560181307855">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="119" column="2" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeStrategy.php" timestamp="1542961839176">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="75" />
@@ -693,13 +701,13 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1560437520543">
+      <file name="/dummy.sql" timestamp="1560440170424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560432476732">
+      <file name="/Dummy.txt" timestamp="1560439988680">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1297,7 +1305,10 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1560242981868" />
+      <file name="$USER_HOME$/code/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1560439160521">
+        <mark key="[" line="2090" column="20" />
+        <mark key="]" line="2090" column="36" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/tests/functional/Devim/Component/NotificationSystem/EventListener/NotificationSubscriberTest.php" timestamp="1540918325962">
         <mark key="[" line="28" column="37" />
         <mark key="]" line="28" column="37" />
@@ -2065,6 +2076,10 @@
         <mark key="^" line="25" column="19" />
       </file>
       <file name="/composer.lock" timestamp="1559918977861" />
+      <file name="$USER_HOME$/code/dzp/src/notification-system/src/EventListener/GetResponseSubscriber.php" timestamp="1559909725765">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="73" column="59" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Response/UsersListsResponse.php" timestamp="1538734325117">
         <mark key="[" line="15" column="14" />
         <mark key="]" line="19" column="0" />
@@ -2169,6 +2184,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="7" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/dzp/runtime/vendor/devimteam/get-response-client/src/ResourceDescription/CampaignsResource.php" timestamp="1559917876120">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="57" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Request/AddToUsersListRequest.php" timestamp="1539182502322">
         <mark key="[" line="25" column="13" />
@@ -3071,8 +3090,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>setAbandonedState</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -3086,8 +3105,8 @@
       <register name="/" type="4">
         <text>day</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>setAbandonedState</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>

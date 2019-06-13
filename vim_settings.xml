@@ -457,6 +457,9 @@
       <file name="/scoring_middleware_dzp_20.public.paidservice [test]" timestamp="1560259053259">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/collectors/runtime/vendor/nette/mail/src/Mail/SmtpMailer.php" timestamp="1560244377990">
+        <mark key="'" line="26" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4717b8cf-6657-4fae-b5c0-2fd4b6f07193/new_promo_admin.sql" timestamp="1554802760694">
         <mark key="[" line="23" column="3" />
         <mark key="]" line="23" column="2" />
@@ -695,7 +698,7 @@
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560424548847">
+      <file name="/Dummy.txt" timestamp="1560427063549">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -783,13 +786,6 @@
         <mark key="]" line="31" column="15" />
         <mark key="." line="31" column="15" />
         <mark key="^" line="31" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/collectors/src/App/Command/ImportCrmWithMetricCommand.php" timestamp="1560246176513">
-        <mark key="'" line="39" column="19" />
-        <mark key="[" line="35" column="60" />
-        <mark key="]" line="47" column="4" />
-        <mark key="." line="47" column="4" />
-        <mark key="^" line="47" column="4" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/EventService/DTO/Achievement.php" timestamp="1531834441106">
         <mark key="[" line="6" column="17" />
@@ -908,7 +904,7 @@
         <mark key="^" line="150" column="20" />
         <mark key="." line="150" column="20" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Rpc/Internal/PaidServiceRpcService.php" timestamp="1560425632742">
+      <file name="$USER_HOME$/code/dzp/src/App/Rpc/Internal/PaidServiceRpcService.php" timestamp="1560427249837">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -1046,13 +1042,6 @@
         <mark key="." line="105" column="44" />
         <mark key="^" line="105" column="44" />
       </file>
-      <file name="$USER_HOME$/code/collectors/config/config.php" timestamp="1560246007133">
-        <mark key="'" line="321" column="14" />
-        <mark key="[" line="357" column="18" />
-        <mark key="]" line="357" column="39" />
-        <mark key="." line="357" column="40" />
-        <mark key="^" line="357" column="40" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5772955b-0146-464e-9b13-3117c5114822/console.sql" timestamp="1517582554275">
         <mark key="[" line="358" column="21" />
         <mark key="]" line="359" column="7" />
@@ -1071,7 +1060,7 @@
         <mark key="^" line="28" column="65" />
         <mark key="." line="28" column="65" />
       </file>
-      <file name="/fragment.php" timestamp="1560416180813">
+      <file name="/fragment.php" timestamp="1560426314344">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/PassportVerifyRepositoryInterface.php" timestamp="1547570325979">
@@ -1403,7 +1392,7 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1560425638216">
+      <file name="/PHP Console" timestamp="1560427286181">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Middleware/SecureMiddleware/SignMiddleware.php" timestamp="1552496266275">
@@ -1598,7 +1587,7 @@
         <mark key="." line="64" column="7" />
         <mark key="^" line="64" column="7" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/PayoutService.php" timestamp="1560266985700" />
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/PayoutService.php" timestamp="1560427267483" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20181024193809.php" timestamp="1540477218111">
         <mark key="[" line="20" column="50" />
         <mark key="]" line="20" column="56" />
@@ -2170,13 +2159,6 @@
         <mark key="." line="140" column="29" />
         <mark key="^" line="140" column="29" />
       </file>
-      <file name="$USER_HOME$/code/collectors/src/services.php" timestamp="1560187178526">
-        <mark key="'" line="155" column="74" />
-        <mark key="[" line="302" column="5" />
-        <mark key="]" line="302" column="5" />
-        <mark key="." line="302" column="5" />
-        <mark key="^" line="302" column="5" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/PromoCodeDTO.php" timestamp="1548971098124">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -2433,11 +2415,11 @@
         <mark key="^" line="7" column="51" />
         <mark key="." line="7" column="51" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console.sql" timestamp="1560259531104">
-        <mark key="[" line="7" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console.sql" timestamp="1560426459819">
+        <mark key="[" line="18" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-        <mark key="^" line="33" column="50" />
+        <mark key="^" line="37" column="50" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/PushService/DTO/ResponseInterface.php" timestamp="1541006895890">
         <mark key="[" line="8" column="0" />
@@ -2585,6 +2567,9 @@
         <mark key="]" line="5" column="53" />
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
+      </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Entity/PaidService.php" timestamp="1560426366532">
+        <mark key="'" line="91" column="26" />
       </file>
       <file name="/scoring_middleware_dzp_20.public.bank [test]" timestamp="1560242618969">
         <mark key="[" line="0" column="0" />
@@ -2964,7 +2949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="54" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" />
       <jump line="31" column="17" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/Transaction.php" />
       <jump line="10" column="20" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/ApplePayIntegrationInterface.php" />
       <jump line="13" column="21" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/ApplePay/API/ApiClient.php" />
@@ -3064,6 +3048,7 @@
       <jump line="321" column="14" filename="$USER_HOME$/code/collectors/config/config.php" />
       <jump line="39" column="19" filename="$USER_HOME$/code/collectors/src/App/Command/ImportCrmWithMetricCommand.php" />
       <jump line="26" column="0" filename="$USER_HOME$/code/collectors/runtime/vendor/nette/mail/src/Mail/SmtpMailer.php" />
+      <jump line="91" column="26" filename="$USER_HOME$/code/dzp/src/App/Entity/PaidService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">

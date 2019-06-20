@@ -1372,6 +1372,12 @@
         <mark key="^" line="43" column="39" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1561048545266">
+        <mark key="[" line="280" column="0" />
+        <mark key="]" line="280" column="0" />
+        <mark key="^" line="246" column="11" />
+        <mark key="." line="280" column="0" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Provider/MobileApiServiceProvider/Controller/Traits/AchievementServicesTrait.php" timestamp="1535556090909">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="11" column="23" />
@@ -1972,7 +1978,7 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="/7cc499a1/fa42766e-801d-4aa0-a41c-7d71e08988c2/database/site_db/schema/dbo/routine/sp_promocodes_add_static.sql" timestamp="1561046697248" />
+      <file name="/7cc499a1/fa42766e-801d-4aa0-a41c-7d71e08988c2/database/site_db/schema/dbo/routine/sp_promocodes_add_static.sql" timestamp="1561048466402" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/DTO/GiftInstallmentDTO.php" timestamp="1548977651336">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
@@ -2032,6 +2038,12 @@
       </file>
       <file name="/scoring_middleware_dzp2.public.sm_apps_flyer_tracker [PROD]" timestamp="1560871900652">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/dzp/src/scoring-client/src/ScoringClientInterface.php" timestamp="1561047980159">
+        <mark key="[" line="711" column="36" />
+        <mark key="]" line="711" column="47" />
+        <mark key="^" line="711" column="47" />
+        <mark key="." line="711" column="47" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Repository/Interfaces/LoanRepositoryInterface.php" timestamp="1554715793282">
         <mark key="[" line="294" column="30" />
@@ -2752,6 +2764,13 @@
         <mark key="." line="17" column="49" />
         <mark key="^" line="17" column="49" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1561047993384">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1780" column="50" />
+        <mark key="]" line="1780" column="54" />
+        <mark key="^" line="1780" column="54" />
+        <mark key="." line="1780" column="54" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/Mailer/Generator/Generator.php" timestamp="1547645398908">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="77" column="36" />
@@ -2799,6 +2818,12 @@
         <mark key="]" line="17" column="30" />
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Service/PromoCodeService/Command/DeleteCommand.php" timestamp="1561048987824">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PhotoUploaderService/PhotoUploaderService.php" timestamp="1542636487768">
         <mark key="[" line="76" column="5" />
@@ -3040,9 +3065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" />
-      <jump line="227" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" />
-      <jump line="462" column="15" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
       <jump line="87" column="6" filename="$USER_HOME$/code/devim/dzp/src/App/Entity/TransactionLog.php" />
       <jump line="9" column="82" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/PayoutServiceProvider.php" />
       <jump line="209" column="11" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/PayoutServiceProvider.php" />
@@ -3140,6 +3162,9 @@
       <jump line="62" column="0" filename="$USER_HOME$/code/dzp-admin/templates/Admin/Support/transaction.html.twig" />
       <jump line="95" column="38" filename="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/TransactionCrudController.php" />
       <jump line="119" column="26" filename="$USER_HOME$/code/dzp/src/App/Command/SkorozvonKpiReportCommand.php" />
+      <jump line="1795" column="40" filename="$USER_HOME$/code/dzp/src/scoring-client/src/ScoringClient.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/dzp/src/scoring-client/src/ScoringClient.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/dzp/src/scoring-client/src/ScoringClient.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3162,7 +3187,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgbC5zY29yaW5nbG9hbm51bWJlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cXVldWVDb21tYW5kKG5ldyBEZWxldGVDb21tYW5kKCR0aGlzLT5zY29yaW5nQ2xpZW50LCAkdGhpcy0+cHJvbW9Db2RlU3RhdGljUmVwb3NpdG9yeSkpCiAgICAgICAgICAgICAgICAtPnF1ZXVlQ29tbWFuZChuZXcgRGVsZXRlVGFyaWZmQ29tbWFuZCgkdGhpcy0+dGFyaWZmUmVwb3NpdG9yeSkpCg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -3171,25 +3196,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>jj</text>
+        <text>array</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>getPaymentInfo</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cXVldWVDb21tYW5kKG5ldyBEZWxldGVDb21tYW5kKCR0aGlzLT5zY29yaW5nQ2xpZW50LCAkdGhpcy0+cHJvbW9Db2RlU3RhdGljUmVwb3NpdG9yeSkpCiAgICAgICAgICAgICAgICAtPnF1ZXVlQ29tbWFuZChuZXcgRGVsZXRlVGFyaWZmQ29tbWFuZCgkdGhpcy0+dGFyaWZmUmVwb3NpdG9yeSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgbC5zY29yaW5nbG9hbm51bWJlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cXVldWVDb21tYW5kKG5ldyBEZWxldGVDb21tYW5kKCR0aGlzLT5zY29yaW5nQ2xpZW50LCAkdGhpcy0+cHJvbW9Db2RlU3RhdGljUmVwb3NpdG9yeSkpCiAgICAgICAgICAgICAgICAtPnF1ZXVlQ29tbWFuZChuZXcgRGVsZXRlVGFyaWZmQ29tbWFuZCgkdGhpcy0+dGFyaWZmUmVwb3NpdG9yeSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3JkZXIgYnkgY250IGRlc2M7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cXVldWVDb21tYW5kKChuZXcgKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGwuc2NvcmluZ2xvYW5udW1iZXIsIGNvdW50KGwuc2NvcmluZ2xvYW5udW1iZXIpIGFzIGNudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3264,25 +3289,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5uZXIgam9pbiBicm9rZXJhZ2UgYiBvbiBsLmlkID0gYi5sb2FuaWQK</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW5uZXIgam9pbiBsb2FuIGwgb24gcHMubG9hbl9pZCA9IGwuaWQK</text>
+        <text encoding="base64">Z3JvdXAgYnkgbC5zY29yaW5nbG9hbm51bWJlcgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcUGFpZFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">b3JkZXIgYnkgY250IGRlc2M7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcQnJva2VyYWdlOwp1c2UgQXBwXEVudGl0eVxJbmNvbWU7Cg==</text>
+        <text encoding="base64">ICAgIGwuc2NvcmluZ2xvYW5udW1iZXIsIGNvdW50KGwuc2NvcmluZ2xvYW5udW1iZXIpIGFzIGNudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5uZXIgam9pbiBicm9rZXJhZ2UgYiBvbiBsLmlkID0gYi5sb2FuaWQK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

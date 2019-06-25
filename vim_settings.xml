@@ -718,12 +718,12 @@
         <mark key="." line="123" column="23" />
         <mark key="^" line="123" column="23" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/TransactionCrudController.php" timestamp="1561455903769">
+      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/TransactionCrudController.php" timestamp="1561456940572">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="53" column="38" />
-        <mark key="." line="53" column="38" />
-        <mark key="^" line="53" column="38" />
+        <mark key="[" line="57" column="40" />
+        <mark key="]" line="57" column="39" />
+        <mark key="." line="57" column="39" />
+        <mark key="^" line="57" column="39" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180820114007.php" timestamp="1534765947605">
         <mark key="[" line="24" column="174" />
@@ -3308,8 +3308,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgkcWItPmV4cHIoKS0+KQo=</text>
+      <register name="&quot;" type="4">
+        <text>number</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -3321,7 +3321,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheVw+</text>

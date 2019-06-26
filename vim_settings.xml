@@ -23,13 +23,6 @@
       <file name="/scoring_middleware_dzp_20.public.transaction [test]" timestamp="1560775877009">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/templates/Admin/Ads/promocode_static.html.twig" timestamp="1561132287590">
-        <mark key="'" line="7" column="35" />
-        <mark key="[" line="226" column="27" />
-        <mark key="]" line="226" column="29" />
-        <mark key="." line="226" column="29" />
-        <mark key="^" line="226" column="29" />
-      </file>
       <file name="$USER_HOME$/code/dzp/src/notification-system/src/Service/MediatorService/Components/AndroidPushComponent.php" timestamp="1561109910481" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6195f55d-7ad8-4174-ba89-98468e68e4c7/console.sql" timestamp="1561555772515">
         <mark key="[" line="59" column="31" />
@@ -83,14 +76,7 @@
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Rpc/Internal/BrokerageRpcService.php" timestamp="1561554405433" />
       <file name="$USER_HOME$/code/dzp/src/App/Rpc/Internal/LoanRpcService.php" timestamp="1561446759222" />
-      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/TransactionCrudController.php" timestamp="1561549665868">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="57" column="54" />
-        <mark key="]" line="57" column="52" />
-        <mark key="." line="57" column="52" />
-        <mark key="^" line="57" column="52" />
-      </file>
-      <file name="/dummy.sql" timestamp="1561561022169">
+      <file name="/dummy.sql" timestamp="1561562698689">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -114,6 +100,10 @@
       </file>
       <file name="/scoring_middleware_dzp2.public.loan [PROD]" timestamp="1561559798668">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Repository/Interfaces/SelectedLoanRepositoryInterface.php" timestamp="1561049567826">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="28" column="51" />
       </file>
       <file name="$USER_HOME$/code/dzp-admin/src/Helper/PaidServiceHelper.php" timestamp="1560963716820">
         <mark key="[" line="41" column="10" />
@@ -156,13 +146,6 @@
       <file name="/collectors.public.loanapplication [collectors@10.0.11.205]" timestamp="1559724096214">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Service/PromoCodeService/Command/DeleteTariffCommand.php" timestamp="1561131640414">
-        <mark key="'" line="41" column="25" />
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="25" />
-        <mark key="^" line="43" column="64" />
-        <mark key="." line="41" column="25" />
-      </file>
       <file name="$USER_HOME$/code/dzp/src/App/Repository/PromoCodeStaticRepository.php" timestamp="1561131564192">
         <mark key="[" line="125" column="19" />
         <mark key="]" line="125" column="22" />
@@ -175,7 +158,15 @@
         <mark key="^" line="204" column="54" />
         <mark key="." line="204" column="54" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Service/DashboardService/DashboardService.php" timestamp="1561563401580" />
+      <file name="$USER_HOME$/code/dzp/src/App/Rpc/Internal/ClientRpcService.php" timestamp="1561563085152">
+        <mark key="[" line="2090" column="20" />
+        <mark key="]" line="2090" column="36" />
+      </file>
       <file name="/scoring_middleware_dzp2.public.transaction [PROD]" timestamp="1560875842938">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/scoring_middleware_dzp2.public.prolongation [PROD]" timestamp="1561562691546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Rpc/External/LoanRpcService.php" timestamp="1561446335931" />
@@ -191,7 +182,7 @@
         <mark key="^" line="248" column="11" />
         <mark key="." line="282" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1561451344475">
+      <file name="/PHP Console" timestamp="1561563226474">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/scoring_middleware_dzp2.public.client [PROD]" timestamp="1561555814520">
@@ -229,13 +220,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="30" column="3" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Admin/Support/TransactionAdmin.php" timestamp="1561541887538">
-        <mark key="'" line="18" column="3" />
-        <mark key="[" line="18" column="47" />
-        <mark key="]" line="18" column="52" />
-        <mark key="^" line="18" column="52" />
-        <mark key="." line="18" column="52" />
       </file>
       <file name="/site_db.dbo.PROMOCODES_STATIC [Microsoft SQL Server - site_db@testdb.dozarplati.com]" timestamp="1561451698338">
         <mark key="[" line="0" column="0" />
@@ -346,13 +330,6 @@
       <file name="/scoring_middleware_dzp_20.public.sm_transaction_log [test]" timestamp="1560256463386">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Entity/PaidService.php" timestamp="1561042336947">
-        <mark key="'" line="95" column="26" />
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="43" column="62" />
-        <mark key="." line="43" column="62" />
-        <mark key="^" line="43" column="62" />
-      </file>
       <file name="/scoring_middleware_dzp_20.public.bank [test]" timestamp="1560242618969">
         <mark key="[" line="0" column="0" />
       </file>
@@ -365,17 +342,11 @@
         <mark key="^" line="296" column="23" />
         <mark key="." line="296" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6195f55d-7ad8-4174-ba89-98468e68e4c7/DWN-4284.sql" timestamp="1561561032557">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6195f55d-7ad8-4174-ba89-98468e68e4c7/DWN-4284.sql" timestamp="1561562488077">
         <mark key="[" line="0" column="6" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1561132787891">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1780" column="50" />
-        <mark key="]" line="1780" column="54" />
-        <mark key="^" line="1780" column="54" />
-        <mark key="." line="1780" column="54" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Service/PromoCodeService/Command/CreateCommand.php" timestamp="1561132992459" />
       <file name="$USER_HOME$/code/dzp-admin/src/Twig/ConverterExtension.php" timestamp="1560957324282">

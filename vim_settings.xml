@@ -719,12 +719,12 @@
         <mark key="." line="123" column="23" />
         <mark key="^" line="123" column="23" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/TransactionCrudController.php" timestamp="1561631940682">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="118" column="89" />
-        <mark key="]" line="118" column="88" />
-        <mark key="." line="118" column="88" />
-        <mark key="^" line="118" column="88" />
+      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/TransactionCrudController.php" timestamp="1561637950371">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="128" column="60" />
+        <mark key="]" line="127" column="110" />
+        <mark key="." line="127" column="110" />
+        <mark key="^" line="127" column="110" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180820114007.php" timestamp="1534765947605">
         <mark key="[" line="24" column="174" />
@@ -869,9 +869,9 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Helper/PaidServiceHelper.php" timestamp="1560963716820">
-        <mark key="[" line="41" column="10" />
-        <mark key="]" line="41" column="9" />
+      <file name="$USER_HOME$/code/dzp-admin/src/Helper/PaidServiceHelper.php" timestamp="1561637425895">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="39" column="46" />
         <mark key="." line="41" column="9" />
         <mark key="^" line="41" column="9" />
       </file>
@@ -2132,6 +2132,10 @@
         <mark key="." line="99" column="49" />
         <mark key="^" line="99" column="49" />
       </file>
+      <file name="$USER_HOME$/code/dzp-admin/src/Helper/IncomeHelper.php" timestamp="1561637443957">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="36" column="69" />
+      </file>
       <file name="$USER_HOME$/code/dzp/src/App/Entity/Tariff.php" timestamp="1561131719906" />
       <file name="$USER_HOME$/code/img/seolandingphp/templates_landing/portal/rooms_page.tpl" timestamp="1512479957632">
         <mark key="[" line="19" column="36" />
@@ -3349,7 +3353,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, count(l.clientid) as cnt</text>
+        <text>Amount</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -3361,25 +3365,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>, count(l.clientid) as cnt</text>
+        <text>Amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0CiBsLnNjaGVkdWxlCmZyb20gY2xpZW50IGMKaW5uZXIgam9pbiBsb2FuIGwgb24gYy5pZCA9IGwuY2xpZW50aWQKaW5uZXIgam9pbiBtb2JpbGVwaG9uZSBtIG9uIGMuaWQgPSBtLmNsaWVudGlkCndoZXJlIG0ubnVtYmVyID0gJzc5OTYxNjI2MTMxJzsK</text>
+      <register name="0" type="4">
+        <text>invoke_if(invoke_if($entity, 'getTransaction'), 'getCommissionAmount'),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2hlcmUgY250ID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICdhbW91bnRCb2R5JyAgICAgICAgPT4gaW52b2tlX2lmKGludm9rZV9pZigkZW50aXR5LCAnZ2V0VHJhbnNhY3Rpb24nKSwgJ2dldEFtb3VudCcpJGluY29tZS0+Z2V0VHJhbnNhY3Rpb24oKS0+Z2V0QW1vdW50KCksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcTW9iaWxlUGhvbmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcQ2xpZW50Owp1c2UgQXBwXEVudGl0eVxJbmNvbWU7Cg==</text>
+        <text encoding="base64">d2hlcmUgY250ID0gMTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3454,22 +3458,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGMuaWQK</text>
+        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcTW9iaWxlUGhvbmU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5uZXIgam9pbiBzbV90b2tlbiBzdCBvbiBjLmlkID0gc3QuY2xpZW50aWQK</text>
+        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcQ2xpZW50Owp1c2UgQXBwXEVudGl0eVxJbmNvbWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0Lgo=</text>
+        <text encoding="base64">ICAgIGMuaWQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IGwuc2NoZWR1bGUK</text>
+        <text encoding="base64">aW5uZXIgam9pbiBzbV90b2tlbiBzdCBvbiBjLmlkID0gc3QuY2xpZW50aWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGwuc2NoZWR1bGUK</text>
+        <text encoding="base64">ICAgIHN0Lgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">IGwuc2NoZWR1bGUK</text>

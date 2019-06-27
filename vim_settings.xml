@@ -712,7 +712,6 @@
         <mark key="." line="123" column="23" />
         <mark key="^" line="123" column="23" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/TransactionCrudController.php" timestamp="1561646854114" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180820114007.php" timestamp="1534765947605">
         <mark key="[" line="24" column="174" />
         <mark key="]" line="24" column="182" />
@@ -3307,8 +3306,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJyb2tlcmFnZVNlcnZpY2VzID0gJHNvcnRCeURhdGUobWFwKCRsb2FuLT5nZXRCcm9rZXJhZ2VzKCksIGZ1bmN0aW9uIChCcm9rZXJhZ2UgJGIpOiBhcnJheSB7CiAgICAgICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgICAgICdzdGF0dXMnID0+ICRiLT5nZXRTdGF0dXMoKSwKICAgICAgICAgICAgICAgICAgICAnZGF0ZScgICA9PiAkYi0+Z2V0VXBkYXRlZEF0KCkKICAgICAgICAgICAgICAgIF07CiAgICAgICAgICAgIH0pKTsK</text>
+      <register name="&quot;" type="4">
+        <text>callable</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -3320,7 +3319,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>privilege</text>
+        <text>callable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheVw+</text>

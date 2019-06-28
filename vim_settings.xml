@@ -743,10 +743,10 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561728870989">
+      <file name="/Dummy.txt" timestamp="1561729991434">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/img/seolandingphp/CRON/yandexImport.php" timestamp="1514234384655">
         <mark key="[" line="19" column="1" />
@@ -1537,11 +1537,11 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="100" column="77" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Service/RequestService/AdminRpc.php" timestamp="1561727315767">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="30" />
+      <file name="$USER_HOME$/code/dzp-admin/src/Service/RequestService/AdminRpc.php" timestamp="1561730381340">
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="61" />
+        <mark key="." line="20" column="61" />
+        <mark key="^" line="20" column="61" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20180719115254.php" timestamp="1532001565514">
         <mark key="[" line="33" column="36" />
@@ -3323,8 +3323,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgTUVUSE9EX0dFVF9DTElFTlRfQklSVEhEQVlfUFJPTU9fQ09ERSAgICAgICAgICAgID0gJ0NsaWVudC5HZXRCaXJ0aGRheVByb21vQ29kZSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>return def</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -3336,7 +3336,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>Info</text>
+        <text>return def</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheVw+</text>

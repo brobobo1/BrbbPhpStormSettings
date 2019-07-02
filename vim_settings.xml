@@ -1081,12 +1081,6 @@
         <mark key="^" line="186" column="40" />
         <mark key="." line="186" column="40" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" timestamp="1561378913514">
-        <mark key="[" line="42" column="93" />
-        <mark key="]" line="42" column="7" />
-        <mark key="^" line="42" column="7" />
-        <mark key="." line="42" column="7" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Underwriting/increase_loan.html.twig" timestamp="1550329464121">
         <mark key="[" line="81" column="49" />
         <mark key="]" line="81" column="49" />
@@ -1382,11 +1376,6 @@
         <mark key="]" line="63" column="157" />
         <mark key="." line="205" column="75" />
         <mark key="^" line="205" column="75" />
-      </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Entity/Transaction.php" timestamp="1562069962308">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Service/DashboardService/DashboardService.php" timestamp="1561625812567" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20190118131522.php" timestamp="1547811069025">
@@ -2943,12 +2932,6 @@
         <mark key="." line="77" column="36" />
         <mark key="^" line="77" column="36" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" timestamp="1562070861930">
-        <mark key="[" line="137" column="4" />
-        <mark key="]" line="137" column="9" />
-        <mark key="." line="137" column="9" />
-        <mark key="^" line="137" column="9" />
-      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/BinNumberService/DTO/Bank.php" timestamp="1540902148863">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="137" column="4" />
@@ -3260,8 +3243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
-      <jump line="32" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
       <jump line="37" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
       <jump line="42" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
       <jump line="47" column="0" filename="$USER_HOME$/code/devim/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
@@ -3360,6 +3341,8 @@
       <jump line="144" column="71" filename="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/TransactionCrudController.php" />
       <jump line="1096" column="57" filename="$USER_HOME$/code/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
       <jump line="35" column="20" filename="$USER_HOME$/code/dzp/src/App/Repository/Interfaces/CreditCardRepositoryInterface.php" />
+      <jump line="155" column="42" filename="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
+      <jump line="552" column="38" filename="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3382,7 +3365,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>n</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -3394,7 +3377,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheVw+</text>

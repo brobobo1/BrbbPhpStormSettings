@@ -15,11 +15,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/PaidServiceCrudController.php" timestamp="1562684398623">
-        <mark key="[" line="60" column="74" />
-        <mark key="]" line="60" column="72" />
-        <mark key="." line="60" column="72" />
-        <mark key="^" line="60" column="72" />
+      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/PaidServiceCrudController.php" timestamp="1562685285177">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="120" />
       </file>
       <file name="$USER_HOME$/code/dzp/views/documents/loan/first180_schedule.twig" timestamp="1562159352770" />
       <file name="/scoring_middleware_dzp2.public.paidservice [PROD]" timestamp="1562335303265">
@@ -659,7 +659,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNlcnZpY2VzKTsKICAgICAgICAgICAgZGllOwoK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICByZXR1cm4gJGFjYzsK</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -671,7 +671,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>array_merge($acc, $paidServices, (array)$onlinePrivileges, (array)$offlinePrivileges);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -680,16 +680,16 @@
         <text>https://scoring-dev.devim.team:9999</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNlcnZpY2VzKTsKICAgICAgICAgICAgZGllOwoK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICByZXR1cm4gJGFjYzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRwYWlkU2VydmljZXMsICRvbmxpbmVQcml2aWxlZ2VzLCAkb2ZmbGluZVByaXZpbGVnZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNlcnZpY2VzKTsKICAgICAgICAgICAgZGllOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRwYWlkU2VydmljZXMsICRvbmxpbmVQcml2aWxlZ2VzLCAkb2ZmbGluZVByaXZpbGVnZXMpOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -764,13 +764,13 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJGlkKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJGlkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJGRhdGEpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />

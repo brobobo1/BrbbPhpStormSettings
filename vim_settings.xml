@@ -15,12 +15,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/PaidServiceCrudController.php" timestamp="1562606324520">
+      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/PaidServiceCrudController.php" timestamp="1562665205415">
         <mark key="'" line="44" column="30" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="45" column="57" />
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="45" column="64" />
+        <mark key="." line="45" column="64" />
+        <mark key="^" line="45" column="64" />
       </file>
       <file name="$USER_HOME$/code/dzp/views/documents/loan/first180_schedule.twig" timestamp="1562159352770" />
       <file name="/scoring_middleware_dzp2.public.paidservice [PROD]" timestamp="1562335303265">
@@ -323,10 +323,10 @@
         <mark key="^" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Service/RequestService/ScoringRpc.php" timestamp="1562606041886">
-        <mark key="[" line="22" column="43" />
-        <mark key="]" line="22" column="55" />
-        <mark key="." line="22" column="55" />
+      <file name="$USER_HOME$/code/dzp-admin/src/Service/RequestService/ScoringRpc.php" timestamp="1562665167060">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="20" />
+        <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="55" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Service/CryptoProService/CryptoProService.php" timestamp="1561378898043" />
@@ -641,8 +641,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHRocm93cyBcU3ltZm9ueVxDb21wb25lbnRcRGVwZW5kZW5jeUluamVjdGlvblxFeGNlcHRpb25cU2VydmljZUNpcmN1bGFyUmVmZXJlbmNlRXhjZXB0aW9uCiAgICAgKi8K</text>
+      <register name="&quot;" type="4">
+        <text>GetOfflinePrivileges</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -654,7 +654,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>archiId</text>
+        <text>GetOfflinePrivileges</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudFw+</text>

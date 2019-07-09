@@ -15,12 +15,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/PaidServiceCrudController.php" timestamp="1562665205415">
+      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/PaidServiceCrudController.php" timestamp="1562666429532">
         <mark key="'" line="44" column="30" />
         <mark key="[" line="45" column="43" />
-        <mark key="]" line="45" column="64" />
-        <mark key="." line="45" column="64" />
-        <mark key="^" line="45" column="64" />
+        <mark key="]" line="45" column="59" />
+        <mark key="." line="45" column="59" />
+        <mark key="^" line="45" column="59" />
       </file>
       <file name="$USER_HOME$/code/dzp/views/documents/loan/first180_schedule.twig" timestamp="1562159352770" />
       <file name="/scoring_middleware_dzp2.public.paidservice [PROD]" timestamp="1562335303265">
@@ -118,7 +118,7 @@
       <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Support/TransactionCrudController.php" timestamp="1562591501890">
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1562601768485">
+      <file name="/dummy.sql" timestamp="1562665464566">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -183,6 +183,9 @@
         <mark key="]" line="11" column="54" />
         <mark key="." line="11" column="54" />
         <mark key="^" line="11" column="54" />
+      </file>
+      <file name="/site_db.dbo.orders_additions [Microsoft SQL Server - site_db@testdb.dozarplati.com]" timestamp="1562665456896">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/scoring_middleware_dzp_20.public.company [test]" timestamp="1562332088809">
         <mark key="[" line="0" column="0" />
@@ -642,7 +645,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>GetOfflinePrivileges</text>
+        <text>GetOrderWithPrivileges</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -654,7 +657,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>GetOfflinePrivileges</text>
+        <text>GetOrderWithPrivileges</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudFw+</text>

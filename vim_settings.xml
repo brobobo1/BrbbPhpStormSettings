@@ -677,8 +677,8 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Builder/Director.php" timestamp="1562862352525">
-        <mark key="[" line="19" column="26" />
+      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Builder/Director.php" timestamp="1562863566996">
+        <mark key="[" line="19" column="30" />
         <mark key="]" line="19" column="25" />
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
@@ -1491,10 +1491,10 @@
         <mark key="^" line="68" column="13" />
         <mark key="." line="68" column="13" />
       </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Builder/BuilderInterface.php" timestamp="1562862555861">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="3" />
+      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Builder/BuilderInterface.php" timestamp="1562863574814">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/tests/functional/Devim/Component/NotificationSystem/EventListener/NotificationSubscriberTest.php" timestamp="1540918325962">
@@ -2078,11 +2078,11 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/DashboardServiceService.php" timestamp="1562862639768">
-        <mark key="[" line="58" column="47" />
-        <mark key="]" line="58" column="53" />
-        <mark key="." line="58" column="53" />
-        <mark key="^" line="58" column="53" />
+      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/DashboardServiceService.php" timestamp="1562863529702">
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="50" column="16" />
+        <mark key="." line="50" column="16" />
+        <mark key="^" line="50" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc10d150-4075-429f-9da7-205e4589cb46/console.sql" timestamp="1543330340517">
         <mark key="[" line="0" column="0" />
@@ -3586,8 +3586,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Strategy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -3599,7 +3599,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>Strategy</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWxzZVw+</text>
@@ -3608,16 +3608,16 @@
         <text encoding="base64">ICAgICAgICAgICAgJGNvbnRleC0+c2V0U3RyYXRlZ3kobmV3IEFwcHJvdmVkUGRsU3RyYXRlZ3koJHRoaXMtPmRvY3VtZW50U2VydmljZSwgJHRoaXMtPnRyYW5zZmVyU2VydmljZSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGVJbmZvKEluZm8gJGluZm8sIExvYW4gJGxvYW4pOiB2b2lkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRUcmFuc2ZlcnMoTG9hbiAkbG9hbik6IHZvaWQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIEJ1aWxkZXIgKi8KICAgIHByaXZhdGUgJHN0cmF0ZWd5OwoKICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRTdHJhdGVneShCdWlsZGVyICRzdHJhdGVneSk6IERpcmVjdG9yCiAgICB7CiAgICAgICAgJHRoaXMtPnN0cmF0ZWd5ID0gJHN0cmF0ZWd5OwoKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHVwZGF0ZUluZm8oSW5mbyAkaW5mbywgTG9hbiAkbG9hbik6IEluZm8KICAgIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkYnVpbGRlci0+c2V0VHJhbnNmZXJzKCR0aGlzLT5sb2FuKTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -3692,25 +3692,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICR0aGlzLT5zdHJhdGVneS0+dXBkYXRlSW5mbygkaW5mbywgJGxvYW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaW5mbyA9IG5ldyBJbmZvKCk7CiAgICAgICAgJGNvbnRleHQtPnVwZGF0ZUluZm8oJGluZm8sICRsb2FuKTsKCiAgICAgICAgcmV0dXJuICRpbmZvOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGVJbmZvKEluZm8gJGluZm8sIExvYW4gJGxvYW4pOiB2b2lkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGVJbmZvKEluZm8gJGluZm8sIExvYW4gJGxvYW4pCiAgICB7CiAgICAgICAgLy8gVE9ETzogSW1wbGVtZW50IGdldEluZm8oKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpdmF0ZSAkcGVyY2VudEFtb3VudCcgICAgPT4gMCwK</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIEJ1aWxkZXIgKi8KICAgIHByaXZhdGUgJHN0cmF0ZWd5OwoKICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRTdHJhdGVneShCdWlsZGVyICRzdHJhdGVneSk6IERpcmVjdG9yCiAgICB7CiAgICAgICAgJHRoaXMtPnN0cmF0ZWd5ID0gJHN0cmF0ZWd5OwoKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHVwZGF0ZUluZm8oSW5mbyAkaW5mbywgTG9hbiAkbG9hbik6IEluZm8KICAgIHsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBpZCA9IDA7CiAgICAgICAgICAgICd0eXBlJyAgICAgICAgICAgICA9PiAwLAogICAgICAgICAgICAnbG9hblR5cGUnICAgICAgICAgPT4gMCwKICAgICAgICAgICAgJ25hbWUnICAgICAgICAgICAgID0+ICcnLAogICAgICAgICAgICAnYWdyZWVtZW50TnVtYmVyJyAgPT4gJycsCiAgICAgICAgICAgICdzdGF0dXMnICAgICAgICAgICA9PiAwLAogICAgICAgICAgICAnYW1vdW50JyAgICAgICAgICAgPT4gMCwKICAgICAgICAgICAgJ3BlcmlvZCcgICAgICAgICAgID0+IDAsCiAgICAgICAgICAgICdpbnRlcmVzdFJhdGUnICAgICA9PiAnJywKICAgICAgICAgICAgJ3BlcmNlbnRBbW91bnQnICAgID0+IDAsCiAgICAgICAgICAgICdjaGFuZ2VkTG9hblRlcm1zJyA9PiBmYWxzZSwKCiAgICAgICAgICAgICdtaW5pbWFsUGF5bWVudCcgPT4gMCwKICAgICAgICAgICAgJ3BheW1lbnREYXRlJyAgICA9PiAnJywKCiAgICAgICAgICAgICdtb250aGx5UGF5bWVudCcgPT4gMCwKICAgICAgICAgICAgJ3BheW1lbnRzQ291bnQnICA9PiAwLAoKICAgICAgICAgICAgJ2lzRXhwaXJlZCcgICAgID0+IGZhbHNlLAogICAgICAgICAgICAnZXhwaXJlZERhdGUnICAgPT4gJycsCiAgICAgICAgICAgICdleHBpcmVkQW1vdW50JyA9PiAwLAoKICAgICAgICAgICAgJ2lzV29ya2luZ0hvdXJzJyAgICAgICA9PiBmYWxzZSwKICAgICAgICAgICAgJ3VuZGVyd3JpdGluZ0RlYWRsaW5lJyA9PiAnJywKCiAgICAgICAgICAgICdkb2N1bWVudExpc3QnID0+IFtdLAoKICAgICAgICAgICAgJ2lkZW50aWZpY2F0aW9uU3RhdHVzJyA9PiAwLAoKICAgICAgICAgICAgJ2JvbnVzUHJvbW9Db2RlJyA9PiAnJywKCiAgICAgICAgICAgICdjYXJkUGF5b3V0QWxsb3dlZCcgICAgICA9PiBmYWxzZSwKICAgICAgICAgICAgJ3Nob3dQcm9sb25nYXRpb25CdXR0b24nID0+IGZhbHNlLAoKICAgICAgICAgICAgJ2tvcm9uYVRyYW5zZmVycycgID0+IFtdLAogICAgICAgICAgICAnY29udGFjdFRyYW5zZmVycycgPT4gW10sCiAgICAgICAgICAgICdkenBUcmFuc2ZlcnMnICAgICA9PiBbXSwKCiAgICAgICAgICAgICdlZGl0YWJsZScgICAgICAgICAgICAgICAgPT4gZmFsc2UsCiAgICAgICAgICAgICdyZWNhbGN1bGF0ZUFtb3VudCcgICAgICAgPT4gMCwKICAgICAgICAgICAgJ2Nsb3NlTG9hbkFtb3VudCcgICAgICAgICA9PiAwLAogICAgICAgICAgICAnc2hvd1JlY2FsY3VsYXRpb25CdXR0b24nID0+IGZhbHNlLAogICAgICAgICAgICAnc2hvd1BheW91dEJ1dHRvbicgICAgICAgID0+IGZhbHNlLAogICAgICAgICAgICAnaXNUcmFuc2FjdGlvbkluUHJvZ3Jlc3MnID0+IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICR0aGlzLT5zdHJhdGVneS0+dXBkYXRlSW5mbygkaW5mbywgJGxvYW4pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXERhc2hib2FyZFxTdHJhdGVneVxTdHJhdGVneUludGVyZmFjZTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

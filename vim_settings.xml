@@ -411,11 +411,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/DTO/Dashboard.php" timestamp="1563376394905">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="23" column="21" />
+      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/DTO/Dashboard.php" timestamp="1563378622649">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/code/devim/collectors/src/App/Service/LoanApplicationAssignToEmployeeService/Assigner.php" timestamp="1554293721121">
         <mark key="[" line="135" column="49" />
@@ -1782,12 +1782,12 @@
       <file name="/scoring_middleware_dzp2.public.mobilephone [PROD]" timestamp="1562343340076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/DashboardService.php" timestamp="1563377571822">
-        <mark key="'" line="90" column="40" />
-        <mark key="[" line="105" column="9" />
-        <mark key="]" line="110" column="28" />
-        <mark key="." line="110" column="28" />
-        <mark key="^" line="110" column="28" />
+      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/DashboardService.php" timestamp="1563378843765">
+        <mark key="'" line="89" column="40" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="58" column="43" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20181101130215.php" timestamp="1542028339798">
         <mark key="[" line="25" column="88" />
@@ -2825,11 +2825,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Client/DefaultClientStrategy.php" timestamp="1563191287373">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="15" column="25" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Client/DefaultClientStrategy.php" timestamp="1563378834345">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="73" />
+        <mark key="^" line="18" column="73" />
+        <mark key="." line="18" column="73" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/MyTargetService/Request/AddToUsersListRequest.php" timestamp="1539182502322">
         <mark key="[" line="25" column="13" />
@@ -4016,7 +4016,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>TransferStrategy();</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWxzZVw+</text>
@@ -4031,10 +4031,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZG9jdW1lbnRTdHJhdGVneSA9IG5ldyBEZWZhdWx0RAo=</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50U3RyYXRlZ3kgPSBuZXcgRGVmYXVsdENsaWVudFN0cmF0ZWd5KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50U3RyYXRlZ3kgPSBuZXcgRGVmYXVsdENsaWVudFN0cmF0ZWd5KCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -4109,13 +4109,13 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBWCg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50U3RyYXRlZ3kgPSBuZXcgRGVmYXVsdENsaWVudFN0cmF0ZWd5KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -4124,10 +4124,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZG9jdW1lbnRTdHJhdGVneSA9IG5ldyBEZWZhdWx0RG9jdW1lbnRTdHJhdGVneSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZG9jdW1lbnRTdHJhdGVneSA9IG5ldyBEZWZhdWx0RAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXERvY3VtZW50XERUT1xEb2N1bWVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

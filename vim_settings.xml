@@ -1738,12 +1738,12 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Entity/Loan.php" timestamp="1563450837063">
-        <mark key="'" line="2921" column="6" />
-        <mark key="[" line="426" column="46" />
-        <mark key="]" line="426" column="45" />
-        <mark key="^" line="426" column="45" />
-        <mark key="." line="426" column="45" />
+      <file name="$USER_HOME$/code/dzp/src/App/Entity/Loan.php" timestamp="1563452263923">
+        <mark key="'" line="883" column="14" />
+        <mark key="[" line="2942" column="16" />
+        <mark key="]" line="2942" column="20" />
+        <mark key="." line="2942" column="20" />
+        <mark key="^" line="2942" column="20" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Command/GetResponseUpdateOverdueClientsCommand.php" timestamp="1560865037086">
         <mark key="[" line="58" column="0" />
@@ -3511,8 +3511,11 @@
         <mark key="." line="57" column="101" />
         <mark key="^" line="57" column="101" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Serializer/Entity/App.Entity.Loan.yml" timestamp="1563450421924">
-        <mark key="[" line="119" column="30" />
+      <file name="$USER_HOME$/code/dzp/src/App/Serializer/Entity/App.Entity.Loan.yml" timestamp="1563451786068">
+        <mark key="[" line="132" column="42" />
+        <mark key="]" line="134" column="29" />
+        <mark key="^" line="134" column="29" />
+        <mark key="." line="134" column="29" />
       </file>
       <file name="$USER_HOME$/code/devim/collectors/src/events.php" timestamp="1554986011298">
         <mark key="[" line="50" column="37" />
@@ -3929,10 +3932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/code/devim/dzp-admin/src/Controller/Admin/Ads/PromoCodeStaticController.php" />
-      <jump line="49" column="27" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Command/UpdateTariffCommand.php" />
-      <jump line="448" column="51" filename="$USER_HOME$/code/devim/dzp/src/App/Service/DashboardService/DashboardService.php" />
-      <jump line="153" column="55" filename="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/GetResponseWrapper.php" />
       <jump line="130" column="34" filename="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Command/ValidateCommand.php" />
       <jump line="138" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" />
       <jump line="105" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9728a375-6033-4077-b1cf-2e3a86008605/console.sql" />
@@ -4029,6 +4028,10 @@
       <jump line="31" column="0" filename="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Issued/IssuedInstallmentRetireeStrategy.php" />
       <jump line="73" column="20" filename="$USER_HOME$/code/dzp/src/App/Entity/Loan.php" />
       <jump line="2921" column="6" filename="$USER_HOME$/code/dzp/src/App/Entity/Loan.php" />
+      <jump line="200" column="5" filename="$USER_HOME$/code/dzp/src/App/Entity/Loan.php" />
+      <jump line="428" column="4" filename="$USER_HOME$/code/dzp/src/App/Entity/Loan.php" />
+      <jump line="305" column="46" filename="$USER_HOME$/code/dzp/src/App/Entity/Loan.php" />
+      <jump line="883" column="14" filename="$USER_HOME$/code/dzp/src/App/Entity/Loan.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4050,8 +4053,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>eger</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -4063,7 +4066,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>eger</text>
+        <text>LOAYN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWxzZVw+</text>
@@ -4072,16 +4075,16 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnRyYW5zZmVyU3RyYXRlZ3ktPnVwZGF0ZSgkZGFzaGJvYXJkLCAkdHJhbnNmZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Kgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FsY3VsYXRpb24gPSBuZXcgQ2FsY3VsYXRpb24oKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdXBkYXRlKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgTU9CSUxFX1RZUEVfUERMID0gMTsKICAgIHByaXZhdGUgY29uc3QgTU9CSUxFX1RZUEVfSU5TVEFMTE1FTlQgPSAyOwogICAgcHJpdmF0ZSBjb25zdCBNT0JJTEVfVFlQRV9MT0FOXzE4MCA9IDM7CgogICAgcHJpdmF0ZSBjb25zdCBUWVBFX1RPX01PQklMRV9UWVBFX01BUCA9IFsKICAgICAgICBzZWxmOjpMT0FOX1RZUEVfCiAgICBdOwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -4156,25 +4159,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdXBkYXRlKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgTU9CSUxFX1RZUEVfUERMID0gMTsKICAgIHByaXZhdGUgY29uc3QgTU9CSUxFX1RZUEVfSU5TVEFMTE1FTlQgPSAyOwogICAgcHJpdmF0ZSBjb25zdCBNT0JJTEVfVFlQRV9MT0FOXzE4MCA9IDM7CiAgICAKICAgIHByaXZhdGUgY29uc3QgVFlQRV9UT19NT0JJTEVfVFlQRV9NQVAgPSBbCiAgICAgICAgCiAgICBdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Kgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBDYWxjdWxhdGlvbgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkY2FsY3VsYXRpb24gPSBuZXcgQ2FsY3VsYXRpb24oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIENhbGN1bGF0aW9uICRjYWxjdWxhdGlvbgogICAgICogQHJldHVybiBEYXNoYm9hcmQKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdXBkYXRlKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdXBkYXRlKCkgbWV0aG9kLgo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

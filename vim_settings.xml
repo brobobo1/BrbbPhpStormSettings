@@ -127,13 +127,13 @@
         <mark key="." line="11" column="48" />
         <mark key="^" line="11" column="48" />
       </file>
-      <file name="/dummy.sql" timestamp="1563892916412">
+      <file name="/dummy.sql" timestamp="1563897140975">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563882756660">
+      <file name="/Dummy.txt" timestamp="1563896833453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -146,6 +146,11 @@
       <file name="$USER_HOME$/code/dzp/src/App/Service/ProlongationService/ProlongationService.php" timestamp="1563370314966" />
       <file name="/scoring_middleware_dzp2.public.loan [PROD]" timestamp="1562335047557">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/CalculatorController.php" timestamp="1563541724014">
+        <mark key="]" line="39" column="7" />
+        <mark key="." line="39" column="7" />
+        <mark key="^" line="39" column="7" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/PreApproved/PreApprovedPdlStrategy.php" timestamp="1563276538823">
         <mark key="[" line="3" column="49" />
@@ -210,11 +215,11 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Command/CreatePassportImages.php" timestamp="1563895301504">
-        <mark key="[" line="69" column="39" />
-        <mark key="]" line="69" column="38" />
-        <mark key="." line="69" column="38" />
-        <mark key="^" line="69" column="38" />
+      <file name="$USER_HOME$/code/dzp/src/App/Command/CreatePassportImages.php" timestamp="1563896391179">
+        <mark key="[" line="79" column="33" />
+        <mark key="]" line="81" column="21" />
+        <mark key="." line="81" column="21" />
+        <mark key="^" line="81" column="21" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Pdl/ApprovedPdlStrategy.php" timestamp="1563275214179">
         <mark key="[" line="3" column="0" />
@@ -329,7 +334,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1563895305740">
+      <file name="/PHP Console" timestamp="1563896395990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/scoring_middleware_dzp2.public.client [PROD]" timestamp="1563885009362">
@@ -342,9 +347,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Command/ExportToScorozvonCommand.php" timestamp="1563534593257" />
-      <file name="$USER_HOME$/code/dzp/src/App/Rpc/Internal/DocumentRpcService.php" timestamp="1563201869124">
-        <mark key="[" line="56" column="85" />
-        <mark key="]" line="57" column="7" />
+      <file name="$USER_HOME$/code/dzp/src/App/Rpc/Internal/DocumentRpcService.php" timestamp="1563896217680">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="65" column="9" />
         <mark key="." line="57" column="7" />
         <mark key="^" line="57" column="7" />
       </file>
@@ -526,10 +531,9 @@
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Service/PaymentService/PaymentService.php" timestamp="1563369518768" />
       <file name="$USER_HOME$/code/dzp/src/events.php" timestamp="1563891770799">
-        <mark key="[" line="187" column="34" />
-        <mark key="]" line="188" column="23" />
-        <mark key="." line="188" column="23" />
-        <mark key="^" line="188" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Calculation/DTO/Calculation.php" timestamp="1563459244400">
         <mark key="[" line="31" column="0" />
@@ -821,7 +825,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBScGNJbnZhbGlkRGF0YUV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -833,25 +837,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>base64string</text>
+        <text>document</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZ19tYXRjaCgnL2RhdGE6KC4qKTtiYXNlNjQvJywkaW1hZ2VbJ3NjYW4nXSwgJG1hdGNoKTsKICAgICAgICAgICAgJG1lbVR5cGUgPSAkbWF0Y2hbMV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZXhwbG9kZSA9IGV4cGxvZGUoJywnLCAkZG9jdW1lbnQpOwogICAgICAgIGlmIChmYWxzZSA9PT0gJGRhdGEgPSBiYXNlNjRfZGVjb2RlKGFycmF5X3BvcCgkZXhwbG9kZSkpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBScGNJbnZhbGlkRGF0YUV4Y2VwdGlvbigpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBScGNJbnZhbGlkRGF0YUV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZ19tYXRjaCgnL2Jhc2U2NC8nLCRpbWFnZVsnc2NhbiddLCAkbWF0Y2gpOwogICAgICAgICAgICAkbWVtVHlwZSA9ICRtYXRjaFsxXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZ19tYXRjaCgnL2Jhc2U2NC8nLCRpbWFnZVsnc2NhbiddLCAkbWF0Y2gpOwogICAgICAgICAgICAkbWVtVHlwZSA9ICRtYXRjaFsxXTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -926,25 +930,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG1lbVR5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGV4dCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGltYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG1lbVR5cGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZ19tYXRjaCgnL2RhdGE6KC4qKTtiYXNlNjQvJywkaW1hZ2VbJ3NjYW4nXSwgJG1hdGNoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGltYWdlKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGltYWdlKTsKICAgICAgICAgICAgJG1lbVR5cGUgPSAkbWF0Y2hbMV07CiAgICAgICAgICAgIHZhcl9kdW1wKCRtZW1UeXBlKTsKICAgICAgICAgICAgJGV4dCA9ICR0aGlzLT5taW1lMmV4dCgkbWVtVHlwZSk7CiAgICAgICAgICAgIHZhcl9kdW1wKCRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZ19tYXRjaCgnL2RhdGE6KC4qKTtiYXNlNjQvJywkaW1hZ2VbJ3NjYW4nXSwgJG1hdGNoKTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGltYWdlKTsKICAgICAgICAgICAgJG1lbVR5cGUgPSAkbWF0Y2hbMV07CiAgICAgICAgICAgIHZhcl9kdW1wKCRtZW1UeXBlKTsKICAgICAgICAgICAgJGV4dCA9ICR0aGlzLT5taW1lMmV4dCgkbWVtVHlwZSk7CiAgICAgICAgICAgIHZhcl9kdW1wKCRleHQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZpbGUgPSBuZXcgVXBsb2FkZWRGaWxlVGVzdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

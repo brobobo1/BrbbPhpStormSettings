@@ -875,7 +875,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563983106832">
+      <file name="/Dummy.txt" timestamp="1563984523593">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -3505,7 +3505,7 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Calculation/Helper/MinimalPayment.php" timestamp="1563981958721">
+      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Calculation/Helper/MinimalPayment.php" timestamp="1563984417704">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="29" column="27" />
         <mark key="^" line="29" column="27" />
@@ -3945,6 +3945,12 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Calculation/Strategy/Context.php" timestamp="1563984511860">
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="36" column="30" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="36" column="30" />
+      </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/External/LoanRpcService.php" timestamp="1547119775881">
         <mark key="[" line="366" column="108" />
         <mark key="]" line="367" column="66" />
@@ -4200,8 +4206,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+      <register name="&quot;" type="4">
+        <text>Dashboard $dashboard, Client $client, Loan $loan</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -4213,7 +4219,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>$discountPercent</text>
+        <text>Dashboard $dashboard, Client $client, Loan $loan</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>

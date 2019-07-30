@@ -77,7 +77,6 @@
       <file name="/ns__event_customer [test]" timestamp="1564068565965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/DTO/Document.php" timestamp="1564143470250" />
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/ApprovedLoanInfoUpdate.php" timestamp="1563211175624">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="15" column="73" />
@@ -109,7 +108,6 @@
         <mark key="." line="41" column="40" />
         <mark key="^" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/code/dzp/views/documents/loan/first180_agreement.twig" timestamp="1563462865875" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console_6.sql" timestamp="1564497132852">
         <mark key="[" line="83" column="18" />
         <mark key="]" line="83" column="18" />
@@ -243,11 +241,9 @@
       <file name="/realtime.public.loanapplicationcomment [realtime@10.0.11.205]" timestamp="1559831866604">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Service/CryptoProService/CryptoProService.php" timestamp="1563898659026" />
       <file name="$USER_HOME$/code/dzp-admin/src/Service/RequestService/DzpRpc.php" timestamp="1561452216660">
         <mark key="[" line="16" column="55" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/notification-system/src/Messages.php" timestamp="1564144643676" />
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Calculation/Helper/LastPaymentDate/InstallmentLastPaymentDate.php" timestamp="1564156661513">
         <mark key="[" line="19" column="70" />
         <mark key="]" line="19" column="48" />
@@ -317,7 +313,6 @@
         <mark key="^" line="18" column="73" />
         <mark key="." line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffRequestService.php" timestamp="1563898533519" />
       <file name="/scoring_middleware_dzp_20.public.loan [test]" timestamp="1564500495037">
         <mark key="[" line="0" column="0" />
       </file>
@@ -341,7 +336,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Rpc/Internal/ApplicationRpcService.php" timestamp="1563967406844" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console.sql" timestamp="1564494512432">
         <mark key="[" line="43" column="15" />
         <mark key="]" line="43" column="14" />
@@ -383,6 +377,12 @@
       </file>
       <file name="/scoring_middleware_dzp_20.public.client [test]" timestamp="1561556065055">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Issued/IssuedInstallmentRetireeStrategy.php" timestamp="1563374222171">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6195f55d-7ad8-4174-ba89-98468e68e4c7/console_4.sql" timestamp="1563289440979">
         <mark key="[" line="1" column="1" />
@@ -439,7 +439,6 @@
       <file name="/sm_token [PROD]" timestamp="1561728881763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/docker-compose.yml" timestamp="1563200504736" />
       <file name="/scoring_middleware_dzp2.public.paidservice [PROD]" timestamp="1563285757131">
         <mark key="[" line="0" column="0" />
       </file>
@@ -566,7 +565,6 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Service/ProlongationService/ProlongationService.php" timestamp="1563370314966" />
       <file name="/scoring_middleware_dzp2.public.loan [PROD]" timestamp="1562335047557">
         <mark key="[" line="0" column="0" />
       </file>
@@ -622,8 +620,6 @@
       <file name="/scoring_middleware_dzp_20.public.company [test]" timestamp="1562332088809">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/TinkoffPayoutService.php" timestamp="1563898512823" />
-      <file name="$USER_HOME$/code/dzp/src/App/Entity/CreditCard.php" timestamp="1563898310374" />
       <file name="$USER_HOME$/code/dzp/src/App/Entity/Document.php" timestamp="1563198123162">
         <mark key="[" line="28" column="33" />
       </file>
@@ -666,8 +662,12 @@
         <mark key="^" line="49" column="44" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Service/DashboardService/DashboardService.php" timestamp="1564502483654" />
-      <file name="$USER_HOME$/code/dzp/runtime/passports/b9c8ff214f2f0a56d37fb7fe618f440092e3bb49." timestamp="1563894147484" />
+      <file name="$USER_HOME$/code/dzp/src/App/Service/DashboardService/DashboardService.php" timestamp="1564504905626">
+        <mark key="[" line="751" column="0" />
+        <mark key="]" line="752" column="17" />
+        <mark key="^" line="750" column="15" />
+        <mark key="." line="752" column="0" />
+      </file>
       <file name="/scoring_middleware_dzp2.public.transaction [PROD]" timestamp="1562246048241">
         <mark key="[" line="0" column="0" />
       </file>
@@ -687,7 +687,6 @@
       <file name="/scoring_middleware_dzp2.public.client [PROD]" timestamp="1563885009362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Command/ExportToScorozvonCommand.php" timestamp="1563969128095" />
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Calculation/Helper/PaymentCount/InstallmentPaymentCount.php" timestamp="1564400277340">
         <mark key="[" line="20" column="11" />
         <mark key="]" line="20" column="47" />
@@ -808,14 +807,12 @@
         <mark key="^" line="24" column="52" />
         <mark key="." line="24" column="52" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/DTO/LastLoan.php" timestamp="1564500605460">
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/DTO/LastLoan.php" timestamp="1564503222362">
         <mark key="'" line="177" column="0" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
-        <mark key="^" line="206" column="50" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Service/PaymentService/PaymentService.php" timestamp="1563369518768" />
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Calculation/DTO/Calculation.php" timestamp="1564405419100">
         <mark key="'" line="16" column="34" />
         <mark key="[" line="20" column="0" />
@@ -874,7 +871,6 @@
       <file name="/scoring_middleware_dzp_20.public.bank [test]" timestamp="1560242618969">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" timestamp="1563898597647" />
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Calculation/Helper/PaymentDate/InstallmentPaymentDate.php" timestamp="1564403794906">
         <mark key="[" line="34" column="42" />
         <mark key="]" line="34" column="42" />
@@ -1034,7 +1030,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -1046,25 +1042,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgJHRoaXMtPmxvYW4tPmdldFN0YXR1cygpID09PSBMb2FuOjpTVF9BUFBST1ZFRA==</text>
+        <text>else</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXlzID0gJHRoaXMtPmdldFBlcmlvZCgpOwogICAgICAgICAgICAgICAgJGRheXMtLTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgampqatC+0L7QvtC+amvQu9C+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKCR0aGlzLT5zdGF0dXMpIHsKICAgICAgICAgICAgY2FzZSBzZWxmOjpTVF9ORVc6CiAgICAgICAgICAgICAgICAkZGF5cyA9ICR0aGlzLT5nZXRQZXJpb2RDbGFpbWVkKCkgPzogJHRoaXMtPmdldFBlcmlvZCgpIC0gMTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgJGRheXMgPSAkdGhpcy0+Z2V0UGVyaW9kKCk7CiAgICAgICAgICAgICAgICAkZGF5cy0tOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2VpZiAoXGluX2FycmF5KCRsb2FuLT5nZXRUeXBlKCksIExvYW46OkxPQU5fVFlQRV9QREwsIHRydWUpKSB7CgogICAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1139,25 +1135,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKCR0aGlzLT5zdGF0dXMpIHsKICAgICAgICAgICAgY2FzZSBzZWxmOjpTVF9ORVc6CiAgICAgICAgICAgICAgICAkZGF5cyA9ICR0aGlzLT5nZXRQZXJpb2RDbGFpbWVkKCkgPzogJHRoaXMtPmdldFBlcmlvZCgpIC0gMTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgJGRheXMgPSAkdGhpcy0+Z2V0UGVyaW9kKCk7CiAgICAgICAgICAgICAgICAkZGF5cy0tOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFxpbl9hcnJheSgkbG9hbi0+Z2V0U3RhdHVzKCksIFtMb2FuOjpTVF9ORVcsIExvYW46OlNUX0FQUFJPVkVEXSwgdHJ1ZSkpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRheXMtLTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFxEYXRlVGltZSgndG9kYXknKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlaWYgKCRsb2FuLT5nZXRTdGF0dXMoKSA9PT0gTG9hbjo6U1RfSVNTVUlOR19DT05GSVJNRUQpIHsKICAgICAgICAgICAgICAgICRtc2tUaW1lWm9uZSA9IG5ldyBcRGF0ZVRpbWVab25lKCdFdXJvcGUvTW9zY293Jyk7CiAgICAgICAgICAgICAgICAkdG9kYXkgICAgICAgPSBuZXcgXERhdGVUaW1lKCdub3cnLCAkbXNrVGltZVpvbmUpOwogICAgICAgICAgICAgICAgJHRvZGF5LT5tb2RpZnkoJ21pZG5pZ2h0Jyk7CiAgICAgICAgICAgICAgICAkZnVsbENhbGN1bGF0ZWRTY2hlZHVsZSA9IENhbGN1bGF0ZWRQYXltZW50U2NoZWR1bGVGb3JtYXR0ZXI6OnRvQXJyYXkoJGNhbGN1bGF0ZWRTY2hlZHVsZSk7CgogICAgICAgICAgICAgICAgZm9yZWFjaCAgKCRmdWxsQ2FsY3VsYXRlZFNjaGVkdWxlIGFzICRudW1iZXIgPT4gJHBheW1lbnQpIHsKICAgICAgICAgICAgICAgICAgICAkcGF5bWVudERhdGUgPSBcRGF0ZVRpbWU6OmNyZWF0ZUZyb21Gb3JtYXQoREFURV9SRkMzMzM5LCAkcGF5bWVudFsnUGxhbm5lZERhdGUnXSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBuZXcgXERhdGVUaW1lKCcrcGVyaW9kICcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRmdWxsQ2FsY3VsYXRlZFNjaGVkdWxlID0gVgo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

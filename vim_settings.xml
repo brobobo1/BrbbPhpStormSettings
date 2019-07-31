@@ -498,7 +498,7 @@
         <mark key="." line="129" column="16" />
         <mark key="^" line="129" column="16" />
       </file>
-      <file name="/dummy.sql" timestamp="1564581426522">
+      <file name="/dummy.sql" timestamp="1564583979816">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -718,11 +718,11 @@
         <mark key="^" line="186" column="40" />
         <mark key="." line="186" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console_6.sql" timestamp="1564580907769">
-        <mark key="[" line="83" column="18" />
-        <mark key="]" line="83" column="28" />
-        <mark key="." line="83" column="28" />
-        <mark key="^" line="83" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console_6.sql" timestamp="1564583949957">
+        <mark key="[" line="78" column="23" />
+        <mark key="]" line="78" column="28" />
+        <mark key="." line="78" column="28" />
+        <mark key="^" line="78" column="28" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/templates/Admin/Underwriting/increase_loan.html.twig" timestamp="1550329464121">
         <mark key="[" line="81" column="49" />
@@ -1001,7 +1001,7 @@
       <file name="/scoring_middleware_dzp2.public.prolongation [PROD]" timestamp="1561562691546">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Entity/Loan.php" timestamp="1564581421185" />
+      <file name="$USER_HOME$/code/dzp/src/App/Entity/Loan.php" timestamp="1564581898659" />
       <file name="$USER_HOME$/code/dzp/src/App/Command/GetResponseUpdateOverdueClientsCommand.php" timestamp="1560865037086">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -1052,7 +1052,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1564581442144">
+      <file name="/PHP Console" timestamp="1564583664916">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Middleware/SecureMiddleware/SignMiddleware.php" timestamp="1552496266275">
@@ -1630,7 +1630,7 @@
         <mark key="." line="138" column="78" />
         <mark key="^" line="138" column="78" />
       </file>
-      <file name="/scoring_middleware_dzp_20.public.loan [test]" timestamp="1564581197230">
+      <file name="/scoring_middleware_dzp_20.public.loan [test]" timestamp="1564583963959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Service/ApiResponseInterface.php" timestamp="1538642714660">
@@ -1725,6 +1725,12 @@
         <mark key="]" line="20" column="3" />
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/TransferController.php" timestamp="1564582967053">
+        <mark key="[" line="532" column="98" />
+        <mark key="]" line="532" column="107" />
+        <mark key="^" line="532" column="107" />
+        <mark key="." line="532" column="107" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/src/Twig/ConverterExtension.php" timestamp="1553099981449">
         <mark key="[" line="27" column="46" />
@@ -2623,7 +2629,7 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564580105070">
+      <file name="/Dummy.txt" timestamp="1564583746719">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -3040,7 +3046,12 @@
         <mark key="]" line="3" column="50" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Service/DashboardService/DashboardService.php" timestamp="1564566125864" />
+      <file name="$USER_HOME$/code/dzp/src/App/Service/DashboardService/DashboardService.php" timestamp="1564583697347">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+      </file>
       <file name="$USER_HOME$/code/dzp/runtime/passports/b9c8ff214f2f0a56d37fb7fe618f440092e3bb49." timestamp="1563894147484" />
       <file name="$USER_HOME$/code/devim/dzp/src/App/Migrations/Version20190118131522.php" timestamp="1547811069025">
         <mark key="[" line="26" column="51" />
@@ -3163,11 +3174,11 @@
         <mark key="^" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Command/ExportToScorozvonCommand.php" timestamp="1563969128095" />
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/ProfileController.php" timestamp="1564577742482">
-        <mark key="[" line="118" column="74" />
-        <mark key="]" line="118" column="79" />
-        <mark key="^" line="118" column="79" />
-        <mark key="." line="118" column="79" />
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/ProfileController.php" timestamp="1564583662142">
+        <mark key="[" line="126" column="37" />
+        <mark key="]" line="128" column="0" />
+        <mark key="^" line="118" column="162" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Rpc/Internal/PromoCodeRpcService.php" timestamp="1555073658398">
         <mark key="[" line="280" column="7" />
@@ -3241,11 +3252,11 @@
         <mark key="^" line="24" column="161" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/AuthorizationController.php" timestamp="1564577705301">
-        <mark key="[" line="478" column="74" />
-        <mark key="]" line="478" column="79" />
-        <mark key="^" line="478" column="79" />
-        <mark key="." line="478" column="79" />
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/AuthorizationController.php" timestamp="1564582907252">
+        <mark key="[" line="477" column="0" />
+        <mark key="]" line="477" column="72" />
+        <mark key="^" line="489" column="11" />
+        <mark key="." line="489" column="11" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Installment/ApprovedInstallmentStrategy.php" timestamp="1563276124649">
         <mark key="[" line="18" column="51" />
@@ -3350,6 +3361,12 @@
         <mark key="]" line="36" column="34" />
         <mark key="^" line="36" column="34" />
         <mark key="." line="36" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/dzp/config/config.local.php" timestamp="1564496472615">
+        <mark key="[" line="101" column="16" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="102" column="0" />
       </file>
       <file name="$USER_HOME$/code/devim/dzp-admin/src/Admin/Support/UpdateLoanTransactionAdmin.php" timestamp="1549405576602">
         <mark key="[" line="7" column="16" />
@@ -4351,8 +4368,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>75675756758</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0IAo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -4364,25 +4381,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>75675756758</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICRjb250YWluZXJbJ3JlY3VycmVudF9hZ3JlZW1lbnRfdXJsJ107</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGlzRXhwaXJlZCA9ICR0aGlzLT5kYXNoYm9hcmRTZXJ2aWNlKCktPmdldElzRXhwaXJlZCgkbG9hbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW50aWxfdmVyc2lvbjogMS4zCg==</text>
+        <text encoding="base64">c2VsZWN0IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW50aWxfdmVyc2lvbjogMS4zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2ZpbGUnID0+ICRjbGllbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGR0b0RvY3VtZW50cyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlaWYgKFxpbl9hcnJheSgkbG9hbi0+Z2V0VHlwZSgpLCBMb2FuOjpMT0FOX1RZUEVfMTgwLCB0cnVlKSkgewo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -4457,22 +4474,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlaWYgKFxpbl9hcnJheSgkbG9hbi0+Z2V0VHlwZSgpLCBMb2FuOjpMT0FOX1RZUEVfSU5TVEFMTE1FTlRTLCB0cnVlKSkgewo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoJGxvYW5Eb2N1bWVudHMsICRwcm9sb25nYXRpb25Eb2N1bWVudHMsICRzY2hlZHVsZURvY3VtZW50LCAkcHJpdmlsZWdlMkRvY3VtZW50LCAkcHJpdmlsZWdlM0RvY3VtZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjYWxjdWxhdGVkU2NoZWR1bGUgPSAkdGhpcy0+bG9hblNjaGVkdWxlU2VydmljZS0+Z2V0Q2FsY3VsYXRlZFNjaGVkdWxlKCRsb2FuLCAkbG9hbi0+Z2V0U2NoZWR1bGUoKSk7CiAgICAgICAgICAgICAgICAkZnVsbENhbGN1bGF0ZWRTY2hlZHVsZSAgICAgPSBDYWxjdWxhdGVkUGF5bWVudFNjaGVkdWxlRm9ybWF0dGVyOjp0b0FycmF5KCRjYWxjdWxhdGVkU2NoZWR1bGUpOwoKICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRmdWxsQ2FsY3VsYXRlZFNjaGVkdWxlIGFzICRudW1iZXIgPT4gJHBheW1lbnQpIHsKICAgICAgICAgICAgICAgICAgICAkcmVtYWluZWRQYXltZW50ID0gJHBheW1lbnRbJ1JlbWFpbmVkJ107CiAgICAgICAgICAgICAgICAgICAgaWYgKCRyZW1haW5lZFBheW1lbnRbJ0xhdGVEYXlzJ10gIT09IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9hbkRvY3VtZW50cyAgICAgICAgID0gJHRoaXMtPmdldExvYW5Eb2N1bWVudHMoJGNsaWVudCwgJGxvYW4pOwogICAgICAgICRwcm9sb25nYXRpb25Eb2N1bWVudHMgPSAkdGhpcy0+Z2V0UHJvbG9uZ2F0aW9uRG9jdW1lbnRzKCRjbGllbnQsICRsb2FuKTsKICAgICAgICAkc2NoZWR1bGVEb2N1bWVudCAgICAgID0gJHRoaXMtPmdldFNjaGVkdWxlRG9jdW1lbnQoJGxvYW4pOwogICAgICAgICRwcml2aWxlZ2UyRG9jdW1lbnQgICAgPSAkdGhpcy0+Z2V0UHJpdmlsZWdlMkRvY3VtZW50KCRsb2FuKTsKICAgICAgICAkcHJpdmlsZWdlM0RvY3VtZW50ICAgID0gJHRoaXMtPmdldFByaXZpbGVnZTNEb2N1bWVudCgkbG9hbik7CiAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZHRvRG9jdW1lbnRzID0gW107CiAgICAgICAgZm9yZWFjaCAoJHRoaXMtPmRvY3VtZW50TGlzdCBhcyAkZG9jdW1lbnQpIHsKICAgICAgICAgICAgJGR0byA9IG5ldyBEb2N1bWVudCgkZG9jdW1lbnRbJ3VybCddLCAkdGhpcy0+bG9hbi0+Z2V0U2NvcmluZ0xvYW5OdW1iZXIoKSk7CiAgICAgICAgICAgICRkdG8tPmRlZmluZUJ5VHlwZSgkZG9jdW1lbnRbJ3R5cGUnXSk7CgogICAgICAgICAgICAkZHRvRG9jdW1lbnRzW10gPSAkZHRvOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

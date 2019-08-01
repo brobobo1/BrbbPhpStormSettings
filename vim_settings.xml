@@ -143,12 +143,6 @@
         <mark key="^" line="10" column="58" />
         <mark key="." line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/config/packages/security.yaml" timestamp="1563286075770">
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="27" />
-      </file>
       <file name="$USER_HOME$/code/opossum/angel/Readme.me" timestamp="1522272416853">
         <mark key="[" line="16" column="56" />
         <mark key="]" line="17" column="0" />
@@ -1106,7 +1100,7 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="100" column="77" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Service/RequestService/AdminRpc.php" timestamp="1564660853352">
+      <file name="$USER_HOME$/code/dzp-admin/src/Service/RequestService/AdminRpc.php" timestamp="1564672042182">
         <mark key="[" line="20" column="59" />
         <mark key="]" line="20" column="64" />
         <mark key="." line="20" column="64" />
@@ -1380,9 +1374,9 @@
         <mark key="^" line="96" column="23" />
         <mark key="." line="96" column="23" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Service/RequestService/DzpRpc.php" timestamp="1564660837310">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="58" />
+      <file name="$USER_HOME$/code/dzp-admin/src/Service/RequestService/DzpRpc.php" timestamp="1564671992749">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="60" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/notification-system/src/Messages.php" timestamp="1564144643676" />
       <file name="$USER_HOME$/code/devim/dzp/src/notification-system/src/Command/Component/SmsNotifyCommand.php" timestamp="1542819067073">
@@ -2676,7 +2670,7 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564670519221">
+      <file name="/Dummy.txt" timestamp="1564672043010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -4438,7 +4432,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, l.id</text>
+        <text>'https://my.dzp-test.devim.team/rpc_admin';</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -4450,13 +4444,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>, l.id</text>
+        <text>'https://my.dzp-test.devim.team/rpc_admin';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>https://online-api.dozarplati.com/rpc</text>
+        <text>'https://online-api.dozarplati.com/rpc';</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAkdmVyc2lvbiA9ICRyZXF1ZXN0LT5oZWFkZXJzLT5nZXQoJ1gtQVBJLVZFUlNJT04nKTsKCiAgICAgICAgICAgICAgICBpZiAoIVZlcnNpb25IZWxwZXI6OmlzQXZhaWxhYmxlRm9yMTgwKCR2ZXJzaW9uKSkgewogICAgICAgICAgICAgICAgICAgICRyZXNwb25zZSA9IG5ldyBKc29uUmVzcG9uc2UoWwogICAgICAgICAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gJ9Cf0L7QttCw0LvRg9C50YHRgtCwLCDQvtCx0L3QvtCy0LjRgtC1INCy0LXRgNGB0LjRjiDQv9GA0LjQu9C+0LbQtdC90LjRjycsCiAgICAgICAgICAgICAgICAgICAgICAgICdlcnJvcnMnICA9PiBbXQogICAgICAgICAgICAgICAgICAgIF0pOwoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT5zZXRTdGF0dXNDb2RlKEpzb25SZXNwb25zZTo6SFRUUF9VUEdSQURFX1JFUVVJUkVELCAn0J7QkdCd0J7QktCY0KLQlSDQn9Cg0JjQm9Ce0JbQldCd0JjQlSDQkiBHT09HTEUgUExBWScpOwogICAgICAgICAgICAgICAgfQo=</text>

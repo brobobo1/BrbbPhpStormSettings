@@ -78,7 +78,7 @@
         <mark key="." line="14" column="83" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Rpc/Internal/LoanRpcService.php" timestamp="1565006480058" />
-      <file name="/dummy.sql" timestamp="1565092665914">
+      <file name="/dummy.sql" timestamp="1565097047929">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -355,11 +355,11 @@
         <mark key="]" line="589" column="1" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6195f55d-7ad8-4174-ba89-98468e68e4c7/console_10.sql" timestamp="1565095994962">
-        <mark key="[" line="40" column="24" />
-        <mark key="]" line="40" column="27" />
-        <mark key="." line="40" column="27" />
-        <mark key="^" line="40" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6195f55d-7ad8-4174-ba89-98468e68e4c7/console_10.sql" timestamp="1565097081405">
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="33" column="50" />
+        <mark key="." line="33" column="50" />
+        <mark key="^" line="33" column="50" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Client/DefaultClientStrategy.php" timestamp="1563378834345">
         <mark key="[" line="18" column="38" />
@@ -871,6 +871,9 @@
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/New/NewPdlStrategy.php" timestamp="1563276395739">
         <mark key="[" line="3" column="49" />
       </file>
+      <file name="/scoring_middleware_dzp2.public.sm_conversion [PROD]" timestamp="1565096457869">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/ClientStrategyInterface.php" timestamp="1563189935642">
         <mark key="[" line="11" column="50" />
         <mark key="]" line="11" column="50" />
@@ -898,7 +901,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="20" column="65" />
       </file>
-      <file name="/scoring_middleware_dzp2.public.partner [PROD]" timestamp="1563285756465">
+      <file name="/scoring_middleware_dzp2.public.partner [PROD]" timestamp="1565097012046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Pending/Pending180Strategy.php" timestamp="1563371717321">
@@ -1145,7 +1148,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Uni</text>
+        <text>sc.partnerid</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -1157,13 +1160,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>Uni</text>
+        <text>sc.partnerid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhbmQgKGwuc3RhdHVzID0gMiBvciBsLnN0YXR1cyA9IDYpCg==</text>
+        <text encoding="base64">ICBhbmQgbC5jcmVhdGVkYXQgPiAnMDEuMDcuMjAxOScKICBhbmQgbC5jcmVhdGVkYXQgPCAnMDEuMDguMjAxOScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIHAubmFtZSBwYXJ0bmVyX25hbWUsCg==</text>

@@ -101,7 +101,7 @@
         <mark key="]" line="343" column="0" />
         <mark key="." line="343" column="0" />
       </file>
-      <file name="/scoring_middleware_dzp_20.public.transaction [test]" timestamp="1562157407637">
+      <file name="/scoring_middleware_dzp_20.public.transaction [test]" timestamp="1565168598800">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Approved/ApprovedPdlStrategy.php" timestamp="1563276358552">
@@ -444,11 +444,11 @@
       <file name="/scoring_middleware_dzp2.public.partner [PROD]" timestamp="1565097012046">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1565168127657">
+      <file name="/dummy.sql" timestamp="1565169148307">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/code/dzp-admin/src/Helper/BrokerageHelper.php" timestamp="1561643604395">
         <mark key="[" line="24" column="0" />
@@ -467,7 +467,7 @@
         <mark key="^" line="24" column="52" />
         <mark key="." line="24" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565018186154">
+      <file name="/Dummy.txt" timestamp="1565169960990">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -643,11 +643,11 @@
         <mark key="]" line="183" column="35" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console.sql" timestamp="1565165110573">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="39" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console.sql" timestamp="1565168578780">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/ApprovedPdlLoanStrategy.php" timestamp="1563211208889">
         <mark key="[" line="21" column="54" />
@@ -839,6 +839,7 @@
         <mark key="." line="17" column="74" />
         <mark key="^" line="17" column="74" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/Controller/TinkoffNotifyController.php" timestamp="1565169490651" />
       <file name="$USER_HOME$/code/dzp-admin/src/Service/PaidServicesService/PaidServicesService.php" timestamp="1563289348898">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -857,6 +858,7 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
+      <file name="$USER_HOME$/code/dzp/config/config.php" timestamp="1565170385504" />
       <file name="/creditcard [PROD]" timestamp="1561727461338">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1145,7 +1147,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>scoringloannumber</text>
+        <text>number</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -1157,7 +1159,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>scoringloannumber</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
@@ -1166,16 +1168,16 @@
         <text>2019-08-02T00:00:00+03:00</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRsb2FuSWRbJ2xvYW5pZCddID09PSAzODYzMDIwKSB7CiAgICAgICAgICAgICAgIHZhcl9kdW1wKDEpOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIGwuc3RhdHVzID0gNiBhbmQgbC5pc2Nsb3NlZCA9IGZhbHNlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRiYXItPmFkdmFuY2UoKTsK</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRsb2FuSWRbJ2xvYW5pZCddID09PSAzODYzMDIwKSB7CiAgICAgICAgICAgICAgIHZhcl9kdW1wKDEpOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1250,25 +1252,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGxvYW5JZFsnbG9hbmlkJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRiYXItPmFkdmFuY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGxvYW5JZFsnbG9hbmlkJ10pOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnNlbGVjdAogICAgbS5jbGllbnRpZApmcm9tIG1vYmlsZXBob25lIG0Kd2hlcmUgbS5udW1iZXIgPSAnNzM0NTIzNDIzNDInOwoKc2VsZWN0CioKZnJvbSBsb2FuIGwKd2hlcmUgbC5jbGllbnRpZCA9IDM2NjE7CgpzZWxlY3QgYy5hcmNoaWlkCmZyb20gY2xpZW50IGMKd2hlcmUgYy5pZCA9IDM2NjE7CgpzZWxlY3QgKgpmcm9tIGxvYW4gbAp3aGVyZSBjbGllbnRpZCA9IDM2Nzg7CgpzZWxlY3QgYy5hcmNoaWlkLCBsLioKZnJvbSBsb2FuIGwKaW5uZXIgam9pbiBjbGllbnQgYyBvbiBsLmNsaWVudGlkID0gYy5pZAp3aGVyZSBsLnNjb3Jpbmdsb2FubnVtYmVyID0gJzUxMS01MDM4JzsKCnNlbGVjdAoqCmZyb20gbG9hbiBsCmlubmVyIGpvaW4gIGNsaWVudCBjIG9uIGwuY2xpZW50aWQgPSBjLmlkCmlubmVyIGpvaW4gIG1vYmlsZXBob25lIG0gb24gYy5pZCA9IG0uY2xpZW50aWQKd2hlcmUgbS5udW1iZXIgPSAnNzY2ODA4Nzc1ODgnOwoKc2VsZWN0CioKZnJvbSBuc19fZXZlbnRfcmVwb3J0IG5lcgp3aGVyZSBuZXIucGFyYW1ldGVycyAtPj4gJ2xvYW5JZCcgPSAnNDMwMyc7CgpzZWxlY3QKKgoKc2VsZWN0ICoKZnJvbSBsb2FuCndoZXJlIGlkID0gNDQ3NzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBuc19fZXZlbnRfY3VzdG9tZXIgIG4Kd2hlcmUgbmVjLmV2ZW50X2lkID0gNjk1NTk7Cg==</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGxvYW5JZFsnbG9hbmlkJ10pOwogICAgICAgICAgICBpZiAoJGxvYW5JZFsnbG9hbmlkJ10gPT09IDUyNDg4OTEpIHsKICAgICAgICAgICAgICAgICRzID0gMSArIDE7CiAgICAgICAgICAgICAgICB2YXJfZHVtcCgxMTEpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CnNlbGVjdAogICAgbS5jbGllbnRpZApmcm9tIG1vYmlsZXBob25lIG0Kd2hlcmUgbS5udW1iZXIgPSAnNzM0NTIzNDIzNDInOwoKc2VsZWN0CioKZnJvbSBsb2FuIGwKd2hlcmUgbC5jbGllbnRpZCA9IDM2NjE7CgpzZWxlY3QgYy5hcmNoaWlkCmZyb20gY2xpZW50IGMKd2hlcmUgYy5pZCA9IDM2NjE7CgpzZWxlY3QgKgpmcm9tIGxvYW4gbAp3aGVyZSBjbGllbnRpZCA9IDM2Nzg7CgpzZWxlY3QgYy5hcmNoaWlkLCBsLioKZnJvbSBsb2FuIGwKaW5uZXIgam9pbiBjbGllbnQgYyBvbiBsLmNsaWVudGlkID0gYy5pZAp3aGVyZSBsLnNjb3Jpbmdsb2FubnVtYmVyID0gJzUxMS01MDM4JzsKCnNlbGVjdAoqCmZyb20gbG9hbiBsCmlubmVyIGpvaW4gIGNsaWVudCBjIG9uIGwuY2xpZW50aWQgPSBjLmlkCmlubmVyIGpvaW4gIG1vYmlsZXBob25lIG0gb24gYy5pZCA9IG0uY2xpZW50aWQKd2hlcmUgbS5udW1iZXIgPSAnNzY2ODA4Nzc1ODgnOwoKc2VsZWN0CioKZnJvbSBuc19fZXZlbnRfcmVwb3J0IG5lcgp3aGVyZSBuZXIucGFyYW1ldGVycyAtPj4gJ2xvYW5JZCcgPSAnNDMwMyc7CgpzZWxlY3QKKgoKc2VsZWN0ICoKZnJvbSBsb2FuCndoZXJlIGlkID0gNDQ3NzsK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

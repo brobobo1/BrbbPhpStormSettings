@@ -69,7 +69,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/dzp-admin/config/packages/security.yaml" timestamp="1565185210470" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1565115997384">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1565258206647">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
@@ -82,6 +82,15 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
         <mark key="^" line="102" column="0" />
+      </file>
+      <file name="/scoring_middleware_dzp2.public.sm_transfer_log [PROD]" timestamp="1565257089971">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6195f55d-7ad8-4174-ba89-98468e68e4c7/console.sql" timestamp="1565258241317">
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="/scoring_middleware_dzp_20.public.income [test]" timestamp="1564952285119">
         <mark key="[" line="0" column="0" />
@@ -182,6 +191,11 @@
       <file name="/site_db.dbo.ORDERS [Microsoft SQL Server - site_db@testdb.dozarplati.com]" timestamp="1563808314273">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Command/UpdateScheduleCommand.php" timestamp="1565166188092">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="/client [PROD]" timestamp="1564670535468">
         <mark key="[" line="0" column="0" />
       </file>
@@ -211,7 +225,7 @@
       <file name="/scoring_middleware_dzp2.public.partner [PROD]" timestamp="1565097012046">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1565193142245">
+      <file name="/dummy.sql" timestamp="1565258181305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -241,6 +255,7 @@
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/PreApproved/PreApprovedPdlStrategy.php" timestamp="1563276538823">
         <mark key="[" line="3" column="49" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffRequestService.php" timestamp="1565258180079" />
       <file name="/scoring_middleware_dzp_20.public.loan [test]" timestamp="1565184107827">
         <mark key="[" line="0" column="0" />
       </file>
@@ -602,7 +617,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>UNDER</text>
+        <text>c.id = 79148724770</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -614,7 +629,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>UNDER</text>
+        <text>c.id = 79148724770</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>

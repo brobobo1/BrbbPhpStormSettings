@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -161,11 +161,11 @@
         <mark key="." line="10" column="44" />
         <mark key="^" line="10" column="44" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6195f55d-7ad8-4174-ba89-98468e68e4c7/console.sql" timestamp="1565601780099">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="90" column="7" />
-        <mark key="." line="90" column="7" />
-        <mark key="^" line="90" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6195f55d-7ad8-4174-ba89-98468e68e4c7/console.sql" timestamp="1565611054643">
+        <mark key="[" line="100" column="7" />
+        <mark key="]" line="100" column="14" />
+        <mark key="." line="100" column="14" />
+        <mark key="^" line="100" column="14" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/NewPdlLoanStrategy.php" timestamp="1563209823351">
         <mark key="[" line="22" column="0" />
@@ -454,7 +454,7 @@
       <file name="/scoring_middleware_dzp2.public.partner [PROD]" timestamp="1565269011888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1565367770469">
+      <file name="/dummy.sql" timestamp="1565611055702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -846,7 +846,9 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1565263858701" />
+      <file name="$USER_HOME$/code/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1565610474023">
+        <mark key="'" line="350" column="9" />
+      </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Calculation/Helper/PaymentDate/InstallmentPaymentDate.php" timestamp="1564403794906">
         <mark key="[" line="34" column="42" />
         <mark key="]" line="34" column="42" />
@@ -1070,7 +1072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="42" filename="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
       <jump line="552" column="38" filename="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
       <jump line="196" column="0" filename="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
       <jump line="13" column="0" filename="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
@@ -1170,6 +1171,7 @@
       <jump line="757" column="50" filename="$USER_HOME$/code/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" />
       <jump line="678" column="20" filename="$USER_HOME$/code/dzp/src/App/Service/DashboardService/DashboardService.php" />
       <jump line="173" column="19" filename="$USER_HOME$/code/dzp/src/notification-system/src/Command/Component/GetResponseNotifyCommand.php" />
+      <jump line="350" column="9" filename="$USER_HOME$/code/dzp/src/scoring-client/src/ScoringClient.php" />
     </jumps>
     <registers>
       <register name="a" type="4">

@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -71,7 +71,8 @@
         <mark key="^" line="18" column="50" />
         <mark key="." line="18" column="50" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/notification-system/src/Command/Component/GetResponseNotifyCommand.php" timestamp="1565629379893">
+      <file name="$USER_HOME$/code/dzp/src/notification-system/src/Command/Component/GetResponseNotifyCommand.php" timestamp="1565715779732">
+        <mark key="'" line="102" column="60" />
         <mark key="]" line="85" column="15" />
         <mark key="." line="85" column="15" />
         <mark key="^" line="85" column="15" />
@@ -465,7 +466,7 @@
         <mark key="^" line="18" column="8" />
         <mark key="." line="18" column="8" />
       </file>
-      <file name="/dummy.sql" timestamp="1565712330700">
+      <file name="/dummy.sql" timestamp="1565715187908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -944,7 +945,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1565629451848">
+      <file name="/PHP Console" timestamp="1565715477817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/scoring_middleware_dzp2.public.client [PROD]" timestamp="1565259294645">
@@ -1021,7 +1022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="552" column="38" filename="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
       <jump line="196" column="0" filename="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
       <jump line="13" column="0" filename="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
       <jump line="165" column="41" filename="$USER_HOME$/code/dzp/src/App/Provider/PayoutServiceProvider/Tinkoff/API/TinkoffClient.php" />
@@ -1121,6 +1121,7 @@
       <jump line="678" column="20" filename="$USER_HOME$/code/dzp/src/App/Service/DashboardService/DashboardService.php" />
       <jump line="173" column="19" filename="$USER_HOME$/code/dzp/src/notification-system/src/Command/Component/GetResponseNotifyCommand.php" />
       <jump line="350" column="9" filename="$USER_HOME$/code/dzp/src/scoring-client/src/ScoringClient.php" />
+      <jump line="102" column="60" filename="$USER_HOME$/code/dzp/src/notification-system/src/Command/Component/GetResponseNotifyCommand.php" />
     </jumps>
     <registers>
       <register name="a" type="4">

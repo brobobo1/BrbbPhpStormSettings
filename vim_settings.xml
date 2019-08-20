@@ -309,11 +309,11 @@
       <file name="$USER_HOME$/code/dzp/public/index.php" timestamp="1560503236661">
         <mark key="[" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Command/FailedRecurentReportCommand.php" timestamp="1566315322948">
-        <mark key="[" line="123" column="50" />
-        <mark key="]" line="123" column="51" />
-        <mark key="^" line="123" column="51" />
-        <mark key="." line="123" column="51" />
+      <file name="$USER_HOME$/code/dzp/src/App/Command/FailedRecurentReportCommand.php" timestamp="1566316180364">
+        <mark key="[" line="90" column="61" />
+        <mark key="]" line="90" column="84" />
+        <mark key="^" line="90" column="84" />
+        <mark key="." line="90" column="84" />
       </file>
       <file name="/site_db.dbo.orders_additions [Microsoft SQL Server - site_db@testdb.dozarplati.com]" timestamp="1566213292556">
         <mark key="[" line="0" column="0" />
@@ -442,7 +442,7 @@
       <file name="/scoring_middleware_dzp2.public.black_list [PROD]" timestamp="1564763334991">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1566315250548">
+      <file name="/PHP Console" timestamp="1566315326721">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/scoring_middleware_dzp2.public.client [PROD]" timestamp="1565259294645">
@@ -611,7 +611,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gKHN0cmluZykkbG9hbi0+Z2V0SWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -632,16 +632,16 @@
         <text encoding="base64">ICAgICAgICAgICAgIFJPV19OVU1CRVIoKSBvdmVyIChPUkRFUiBCWSBtYXgoY3JlYXRlZF9hdCkpICAgICAgICBBUyByb3dfbnVtCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gKHN0cmluZykkbG9hbi0+Z2V0SWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gKHN0cmluZykkbG9hbi0+Z2V0SWQoKSAuICc8L24vYj4nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gKHN0cmluZykkbG9hbi0+Z2V0SWQoKTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -716,10 +716,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW50KCkKL3Zhci93d3cvc3JjL0FwcC9Db21tYW5kL0ZhaWxlZFJlY3VyZW50UmVwb3J0Q29tbWFuZC5waHA6MTI0OgpzdHJpbmcoMjMpICJJbnZhbGlkIFBheW1lbnRTY2hlZHVsZSIKL3Zhci93d3cvc3JjL0FwcC9Db21tYW5kL0ZhaWxlZFJlY3VyZW50UmVwb3J0Q29tbWFuZC5waHA6MTI0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW50KCkKL3Zhci93d3cvc3JjL0FwcC9Db21tYW5kL0ZhaWxlZFJlY3VyZW50UmVwb3J0Q29tbWFuZC5waHA6MTI0OgpzdHJpbmcoMjMpICJJbnZhbGlkIFBheW1lbnRTY2hlZHVsZSIKL3Zhci93d3cvc3JjL0FwcC9Db21tYW5kL0ZhaWxlZFJlY3VyZW50UmVwb3J0Q29tbWFuZC5waHA6MTI0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW50KCkKL3Zhci93d3cvc3JjL0FwcC9Db21tYW5kL0ZhaWxlZFJlY3VyZW50UmVwb3J0Q29tbWFuZC5waHA6MTI0OgpzdHJpbmcoMjMpICJJbnZhbGlkIFBheW1lbnRTY2hlZHVsZSIKL3Zhci93d3cvc3JjL0FwcC9Db21tYW5kL0ZhaWxlZFJlY3VyZW50UmVwb3J0Q29tbWFuZC5waHA6MTI0Ogo=</text>
@@ -734,7 +734,7 @@
         <text encoding="base64">aW50KCkKL3Zhci93d3cvc3JjL0FwcC9Db21tYW5kL0ZhaWxlZFJlY3VyZW50UmVwb3J0Q29tbWFuZC5waHA6MTI0OgpzdHJpbmcoMjMpICJJbnZhbGlkIFBheW1lbnRTY2hlZHVsZSIKL3Zhci93d3cvc3JjL0FwcC9Db21tYW5kL0ZhaWxlZFJlY3VyZW50UmVwb3J0Q29tbWFuZC5waHA6MTI0Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">L3Zhci93d3cvc3JjL0FwcC9Db21tYW5kL0ZhaWxlZFJlY3VyZW50UmVwb3J0Q29tbWFuZC5waHA6MTI0OgpzdHJpbmcoMjMpICJJbnZhbGlkIFBheW1lbnRTY2hlZHVsZSIKL3Zhci93d3cvc3JjL0FwcC9Db21tYW5kL0ZhaWxlZFJlY3VyZW50UmVwb3J0Q29tbWFuZC5waHA6MTI0Ogo=</text>
+        <text encoding="base64">aW50KCkKL3Zhci93d3cvc3JjL0FwcC9Db21tYW5kL0ZhaWxlZFJlY3VyZW50UmVwb3J0Q29tbWFuZC5waHA6MTI0OgpzdHJpbmcoMjMpICJJbnZhbGlkIFBheW1lbnRTY2hlZHVsZSIKL3Zhci93d3cvc3JjL0FwcC9Db21tYW5kL0ZhaWxlZFJlY3VyZW50UmVwb3J0Q29tbWFuZC5waHA6MTI0Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

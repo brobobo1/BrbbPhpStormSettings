@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="F" line="35" column="9" filename="$USER_HOME$/code/img/realty/src/UserInterface/APIBundle/Manager/ComplexCategoryManager.php" protocol="file" />
     </globalmarks>
@@ -32,7 +32,7 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/notification-system/src/Command/Component/GetResponseNotifyCommand.php" timestamp="1566310636026">
+      <file name="$USER_HOME$/code/dzp/src/notification-system/src/Command/Component/GetResponseNotifyCommand.php" timestamp="1566389975282">
         <mark key="'" line="102" column="60" />
         <mark key="[" line="208" column="0" />
         <mark key="]" line="208" column="0" />
@@ -312,11 +312,11 @@
       <file name="/site_db.dbo.ORDER_HISTORY [Microsoft SQL Server - site_db@testdb.dozarplati.com]" timestamp="1566217404202">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console.sql" timestamp="1566387933276">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="40" />
-        <mark key="." line="40" column="40" />
-        <mark key="^" line="40" column="40" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console.sql" timestamp="1566389658567">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+        <mark key="^" line="0" column="46" />
       </file>
       <file name="/scoring_middleware_dzp_20.public.ns__send_report [test]" timestamp="1564062676533">
         <mark key="[" line="0" column="0" />
@@ -447,7 +447,7 @@
       <file name="/scoring_middleware_dzp2.public.black_list [PROD]" timestamp="1564763334991">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1566316899814">
+      <file name="/PHP Console" timestamp="1566389161008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/scoring_middleware_dzp2.public.client [PROD]" timestamp="1566321894524">
@@ -615,8 +615,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>2091</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">awo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -628,7 +628,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>2091</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
@@ -637,16 +637,16 @@
         <text encoding="base64">c2VsZWN0ICoKICAgIGZyb20gY3JlZGl0Y2FyZCBjYwogICAgd2hlcmUgY2MubnVtYmVyIGlsaWtlICcyMjAyMjAlJwogICAgYW5kIGNjLm51bWJlciBpbGlrZSAnJTc5ODUnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBjbGllbnQgYyAKCg==</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBjbGllbnQgYyAKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzbV9yZWN1cnJlbnRfcGF5bWVudCBzcnAKd2hlcmUgc3JwLmxvYW5pZCAgPSA1MDg5Nzc3OwoKCnNlbGVjdCAqCmZyb20gdHJhbnNhY3Rpb24gdAp3aGVyZSB0LnBheW1lbnRsb2FuaWQgPSA1MDg5Nzc3Owo=</text>
+        <text encoding="base64">d2hlcmUgCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -721,25 +721,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzbV9yZWN1cnJlbnRfcGF5bWVudCBzcnAKd2hlcmUgc3JwLmxvYW5pZCAgPSA1MDg5Nzc3OwoKCnNlbGVjdCAqCmZyb20gdHJhbnNhY3Rpb24gdAp3aGVyZSB0LnBheW1lbnRsb2FuaWQgPSA1MDg5Nzc3Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoKCgoK</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bS5udW1iZXIsIGNsaWVudC4qCg==</text>
+        <text encoding="base64">CgoKCgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5uZXIgam9pbiBtb2JpbGVwaG9uZSBtIG9uIGNsaWVudC5pZCA9IG0uY2xpZW50aWQK</text>
+        <text encoding="base64">bS5udW1iZXIsIGNsaWVudC4qCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0IAo=</text>
+        <text encoding="base64">aW5uZXIgam9pbiBtb2JpbGVwaG9uZSBtIG9uIGNsaWVudC5pZCA9IG0uY2xpZW50aWQK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

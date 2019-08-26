@@ -24,11 +24,11 @@
       <file name="/scoring_middleware_dzp_20.public.update_profile_request [test]" timestamp="1563193981157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" timestamp="1566826095773">
-        <mark key="[" line="96" column="12" />
-        <mark key="]" line="96" column="86" />
-        <mark key="^" line="96" column="86" />
-        <mark key="." line="96" column="86" />
+      <file name="$USER_HOME$/code/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" timestamp="1566827117345">
+        <mark key="[" line="87" column="5" />
+        <mark key="]" line="80" column="35" />
+        <mark key="^" line="80" column="35" />
+        <mark key="." line="80" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/console.sql" timestamp="1566569349411">
         <mark key="'" line="89" column="12" />
@@ -49,27 +49,12 @@
         <mark key="^" line="285" column="11" />
         <mark key="." line="285" column="11" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/Traits/LoanServicesTrait.php" timestamp="1563882453763">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.php" timestamp="1564392129980">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="/site_db.dbo.PROMOCODES_STATIC [Microsoft SQL Server - site_db@testdb.dozarplati.com]" timestamp="1561451698338">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/dzp/docker-compose.yml" timestamp="1565163542388" />
       <file name="/brokerage [PROD]" timestamp="1561126788026">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Pdl/IssuedPdlStrategy.php" timestamp="1563276008472">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="47" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="/scoring_middleware_dzp2.public.paidservice [PROD]" timestamp="1563285757131">
         <mark key="[" line="0" column="0" />
@@ -85,11 +70,6 @@
       </file>
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Command/GetStaticPdoDTOCommand.php" timestamp="1555073708389">
         <mark key="[" line="36" column="73" />
-      </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/MobileApiServiceProvider.php" timestamp="1564670312937">
-        <mark key="[" line="343" column="0" />
-        <mark key="]" line="343" column="0" />
-        <mark key="." line="343" column="0" />
       </file>
       <file name="/scoring_middleware_dzp_20.public.transaction [test]" timestamp="1566238796603">
         <mark key="[" line="0" column="0" />
@@ -137,6 +117,13 @@
       <file name="/a.sql" timestamp="1566565339217">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Repository/LoanRepository.php" timestamp="1566827193605">
+        <mark key="'" line="1231" column="7" />
+        <mark key="[" line="1899" column="7" />
+        <mark key="]" line="1899" column="32" />
+        <mark key="." line="1899" column="32" />
+        <mark key="^" line="1899" column="32" />
+      </file>
       <file name="/scoring_middleware_dzp2.public.office [PROD]" timestamp="1565088274540">
         <mark key="[" line="0" column="0" />
       </file>
@@ -155,16 +142,6 @@
       <file name="/scoring_middleware_dzp_20.public.loan_reports [test]" timestamp="1560869223327">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/DTO/Dashboard.php" timestamp="1563382143854">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/dzp/runtime/vendor/symfony/http-foundation/Response.php" timestamp="1564653494577">
-        <mark key="[" line="476" column="0" />
-        <mark key="]" line="476" column="0" />
-        <mark key="." line="476" column="0" />
-      </file>
       <file name="/scoring_middleware_dzp2.public.document [PROD]" timestamp="1565961186347">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,13 +151,14 @@
       <file name="$USER_HOME$/code/newlife/dashboard/docker/.gitignore" timestamp="1562766694712">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Repository/Interfaces/LoanRepositoryInterface.php" timestamp="1566826629177">
+        <mark key="[" line="404" column="42" />
+        <mark key="]" line="404" column="42" />
+        <mark key="." line="404" column="42" />
+        <mark key="^" line="404" column="42" />
+      </file>
       <file name="/collectors.public.ext_log_entries [collectors@10.0.11.205]" timestamp="1560184056128">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/dzp/src/App/DocumentGenerator/PaidServiceAgreementDocument.php" timestamp="1562940096356">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console_1.sql" timestamp="1561117322812">
         <mark key="[" line="0" column="0" />
@@ -191,18 +169,8 @@
         <mark key="^" line="697" column="38" />
         <mark key="." line="697" column="38" />
       </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Pdl/NewPdlStrategy.php" timestamp="1563275220871">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/code/crm/docker-compose.yml" timestamp="1566485930685">
         <mark key="[" line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Pdl/RejectedPdlStrategy.php" timestamp="1563275240596">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/dzp/config/config.ci.php" timestamp="1566479381848">
         <mark key="[" line="39" column="0" />
@@ -214,11 +182,6 @@
       </file>
       <file name="/scoring_middleware_dzp_20.public.paidservice [test]" timestamp="1560259053259">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Calculation/Helper/MimimalPayment.php" timestamp="1563980489639">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
       </file>
       <file name="/partner [PROD]" timestamp="1565363831884">
         <mark key="[" line="0" column="0" />
@@ -310,11 +273,6 @@
       <file name="$USER_HOME$/code/collectors/src/App/DataImport/LoanApplication/LoanApplicationTableReader.php" timestamp="1559837048880">
         <mark key="[" line="56" column="24" />
       </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/DTO/Info.php" timestamp="1563183810180">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="589" column="1" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="/scoring_middleware_dzp_20.public.ns__event_customer [test]" timestamp="1564064488959">
         <mark key="[" line="0" column="0" />
       </file>
@@ -326,11 +284,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Helper/BrokerageHelper.php" timestamp="1561643604395">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="29" column="10" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/code/dzp/tests/functional/App/Service/PassportService/PassportServiceTest.php" timestamp="1565623918672">
         <mark key="[" line="95" column="8" />
@@ -391,16 +344,6 @@
       <file name="/scoring_middleware_dzp2.public.creditcard [PROD]" timestamp="1565700443812">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/ActiveLoanInfoUpdate.php" timestamp="1563971269177">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Loan/DTO/Loan.php" timestamp="1562852673580">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/code/dzp/src/App/DocumentGenerator/Privilege2ConditionsAgreement.php" timestamp="1566479827542">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="14" />
@@ -413,11 +356,6 @@
       <file name="$USER_HOME$/code/dzp/src/App/Repository/Interfaces/DocumentRepositoryInterface.php" timestamp="1565359482833" />
       <file name="$USER_HOME$/code/get-response-client/src/ResourceDescription/ContactsResource.php" timestamp="1559918022644">
         <mark key="[" line="83" column="67" />
-      </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Migrations/Version20190717122353.php" timestamp="1563355571737">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="/scoring_middleware_dzp2.public.sm_device [PROD]" timestamp="1564753664412">
         <mark key="[" line="0" column="0" />
@@ -435,18 +373,8 @@
         <mark key="^" line="21" column="71" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Entity/Device/Device.php" timestamp="1566566298867" />
-      <file name="$USER_HOME$/code/dzp/src/App/Serializer/Entity/App.Provider.MobileApiServiceProvider.DTO.CalculatorPage.yml" timestamp="1563531443856">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="/scoring_middleware_dzp_20.public.ns__device [test]" timestamp="1565181267527">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Entity/PaidService.php" timestamp="1562691853324">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console_10.sql" timestamp="1565869478420">
         <mark key="[" line="4" column="0" />
@@ -459,21 +387,6 @@
       </file>
       <file name="/site_db.dbo.ORDER_HISTORY [Microsoft SQL Server - site_db@testdb.dozarplati.com]" timestamp="1566217404202">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Entity/Brokerage.php" timestamp="1560956235561">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/dzp-admin/docker-compose.yml" timestamp="1563288938021">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="10" />
-      </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Serializer/Entity/App.Provider.MobileApiServiceProvider.DTO.LastLoan.yml" timestamp="1564586041693">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="35" />
-        <mark key="." line="183" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console.sql" timestamp="1566474667828">
         <mark key="[" line="82" column="8" />
@@ -542,16 +455,6 @@
       <file name="/scoring_middleware_dzp2.public.company [PROD]" timestamp="1564763473529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1566562335969">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Loan/DTO/Filter.php" timestamp="1562846473541">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa42766e-801d-4aa0-a41c-7d71e08988c2/console.sql" timestamp="1566217474681">
         <mark key="[" line="67" column="24" />
         <mark key="]" line="68" column="27" />
@@ -567,11 +470,6 @@
       <file name="/loan [test]" timestamp="1566239540914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.php" timestamp="1563882109018">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/code/dzp/src/App/Service/EventService/EventService.php" timestamp="1565705814722" />
       <file name="/dzp.public.client_earned_achievement [dzp@localhost]" timestamp="1563355174452">
         <mark key="[" line="0" column="0" />
@@ -583,11 +481,6 @@
       <file name="/scoring_middleware_dzp_20.public.promotion [test]" timestamp="1563804392418">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/DefaultInfoUpdate.php" timestamp="1563209603567">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/code/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1566234876266">
         <mark key="[" line="1506" column="64" />
         <mark key="]" line="1511" column="17" />
@@ -597,13 +490,8 @@
       <file name="/scoring_middleware_dzp2.public.client_promocode_static [PROD]" timestamp="1564764796299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp-admin/src/Controller/Admin/Underwriting/PaidServiceCrudController.php" timestamp="1564753197659">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/code/dzp/src/App/Entity/Finance/RecurrentPayment.php" timestamp="1565255434591" />
-      <file name="$USER_HOME$/code/dzp/src/notification-system/src/Service/PushService/Message/AndroidMessage.php" timestamp="1565628742095">
+      <file name="$USER_HOME$/code/dzp/src/notification-system/src/Service/PushService/Message/AndroidMessage.php" timestamp="1566826927248">
         <mark key="[" line="58" column="107" />
         <mark key="]" line="58" column="105" />
         <mark key="^" line="58" column="105" />
@@ -627,16 +515,6 @@
       </file>
       <file name="/creditcard [PROD]" timestamp="1561727461338">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Pdl/PreApprovedPdlStrategy.php" timestamp="1563275234745">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/DTO/PayoutInfo.php" timestamp="1563464880477">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
       </file>
       <file name="/scoring_middleware_dzp2.public.sm_change_mobile_phone_request [PROD]" timestamp="1565087481751">
         <mark key="[" line="0" column="0" />
@@ -665,11 +543,6 @@
       <file name="/scoring_middleware_dzp2.public.ns__device [PROD]" timestamp="1564753664374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Service/PromoCodeService/PromoCodeService.php" timestamp="1561132983491">
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
-        <mark key="." line="262" column="0" />
-      </file>
       <file name="/tariff [test]" timestamp="1563874651538">
         <mark key="[" line="0" column="0" />
       </file>
@@ -678,11 +551,6 @@
       </file>
       <file name="/sm_recurrent_payment [PROD]" timestamp="1566396700186">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.php" timestamp="1562319371913">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="/scoring_middleware_dzp2.public.mobilephone [PROD]" timestamp="1566821471827">
         <mark key="[" line="0" column="0" />
@@ -746,7 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="109" filename="$USER_HOME$/code/dzp-admin/src/Service/PaidServicesService/PaidServicesService.php" />
       <jump line="70" column="12" filename="$USER_HOME$/code/dzp-admin/src/Service/PaidServicesService/PaidServicesService.php" />
       <jump line="15" column="48" filename="$USER_HOME$/code/dzp-admin/src/Service/PaidServicesService/PaidServicesService.php" />
       <jump line="6" column="36" filename="$USER_HOME$/code/dzp-admin/src/Service/PaidServicesService/Interfaces/PaidServicesServiceInterface.php" />
@@ -846,6 +713,7 @@
       <jump line="71" column="5" filename="$USER_HOME$/code/dzp/src/App/Entity/SelectedLoan.php" />
       <jump line="28" column="24" filename="$USER_HOME$/code/dzp/src/document-generator-service-provider/src/DocumentGeneratorServiceProvider.php" />
       <jump line="89" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/console.sql" />
+      <jump line="1231" column="7" filename="$USER_HOME$/code/dzp/src/App/Repository/LoanRepository.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -868,7 +736,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkb3V0cHV0LT53cml0ZWxuKCdzdGFydCBjb21tYW5kLi4uJyk7CiAgICAgICAgJHN0b3BTZW5kaW5nSW50ZXJ2YWxJbk1pbnV0ZXMgPSA2MCAqIDI0OwogICAgICAgICRyZWFzb24gPSBTZW5kUmVwb3J0OjpSRUFTT05fX1hfREFZU19MT0FOX09WRVJEVUU7CgogICAgICAgICRvdXRwdXQtPndyaXRlbG4oJ3NlYXJjaCBleGNsdWRlIGxvYW4gaWRzLi4uJyk7CiAgICAgICAgJGV4Y2x1ZGVMb2FuSWRzID0gJHRoaXMtPnJlcG9ydFJlcG8KICAgICAgICAgICAgLT5nZXRFeGNsdWRlZExvYW5zSWRzKCRyZWFzb24sICRzdG9wU2VuZGluZ0ludGVydmFsSW5NaW51dGVzKTsKCiAgICAgICAgJG91dHB1dC0+d3JpdGVsbignZXhjbHVkZSBsb2FuIGlkcyBjb3VudCA9ICcgLiBcY291bnQoJGV4Y2x1ZGVMb2FuSWRzKSk7CiAgICAgICAgJG91dHB1dC0+d3JpdGVsbignc2VhcmNoIHJlcGF5bWVudCBsb2Fucy4uLicpOwoKICAgICAgICAkcWIgPSAkdGhpcy0+bG9hblJlcG8tPmNyZWF0ZVF1ZXJ5QnVpbGRlcignbG4nKTsKICAgICAgICAkcWIKICAgICAgICAgICAgLT5hbmRXaGVyZSgnbG4uc2NvcmluZ0xvYW5OdW1iZXIgIT0gXCduZXdcJycpCiAgICAgICAgICAgIC0+YW5kV2hlcmUoJHFiLT5leHByKCktPmlzTm90TnVsbCgnbG4uYXBwcm92ZWRBdCcpKQogICAgICAgICAgICAtPmFuZFdoZXJlKCRxYi0+ZXhwcigpLT5pbignbG4uc3RhdHVzJywgJzpzdGF0dXMnKSkKICAgICAgICAgICAgLT5hbmRXaGVyZSgkcWItPmV4cHIoKS0+bHRlKCdsbi5yZXBheW1lbnRBdCcsICc6cmVwYXltZW50QXQnKSkKICAgICAgICAgICAgLT5hbmRXaGVyZSgnbG4uaXNDbG9zZWQgPSBGQUxTRScpCiAgICAgICAgICAgIC0+c2V0TWF4UmVzdWx0cygzMDApOwogICAgICAgICRxYi0+c2V0UGFyYW1ldGVycyhbCiAgICAgICAgICAgICdzdGF0dXMnID0+IFtMb2FuOjpTVF9JU1NVSU5HX0NPTkZJUk1FRCwgTG9hbjo6U1RfTkVFRF9WRVJJRklDQVRJT04sXSwKICAgICAgICAgICAgJ3JlcGF5bWVudEF0JyA9PiBuZXcgXERhdGVUaW1lKCksCiAgICAgICAgXSk7CgogICAgICAgIGlmIChjb3VudCgkZXhjbHVkZUxvYW5JZHMpID4gMCkgewogICAgICAgICAgICAkcWItPmFuZFdoZXJlKCRxYi0+ZXhwcigpLT5ub3RJbignbG4uaWQnLCAnOmV4Y2x1ZGVkSWRzJykpCiAgICAgICAgICAgICAgICAtPnNldFBhcmFtZXRlcignZXhjbHVkZWRJZHMnLCAkZXhjbHVkZUxvYW5JZHMpOwogICAgICAgIH0KCiAgICAgICAgLyoqIEB2YXIgTG9hbltdICRsb2FucyAqLwogICAgICAgICRsb2FucyA9ICRxYi0+Z2V0UXVlcnkoKS0+Z2V0UmVzdWx0KCk7CgogICAgICAgICRvdXRwdXQtPndyaXRlbG4oc3ByaW50ZignRm91bmRlZCAlZCBvdmVyZHVlIGxvYW5zIScsIGNvdW50KCRsb2FucykpLCBbJ3RyaWdnZXJSZXBheW1lbnRPdmVyZHVlJ10pOwoKICAgICAgICAkY291bnRlciA9IDA7CiAgICAgICAgZm9yZWFjaCAoJGxvYW5zIGFzICRsb2FuKSB7CiAgICAgICAgICAgICRvdXRwdXQtPndyaXRlbG4oJ2Rpc3BhdGNoIHJlcGF5bWVudCBvdmVyZHVlLi4uJyk7CiAgICAgICAgICAgICR0aGlzLT5kaXNwYXRjaGVyLT5kaXNwYXRjaCgsCiAgICAgICAgICAgICAgICBuZXcgTG9hblJlcGF5bWVudE92ZXJkdWVFdmVudCgkbG9hbikpOwogICAgICAgICAgICAkdGhpcy0+cmVwb3J0UmVwby0+cGVyc2lzdFdpdGhMb2FuKCRyZWFzb24sICRsb2FuKTsKCiAgICAgICAgICAgIGlmICgkY291bnRlciAlIDEwID09PSAwKSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+cmVwb3J0UmVwby0+Zmx1c2goKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgJGNvdW50ZXIrKzsKICAgICAgICB9CiAgICAgICAgJHRoaXMtPnJlcG9ydFJlcG8tPmZsdXNoKCk7CiAgICAgICAgJG91dHB1dC0+d3JpdGVsbignZW5kLi4uJyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQYXJhbWV0ZXIoJ3RvZGF5U3RhcnQnLCAkdG9kYXktPmZvcm1hdCgnWS1tLWQgMDowMDowMCcpKQo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -886,19 +754,19 @@
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG91dHB1dC0+d3JpdGVsbignc3RhcnQgY29tbWFuZC4uLicpOwogICAgICAgICAgICAkb3V0cHV0LT53cml0ZWxuKCdnZXQgbG9hbnMgd2l0aCBmaXJzdCBwYXltZW50IDEgZGF5IG92ZXJkdWUnKTsKICAgICAgICAgICAgJGxvYW5zID0gJHRoaXMtPmxvYW5SZXBvLT5maW5kT25lRGF5T3ZlcmR1ZUZpcnN0UGF5bWVudCgpOwogICAgICAgICAgICAkb3V0cHV0LT53cml0ZWxuKCdmaW5kICcgLmNvdW50KCRsb2FucykpOyAKICAgICAgICAgICAgZm9yZWFjaCAoJGxvYW5zIGFzICRsb2FuKSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+dHJpZ2dlckV2ZW50KEV2ZW50czo6TE9BTl8xODBfT1ZFUkRVRV9GSVJTVF9QQVlNRU5ULCBbJ2xvYW4nID0+ICRsb2FuXSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRQYXJhbWV0ZXIoJ3RvZGF5U3RhcnQnLCAkdG9kYXktPmZvcm1hdCgnWS1tLWQgMDowMDowMCcpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkb3V0cHV0LT53cml0ZWxuKCdzdGFydCBjb21tYW5kLi4uJyk7CiAgICAgICAgJHN0b3BTZW5kaW5nSW50ZXJ2YWxJbk1pbnV0ZXMgPSA2MCAqIDI0OwogICAgICAgICRyZWFzb24gPSBTZW5kUmVwb3J0OjpSRUFTT05fX1hfREFZU19MT0FOX09WRVJEVUU7CgogICAgICAgICRvdXRwdXQtPndyaXRlbG4oJ3NlYXJjaCBleGNsdWRlIGxvYW4gaWRzLi4uJyk7CiAgICAgICAgJGV4Y2x1ZGVMb2FuSWRzID0gJHRoaXMtPnJlcG9ydFJlcG8KICAgICAgICAgICAgLT5nZXRFeGNsdWRlZExvYW5zSWRzKCRyZWFzb24sICRzdG9wU2VuZGluZ0ludGVydmFsSW5NaW51dGVzKTsKCiAgICAgICAgJG91dHB1dC0+d3JpdGVsbignZXhjbHVkZSBsb2FuIGlkcyBjb3VudCA9ICcgLiBcY291bnQoJGV4Y2x1ZGVMb2FuSWRzKSk7CiAgICAgICAgJG91dHB1dC0+d3JpdGVsbignc2VhcmNoIHJlcGF5bWVudCBsb2Fucy4uLicpOwoKICAgICAgICAkcWIgPSAkdGhpcy0+bG9hblJlcG8tPmNyZWF0ZVF1ZXJ5QnVpbGRlcignbG4nKTsKICAgICAgICAkcWIKICAgICAgICAgICAgLT5hbmRXaGVyZSgnbG4uc2NvcmluZ0xvYW5OdW1iZXIgIT0gXCduZXdcJycpCiAgICAgICAgICAgIC0+YW5kV2hlcmUoJHFiLT5leHByKCktPmlzTm90TnVsbCgnbG4uYXBwcm92ZWRBdCcpKQogICAgICAgICAgICAtPmFuZFdoZXJlKCRxYi0+ZXhwcigpLT5pbignbG4uc3RhdHVzJywgJzpzdGF0dXMnKSkKICAgICAgICAgICAgLT5hbmRXaGVyZSgkcWItPmV4cHIoKS0+bHRlKCdsbi5yZXBheW1lbnRBdCcsICc6cmVwYXltZW50QXQnKSkKICAgICAgICAgICAgLT5hbmRXaGVyZSgnbG4uaXNDbG9zZWQgPSBGQUxTRScpCiAgICAgICAgICAgIC0+c2V0TWF4UmVzdWx0cygzMDApOwogICAgICAgICRxYi0+c2V0UGFyYW1ldGVycyhbCiAgICAgICAgICAgICdzdGF0dXMnID0+IFtMb2FuOjpTVF9JU1NVSU5HX0NPTkZJUk1FRCwgTG9hbjo6U1RfTkVFRF9WRVJJRklDQVRJT04sXSwKICAgICAgICAgICAgJ3JlcGF5bWVudEF0JyA9PiBuZXcgXERhdGVUaW1lKCksCiAgICAgICAgXSk7CgogICAgICAgIGlmIChjb3VudCgkZXhjbHVkZUxvYW5JZHMpID4gMCkgewogICAgICAgICAgICAkcWItPmFuZFdoZXJlKCRxYi0+ZXhwcigpLT5ub3RJbignbG4uaWQnLCAnOmV4Y2x1ZGVkSWRzJykpCiAgICAgICAgICAgICAgICAtPnNldFBhcmFtZXRlcignZXhjbHVkZWRJZHMnLCAkZXhjbHVkZUxvYW5JZHMpOwogICAgICAgIH0KCiAgICAgICAgLyoqIEB2YXIgTG9hbltdICRsb2FucyAqLwogICAgICAgICRsb2FucyA9ICRxYi0+Z2V0UXVlcnkoKS0+Z2V0UmVzdWx0KCk7CgogICAgICAgICRvdXRwdXQtPndyaXRlbG4oc3ByaW50ZignRm91bmRlZCAlZCBvdmVyZHVlIGxvYW5zIScsIGNvdW50KCRsb2FucykpLCBbJ3RyaWdnZXJSZXBheW1lbnRPdmVyZHVlJ10pOwoKICAgICAgICAkY291bnRlciA9IDA7CiAgICAgICAgZm9yZWFjaCAoJGxvYW5zIGFzICRsb2FuKSB7CiAgICAgICAgICAgICRvdXRwdXQtPndyaXRlbG4oJ2Rpc3BhdGNoIHJlcGF5bWVudCBvdmVyZHVlLi4uJyk7CiAgICAgICAgICAgICR0aGlzLT5kaXNwYXRjaGVyLT5kaXNwYXRjaCgsCiAgICAgICAgICAgICAgICBuZXcgTG9hblJlcGF5bWVudE92ZXJkdWVFdmVudCgkbG9hbikpOwogICAgICAgICAgICAkdGhpcy0+cmVwb3J0UmVwby0+cGVyc2lzdFdpdGhMb2FuKCRyZWFzb24sICRsb2FuKTsKCiAgICAgICAgICAgIGlmICgkY291bnRlciAlIDEwID09PSAwKSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+cmVwb3J0UmVwby0+Zmx1c2goKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgJGNvdW50ZXIrKzsKICAgICAgICB9CiAgICAgICAgJHRoaXMtPnJlcG9ydFJlcG8tPmZsdXNoKCk7CiAgICAgICAgJG91dHB1dC0+d3JpdGVsbignZW5kLi4uJyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZmluZE9uZURheU92ZXJkdWVGaXJzdFBheW1lbnQoKSBtZXRob2QuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW0gPSAkZW07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVwb3J0UmVwbyA9ICRyZXBvcnRSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAkb3V0cHV0LT53cml0ZWxuKCdzdGFydCBjb21tYW5kLi4uJyk7CiAgICAgICAgJHN0b3BTZW5kaW5nSW50ZXJ2YWxJbk1pbnV0ZXMgPSA2MCAqIDI0OwogICAgICAgICRyZWFzb24gPSBTZW5kUmVwb3J0OjpSRUFTT05fX1hfREFZU19MT0FOX09WRVJEVUU7CgogICAgICAgICRvdXRwdXQtPndyaXRlbG4oJ3NlYXJjaCBleGNsdWRlIGxvYW4gaWRzLi4uJyk7CiAgICAgICAgJGV4Y2x1ZGVMb2FuSWRzID0gJHRoaXMtPnJlcG9ydFJlcG8KICAgICAgICAgICAgLT5nZXRFeGNsdWRlZExvYW5zSWRzKCRyZWFzb24sICRzdG9wU2VuZGluZ0ludGVydmFsSW5NaW51dGVzKTsKCiAgICAgICAgJG91dHB1dC0+d3JpdGVsbignZXhjbHVkZSBsb2FuIGlkcyBjb3VudCA9ICcgLiBcY291bnQoJGV4Y2x1ZGVMb2FuSWRzKSk7CiAgICAgICAgJG91dHB1dC0+d3JpdGVsbignc2VhcmNoIHJlcGF5bWVudCBsb2Fucy4uLicpOwoKICAgICAgICAkcWIgPSAkdGhpcy0+bG9hblJlcG8tPmNyZWF0ZVF1ZXJ5QnVpbGRlcignbG4nKTsKICAgICAgICAkcWIKICAgICAgICAgICAgLT5hbmRXaGVyZSgnbG4uc2NvcmluZ0xvYW5OdW1iZXIgIT0gXCduZXdcJycpCiAgICAgICAgICAgIC0+YW5kV2hlcmUoJHFiLT5leHByKCktPmlzTm90TnVsbCgnbG4uYXBwcm92ZWRBdCcpKQogICAgICAgICAgICAtPmFuZFdoZXJlKCRxYi0+ZXhwcigpLT5pbignbG4uc3RhdHVzJywgJzpzdGF0dXMnKSkKICAgICAgICAgICAgLT5hbmRXaGVyZSgkcWItPmV4cHIoKS0+bHRlKCdsbi5yZXBheW1lbnRBdCcsICc6cmVwYXltZW50QXQnKSkKICAgICAgICAgICAgLT5hbmRXaGVyZSgnbG4uaXNDbG9zZWQgPSBGQUxTRScpCiAgICAgICAgICAgIC0+c2V0TWF4UmVzdWx0cygzMDApOwogICAgICAgICRxYi0+c2V0UGFyYW1ldGVycyhbCiAgICAgICAgICAgICdzdGF0dXMnID0+IFtMb2FuOjpTVF9JU1NVSU5HX0NPTkZJUk1FRCwgTG9hbjo6U1RfTkVFRF9WRVJJRklDQVRJT04sXSwKICAgICAgICAgICAgJ3JlcGF5bWVudEF0JyA9PiBuZXcgXERhdGVUaW1lKCksCiAgICAgICAgXSk7CgogICAgICAgIGlmIChjb3VudCgkZXhjbHVkZUxvYW5JZHMpID4gMCkgewogICAgICAgICAgICAkcWItPmFuZFdoZXJlKCRxYi0+ZXhwcigpLT5ub3RJbignbG4uaWQnLCAnOmV4Y2x1ZGVkSWRzJykpCiAgICAgICAgICAgICAgICAtPnNldFBhcmFtZXRlcignZXhjbHVkZWRJZHMnLCAkZXhjbHVkZUxvYW5JZHMpOwogICAgICAgIH0KCiAgICAgICAgLyoqIEB2YXIgTG9hbltdICRsb2FucyAqLwogICAgICAgICRsb2FucyA9ICRxYi0+Z2V0UXVlcnkoKS0+Z2V0UmVzdWx0KCk7CgogICAgICAgICRvdXRwdXQtPndyaXRlbG4oc3ByaW50ZignRm91bmRlZCAlZCBvdmVyZHVlIGxvYW5zIScsIGNvdW50KCRsb2FucykpLCBbJ3RyaWdnZXJSZXBheW1lbnRPdmVyZHVlJ10pOwoKICAgICAgICAkY291bnRlciA9IDA7CiAgICAgICAgZm9yZWFjaCAoJGxvYW5zIGFzICRsb2FuKSB7CiAgICAgICAgICAgICRvdXRwdXQtPndyaXRlbG4oJ2Rpc3BhdGNoIHJlcGF5bWVudCBvdmVyZHVlLi4uJyk7CiAgICAgICAgICAgICR0aGlzLT5kaXNwYXRjaGVyLT5kaXNwYXRjaCgsCiAgICAgICAgICAgICAgICBuZXcgTG9hblJlcGF5bWVudE92ZXJkdWVFdmVudCgkbG9hbikpOwogICAgICAgICAgICAkdGhpcy0+cmVwb3J0UmVwby0+cGVyc2lzdFdpdGhMb2FuKCRyZWFzb24sICRsb2FuKTsKCiAgICAgICAgICAgIGlmICgkY291bnRlciAlIDEwID09PSAwKSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+cmVwb3J0UmVwby0+Zmx1c2goKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgJGNvdW50ZXIrKzsKICAgICAgICB9CiAgICAgICAgJHRoaXMtPnJlcG9ydFJlcG8tPmZsdXNoKCk7CiAgICAgICAgJG91dHB1dC0+d3JpdGVsbignZW5kLi4uJyk7CiAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -973,25 +841,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTZW5kUmVwb3J0UmVwb3NpdG9yeUludGVyZmFjZSAkcmVwb3J0UmVwb3NpdG9yeSwK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW0gPSAkZW07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFbnRpdHlNYW5hZ2VyICRlbQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVwb3J0UmVwbyA9ICRyZXBvcnRSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBFbnRpdHlNYW5hZ2VyICRlbQo=</text>
+        <text encoding="base64">ICAgICAgICBTZW5kUmVwb3J0UmVwb3NpdG9yeUludGVyZmFjZSAkcmVwb3J0UmVwb3NpdG9yeSwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBTZW5kUmVwb3J0UmVwb3NpdG9yeUludGVyZmFjZSAkcmVwb3J0UmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICBFbnRpdHlNYW5hZ2VyICRlbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBFbnRpdHlNYW5hZ2VyICRlbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcTG9hbjsKdXNlIEFwcFxFdmVudFxFdmVudHM7CnVzZSBBcHBcRXZlbnRcTG9hblJlcGF5bWVudE92ZXJkdWVFdmVudDsKdXNlIERldmltXENvbXBvbmVudFxOb3RpZmljYXRpb25TeXN0ZW1cRW50aXR5XFNlbmRSZXBvcnQ7CnVzZSBEZXZpbVxDb21wb25lbnRcTm90aWZpY2F0aW9uU3lzdGVtXEV2ZW50XEV2ZW50cyBhcyBOb3RpZmljYXRpb25TeXN0ZW1FdmVudHM7CnVzZSBEZXZpbVxDb21wb25lbnRcTm90aWZpY2F0aW9uU3lzdGVtXFNlbmRSZXBvcnRSZXBvc2l0b3J5SW50ZXJmYWNlOwp1c2UgRG9jdHJpbmVcT1JNXEVudGl0eU1hbmFnZXI7CnVzZSBJc29sYXRlXENvbnNvbGVTZXJ2aWNlUHJvdmlkZXJcQ29uc29sZVxDb21tYW5kXENvbW1hbmQ7CnVzZSBQc3JcTG9nXExvZ2dlckludGVyZmFjZTsKdXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcSW5wdXRcSW5wdXRJbnRlcmZhY2U7CnVzZSBTeW1mb255XENvbXBvbmVudFxDb25zb2xlXE91dHB1dFxPdXRwdXRJbnRlcmZhY2U7CnVzZSBTeW1mb255XENvbXBvbmVudFxFdmVudERpc3BhdGNoZXJcRXZlbnREaXNwYXRjaGVySW50ZXJmYWNlOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBTZW5kUmVwb3J0UmVwb3NpdG9yeUludGVyZmFjZSAkcmVwb3J0UmVwb3NpdG9yeQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

@@ -53,10 +53,10 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/console.sql" timestamp="1566991154349">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/console.sql" timestamp="1566994935898">
         <mark key="'" line="89" column="12" />
-        <mark key="[" line="170" column="5" />
-        <mark key="]" line="171" column="22" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="137" column="1" />
         <mark key="^" line="171" column="22" />
         <mark key="." line="171" column="22" />
       </file>
@@ -199,13 +199,6 @@
         <mark key="." line="10" column="44" />
         <mark key="^" line="10" column="44" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6195f55d-7ad8-4174-ba89-98468e68e4c7/console.sql" timestamp="1566392861980">
-        <mark key="'" line="21" column="18" />
-        <mark key="[" line="130" column="30" />
-        <mark key="]" line="130" column="30" />
-        <mark key="." line="130" column="30" />
-        <mark key="^" line="130" column="30" />
-      </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/NewPdlLoanStrategy.php" timestamp="1563209823351">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -235,13 +228,6 @@
         <mark key="]" line="14" column="49" />
         <mark key="." line="14" column="49" />
         <mark key="^" line="14" column="44" />
-      </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Repository/LoanRepository.php" timestamp="1566908755887">
-        <mark key="'" line="1398" column="62" />
-        <mark key="[" line="1900" column="0" />
-        <mark key="]" line="1900" column="0" />
-        <mark key="^" line="1897" column="13" />
-        <mark key="." line="1900" column="0" />
       </file>
       <file name="/scoring_middleware_dzp2.public.office [PROD]" timestamp="1565088274540">
         <mark key="[" line="0" column="0" />
@@ -343,13 +329,6 @@
         <mark key="]" line="3" column="49" />
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
-      </file>
-      <file name="$USER_HOME$/code/dzp/src/notification-system/src/EventListener/NotificationSubscriber.php" timestamp="1566908828391">
-        <mark key="'" line="263" column="55" />
-        <mark key="[" line="930" column="0" />
-        <mark key="]" line="930" column="0" />
-        <mark key="." line="930" column="0" />
-        <mark key="^" line="923" column="100" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Service/SourceService/SourceService.php" timestamp="1563369023576">
         <mark key="[" line="40" column="9" />
@@ -902,11 +881,11 @@
         <mark key="]" line="183" column="35" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console.sql" timestamp="1566908997762">
-        <mark key="[" line="99" column="7" />
-        <mark key="]" line="104" column="26" />
-        <mark key="." line="104" column="26" />
-        <mark key="^" line="104" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a85b4b07-770f-4db5-b4d5-cce5d9d84def/console.sql" timestamp="1566995405428">
+        <mark key="[" line="118" column="23" />
+        <mark key="]" line="118" column="22" />
+        <mark key="." line="118" column="22" />
+        <mark key="^" line="118" column="22" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/ApprovedPdlLoanStrategy.php" timestamp="1563211208889">
         <mark key="[" line="21" column="54" />
@@ -1185,7 +1164,7 @@
       <file name="/scoring_middleware_dzp_20.public.sm_transfer_log [test]" timestamp="1565181611593">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/config/config.php" timestamp="1566915285632">
+      <file name="$USER_HOME$/code/dzp/config/config.php" timestamp="1566996306160">
         <mark key="[" line="642" column="39" />
         <mark key="]" line="642" column="74" />
         <mark key="^" line="642" column="74" />
@@ -1400,12 +1379,6 @@
         <mark key="^" line="20" column="47" />
         <mark key="." line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/SkorozvonApiProvider/SkorozvonService.php" timestamp="1566991370978">
-        <mark key="[" line="243" column="35" />
-        <mark key="]" line="243" column="33" />
-        <mark key="." line="243" column="33" />
-        <mark key="^" line="243" column="33" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="17" column="28" filename="$USER_HOME$/code/dzp-admin/src/Service/PaidServicesService/PaidServicesService.php" />
@@ -1530,7 +1503,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:less</text>
+        <text>id</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -1542,13 +1515,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>:less</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgKHNlbGVjdAogICAgICAgICAgIGlkCiAgICAgICBmcm9tIG5zX19ldmVudF9yZXBvcnQgbmVyCiAgICAgICB3aGVyZSAobmVyLmV2ZW50ID0gJ2xvYW4uMTgwX292ZXJkdWVfZmlyc3RfcGF5bWVudCcKICAgICAgICAgICBvciBuZXIuZXZlbnQgPSAnbG9hbi4xODBfb3ZlcmR1ZV9zZWNvbmRfcGF5bWVudCcpCiAgICAgICAgIGFuZCBuZXIuaXNfcHJvY2Vzc2VkID0gdHJ1ZSk7Cg==</text>
+        <text encoding="base64">U0VMRUNUCiAgICBsLmlkCkZST00gbG9hbiBsCldIRVJFIGwudHlwZSBpbiAoMTAsIDExKQogICAgQU5EIGwuc3RhdHVzID0gNgogICAgQU5EIGwuaXNjbG9zZWQgPSBmYWxzZQogICAgQU5EIChsLnNjaGVkdWxlIC0+ICgwKSAtPj4gJ0RhdGUnKSA6OiBEQVRFID49ICcyMDE5MDgyNycKICAgIEFORCAobC5zY2hlZHVsZSAtPiAoMCkgLT4+ICdEYXRlJykgOjogREFURSA8ICcyMDE5MDgyOCc7CjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

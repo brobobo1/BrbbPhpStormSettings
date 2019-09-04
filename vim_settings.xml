@@ -688,11 +688,11 @@
         <mark key="^" line="11" column="42" />
         <mark key="." line="11" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/support.sql" timestamp="1567615979447">
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="45" column="26" />
-        <mark key="." line="45" column="26" />
-        <mark key="^" line="45" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/support.sql" timestamp="1567617141656">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="50" column="22" />
       </file>
       <file name="/scoring_middleware_dzp_20.public.loan [test]" timestamp="1566238796582">
         <mark key="[" line="0" column="0" />
@@ -1421,8 +1421,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -1440,19 +1440,19 @@
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkcWItPmV4cHIoKS0+ZXEoJ2wudHlwZScsICc6dHlwZScpLAo=</text>
+        <text encoding="base64">ICAgICAgc3RhdHVzID0gNiBhbmQKICAgICAgaXNjbG9zZWQgPSBmYWxzZSBhbmQKICAgICAgY29uZmlybWVkID0gMCBhbmQKICAgICAgdHlwZSBpbiAoMTAsIDExKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcWItPmdldFF1ZXJ5KCktPmdldERRTCgpKTsK</text>
+        <text encoding="base64">ICAgIGlzc3VlZGF0ZSA+ICcyMDE5MDkwMScgYW5kCiAgICAgIHN0YXR1cyA9IDYgYW5kCiAgICAgIGlzY2xvc2VkID0gZmFsc2UgYW5kCiAgICAgIHR5cGUgaW4gKDEwLCAxMSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGVyaW9kKTsK</text>
+        <text encoding="base64">ICAgIGlzc3VlZGF0ZSA+ICcyMDE5MDkwMScgYW5kCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1527,22 +1527,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXNzdWVkYXRlID4gJzIwMTkwOTAxJzsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcWItPmdldFF1ZXJ5KCktPmdldFNxbCgpKTsKICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcWItPmdldFF1ZXJ5KCktPmdldERRTCgpKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGVyaW9kKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZnJvbS0+Zm9ybWF0KCdZbWQnKSwgJHRvLT5mb3JtYXQoJ1ltZCcpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

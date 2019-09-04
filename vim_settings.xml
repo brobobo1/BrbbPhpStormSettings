@@ -53,6 +53,13 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" timestamp="1567601354323">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="189" column="25" />
+        <mark key="]" line="190" column="19" />
+        <mark key="." line="190" column="19" />
+        <mark key="^" line="190" column="19" />
+      </file>
       <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/Traits/RecurrentUrlTrait.php" timestamp="1563960225603">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -80,8 +87,8 @@
       <file name="/site_db.dbo.PROMOCODES_STATIC [Microsoft SQL Server - site_db@testdb.dozarplati.com]" timestamp="1561451698338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/docker-compose.yml" timestamp="1567004170954">
-        <mark key="[" line="19" column="55" />
+      <file name="$USER_HOME$/code/dzp/docker-compose.yml" timestamp="1567601592050">
+        <mark key="[" line="19" column="54" />
         <mark key="]" line="19" column="53" />
         <mark key="^" line="19" column="53" />
         <mark key="." line="19" column="53" />
@@ -161,7 +168,7 @@
         <mark key="." line="7" column="75" />
         <mark key="^" line="7" column="75" />
       </file>
-      <file name="$USER_HOME$/code/dzp/config/config.local.php" timestamp="1567599152229">
+      <file name="$USER_HOME$/code/dzp/config/config.local.php" timestamp="1567600061015">
         <mark key="[" line="74" column="6" />
         <mark key="]" line="74" column="23" />
         <mark key="^" line="74" column="23" />
@@ -206,8 +213,12 @@
         <mark key="." line="14" column="49" />
         <mark key="^" line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Repository/LoanRepository.php" timestamp="1567535024752">
+      <file name="$USER_HOME$/code/dzp/src/App/Repository/LoanRepository.php" timestamp="1567602034261">
         <mark key="'" line="1863" column="0" />
+        <mark key="[" line="1944" column="58" />
+        <mark key="]" line="1944" column="56" />
+        <mark key="." line="1944" column="56" />
+        <mark key="^" line="1944" column="56" />
       </file>
       <file name="/scoring_middleware_dzp2.public.office [PROD]" timestamp="1565088274540">
         <mark key="[" line="0" column="0" />
@@ -1289,8 +1300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="20" filename="$USER_HOME$/code/dzp/src/App/Repository/Interfaces/CreditCardRepositoryInterface.php" />
-      <jump line="1096" column="55" filename="$USER_HOME$/code/dzp/src/App/Rpc/Internal/ClientRpcService.php" />
       <jump line="170" column="72" filename="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/CreditCardController.php" />
       <jump line="31" column="0" filename="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Issued/IssuedInstallmentRetireeStrategy.php" />
       <jump line="73" column="20" filename="$USER_HOME$/code/dzp/src/App/Entity/Loan.php" />
@@ -1389,6 +1398,8 @@
       <jump line="141" column="12" filename="$USER_HOME$/code/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" />
       <jump line="129" column="145" filename="$USER_HOME$/code/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" />
       <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/support.sql" />
+      <jump line="123" column="8" filename="$USER_HOME$/code/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" />
+      <jump line="124" column="0" filename="$USER_HOME$/code/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1411,7 +1422,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CnNlbGVjdCBsLmlkLCBsLnBlbmRpbmd0cmFuc2FjdGlvbmlkLCBsLmlzc3VlZGF0ZSwgbC5zY2hlZHVsZSwgbC5jb25maXJtZWQsIGwuYXJjaGlpZCwgbC5hbW91bnQKZnJvbSBsb2FuIGwKd2hlcmUgbC5zY29yaW5nbG9hbm51bWJlciA9ICc1MjYtMTM3NDUnOwoKdXBkYXRlIGxvYW4gc2V0IGNvbmZpcm1lZCA9IDEgd2hlcmUgc2NvcmluZ2xvYW5udW1iZXIgPSAnNTE2LTE1NDE4JzsKdXBkYXRlIGxvYW4gc2V0IHNjaGVkdWxlID0gJ1tdJyB3aGVyZSBzY29yaW5nbG9hbm51bWJlciA9ICc1MjUtMzUyNTEgJzsKCnNlbGVjdCBtLm51bWJlcgpmcm9tIG1vYmlsZXBob25lIG0KaW5uZXIgam9pbiBjbGllbnQgYyBvbiBtLmNsaWVudGlkID0gYy5pZAp3aGVyZSBjLnBhc3Nwb3J0cyA9ICcxMTA3JyBhbmQgYy5wYXNzcG9ydG4gPSAnNTQ2ODgwJzsKCnNlbGVjdCAqCmZyb20gc21zX2xvZyBzbXMKaW5uZXIgam9pbiBtb2JpbGVwaG9uZSBtIG9uIHNtcy5tb2JpbGVwaG9uZWlkID0gbS5pZAp3aGVyZSBtLm51bWJlciA9ICc3OTUyNzY2Nzc1NCc7CgoKZGVsZXRlIGZyb20gc21zX2xvZyB3aGVyZSBpZCAgaW4gKAo5OTg2MDY1LAo5OTg1OTE3LAo5OTg1MTcxCik7CgpzZWxlY3QgYy5pZApmcm9tIGNsaWVudCBjCndoZXJlIGMucGFzc3BvcnRuID0gJzMxMTk1MicKICBhbmQgYy5wYXNzcG9ydHMgPSAnMjIxNCc7CgotLTQwMDU3MTYKCnNlbGVjdCAqCmZyb20gY3JlZGl0Y2FyZCBjYwp3aGVyZSBjYy5jbGllbnRpZCA9IDQwMDU3MTY7CgpzZWxlY3QgKgpmcm9tIGxvYW4gbAp3aGVyZQogICAgICBsLnNjb3Jpbmdsb2FubnVtYmVyID0gJzUyNS0yODA2Nyc7CgpzZWxlY3QgKiBmcm9tIGRvY3VtZW50IGQgd2hlcmUgZC5sb2FuaWQgPSA1MTc0NDI4OwoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICRxYi0+ZXhwcigpLT5lcSgnbC5pc0Nsb3NlZCcsICc6aXNDbG9zZWQnKQo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -1423,7 +1434,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>$type === Loan::LOAN_TYPE_FIRST_180 : $first180PaymentPeriod</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
@@ -1432,31 +1443,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAbm9pbnNwZWN0aW9uIFNsb3dBcnJheU9wZXJhdGlvbnNJbkxvb3BJbnNwZWN0aW9uICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnNlbGVjdCBsLmlkLCBsLnBlbmRpbmd0cmFuc2FjdGlvbmlkLCBsLmlzc3VlZGF0ZSwgbC5zY2hlZHVsZSwgbC5jb25maXJtZWQsIGwuYXJjaGlpZCwgbC5hbW91bnQKZnJvbSBsb2FuIGwKd2hlcmUgbC5zY29yaW5nbG9hbm51bWJlciA9ICc1MjYtMTM3NDUnOwoKdXBkYXRlIGxvYW4gc2V0IGNvbmZpcm1lZCA9IDEgd2hlcmUgc2NvcmluZ2xvYW5udW1iZXIgPSAnNTE2LTE1NDE4JzsKdXBkYXRlIGxvYW4gc2V0IHNjaGVkdWxlID0gJ1tdJyB3aGVyZSBzY29yaW5nbG9hbm51bWJlciA9ICc1MjUtMzUyNTEgJzsKCnNlbGVjdCBtLm51bWJlcgpmcm9tIG1vYmlsZXBob25lIG0KaW5uZXIgam9pbiBjbGllbnQgYyBvbiBtLmNsaWVudGlkID0gYy5pZAp3aGVyZSBjLnBhc3Nwb3J0cyA9ICcxMTA3JyBhbmQgYy5wYXNzcG9ydG4gPSAnNTQ2ODgwJzsKCnNlbGVjdCAqCmZyb20gc21zX2xvZyBzbXMKaW5uZXIgam9pbiBtb2JpbGVwaG9uZSBtIG9uIHNtcy5tb2JpbGVwaG9uZWlkID0gbS5pZAp3aGVyZSBtLm51bWJlciA9ICc3OTUyNzY2Nzc1NCc7CgoKZGVsZXRlIGZyb20gc21zX2xvZyB3aGVyZSBpZCAgaW4gKAo5OTg2MDY1LAo5OTg1OTE3LAo5OTg1MTcxCik7CgpzZWxlY3QgYy5pZApmcm9tIGNsaWVudCBjCndoZXJlIGMucGFzc3BvcnRuID0gJzMxMTk1MicKICBhbmQgYy5wYXNzcG9ydHMgPSAnMjIxNCc7CgotLTQwMDU3MTYKCnNlbGVjdCAqCmZyb20gY3JlZGl0Y2FyZCBjYwp3aGVyZSBjYy5jbGllbnRpZCA9IDQwMDU3MTY7CgpzZWxlY3QgKgpmcm9tIGxvYW4gbAp3aGVyZQogICAgICBsLnNjb3Jpbmdsb2FubnVtYmVyID0gJzUyNS0yODA2Nyc7CgpzZWxlY3QgKiBmcm9tIGRvY3VtZW50IGQgd2hlcmUgZC5sb2FuaWQgPSA1MTc0NDI4OwoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICRxYi0+ZXhwcigpLT5lcSgnbC5pc0Nsb3NlZCcsICc6aXNDbG9zZWQnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0xMjMzODAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lzQ2xvc2VkJyAgICA9PiBmYWxzZQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>3
---1233803
---1092594
-select
-* from sm_recurrent_payment
-where loanid in (
-select scoringloannumber
-from loan l
-where l.clientid in (
-1233803,
-1233803,
-1092594
-    )
-and l.status = 6
-and l.isclosed = false)
-;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2lzQ2xvc2VkJyAgICA9PiBmYWxzZQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1531,25 +1527,25 @@ and l.isclosed = false)
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyICAkbG9hbnMgKi8K</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcWItPikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9hbnMgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lzQ2xvc2VkJyAgICA9PiBmYWxzZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9hbnMgPSBbXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9hbnMgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hbmRXaGVyZSgKICAgICAgICAgICAgLT5hbmRXaGVyZSgKICAgICAgICAgICAgLT5hbmRXaGVyZSgKICAgICAgICAgICAgLT5hbmRXaGVyZSgKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkb3V0cHV0LT53cml0ZWxuKCdmaWx0ZXIgb3ZlcmR1ZSBsb2FucycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRxYi0+ZXhwcigpLT5ndGUoJ2wuaXNzdWVEYXRlJywgJzpmcm9tJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
@@ -1559,6 +1555,8 @@ and l.isclosed = false)
       <last-search encoding="base64">XDxhcnJheV9zaGlmdFw+</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxhcnJheV9zaGlmdFw+</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxhcnJheV9zaGlmdFw+</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>

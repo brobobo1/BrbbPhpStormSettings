@@ -16,13 +16,13 @@
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="dev" type="Ini" />
       <mapping pattern="hosts" type="Ini" />
       <mapping pattern="infra" type="Ini" />
-      <mapping pattern="staging" type="Ini" />
       <mapping pattern="dronerc" type="Ini" />
       <mapping pattern="preprod" type="Ini" />
       <mapping pattern="production" type="Ini" />
-      <mapping pattern="dev" type="Ini" />
+      <mapping pattern="staging" type="Ini" />
       <mapping ext="mp3" type="Native" />
       <mapping pattern="docker-phpunit" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />

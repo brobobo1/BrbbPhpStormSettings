@@ -4,15 +4,14 @@
     <property name="created">2019-09-05T02:37:01</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-09-05T22:46:04</property>
+    <property name="modified">2019-09-05T23:50:30</property>
     <property name="originalScheme">ComplicatedObsidian copy6</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
+  <option name="EDITOR_FONT_NAME" value="Inconsolata" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
-  <option name="CONSOLE_FONT_SIZE" value="10" />
+  <option name="CONSOLE_FONT_NAME" value="Bitstream Vera Sans Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <colors>
@@ -540,6 +539,12 @@
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
+    <option name="PHP_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="95b9c7" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PHP_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
@@ -560,12 +565,23 @@
         <option name="FOREGROUND" value="9d99fd" />
       </value>
     </option>
+    <option name="PHP_PRIMITIVE_TYPE_HINT">
+      <value>
+        <option name="FOREGROUND" value="1f45fc" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>
+    <option name="PHP_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="566d7e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PHP_STRING">
       <value>
-        <option name="FOREGROUND" value="e7c75f" />
+        <option name="FOREGROUND" value="b6b6b4" />
       </value>
     </option>
     <option name="PHP_VAR">
@@ -597,7 +613,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
-        <option name="BACKGROUND" value="293134" />
+        <option name="BACKGROUND" value="1b1f21" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

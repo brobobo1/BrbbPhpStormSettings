@@ -72,11 +72,11 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/AuthorizationController.php" timestamp="1566566340887">
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="102" />
-        <mark key="^" line="285" column="11" />
-        <mark key="." line="285" column="11" />
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/AuthorizationController.php" timestamp="1567698470988">
+        <mark key="[" line="85" column="9" />
+        <mark key="]" line="86" column="7" />
+        <mark key="^" line="86" column="7" />
+        <mark key="." line="86" column="7" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Installment/ApprovedInstallmentStrategy.php" timestamp="1563276124649">
         <mark key="[" line="18" column="51" />
@@ -126,7 +126,10 @@
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Command/GetStaticPdoDTOCommand.php" timestamp="1555073708389">
         <mark key="[" line="36" column="73" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/MobileApiServiceProvider.php" timestamp="1567697326851" />
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/MobileApiServiceProvider.php" timestamp="1567698464513">
+        <mark key="[" line="298" column="0" />
+        <mark key="]" line="308" column="17" />
+      </file>
       <file name="/scoring_middleware_dzp_20.public.transaction [test]" timestamp="1566238796603">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1420,8 +1423,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>firstname = '' and c.lastname = 'Митин';</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghJHJlcXVlc3QtPmhlYWRlcnMtPmdldCgnWC1ERVZJQ0UtSUQnKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgSnNvblJlc3BvbnNlKAogICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAncm9vdCcgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdrZXknID0+ICdYLURFVklDRS1JRCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICdYLURFVklDRS1JRCBoZWFkZXIgaXMgbWlzc2luZycKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAgICAgSnNvblJlc3BvbnNlOjpIVFRQX0JBRF9SRVFVRVNUCiAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -1439,7 +1442,7 @@
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0CiAgICBjLioKZnJvbSBjbGllbnQgYwp3aGVyZSBjLmZpcnN0bmFtZSA9ICfQkNC70LXQutGB0LDQvdC00YAnIGFuZCBjLmxhc3RuYW1lID0gJ9Cc0LjRgtC40L0nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghJHJlcXVlc3QtPmhlYWRlcnMtPmdldCgnWC1ERVZJQ0UtSUQnKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgSnNvblJlc3BvbnNlKAogICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAncm9vdCcgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdrZXknID0+ICdYLURFVklDRS1JRCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICdYLURFVklDRS1JRCBoZWFkZXIgaXMgbWlzc2luZycKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAgICAgSnNvblJlc3BvbnNlOjpIVFRQX0JBRF9SRVFVRVNUCiAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0IHN0LioKZnJvbSBzbV90b2tlbiBzdAogICAgICAgICBpbm5lciBqb2luCiAgICAgKHNlbGVjdAogICAgICAgICAgYy4qCiAgICAgIGZyb20gY2xpZW50IGMKICAgICAgd2hlcmUgYy5maXJzdG5hbWUgPSAn0JDQu9C10LrRgdCw0L3QtNGAJyBhbmQgYy5sYXN0bmFtZSA9ICfQnNC40YLQuNC9JykgYXMgYW0gb24gYW0uaWQgPSBzdC5jbGllbnRpZAp3aGVyZSBzdC5kZXZpY2VpZCA9IG51bGw7Cg==</text>

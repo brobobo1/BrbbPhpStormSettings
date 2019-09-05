@@ -53,11 +53,12 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" timestamp="1567619092133">
+      <file name="$USER_HOME$/code/dzp/src/notification-system/src/Command/LoanDailyEventsCommand.php" timestamp="1567694446423">
         <mark key="'" line="124" column="0" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+        <mark key="[" line="135" column="49" />
+        <mark key="]" line="135" column="7" />
+        <mark key="." line="135" column="7" />
+        <mark key="^" line="135" column="7" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/Traits/RecurrentUrlTrait.php" timestamp="1563960225603">
         <mark key="[" line="4" column="0" />
@@ -480,6 +481,10 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Entity/Audit/Action.php" timestamp="1567694790356">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="60" />
+      </file>
       <file name="/collectors.public.employee [collectors@10.0.11.205]" timestamp="1560862692481">
         <mark key="[" line="0" column="0" />
       </file>
@@ -618,11 +623,11 @@
       <file name="/ns__event_customer [test]" timestamp="1564068565965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/DWN-4809.sql" timestamp="1567692171447">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/DWN-4809.sql" timestamp="1567696131012">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/base_queries.sql" timestamp="1567616230934">
         <mark key="[" line="13" column="31" />
@@ -1294,11 +1299,6 @@
         <mark key="^" line="20" column="47" />
         <mark key="." line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/App/Provider/SkorozvonApiProvider/SkorozvonService.php" timestamp="1567532821360">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="31" column="0" filename="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Issued/IssuedInstallmentRetireeStrategy.php" />
@@ -1423,7 +1423,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>loan</text>
+        <text>firstname = '' and c.lastname = 'Митин';</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -1435,25 +1435,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>loan</text>
+        <text>firstname = '' and c.lastname = 'Митин';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>loan.180_repayment_after_five_payment</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0CiAgICBjLioKZnJvbSBjbGllbnQgYwp3aGVyZSBjLmZpcnN0bmFtZSA9ICfQkNC70LXQutGB0LDQvdC00YAnIGFuZCBjLmxhc3RuYW1lID0gJ9Cc0LjRgtC40L0nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5kIHNtYWwuZW50aXR5dHlwZSA9ICdsb2FuJzsK</text>
+        <text encoding="base64">c2VsZWN0IHN0LioKZnJvbSBzbV90b2tlbiBzdAogICAgICAgICBpbm5lciBqb2luCiAgICAgKHNlbGVjdAogICAgICAgICAgYy4qCiAgICAgIGZyb20gY2xpZW50IGMKICAgICAgd2hlcmUgYy5maXJzdG5hbWUgPSAn0JDQu9C10LrRgdCw0L3QtNGAJyBhbmQgYy5sYXN0bmFtZSA9ICfQnNC40YLQuNC9JykgYXMgYW0gb24gYW0uaWQgPSBzdC5jbGllbnRpZAp3aGVyZSBzdC5kZXZpY2VpZCA9IG51bGw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0IG5lYy4qCmZyb20gbnNfX2V2ZW50X3JlcG9ydCBuZXIKaW5uZXIgam9pbiBuc19fZXZlbnRfY3VzdG9tZXIgbmVjIG9uIG5lci5pZCA9IG5lYy5ldmVudF9pZAp3aGVyZSBuZXIuZXZlbnQgPSAnbG9hbi4xODBfcmVwYXltZW50X2FmdGVyX2ZpdmVfcGF5bWVudCc7Cg==</text>
+        <text encoding="base64">c2VsZWN0IHN0LioKICAgIGZyb20gc21fdG9rZW4gc3QgCiAgICAgICAgaW5uZXIgam9pbiAKKHNlbGVjdAogICAgYy4qCmZyb20gY2xpZW50IGMKd2hlcmUgYy5maXJzdG5hbWUgPSAn0JDQu9C10LrRgdCw0L3QtNGAJyBhbmQgYy5sYXN0bmFtZSA9ICfQnNC40YLQuNC9JykgYXMgYW0gb24gYW0uaWQgPSBzdC5jbGllbnRpZAp3aGVyZSBzdC5kZXZpY2VpZCA9IG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IGMuaWQK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1528,25 +1528,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXBkYXRlIGxvYW4gc2V0IGNvbmZpcm1lZCA9IDEKd2hlcmUKICAgICAgICBzdGF0dXMgPSA2IGFuZAogICAgICAgIGlzY2xvc2VkID0gZmFsc2UgYW5kCiAgICAgICAgY29uZmlybWVkID0gMCBhbmQKICAgICAgICB0eXBlIGluICgxMCwgMTEpOwoKc2VsZWN0ICoKZnJvbSBsb2FuCndoZXJlCiAgICAgIHN0YXR1cyA9IDYgYW5kCiAgICAgIGlzY2xvc2VkID0gZmFsc2UgYW5kCiAgICAgIGNvbmZpcm1lZCA9IDAgYW5kCiAgICAgIHR5cGUgaW4gKDEwLCAxMSk7Cg==</text>
+        <text encoding="base64">ICAgICBzbWFsLmVudGl0eSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">YW5kIHNtYWwuZW50aXR5dHlwZSA9ICdsb2FuJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZXZlbnRzVG9Mb2FuSWRzKTsK</text>
+        <text encoding="base64">c2VsZWN0IG5lYy4qCmZyb20gbnNfX2V2ZW50X3JlcG9ydCBuZXIKaW5uZXIgam9pbiBuc19fZXZlbnRfY3VzdG9tZXIgbmVjIG9uIG5lci5pZCA9IG5lYy5ldmVudF9pZAp3aGVyZSBuZXIuZXZlbnQgPSAnbG9hbi4xODBfcmVwYXltZW50X2FmdGVyX2ZpdmVfcGF5bWVudCc7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfY29sdW1uKCRxYi0+Z2V0UXVlcnkoKS0+Z2V0QXJyYXlSZXN1bHQoKSwgJ2lkJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZXZlbnQpOwo=</text>
+        <text encoding="base64">dXBkYXRlIGxvYW4gc2V0IGNvbmZpcm1lZCA9IDEKd2hlcmUKICAgICAgICBzdGF0dXMgPSA2IGFuZAogICAgICAgIGlzY2xvc2VkID0gZmFsc2UgYW5kCiAgICAgICAgY29uZmlybWVkID0gMCBhbmQKICAgICAgICB0eXBlIGluICgxMCwgMTEpOwoKc2VsZWN0ICoKZnJvbSBsb2FuCndoZXJlCiAgICAgIHN0YXR1cyA9IDYgYW5kCiAgICAgIGlzY2xvc2VkID0gZmFsc2UgYW5kCiAgICAgIGNvbmZpcm1lZCA9IDAgYW5kCiAgICAgIHR5cGUgaW4gKDEwLCAxMSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

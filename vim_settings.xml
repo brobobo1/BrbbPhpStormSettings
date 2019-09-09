@@ -120,6 +120,12 @@
       <file name="$USER_HOME$/code/devim/dzp/src/App/Service/PromoCodeService/Command/GetStaticPdoDTOCommand.php" timestamp="1555073708389">
         <mark key="[" line="36" column="73" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/MobileApiServiceProvider.php" timestamp="1568040579570">
+        <mark key="[" line="294" column="19" />
+        <mark key="]" line="294" column="22" />
+        <mark key="." line="294" column="22" />
+        <mark key="^" line="294" column="22" />
+      </file>
       <file name="/scoring_middleware_dzp_20.public.transaction [test]" timestamp="1566238796603">
         <mark key="[" line="0" column="0" />
       </file>
@@ -639,6 +645,7 @@
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/PreApproved/PreApprovedPdlStrategy.php" timestamp="1563276538823">
         <mark key="[" line="3" column="49" />
       </file>
+      <file name="$USER_HOME$/code/dzp/runtime/vendor/symfony/debug/ExceptionHandler.php" timestamp="1568040087240" />
       <file name="$USER_HOME$/code/dzp/tests/functional/App/Service/BinNumberService/BinNumberServiceTest.php" timestamp="1565623795908">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="19" column="8" />
@@ -715,11 +722,11 @@
       <file name="$USER_HOME$/code/get-response-client/src/ResourceDescription/ContactsResource.php" timestamp="1559918022644">
         <mark key="[" line="83" column="67" />
       </file>
-      <file name="$USER_HOME$/code/dzp/src/app.php" timestamp="1568037603769">
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="31" />
+      <file name="$USER_HOME$/code/dzp/src/app.php" timestamp="1568038705579">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Calculation/Helper/Expired/PdlIsExpired.php" timestamp="1564402894280">
         <mark key="[" line="3" column="0" />
@@ -964,7 +971,7 @@
         <mark key="." line="68" column="27" />
         <mark key="^" line="68" column="27" />
       </file>
-      <file name="/fragment.php" timestamp="1567785390318">
+      <file name="/fragment.php" timestamp="1568040135675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/Pending/PendingInstallmentStrategy.php" timestamp="1563291260417">
@@ -1167,7 +1174,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1568036793584">
+      <file name="/PHP Console" timestamp="1568040111731">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/realtime.public.loanapplicationcontact [realtime@10.0.11.205]" timestamp="1566485398329">
@@ -1410,8 +1417,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RXJyb3JIYW5kbGVyOjpyZWdpc3RlcigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -1423,25 +1430,35 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>5-153577</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>5-151403</text>
+        <text>function (\Exception $e, Request $request, $code) {
+            switch ($code) {
+                case 500:
+                    $message = 'The requested page could not be found.';
+                    break;
+                default:
+                    $message = 'We are sorry, but something went terribly wrong.';
+            }
+
+            return new Response($message);
+        }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RXJyb3JIYW5kbGVyOjpyZWdpc3RlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKioK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIE1vbm9sb2dcRXJyb3JIYW5kbGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoICgkY29kZSkgewogICAgICAgICAgICAgICAgY2FzZSA1MDA6CiAgICAgICAgICAgICAgICAgICAgJG1lc3NhZ2UgPSAnVGhlIHJlcXVlc3RlZCBwYWdlIGNvdWxkIG5vdCBiZSBmb3VuZC4nOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1516,25 +1533,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RXhjZXB0aW9uSGFuZGxlcjo6cmVnaXN0ZXIodHJ1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JGFwcC0+cnVuKCk7Cg==</text>
+        <text encoding="base64">RXJyb3JIYW5kbGVyOjpyZWdpc3RlcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqIEB2YXIgJGFwcCAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAvKioK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqIEB2YXIgJGFwcCBBcHBsaWNhdGlvbiAqLwo=</text>
+        <text encoding="base64">dXNlIE1vbm9sb2dcRXJyb3JIYW5kbGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYXVkaXRTZXJ2aWNlID0gJGFwcFsnYXVkaXQnXTsgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">JGFwcC0+cnVuKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

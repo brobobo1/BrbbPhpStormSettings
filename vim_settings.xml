@@ -23,6 +23,12 @@
       <file name="/scoring_middleware_dzp_20.public.update_profile_request [test]" timestamp="1563193981157">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/dzp/composer.json" timestamp="1568125639041">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="76" column="48" />
+      </file>
       <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/AuthorizationController.php" timestamp="1568051979601">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -31,7 +37,7 @@
       <file name="/site_db.dbo.PROMOCODES_STATIC [Microsoft SQL Server - site_db@testdb.dozarplati.com]" timestamp="1561451698338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dzp/docker-compose.yml" timestamp="1568121533433">
+      <file name="$USER_HOME$/code/dzp/docker-compose.yml" timestamp="1568123094095">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="21" />
         <mark key="^" line="19" column="21" />
@@ -251,7 +257,7 @@
       <file name="/realtime.public.loanapplicationprolongation [realtime@10.0.11.205]" timestamp="1566485399254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/support.sql" timestamp="1568122192480">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/support.sql" timestamp="1568124637454">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="102" column="18" />
         <mark key="]" line="103" column="47" />
@@ -595,7 +601,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tcG9uZW50c1tdID0gbmV3IEZpcnN0MTgwUGF5b3V0Q29tcG9uZW50KCR0aGlzLT5maXJzdDE4MFBheW91dE1lZGlhdG9yU2VydmljZSk7Cg==</text>
+        <text encoding="base64">ICAgICJtaW5pbXVtLXN0YWJpbGl0eSI6ICJkZXYiLAo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -607,7 +613,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">ICAgICAiaW5mbHV4ZGIvaW5mbHV4ZGItcGhwIjogIn4xLjE1LjAi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
@@ -616,16 +622,16 @@
         <text encoding="base64">JHJlc3BvbnNlLT5oZWFkZXJzLT5nZXQoJ0NvbnRlbnQtVHlwZScpIC4gJzsgY2hhcnNldD0nIC4gJHJlc3BvbnNlLT5oZWFkZXJzLT5nZXQoJ2NoYXJzZXQnKSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tcG9uZW50c1tdID0gbmV3IEZpcnN0MTgwUGF5b3V0Q29tcG9uZW50KCR0aGlzLT5maXJzdDE4MFBheW91dE1lZGlhdG9yU2VydmljZSk7Cg==</text>
+        <text encoding="base64">ICAgICJtaW5pbXVtLXN0YWJpbGl0eSI6ICJkZXYiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0+cmVnaXN0ZXIobmV3IFNrb3JvenZvbkFwaVNlcnZpY2VQcm92aWRlcigpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBTVUJTQ1JJQkVSX0xPQU5fTUVUUklDUyAgICAgICAgID0gMTI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiaW5mbHV4ZGIvaW5mbHV4ZGItcGhwIjogIn4xLjE1LjAiCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -700,25 +706,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBTVUJTQ1JJQkVSX0ZJUlNUMTgwX1BBWU9VVCAgICAgID0gMTE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29tcG9uZW50c1tdID0gbmV3IEZpcnN0MTgwUGF5b3V0Q29tcG9uZW50KCR0aGlzLT5maXJzdDE4MFBheW91dE1lZGlhdG9yU2VydmljZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hlcmUgbS5jbGllbnRpZCA9IDQ4NTcxMzE7Cg==</text>
+        <text encoding="base64">ICAgIC0+cmVnaXN0ZXIobmV3IFNrb3JvenZvbkFwaVNlcnZpY2VQcm92aWRlcigpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBwWydkZWJ1ZyddID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBTVUJTQ1JJQkVSX0xPQU5fTUVUUklDUyAgICAgICAgID0gMTI7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGlzRGVidWcgPSA7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBTVUJTQ1JJQkVSX0ZJUlNUMTgwX1BBWU9VVCAgICAgID0gMTE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlcmUgbS5jbGllbnRpZCA9IDQ4NTcxMzE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEVycm9yKCcxMjMxMicpdgo=</text>
+        <text encoding="base64">ICAgICAgICAkYXBwWydkZWJ1ZyddID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

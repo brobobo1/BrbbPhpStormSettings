@@ -65,6 +65,7 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Service/AuthorizationService/AuthorizationService.php" timestamp="1567785352771" />
       <file name="$USER_HOME$/code/dzp/composer.json" timestamp="1568128356338">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -339,6 +340,10 @@
         <mark key="." line="39" column="77" />
         <mark key="^" line="39" column="77" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/AbstractController.php" timestamp="1568046589508">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="101" column="10" />
+      </file>
       <file name="$USER_HOME$/code/crm/docker-compose.yml" timestamp="1566485930685">
         <mark key="[" line="5" column="13" />
       </file>
@@ -560,6 +565,7 @@
         <mark key="." line="11" column="48" />
         <mark key="^" line="11" column="48" />
       </file>
+      <file name="$USER_HOME$/code/dzp/runtime/vendor/symfony/debug/ErrorHandler.php" timestamp="1568036787365" />
       <file name="$USER_HOME$/code/dzp/tests/functional/EmulateLoanApproveTest.php" timestamp="1565624135017">
         <mark key="[" line="25" column="8" />
         <mark key="]" line="25" column="8" />
@@ -664,6 +670,10 @@
       </file>
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Dashboard/Strategy/Loan/PreApproved/PreApprovedPdlStrategy.php" timestamp="1563276538823">
         <mark key="[" line="3" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/dzp/runtime/vendor/symfony/debug/ExceptionHandler.php" timestamp="1568051619549">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="87" />
       </file>
       <file name="$USER_HOME$/code/dzp/tests/functional/App/Service/BinNumberService/BinNumberServiceTest.php" timestamp="1565623795908">
         <mark key="[" line="19" column="8" />
@@ -929,6 +939,7 @@
         <mark key="^" line="20" column="37" />
         <mark key="." line="20" column="37" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/SkorozvonApiProvider/Client/ApiClient.php" timestamp="1568377170855" />
       <file name="$USER_HOME$/code/dzp/src/App/Service/SourceService/SourceServiceInterfce.php" timestamp="1563368381202">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="8" column="22" />
@@ -1058,6 +1069,10 @@
         <mark key="^" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/Controller/LoanController.php" timestamp="1568046730504">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="194" column="15" />
+      </file>
       <file name="/scoring_middleware_dzp_20.public.promotion [test]" timestamp="1563804392418">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1067,6 +1082,7 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/scoring-client/src/ScoringClient.php" timestamp="1567772041334" />
       <file name="$USER_HOME$/code/newlife/dashboard/src/Service/Calculation/Helper/PaymentDate/InstallmentPaymentDate.php" timestamp="1564403794906">
         <mark key="[" line="34" column="42" />
         <mark key="]" line="34" column="42" />
@@ -1123,6 +1139,10 @@
       </file>
       <file name="/scoring_middleware_dzp_20.public.sm_transfer_log [test]" timestamp="1565181611593">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/dzp/config/config.php" timestamp="1568377315541">
+        <mark key="[" line="1145" column="35" />
+        <mark key="]" line="1145" column="98" />
       </file>
       <file name="/creditcard [PROD]" timestamp="1561727461338">
         <mark key="[" line="0" column="0" />
@@ -1475,7 +1495,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>admin</text>
+        <text>52c2a1ad135c7406add89047d687d2ca06e99cba44e62135be21f67d1a217d08</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -1492,8 +1512,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopCmZyb20gY2xpZW50IGMKd2hlcmUKICAgIHVwZGF0ZWRhdCA+PSAnMjAxOTA5MTAnCmFuZCBpbm4gaXMgbm90IG51bGw7Cg==</text>
+      <register name="0" type="4">
+        <text>52c2a1ad135c7406add89047d687d2ca06e99cba44e62135be21f67d1a217d08</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBsb2FuIGwK</text>

@@ -251,11 +251,11 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/scorozvon.sql" timestamp="1568372598313">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e16b1b01-a3eb-411d-8ec2-9d5bd9ea4d21/scorozvon.sql" timestamp="1568373836489">
+        <mark key="[" line="30" column="20" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/scoring_middleware_dzp_20.public.loan_reports [test]" timestamp="1560869223327">
         <mark key="[" line="0" column="0" />
@@ -618,7 +618,7 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568367827191">
+      <file name="/Dummy.txt" timestamp="1568374460836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/dzp/src/App/Provider/MobileApiServiceProvider/DTO/LastLoan.php" timestamp="1564585743678">
@@ -1343,6 +1343,12 @@
         <mark key="^" line="20" column="47" />
         <mark key="." line="20" column="47" />
       </file>
+      <file name="$USER_HOME$/code/dzp/src/App/Provider/SkorozvonApiProvider/SkorozvonService.php" timestamp="1568374459667">
+        <mark key="[" line="248" column="50" />
+        <mark key="]" line="248" column="28" />
+        <mark key="." line="248" column="28" />
+        <mark key="^" line="248" column="28" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2921" column="6" filename="$USER_HOME$/code/dzp/src/App/Entity/Loan.php" />
@@ -1467,7 +1473,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxoMj7QktCy0LXQtNC40YLQtSDQvdC+0LzQtdGAINGC0LXQu9C10YTQvtC90LA8L2gyPgo=</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopCmZyb20gY2xpZW50IGMKd2hlcmUKICAgIHVwZGF0ZWRhdCA+PSAnMjAxOTA5MTAnCmFuZCBpbm4gaXMgbm90IG51bGw7Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -1479,25 +1485,25 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAiaW5mbHV4ZGIvaW5mbHV4ZGItcGhwIjogIn4xLjE1LjAi</text>
+        <text>on l.clientid = c.id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnJheV9zaGlmdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JHJlc3BvbnNlLT5oZWFkZXJzLT5nZXQoJ0NvbnRlbnQtVHlwZScpIC4gJzsgY2hhcnNldD0nIC4gJHJlc3BvbnNlLT5oZWFkZXJzLT5nZXQoJ2NoYXJzZXQnKSk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopCmZyb20gY2xpZW50IGMKd2hlcmUKICAgIHVwZGF0ZWRhdCA+PSAnMjAxOTA5MTAnCmFuZCBpbm4gaXMgbm90IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMj7QktCy0LXQtNC40YLQtSDQvdC+0LzQtdGAINGC0LXQu9C10YTQvtC90LA8L2gyPgo=</text>
+        <text encoding="base64">ZnJvbSBsb2FuIGwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBTVUJTQ1JJQkVSX0xPQU5fTUVUUklDUyAgICAgICAgID0gMTM7Cg==</text>
+        <text encoding="base64">c2VsZWMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIERldmltXENvbXBvbmVudFxOb3RpZmljYXRpb25TeXN0ZW1cU2VydmljZVxNZWRpYXRvclNlcnZpY2VcQ29tcG9uZW50c1xMb2FuTWV0cmljc0NvbXBvbmVudDsK</text>
+        <text encoding="base64">ICAgIDxoMj7QktCy0LXQtNC40YLQtSDQvdC+0LzQtdGAINGC0LXQu9C10YTQvtC90LA8L2gyPgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -1572,25 +1578,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tcG9uZW50c1tdID0gbmV3IExvYW5NZXRyaWNzQ29tcG9uZW50KCR0aGlzLT5tZWRpYXRvclNlcnZpY2UpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBTVUJTQ1JJQkVSX0xPQU5fTUVUUklDUyAgICAgICAgID0gMTM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiaW5mbHV4ZGIvaW5mbHV4ZGItcGhwIjogIn4xLjE1LjAiCg==</text>
+        <text encoding="base64">dXNlIERldmltXENvbXBvbmVudFxOb3RpZmljYXRpb25TeXN0ZW1cU2VydmljZVxNZWRpYXRvclNlcnZpY2VcQ29tcG9uZW50c1xMb2FuTWV0cmljc0NvbXBvbmVudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJtaW5pbXVtLXN0YWJpbGl0eSI6ICJkZXYiLAo=</text>
+        <text encoding="base64">ICAgICAgICAkY29tcG9uZW50c1tdID0gbmV3IExvYW5NZXRyaWNzQ29tcG9uZW50KCR0aGlzLT5tZWRpYXRvclNlcnZpY2UpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAiaW5mbHV4ZGIvaW5mbHV4ZGItcGhwIjogIn4xLjE1LjAiCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJtaW5pbXVtLXN0YWJpbGl0eSI6ICJkZXYiLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tcG9uZW50c1tdID0gbmV3IEZpcnN0MTgwUGF5b3V0Q29tcG9uZW50KCR0aGlzLT5maXJzdDE4MFBheW91dE1lZGlhdG9yU2VydmljZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>

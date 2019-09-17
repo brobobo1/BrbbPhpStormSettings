@@ -89,10 +89,11 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+    <editor />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />

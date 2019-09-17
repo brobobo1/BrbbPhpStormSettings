@@ -13,16 +13,16 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="console" type="Bash" />
-      <mapping pattern="docker-php-pecl-install" type="Bash" />
       <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="hosts" type="Ini" />
       <mapping pattern="infra" type="Ini" />
+      <mapping pattern="staging" type="Ini" />
       <mapping pattern="dronerc" type="Ini" />
       <mapping pattern="preprod" type="Ini" />
       <mapping pattern="production" type="Ini" />
       <mapping pattern="dev" type="Ini" />
-      <mapping pattern="staging" type="Ini" />
       <mapping ext="mp3" type="Native" />
       <mapping pattern="docker-phpunit" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
@@ -33,6 +33,8 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="Bash" />
+      <mapping pattern="docker-php-pecl-install" type="Bash" />
     </extensionMap>
   </component>
 </application>

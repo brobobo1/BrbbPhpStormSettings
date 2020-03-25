@@ -15,17 +15,17 @@
     <extensionMap>
       <mapping pattern="hosts" type="Ini" />
       <mapping pattern="infra" type="Ini" />
-      <mapping pattern="staging" type="Ini" />
       <mapping pattern="dronerc" type="Ini" />
       <mapping pattern="preprod" type="Ini" />
       <mapping pattern="production" type="Ini" />
       <mapping pattern="dev" type="Ini" />
+      <mapping pattern="staging" type="Ini" />
       <mapping ext="mp3" type="Native" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="knp_paginator" type="PLAIN_TEXT" />
       <mapping pattern="docker-phpunit" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".composer.json.swp" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
